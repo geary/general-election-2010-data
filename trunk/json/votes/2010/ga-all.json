@@ -1,4 +1,4 @@
-{"dttime":"Nov 02, 2010 07:29 PM","totals":
+{"dttime":"Nov 02, 2010 07:30 PM","totals":
 {"races":
 {"U.S. House":
 {"11":
@@ -56,15 +56,15 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":929,"id":"835"},
-{"votes":406,"id":"13241"},
-{"votes":35,"id":"61027"}]}},
+{"votes":2041,"id":"835"},
+{"votes":652,"id":"13241"},
+{"votes":75,"id":"61027"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":852,"id":"841"},
-{"votes":476,"id":"824"},
-{"votes":55,"id":"61029"}]}}},
+{"votes":1888,"id":"841"},
+{"votes":791,"id":"824"},
+{"votes":106,"id":"61029"}]}}},
 "precincts":
 {"total":2902,"reporting":0},
 "abbr":"GA","name":"Georgia"},
