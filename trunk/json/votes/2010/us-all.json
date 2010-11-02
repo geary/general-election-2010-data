@@ -1,4 +1,4 @@
-{"dttime":"Nov 02, 2010 07:07 PM","totals":
+{"dttime":"Nov 02, 2010 07:13 PM","totals":
 {"races":
 {"President":
 {"":
@@ -12,16 +12,16 @@
 {"Others":
 {"Winning Trend":0,"Leading":0,"Holdovers":0,"Current":0,"Net Change":0,"Won":0},
 "Dem":
-{"Winning Trend":2,"Leading":1,"Holdovers":0,"Current":256,"Net Change":-5,"Won":1},
+{"Winning Trend":3,"Leading":2,"Holdovers":0,"Current":256,"Net Change":-4,"Won":1},
 "GOP":
-{"Winning Trend":17,"Leading":8,"Holdovers":0,"Current":179,"Net Change":5,"Won":9}},
+{"Winning Trend":17,"Leading":8,"Holdovers":0,"Current":179,"Net Change":4,"Won":9}},
 "U.S. Senate":
 {"Others":
 {"Winning Trend":2,"Leading":0,"Holdovers":2,"Current":2,"Net Change":0,"Won":0},
 "Dem":
 {"Winning Trend":40,"Leading":1,"Holdovers":38,"Current":57,"Net Change":0,"Won":1},
 "GOP":
-{"Winning Trend":26,"Leading":0,"Holdovers":23,"Current":41,"Net Change":0,"Won":3}}},
+{"Winning Trend":27,"Leading":1,"Holdovers":23,"Current":41,"Net Change":0,"Won":3}}},
 "total":0,"locals":
 {"Mississippi":
 {"name":"Mississippi","fix":
@@ -397,26 +397,26 @@
 {"votes":0,"id":"422"}]},
 "3":
 {"votes":[
-{"votes":4129,"id":"53887"},
-{"votes":2979,"id":"51509"},
-{"votes":204,"id":"59369"}]},
+{"votes":10473,"id":"53887"},
+{"votes":6632,"id":"51509"},
+{"votes":771,"id":"59369"}]},
 "2":
 {"votes":[
-{"votes":5593,"id":"60423"},
-{"votes":3645,"id":"50000"},
-{"votes":528,"id":"59422"}]},
+{"votes":6719,"id":"60423"},
+{"votes":4441,"id":"50000"},
+{"votes":657,"id":"59422"}]},
 "5":
 {"votes":[
-{"votes":5470,"id":"429"},
-{"votes":2530,"id":"60422"},
-{"votes":561,"id":"60818"},
-{"votes":429,"id":"61068"}],
+{"votes":6208,"id":"429"},
+{"votes":2834,"id":"60422"},
+{"votes":616,"id":"60818"},
+{"votes":472,"id":"61068"}],
 "final":"429"},
 "4":
 {"votes":[
-{"votes":5952,"id":"19081"},
-{"votes":2013,"id":"19092"},
-{"votes":470,"id":"60817"}],
+{"votes":6112,"id":"19081"},
+{"votes":2170,"id":"19092"},
+{"votes":482,"id":"60817"}],
 "final":"19081"},
 "7":
 {"votes":[
@@ -425,26 +425,26 @@
 {"votes":0,"id":"60820"}]},
 "6":
 {"votes":[
-{"votes":10395,"id":"431"},
-{"votes":3524,"id":"51511"},
-{"votes":501,"id":"60819"}],
+{"votes":11049,"id":"431"},
+{"votes":3989,"id":"51511"},
+{"votes":519,"id":"60819"}],
 "final":"431"},
 "9":
 {"votes":[
-{"votes":8544,"id":"60424"},
-{"votes":6828,"id":"1295"},
-{"votes":771,"id":"60823"}]},
+{"votes":10166,"id":"60424"},
+{"votes":8033,"id":"1295"},
+{"votes":971,"id":"60823"}]},
 "8":
 {"votes":[
-{"votes":20503,"id":"60421"},
-{"votes":15785,"id":"53911"},
-{"votes":2084,"id":"60822"}]}},
+{"votes":21844,"id":"60421"},
+{"votes":16875,"id":"53911"},
+{"votes":2220,"id":"60822"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":59208,"id":"18782"},
-{"votes":43455,"id":"51513"},
-{"votes":5986,"id":"19108"}],
+{"votes":69276,"id":"18782"},
+{"votes":49654,"id":"51513"},
+{"votes":6847,"id":"19108"}],
 "final":"18782"}}},
 "precincts":
 {"total":740,"reporting":0},
@@ -2035,8 +2035,8 @@
 {"votes":0,"id":"60481"}]},
 "4":
 {"votes":[
-{"votes":0,"id":"60504"},
-{"votes":0,"id":"851"}]},
+{"votes":6246,"id":"851"},
+{"votes":1557,"id":"60504"}]},
 "7":
 {"votes":[
 {"votes":0,"id":"856"},
@@ -2100,16 +2100,16 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":0,"id":"60498"},
-{"votes":0,"id":"60494"},
-{"votes":0,"id":"53044"},
-{"votes":0,"id":"60492"},
-{"votes":0,"id":"60493"},
-{"votes":0,"id":"865"},
-{"votes":0,"id":"60495"},
-{"votes":0,"id":"60496"},
-{"votes":0,"id":"60497"},
-{"votes":0,"id":"10601"}]}},
+{"votes":5520,"id":"53044"},
+{"votes":1526,"id":"10601"},
+{"votes":961,"id":"865"},
+{"votes":49,"id":"60497"},
+{"votes":18,"id":"60494"},
+{"votes":9,"id":"60498"},
+{"votes":6,"id":"60495"},
+{"votes":5,"id":"60496"},
+{"votes":3,"id":"60493"},
+{"votes":2,"id":"60492"}]}},
 "Referendum":
 {"1 - Balanced Budget":
 {"votes":[
@@ -2118,13 +2118,13 @@
 "Governor":
 {"":
 {"votes":[
-{"votes":0,"id":"60520"},
-{"votes":0,"id":"60556"},
-{"votes":0,"id":"60523"},
-{"votes":0,"id":"60519"},
-{"votes":0,"id":"60518"},
-{"votes":0,"id":"61149"},
-{"votes":0,"id":"60555"}]}}},
+{"votes":5380,"id":"61149"},
+{"votes":2408,"id":"60518"},
+{"votes":169,"id":"60520"},
+{"votes":27,"id":"60523"},
+{"votes":17,"id":"60556"},
+{"votes":13,"id":"60519"},
+{"votes":4,"id":"60555"}]}}},
 "precincts":
 {"total":372,"reporting":0},
 "abbr":"FL","name":"Florida"},
@@ -2158,42 +2158,42 @@
 {"name":"Kentucky","fix":
 {"LaRue":"Larue"},
 "precincts":
-{"total":515,"reporting":7},
+{"total":515,"reporting":24},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":875,"id":"202"},
-{"votes":334,"id":"60530"}]},
+{"votes":1261,"id":"202"},
+{"votes":498,"id":"60530"}]},
 "3":
 {"votes":[
-{"votes":3659,"id":"20552"},
-{"votes":3125,"id":"51522"},
-{"votes":47,"id":"59793"},
-{"votes":26,"id":"60704"}]},
+{"votes":9150,"id":"51522"},
+{"votes":8110,"id":"20552"},
+{"votes":166,"id":"59793"},
+{"votes":97,"id":"60704"}]},
 "2":
 {"votes":[
-{"votes":15285,"id":"54282"},
-{"votes":7236,"id":"60703"}]},
+{"votes":15703,"id":"54282"},
+{"votes":7426,"id":"60703"}]},
 "5":
 {"votes":[
-{"votes":16483,"id":"208"},
-{"votes":4348,"id":"59743"}],
+{"votes":17104,"id":"208"},
+{"votes":4483,"id":"59743"}],
 "final":"208"},
 "4":
 {"votes":[
-{"votes":4500,"id":"1306"},
-{"votes":1898,"id":"60532"}],
+{"votes":23060,"id":"1306"},
+{"votes":7859,"id":"60532"}],
 "final":"1306"},
 "6":
 {"votes":[
-{"votes":22487,"id":"1310"},
-{"votes":18500,"id":"60705"}]}},
+{"votes":24069,"id":"1310"},
+{"votes":20539,"id":"60705"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":68701,"id":"60208"},
-{"votes":55303,"id":"204"}],
+{"votes":79277,"id":"60208"},
+{"votes":61274,"id":"204"}],
 "final":"60208"}}},
 "abbr":"KY"},
 "Hawaii":
