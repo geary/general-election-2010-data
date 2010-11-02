@@ -1,10 +1,10 @@
-{"dttime":"Nov 02, 2010 07:40 PM","totals":
+{"dttime":"Nov 02, 2010 07:41 PM","totals":
 {"races":
 {"U.S. House":
 {"11":
 {"votes":[
-{"votes":1004,"id":"51655"},
-{"votes":535,"id":"60665"}]},
+{"votes":5279,"id":"51655"},
+{"votes":5079,"id":"60665"}]},
 "10":
 {"votes":[
 {"votes":1954,"id":"35265"},
@@ -60,9 +60,9 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":9602,"id":"452"},
-{"votes":3408,"id":"35216"},
-{"votes":270,"id":"60655"}]}}},
+{"votes":20184,"id":"452"},
+{"votes":7919,"id":"35216"},
+{"votes":578,"id":"60655"}]}}},
 "precincts":
 {"total":224,"reporting":0},
 "abbr":"NC","name":"North Carolina"},
