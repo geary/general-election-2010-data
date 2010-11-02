@@ -1,15 +1,15 @@
-{"dttime":"Nov 02, 2010 07:33 PM","totals":
+{"dttime":"Nov 02, 2010 07:34 PM","totals":
 {"name":"New Hampshire","fix":
 {"":"Atkinson and Gilmanton Academy"},
 "precincts":
-{"total":301,"reporting":3},
+{"total":301,"reporting":6},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":642,"id":"53539"},
-{"votes":73,"id":"61212"},
-{"votes":72,"id":"61220"}]},
+{"votes":3826,"id":"61212"},
+{"votes":3812,"id":"53539"},
+{"votes":503,"id":"61220"}]},
 "2":
 {"votes":[
 {"votes":676,"id":"1080"},
@@ -19,16 +19,16 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":1765,"id":"61040"},
-{"votes":872,"id":"50448"},
-{"votes":53,"id":"61219"},
-{"votes":37,"id":"1075"}]}},
+{"votes":6325,"id":"61040"},
+{"votes":3355,"id":"50448"},
+{"votes":197,"id":"61219"},
+{"votes":129,"id":"1075"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":1326,"id":"59860"},
-{"votes":1323,"id":"7722"},
-{"votes":83,"id":"1072"}]}}},
+{"votes":5471,"id":"7722"},
+{"votes":4374,"id":"59860"},
+{"votes":219,"id":"1072"}]}}},
 "abbr":"NH","votesby":"town"},
 "state":"NH","candidates":
 {"50448":"Dem|Hodes|Paul Hodes","1075":"Lib|Blevens|Ken Blevens","61213":"Dem|Kuster|Ann Kuster","1080":"GOP|Bass|Charlie Bass","61219":"Ind|Booth|Chris Booth","61212":"GOP|Guinta|Frank Guinta","61220":"Lib|Hodson|Philip Hodson","61221":"Ind|vanBlommesteyn|Tim vanBlommesteyn","61222":"Lib|Wilson|Howard Wilson","59860":"GOP|Stephen|John Stephen","61040":"GOP|Ayotte|Kelly Ayotte","7722":"Dem|Lynch|John Lynch","53539":"Dem|Shea-Porter|Carol Shea-Porter","1072":"Lib|Babiarz|John Babiarz"},
