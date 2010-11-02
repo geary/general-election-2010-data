@@ -1,4 +1,4 @@
-{"dttime":"Nov 02, 2010 06:48 PM","totals":
+{"dttime":"Nov 02, 2010 06:54 PM","totals":
 {"races":
 {"President":
 {"":
@@ -12,9 +12,9 @@
 {"Others":
 {"Winning Trend":0,"Leading":0,"Holdovers":0,"Current":0,"Net Change":0,"Won":0},
 "Dem":
-{"Winning Trend":1,"Leading":1,"Holdovers":0,"Current":256,"Net Change":-4,"Won":0},
+{"Winning Trend":1,"Leading":1,"Holdovers":0,"Current":256,"Net Change":-5,"Won":0},
 "GOP":
-{"Winning Trend":11,"Leading":8,"Holdovers":0,"Current":179,"Net Change":4,"Won":3}},
+{"Winning Trend":12,"Leading":9,"Holdovers":0,"Current":179,"Net Change":5,"Won":3}},
 "U.S. Senate":
 {"Others":
 {"Winning Trend":2,"Leading":0,"Holdovers":2,"Current":2,"Net Change":0,"Won":0},
@@ -424,26 +424,26 @@
 {"votes":0,"id":"60820"}]},
 "6":
 {"votes":[
-{"votes":3290,"id":"431"},
-{"votes":967,"id":"51511"},
-{"votes":148,"id":"60819"}],
+{"votes":3550,"id":"431"},
+{"votes":1098,"id":"51511"},
+{"votes":155,"id":"60819"}],
 "final":"431"},
 "9":
 {"votes":[
-{"votes":2662,"id":"60424"},
-{"votes":2527,"id":"1295"},
-{"votes":216,"id":"60823"}]},
+{"votes":3040,"id":"60424"},
+{"votes":2816,"id":"1295"},
+{"votes":237,"id":"60823"}]},
 "8":
 {"votes":[
-{"votes":13888,"id":"60421"},
-{"votes":11097,"id":"53911"},
-{"votes":1368,"id":"60822"}]}},
+{"votes":14294,"id":"60421"},
+{"votes":11425,"id":"53911"},
+{"votes":1428,"id":"60822"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":29517,"id":"18782"},
-{"votes":23739,"id":"51513"},
-{"votes":2719,"id":"19108"}]}}},
+{"votes":30090,"id":"18782"},
+{"votes":24301,"id":"51513"},
+{"votes":2793,"id":"19108"}]}}},
 "precincts":
 {"total":740,"reporting":0},
 "abbr":"IN","name":"Indiana"},
@@ -2149,7 +2149,7 @@
 {"name":"Kentucky","fix":
 {"LaRue":"Larue"},
 "precincts":
-{"total":515,"reporting":0},
+{"total":515,"reporting":7},
 "races":
 {"U.S. House":
 {"1":
@@ -2158,18 +2158,18 @@
 {"votes":183,"id":"60530"}]},
 "3":
 {"votes":[
-{"votes":0,"id":"60704"},
-{"votes":0,"id":"51522"},
-{"votes":0,"id":"59793"},
-{"votes":0,"id":"20552"}]},
+{"votes":3659,"id":"20552"},
+{"votes":3125,"id":"51522"},
+{"votes":47,"id":"59793"},
+{"votes":26,"id":"60704"}]},
 "2":
 {"votes":[
-{"votes":3310,"id":"54282"},
-{"votes":1490,"id":"60703"}]},
+{"votes":5202,"id":"54282"},
+{"votes":2603,"id":"60703"}]},
 "5":
 {"votes":[
-{"votes":5494,"id":"208"},
-{"votes":1500,"id":"59743"}],
+{"votes":5896,"id":"208"},
+{"votes":1562,"id":"59743"}],
 "final":"208"},
 "4":
 {"votes":[
@@ -2177,13 +2177,13 @@
 {"votes":1344,"id":"60532"}]},
 "6":
 {"votes":[
-{"votes":3086,"id":"1310"},
-{"votes":2971,"id":"60705"}]}},
+{"votes":3775,"id":"1310"},
+{"votes":3415,"id":"60705"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":17722,"id":"60208"},
-{"votes":13915,"id":"204"}]}}},
+{"votes":20475,"id":"60208"},
+{"votes":16175,"id":"204"}]}}},
 "abbr":"KY"},
 "Hawaii":
 {"races":
