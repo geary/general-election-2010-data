@@ -1,4 +1,4 @@
-{"dttime":"Nov 02, 2010 07:00 PM","totals":
+{"dttime":"Nov 02, 2010 07:07 PM","totals":
 {"races":
 {"U.S. House":
 {"24":
@@ -19,7 +19,8 @@
 {"votes":0,"id":"879"}]},
 "21":
 {"votes":[
-{"votes":0,"id":"878"}]},
+{"votes":0,"id":"878"}],
+"final":"878"},
 "22":
 {"votes":[
 {"votes":0,"id":"53083"},
