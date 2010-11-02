@@ -1,4 +1,4 @@
-{"dttime":"Nov 02, 2010 07:37 PM","totals":
+{"dttime":"Nov 02, 2010 07:38 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -23,8 +23,8 @@
 {"votes":0,"id":"60679"}]},
 "5":
 {"votes":[
-{"votes":0,"id":"612"},
-{"votes":0,"id":"60619"}]},
+{"votes":499,"id":"612"},
+{"votes":444,"id":"60619"}]},
 "4":
 {"votes":[
 {"votes":0,"id":"611"},
@@ -49,16 +49,16 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":0,"id":"60671"},
-{"votes":0,"id":"610"},
-{"votes":0,"id":"60335"}],
+{"votes":483,"id":"610"},
+{"votes":340,"id":"60335"},
+{"votes":62,"id":"60671"}],
 "final":"610"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":0,"id":"60420"},
-{"votes":0,"id":"60672"},
-{"votes":0,"id":"58026"}]}}},
+{"votes":588,"id":"58026"},
+{"votes":347,"id":"60420"},
+{"votes":8,"id":"60672"}]}}},
 "precincts":
 {"total":398,"reporting":0},
 "abbr":"SC","name":"South Carolina"},
