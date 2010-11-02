@@ -1,4 +1,4 @@
-{"dttime":"Nov 02, 2010 07:40 PM","totals":
+{"dttime":"Nov 02, 2010 07:41 PM","totals":
 {"races":
 {"U.S. House":
 {"11":
@@ -15,20 +15,20 @@
 {"votes":0,"id":"61023"}]},
 "12":
 {"votes":[
-{"votes":0,"id":"59408"},
-{"votes":0,"id":"1837"}]},
+{"votes":364,"id":"1837"},
+{"votes":148,"id":"59408"}]},
 "1":
 {"votes":[
-{"votes":1856,"id":"828"},
-{"votes":781,"id":"61028"}]},
+{"votes":3608,"id":"828"},
+{"votes":1135,"id":"61028"}]},
 "3":
 {"votes":[
 {"votes":0,"id":"13348"},
 {"votes":0,"id":"61017"}]},
 "2":
 {"votes":[
-{"votes":0,"id":"1253"},
-{"votes":0,"id":"61016"}]},
+{"votes":684,"id":"1253"},
+{"votes":493,"id":"61016"}]},
 "5":
 {"votes":[
 {"votes":0,"id":"833"},
@@ -51,22 +51,22 @@
 "final":"53104"},
 "8":
 {"votes":[
-{"votes":0,"id":"829"},
-{"votes":0,"id":"13031"}]}},
+{"votes":677,"id":"13031"},
+{"votes":487,"id":"829"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":6006,"id":"835"},
-{"votes":2963,"id":"13241"},
-{"votes":271,"id":"61027"}]}},
+{"votes":9821,"id":"835"},
+{"votes":4228,"id":"13241"},
+{"votes":405,"id":"61027"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":5575,"id":"841"},
-{"votes":3449,"id":"824"},
-{"votes":306,"id":"61029"}]}}},
+{"votes":9112,"id":"841"},
+{"votes":4969,"id":"824"},
+{"votes":532,"id":"61029"}]}}},
 "precincts":
-{"total":2902,"reporting":11},
+{"total":2902,"reporting":18},
 "abbr":"GA","name":"Georgia"},
 "state":"GA","candidates":
 {"12873":"GOP|Price|Tom Price","61028":"Dem|Harris|Oscar Harris","61029":"Lib|Monds|John Monds","61027":"Lib|Donovan|Chuck Donovan","61022":"Dem|Edwards|Russell Edwards","61023":"GOP|Crane|Mike Crane","61021":"GOP|Woodall|Rob Woodall","13348":"GOP|Westmoreland|Lynn Westmoreland","833":"Dem|Lewis|John Lewis","1837":"Dem|Barrow|John Barrow","835":"GOP|Isakson|Johnny Isakson","1257":"Dem|Scott|David Scott","13241":"Dem|Thurmond|Michael Thurmond","1253":"Dem|Bishop|Sanford Bishop","61019":"GOP|Little|Fenn Little","61018":"GOP|Carter|Lisbeth Carter","61017":"Dem|Saunders|Frank Saunders","61016":"GOP|Keown|Mike Keown","59402":"Dem|Heckman|Doug Heckman","59400":"Dem|Johnson|Hank Johnson","59408":"GOP|McKinney|Ray McKinney","843":"GOP|Gingrey|Phil Gingrey","841":"GOP|Deal|Nathan Deal","829":"Dem|Marshall|Jim Marshall","828":"GOP|Kingston|Jack Kingston","824":"Dem|Barnes|Roy Barnes","11651":"GOP|Broun|Paul Broun","53104":"GOP|Graves|Tom Graves","13031":"GOP|Scott|Austin Scott"},

@@ -1,11 +1,11 @@
-{"dttime":"Nov 02, 2010 07:40 PM","totals":
+{"dttime":"Nov 02, 2010 07:41 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":0,"id":"60815"},
-{"votes":0,"id":"1287"},
-{"votes":0,"id":"422"}]},
+{"votes":1063,"id":"1287"},
+{"votes":536,"id":"422"},
+{"votes":62,"id":"60815"}]},
 "3":
 {"votes":[
 {"votes":22255,"id":"53887"},
@@ -13,15 +13,15 @@
 {"votes":1701,"id":"59369"}]},
 "2":
 {"votes":[
-{"votes":11968,"id":"60423"},
-{"votes":8205,"id":"50000"},
-{"votes":1224,"id":"59422"}]},
+{"votes":12443,"id":"60423"},
+{"votes":8934,"id":"50000"},
+{"votes":1274,"id":"59422"}]},
 "5":
 {"votes":[
-{"votes":25426,"id":"429"},
-{"votes":10471,"id":"60422"},
-{"votes":2788,"id":"60818"},
-{"votes":1955,"id":"61068"}],
+{"votes":26274,"id":"429"},
+{"votes":10885,"id":"60422"},
+{"votes":2906,"id":"60818"},
+{"votes":2012,"id":"61068"}],
 "final":"429"},
 "4":
 {"votes":[
@@ -31,9 +31,9 @@
 "final":"19081"},
 "7":
 {"votes":[
-{"votes":12527,"id":"57849"},
-{"votes":10355,"id":"1936"},
-{"votes":898,"id":"60820"}]},
+{"votes":15990,"id":"57849"},
+{"votes":12785,"id":"1936"},
+{"votes":1101,"id":"60820"}]},
 "6":
 {"votes":[
 {"votes":34949,"id":"431"},
@@ -42,9 +42,9 @@
 "final":"431"},
 "9":
 {"votes":[
-{"votes":30437,"id":"60424"},
-{"votes":23575,"id":"1295"},
-{"votes":2766,"id":"60823"}]},
+{"votes":32348,"id":"60424"},
+{"votes":24732,"id":"1295"},
+{"votes":3082,"id":"60823"}]},
 "8":
 {"votes":[
 {"votes":30962,"id":"60421"},
@@ -53,12 +53,12 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":180638,"id":"18782"},
-{"votes":124584,"id":"51513"},
-{"votes":19456,"id":"19108"}],
+{"votes":187937,"id":"18782"},
+{"votes":132142,"id":"51513"},
+{"votes":20330,"id":"19108"}],
 "final":"18782"}}},
 "precincts":
-{"total":740,"reporting":0},
+{"total":740,"reporting":4},
 "abbr":"IN","name":"Indiana"},
 "state":"IN","candidates":
 {"19081":"GOP|Rokita|Todd Rokita","60424":"GOP|Young|Todd Young","51511":"Dem|Welsh|Barry Welsh","51513":"Dem|Ellsworth|Brad Ellsworth","50000":"Dem|Donnelly|Joe Donnelly","60815":"Lib|Morris|Jon Morris","59369":"Lib|Wise|Scott Wise","53911":"Dem|Van Haaften|Trent Van Haaften","60421":"GOP|Bucshon|Larry Bucshon","60423":"GOP|Walorski|Jackie Walorski","60422":"Dem|Crawford|Tim Crawford","60818":"Lib|Reid|Chard Reid","60819":"Lib|Thompson|T.J. Thompson","429":"GOP|Burton|Dan Burton","422":"Dem|Visclosky|Peter Visclosky","1295":"Dem|Hill|Baron Hill","57849":"Dem|Carson|Andre Carson","19092":"Dem|Sanders|David Sanders","60817":"Lib|Duncan|John Duncan","1936":"GOP|Scott|Marvin Scott","53887":"GOP|Stutzman|Marlin Stutzman","59422":"Lib|Vogel|Mark Vogel","51509":"Dem|Hayhurst|Thomas Hayhurst","1287":"GOP|Leyva|Mark Leyva","19108":"Lib|Sink-Burris|Rebecca Sink-Burris","18782":"GOP|Coats|Dan Coats","61068":"Ind|Trueblood|Jesse Trueblood","60822":"Lib|Cunningham|John Cunningham","60820":"Lib|Wilson|Dav Wilson","60823":"Lib|Knott|Greg Knott","431":"GOP|Pence|Mike Pence"},
