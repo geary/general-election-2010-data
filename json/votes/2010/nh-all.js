@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 02:33 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 02:36 AM","totals":
 {"name":"New Hampshire","fix":
 {"":"Atkinson and Gilmanton Academy"},
 "precincts":
@@ -7,7 +7,7 @@ votesReady( {"dttime":"Nov 03,2010 02:33 AM","totals":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":112620,"id":"61212"},
+{"votes":113320,"id":"61212"},
 {"votes":89425,"id":"53539"},
 {"votes":7414,"id":"61220"}],
 "final":"61212"},

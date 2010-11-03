@@ -1,4 +1,4 @@
-{"dttime":"Nov 03,2010 02:33 AM","totals":
+{"dttime":"Nov 03,2010 02:36 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -18,10 +18,10 @@
 "final":"51753"},
 "2":
 {"votes":[
-{"votes":111521,"id":"9302"},
-{"votes":78983,"id":"60691"},
-{"votes":5451,"id":"60584"},
-{"votes":3618,"id":"60585"}],
+{"votes":111977,"id":"9302"},
+{"votes":79124,"id":"60691"},
+{"votes":5459,"id":"60584"},
+{"votes":3627,"id":"60585"}],
 "final":"9302"},
 "5":
 {"votes":[
@@ -32,10 +32,10 @@
 "final":"9174"},
 "4":
 {"votes":[
-{"votes":123576,"id":"60588"},
-{"votes":93278,"id":"59348"},
-{"votes":10562,"id":"60589"},
-{"votes":3324,"id":"60593"}],
+{"votes":123672,"id":"60588"},
+{"votes":93413,"id":"59348"},
+{"votes":10572,"id":"60589"},
+{"votes":3329,"id":"60593"}],
 "final":"60588"},
 "7":
 {"votes":[
@@ -52,23 +52,23 @@
 "Amendment":
 {"62 - Definition of Person":
 {"votes":[
-{"votes":1028560,"id":"3"},
-{"votes":434581,"id":"2"}],
+{"votes":1030431,"id":"3"},
+{"votes":435307,"id":"2"}],
 "final":"3"},
 "63 - Health Care":
 {"votes":[
-{"votes":752966,"id":"3"},
-{"votes":683330,"id":"2"}]}},
+{"votes":754758,"id":"3"},
+{"votes":685192,"id":"2"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":715620,"id":"61077"},
-{"votes":708896,"id":"59911"},
-{"votes":32272,"id":"59783"},
-{"votes":18292,"id":"61078"},
-{"votes":16144,"id":"60998"},
-{"votes":9549,"id":"60578"},
-{"votes":4759,"id":"60579"}]}},
+{"votes":717464,"id":"61077"},
+{"votes":710429,"id":"59911"},
+{"votes":32355,"id":"59783"},
+{"votes":18338,"id":"61078"},
+{"votes":16173,"id":"60998"},
+{"votes":9563,"id":"60578"},
+{"votes":4764,"id":"60579"}]}},
 "Governor":
 {"":
 {"votes":[
@@ -80,7 +80,7 @@
 {"votes":2851,"id":"53523"}],
 "final":"60601"}}},
 "precincts":
-{"total":462,"reporting":336},
+{"total":462,"reporting":339},
 "abbr":"CO","name":"Colorado"},
 "state":"CO","candidates":
 {"744":"Grn|Swing|Gary Swing","59783":"Grn|Kinsey|Bob Kinsey","53523":"Una|Fiorino|Paul Fiorino","59348":"Dem|Markey|Betsy Markey","9344":"Dem|Salazar|John Salazar","60600":"Lib|Bailey|Buck Bailey","9302":"Dem|Polis|Jared Polis","60586":"Lib|Gilman|Gregory Gilman","60604":"Lib|Brown|Jaimes Brown","60584":"AmC|Goss|Jenna Goss","60585":"Lib|Harris|Curtis Harris","60582":"GOP|Fallon|Mike Fallon","60583":"AmC|Styskal|Chris Styskal","60588":"GOP|Gardner|Cory Gardner","60589":"AmC|Aden|Doug Aden","51753":"GOP|Tipton|Scott Tipton","3":"|No| No","2":"|Yes| Yes","734":"Dem|DeGette|Diana DeGette","61077":"GOP|Buck|Ken Buck","61076":"GOP|Maes|Dan Maes","61079":"Lib|Jones|Clint Jones","61078":"Lib|Stringer|Maclyn Stringer","60999":"Una|Segrest|Jake Segrest","60998":"INR|Napolitano|Jason Napolitano","751":"AmC|Tancredo|Tom Tancredo","59911":"Dem|Bennet|Michael Bennet","60579":"Una|Moromisato|J. Moromisato","60578":"Una|Miller|Charley Miller","60607":"Una|Clark|Jason Clark","60596":"Dem|Flerlage|John Flerlage","59791":"AmC|Scott|Brian Scott","60601":"Dem|Hickenlooper|John Hickenlooper","9174":"GOP|Lamborn|Doug Lamborn","60691":"GOP|Bailey|Stephen Bailey","60595":"Lib|Klaver|Jerell Klaver","60594":"Dem|Bradley|Kevin Bradley","9291":"Dem|Perlmutter|Ed Perlmutter","60593":"Una|Waszkiewicz|Ken Waszkiewicz","8993":"GOP|Coffman|Mike Coffman","60599":"GOP|Frazier|Ryan Frazier","60598":"Lib|McNealy|Rob McNealy"},
