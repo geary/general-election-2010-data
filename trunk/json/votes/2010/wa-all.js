@@ -1,27 +1,27 @@
-votesReady( {"dttime":"Nov 02,2010 11:35 PM","totals":
+votesReady( {"dttime":"Nov 02,2010 11:42 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":16041,"id":"1465"},
-{"votes":13996,"id":"61010"}]},
+{"votes":51350,"id":"1465"},
+{"votes":43487,"id":"61010"}]},
 "3":
 {"votes":[
 {"votes":91860,"id":"61094"},
 {"votes":79995,"id":"61011"}]},
 "2":
 {"votes":[
-{"votes":28866,"id":"1468"},
-{"votes":26396,"id":"46225"}]},
+{"votes":73156,"id":"46225"},
+{"votes":72496,"id":"1468"}]},
 "5":
 {"votes":[
-{"votes":80638,"id":"46291"},
-{"votes":43637,"id":"61098"}],
+{"votes":80965,"id":"46291"},
+{"votes":43803,"id":"61098"}],
 "final":"46291"},
 "4":
 {"votes":[
-{"votes":70274,"id":"1475"},
-{"votes":32240,"id":"61096"}],
+{"votes":64507,"id":"1475"},
+{"votes":29857,"id":"61096"}],
 "final":"1475"},
 "7":
 {"votes":[
@@ -42,10 +42,10 @@ votesReady( {"dttime":"Nov 02,2010 11:35 PM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":408991,"id":"46399"},
-{"votes":348740,"id":"1762"}]}}},
+{"votes":653749,"id":"1762"},
+{"votes":620901,"id":"46399"}]}}},
 "precincts":
-{"total":695,"reporting":77},
+{"total":695,"reporting":260},
 "abbr":"WA","name":"Washington"},
 "state":"WA","candidates":
 {"51235":"GOP|Cloud|Doug Cloud","46291":"GOP|Rodgers|Cathy McMorris Rodgers","1488":"Dem|Smith|Adam Smith","1762":"Dem|Murray|Patty Murray","46399":"GOP|Rossi|Dino Rossi","1475":"GOP|Hastings|Doc Hastings","61012":"Dem|DelBene|Suzan DelBene","61011":"Dem|Heck|Denny Heck","61010":"GOP|Watkins|James Watkins","1479":"Dem|Dicks|Norm Dicks","1482":"Dem|McDermott|Jim McDermott","46225":"GOP|Koster|John Koster","61097":"NPD|Jeffers-Schroder|Bob Jeffers-Schroder","1468":"Dem|Larsen|Rick Larsen","61095":"GOP|Muri|Dick Muri","61094":"GOP|Herrera|Jaime Herrera","1465":"Dem|Inslee|Jay Inslee","50215":"GOP|Reichert|Dave Reichert","61098":"Dem|Romeyn|Daryl Romeyn","61096":"Dem|Clough|Jay Clough"},

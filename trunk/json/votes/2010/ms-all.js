@@ -1,21 +1,21 @@
-votesReady( {"dttime":"Nov 02,2010 11:35 PM","totals":
+votesReady( {"dttime":"Nov 02,2010 11:42 PM","totals":
 {"name":"Mississippi","fix":
 {"Jeff Davis":"Jefferson Davis"},
 "precincts":
-{"total":471,"reporting":411},
+{"total":471,"reporting":427},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":105424,"id":"55675"},
-{"votes":76868,"id":"57814"},
-{"votes":1822,"id":"58428"},
-{"votes":1730,"id":"60437"},
-{"votes":1660,"id":"60436"},
-{"votes":1087,"id":"60435"},
-{"votes":394,"id":"60438"},
-{"votes":391,"id":"214"},
-{"votes":324,"id":"28712"}],
+{"votes":105865,"id":"55675"},
+{"votes":77065,"id":"57814"},
+{"votes":1825,"id":"58428"},
+{"votes":1734,"id":"60437"},
+{"votes":1668,"id":"60436"},
+{"votes":1089,"id":"60435"},
+{"votes":395,"id":"60438"},
+{"votes":393,"id":"214"},
+{"votes":326,"id":"28712"}],
 "final":"55675"},
 "3":
 {"votes":[
@@ -25,9 +25,9 @@ votesReady( {"dttime":"Nov 02,2010 11:35 PM","totals":
 "final":"57825"},
 "2":
 {"votes":[
-{"votes":87667,"id":"1335"},
-{"votes":54342,"id":"57828"},
-{"votes":1243,"id":"60613"}],
+{"votes":91755,"id":"1335"},
+{"votes":55331,"id":"57828"},
+{"votes":1277,"id":"60613"}],
 "final":"1335"},
 "4":
 {"votes":[

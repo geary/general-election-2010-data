@@ -1,8 +1,8 @@
-votesReady( {"dttime":"Nov 02,2010 11:35 PM","totals":
+votesReady( {"dttime":"Nov 02,2010 11:42 PM","totals":
 {"name":"Illinois","fix":
 {"JoDaviess":"Jo Daviess","DeWitt":"De Witt","LaSalle":"La Salle"},
 "precincts":
-{"total":11209,"reporting":10318},
+{"total":11209,"reporting":10538},
 "races":
 {"U.S. House":
 {"11":
@@ -16,8 +16,8 @@ votesReady( {"dttime":"Nov 02,2010 11:35 PM","totals":
 {"votes":97563,"id":"51634"}]},
 "13":
 {"votes":[
-{"votes":138782,"id":"187"},
-{"votes":78181,"id":"59314"}],
+{"votes":147748,"id":"187"},
+{"votes":83207,"id":"59314"}],
 "final":"187"},
 "12":
 {"votes":[
@@ -32,9 +32,9 @@ votesReady( {"dttime":"Nov 02,2010 11:35 PM","totals":
 "final":"16816"},
 "14":
 {"votes":[
-{"votes":108338,"id":"53754"},
-{"votes":93580,"id":"58367"},
-{"votes":7601,"id":"60788"}],
+{"votes":108494,"id":"53754"},
+{"votes":93683,"id":"58367"},
+{"votes":7603,"id":"60788"}],
 "final":"53754"},
 "17":
 {"votes":[
@@ -44,14 +44,14 @@ votesReady( {"dttime":"Nov 02,2010 11:35 PM","totals":
 "final":"60791"},
 "16":
 {"votes":[
-{"votes":120402,"id":"1283"},
-{"votes":57498,"id":"60170"},
-{"votes":7483,"id":"60790"}],
+{"votes":125254,"id":"1283"},
+{"votes":60342,"id":"60170"},
+{"votes":7711,"id":"60790"}],
 "final":"1283"},
 "19":
 {"votes":[
-{"votes":150212,"id":"1285"},
-{"votes":60737,"id":"28671"}],
+{"votes":153220,"id":"1285"},
+{"votes":62055,"id":"28671"}],
 "final":"1285"},
 "18":
 {"votes":[
@@ -61,9 +61,9 @@ votesReady( {"dttime":"Nov 02,2010 11:35 PM","totals":
 "final":"32649"},
 "1":
 {"votes":[
-{"votes":125730,"id":"1263"},
-{"votes":27192,"id":"1264"},
-{"votes":6201,"id":"60782"}],
+{"votes":130402,"id":"1263"},
+{"votes":27240,"id":"1264"},
+{"votes":6287,"id":"60782"}],
 "final":"1263"},
 "3":
 {"votes":[
@@ -73,15 +73,15 @@ votesReady( {"dttime":"Nov 02,2010 11:35 PM","totals":
 "final":"50681"},
 "2":
 {"votes":[
-{"votes":129450,"id":"1265"},
-{"votes":22124,"id":"60144"},
-{"votes":9048,"id":"18561"}],
+{"votes":130516,"id":"1265"},
+{"votes":22156,"id":"60144"},
+{"votes":9102,"id":"18561"}],
 "final":"1265"},
 "5":
 {"votes":[
-{"votes":102218,"id":"59914"},
-{"votes":36680,"id":"60147"},
-{"votes":5849,"id":"60086"}],
+{"votes":103113,"id":"59914"},
+{"votes":36959,"id":"60147"},
+{"votes":5878,"id":"60086"}],
 "final":"59914"},
 "4":
 {"votes":[
@@ -91,20 +91,20 @@ votesReady( {"dttime":"Nov 02,2010 11:35 PM","totals":
 "final":"1267"},
 "7":
 {"votes":[
-{"votes":132645,"id":"1272"},
-{"votes":25023,"id":"60150"},
-{"votes":3917,"id":"15926"}],
+{"votes":134029,"id":"1272"},
+{"votes":25664,"id":"60150"},
+{"votes":3947,"id":"15926"}],
 "final":"1272"},
 "6":
 {"votes":[
-{"votes":100888,"id":"53825"},
-{"votes":56637,"id":"60149"}],
+{"votes":111354,"id":"53825"},
+{"votes":63172,"id":"60149"}],
 "final":"53825"},
 "9":
 {"votes":[
-{"votes":103857,"id":"1275"},
-{"votes":50235,"id":"60157"},
-{"votes":3972,"id":"60786"}],
+{"votes":105625,"id":"1275"},
+{"votes":50515,"id":"60157"},
+{"votes":4047,"id":"60786"}],
 "final":"1275"},
 "8":
 {"votes":[
@@ -114,23 +114,23 @@ votesReady( {"dttime":"Nov 02,2010 11:35 PM","totals":
 "Amendment":
 {"Recall of Governor":
 {"votes":[
-{"votes":1842346,"id":"2"},
-{"votes":959482,"id":"3"}]}},
+{"votes":1856085,"id":"2"},
+{"votes":967176,"id":"3"}]}},
 "U.S. Senate":
 {"2010":
 {"votes":[
-{"votes":1595532,"id":"1277"},
-{"votes":1524446,"id":"60136"},
-{"votes":105700,"id":"60769"},
-{"votes":78394,"id":"60771"}]}},
+{"votes":1635319,"id":"1277"},
+{"votes":1559055,"id":"60136"},
+{"votes":108244,"id":"60769"},
+{"votes":80296,"id":"60771"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":1553238,"id":"17730"},
-{"votes":1535517,"id":"53821"},
-{"votes":122158,"id":"60781"},
-{"votes":90560,"id":"18534"},
-{"votes":30984,"id":"60777"}]}}},
+{"votes":1584145,"id":"17730"},
+{"votes":1565192,"id":"53821"},
+{"votes":124653,"id":"60781"},
+{"votes":92265,"id":"18534"},
+{"votes":31648,"id":"60777"}]}}},
 "abbr":"IL"},
 "state":"IL","candidates":
 {"60784":"GOP|Vasquez|Israel Vasquez","60785":"Grn|Burns|Robert Burns","60786":"Grn|Ribeiro|Simon Ribeiro","60781":"Ind|Cohen|Scott Lee Cohen","60782":"Grn|Adams|Jeff Adams","60783":"Grn|Lambert Schmidt|Laurel Lambert Schmidt","1263":"Dem|Rush|Bobby Rush","15926":"Ind|Clemons|Clarence Clemons","60788":"Grn|Kairis|Daniel Kairis","1265":"Dem|Jackson|Jesse Jackson, Jr.","32649":"GOP|Schock|Aaron Schock","60172":"Dem|Hirner|Deirdre Hirner","60157":"GOP|Pollak|Joel Pollak","60170":"Dem|Gaulrapp|George Gaulrapp","60150":"GOP|Weiman|Mark Weiman","60158":"GOP|Dold|Robert Dold","58367":"Dem|Foster|Bill Foster","1879":"Dem|Gill|David Gill","60769":"Grn|Jones|LeAlan Jones","51634":"Dem|Seals|Daniel Seals","60136":"Dem|Giannoulias|Alexi Giannoulias","3":"|No| No","50681":"Dem|Lipinski|Daniel Lipinski","18446":"GOP|Walsh|Joe Walsh","2":"|Yes| Yes","53754":"GOP|Hultgren|Randy Hultgren","28527":"Grn|Scheurer|Bill Scheurer","60791":"GOP|Schilling|Bobby Schilling","53817":"Dem|Halvorson|Debbie Halvorson","187":"GOP|Biggert|Judy Biggert","1272":"Dem|Davis|Danny Davis","59914":"Dem|Quigley|Mike Quigley","1267":"Dem|Gutierrez|Luis Gutierrez","18561":"Grn|Williams|Anthony Williams","1273":"Dem|Bean|Melissa Bean","60086":"Grn|Reichel|Matthew Reichel","1275":"Dem|Schakowsky|Jan Schakowsky","60147":"GOP|Ratowitz|David Ratowitz","60144":"GOP|Hayes|Isaac Hayes","60145":"GOP|Bendas|Michael Bendas","60168":"GOP|Newman|Teri Newman","1277":"GOP|Kirk|Mark Kirk","60792":"Grn|Davis|Roger Davis","60166":"GOP|Kinzinger|Adam Kinzinger","60790":"Grn|Campbell|Terry Campbell","53821":"GOP|Brady|Bill Brady","60149":"Dem|Lowe|Benjamin Lowe","1285":"GOP|Shimkus|John Shimkus","59312":"Grn|Jennings|Rodger Jennings","53825":"GOP|Roskam|Peter Roskam","1280":"Dem|Costello|Jerry Costello","1283":"GOP|Manzullo|Donald Manzullo","59314":"Dem|Harper|Scott Harper","1264":"GOP|Wardingley|Ray Wardingley","59332":"Grn|Schafer|Sheldon Schafer","60777":"Lib|Green|Lex Green","16816":"GOP|Johnson|Tim Johnson","60771":"Lib|Labno|Mike Labno","17730":"Dem|Quinn|Pat Quinn","51640":"Dem|Hare|Phil Hare","18534":"Grn|Whitney|Rich Whitney","28671":"Dem|Bagwell|Tim Bagwell"},
