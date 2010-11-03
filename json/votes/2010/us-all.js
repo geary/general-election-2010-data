@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 06:26 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 06:28 AM","totals":
 {"races":
 {"President":
 {"":
@@ -980,7 +980,7 @@ votesReady( {"dttime":"Nov 03,2010 06:26 AM","totals":
 "final":"1326"},
 "13":
 {"votes":[
-{"votes":98855,"id":"55113"},
+{"votes":98872,"id":"55113"},
 {"votes":23414,"id":"60940"},
 {"votes":1013,"id":"59823"},
 {"votes":874,"id":"61190"},
@@ -1005,10 +1005,10 @@ votesReady( {"dttime":"Nov 03,2010 06:26 AM","totals":
 "final":"809"},
 "14":
 {"votes":[
-{"votes":107455,"id":"806"},
-{"votes":29738,"id":"61072"},
-{"votes":3133,"id":"61186"},
-{"votes":1806,"id":"25268"}],
+{"votes":108880,"id":"806"},
+{"votes":29785,"id":"61072"},
+{"votes":3147,"id":"61186"},
+{"votes":1814,"id":"25268"}],
 "final":"806"},
 "1":
 {"votes":[
@@ -1295,8 +1295,8 @@ votesReady( {"dttime":"Nov 03,2010 06:26 AM","totals":
 "final":"482"},
 "2":
 {"votes":[
-{"votes":175330,"id":"481"},
-{"votes":58366,"id":"60611"}],
+{"votes":177114,"id":"481"},
+{"votes":58871,"id":"60611"}],
 "final":"481"},
 "5":
 {"votes":[
@@ -1322,23 +1322,23 @@ votesReady( {"dttime":"Nov 03,2010 06:26 AM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":576530,"id":"60200"},
-{"votes":557307,"id":"39053"},
-{"votes":16469,"id":"61133"},
-{"votes":15165,"id":"61134"}]}},
+{"votes":577958,"id":"60200"},
+{"votes":558113,"id":"39053"},
+{"votes":16529,"id":"61133"},
+{"votes":15206,"id":"61134"}]}},
 "Measure":
 {"75 - Multnomah Casino":
 {"votes":[
-{"votes":766314,"id":"3"},
-{"votes":360899,"id":"2"}],
+{"votes":770401,"id":"3"},
+{"votes":362834,"id":"2"}],
 "final":"3"},
 "74 - Medical Marijuana":
 {"votes":[
-{"votes":654693,"id":"3"},
-{"votes":480439,"id":"2"}],
+{"votes":658247,"id":"3"},
+{"votes":482916,"id":"2"}],
 "final":"3"}}},
 "precincts":
-{"total":1000,"reporting":838},
+{"total":1000,"reporting":835},
 "abbr":"OR","name":"Oregon"},
 "Connecticut":
 {"name":"Connecticut","precincts":
@@ -1421,15 +1421,15 @@ votesReady( {"dttime":"Nov 03,2010 06:26 AM","totals":
 "final":"92"},
 "28":
 {"votes":[
-{"votes":43016,"id":"86"},
-{"votes":14900,"id":"60849"},
-{"votes":4432,"id":"60850"}],
+{"votes":65745,"id":"86"},
+{"votes":21264,"id":"60849"},
+{"votes":7617,"id":"60850"}],
 "final":"86"},
 "29":
 {"votes":[
-{"votes":83061,"id":"89"},
-{"votes":40224,"id":"60851"},
-{"votes":3997,"id":"60852"}],
+{"votes":85177,"id":"89"},
+{"votes":41242,"id":"60851"},
+{"votes":4107,"id":"60852"}],
 "final":"89"},
 "35":
 {"votes":[
@@ -1460,8 +1460,8 @@ votesReady( {"dttime":"Nov 03,2010 06:26 AM","totals":
 "final":"82"},
 "27":
 {"votes":[
-{"votes":58613,"id":"84"},
-{"votes":34185,"id":"60848"}],
+{"votes":79764,"id":"84"},
+{"votes":43412,"id":"60848"}],
 "final":"84"},
 "20":
 {"votes":[
@@ -1502,9 +1502,9 @@ votesReady( {"dttime":"Nov 03,2010 06:26 AM","totals":
 "final":"132"},
 "45":
 {"votes":[
-{"votes":55059,"id":"135"},
-{"votes":41913,"id":"60688"},
-{"votes":6898,"id":"60862"}],
+{"votes":58120,"id":"135"},
+{"votes":46040,"id":"60688"},
+{"votes":7287,"id":"60862"}],
 "final":"135"},
 "42":
 {"votes":[
@@ -1524,8 +1524,8 @@ votesReady( {"dttime":"Nov 03,2010 06:26 AM","totals":
 "final":"1215"},
 "41":
 {"votes":[
-{"votes":69479,"id":"123"},
-{"votes":40683,"id":"59946"}],
+{"votes":70609,"id":"123"},
+{"votes":41428,"id":"59946"}],
 "final":"123"},
 "1":
 {"votes":[
@@ -1743,8 +1743,8 @@ votesReady( {"dttime":"Nov 03,2010 06:26 AM","totals":
 "final":"3"},
 "25 - Budget Vote":
 {"votes":[
-{"votes":3612710,"id":"2"},
-{"votes":2964314,"id":"3"}],
+{"votes":3619714,"id":"2"},
+{"votes":2968015,"id":"3"}],
 "final":"2"}}},
 "precincts":
 {"total":565,"reporting":516},
