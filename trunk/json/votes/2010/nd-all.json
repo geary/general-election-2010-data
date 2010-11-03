@@ -1,4 +1,4 @@
-{"dttime":"Nov 02, 2010 08:41 PM","totals":
+{"dttime":"Nov 02, 2010 08:43 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -8,9 +8,9 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":0,"id":"1780"},
-{"votes":0,"id":"60744"},
-{"votes":0,"id":"60745"}]}}},
+{"votes":654,"id":"1780"},
+{"votes":110,"id":"60744"},
+{"votes":8,"id":"60745"}]}}},
 "precincts":
 {"total":505,"reporting":0},
 "abbr":"ND","name":"North Dakota"},

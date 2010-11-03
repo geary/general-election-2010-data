@@ -1,4 +1,4 @@
-{"dttime":"Nov 02, 2010 08:41 PM","totals":
+{"dttime":"Nov 02, 2010 08:43 PM","totals":
 {"name":"Vermont","precincts":
 {"total":260,"reporting":21},
 "races":
@@ -24,12 +24,12 @@
 "Governor":
 {"":
 {"votes":[
-{"votes":7647,"id":"45222"},
-{"votes":5155,"id":"45461"},
-{"votes":144,"id":"1158"},
-{"votes":100,"id":"60895"},
-{"votes":81,"id":"60893"},
-{"votes":37,"id":"60894"},
+{"votes":8551,"id":"45222"},
+{"votes":5920,"id":"45461"},
+{"votes":155,"id":"1158"},
+{"votes":114,"id":"60895"},
+{"votes":88,"id":"60893"},
+{"votes":43,"id":"60894"},
 {"votes":21,"id":"50649"}]}}},
 "abbr":"VT","votesby":"town"},
 "state":"VT","candidates":
