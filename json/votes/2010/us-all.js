@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 11:16 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 11:22 AM","totals":
 {"races":
 {"President":
 {"":
@@ -1339,7 +1339,7 @@ votesReady( {"dttime":"Nov 03,2010 11:16 AM","totals":
 {"votes":533781,"id":"2"}],
 "final":"3"}}},
 "precincts":
-{"total":1000,"reporting":939},
+{"total":1000,"reporting":940},
 "abbr":"OR","name":"Oregon"},
 "Connecticut":
 {"name":"Connecticut","precincts":
@@ -1361,9 +1361,9 @@ votesReady( {"dttime":"Nov 03,2010 11:16 AM","totals":
 "final":"1141"},
 "2":
 {"votes":[
-{"votes":138657,"id":"1231"},
-{"votes":88325,"id":"61080"},
-{"votes":3063,"id":"59878"}],
+{"votes":143043,"id":"1231"},
+{"votes":92291,"id":"61080"},
+{"votes":3127,"id":"59878"}],
 "final":"1231"},
 "5":
 {"votes":[
@@ -1400,14 +1400,14 @@ votesReady( {"dttime":"Nov 03,2010 11:16 AM","totals":
 {"1":
 {"votes":[
 {"votes":217221,"id":"1162"},
-{"votes":121295,"id":"60401"},
+{"votes":121297,"id":"60401"},
 {"votes":20540,"id":"540"}],
 "final":"1162"}},
 "Initiative":
 {"I - 164 Payday Loans":
 {"votes":[
-{"votes":252016,"id":"2"},
-{"votes":99187,"id":"3"}],
+{"votes":252017,"id":"2"},
+{"votes":99188,"id":"3"}],
 "final":"2"}}},
 "abbr":"MT"},
 "California":
@@ -1975,9 +1975,9 @@ votesReady( {"dttime":"Nov 03,2010 11:16 AM","totals":
 "final":"1461"},
 "3":
 {"votes":[
-{"votes":125187,"id":"1094"},
-{"votes":115526,"id":"48599"},
-{"votes":7780,"id":"60730"}],
+{"votes":125859,"id":"1094"},
+{"votes":116173,"id":"48599"},
+{"votes":7842,"id":"60730"}],
 "final":"1094"},
 "2":
 {"votes":[
@@ -1998,9 +1998,9 @@ votesReady( {"dttime":"Nov 03,2010 11:16 AM","totals":
 "final":"48730"},
 "7":
 {"votes":[
-{"votes":131602,"id":"60735"},
-{"votes":112659,"id":"59151"},
-{"votes":8947,"id":"60737"}],
+{"votes":131920,"id":"60735"},
+{"votes":112881,"id":"59151"},
+{"votes":8970,"id":"60737"}],
 "final":"60735"},
 "6":
 {"votes":[
@@ -2015,9 +2015,9 @@ votesReady( {"dttime":"Nov 03,2010 11:16 AM","totals":
 "U.S. Senate":
 {"2010":
 {"votes":[
-{"votes":1121975,"id":"60740"},
-{"votes":1017683,"id":"1765"},
-{"votes":23226,"id":"60742"}],
+{"votes":1123134,"id":"60740"},
+{"votes":1018433,"id":"1765"},
+{"votes":23274,"id":"60742"}],
 "final":"60740"}},
 "Governor":
 {"":
@@ -2057,8 +2057,8 @@ votesReady( {"dttime":"Nov 03,2010 11:16 AM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":103504,"id":"45461"},
-{"votes":100375,"id":"45222"},
+{"votes":103537,"id":"45461"},
+{"votes":100406,"id":"45222"},
 {"votes":1704,"id":"60895"},
 {"votes":1615,"id":"1158"},
 {"votes":1146,"id":"60893"},
