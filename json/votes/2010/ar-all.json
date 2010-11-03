@@ -1,4 +1,4 @@
-{"dttime":"Nov 02, 2010 08:46 PM","totals":
+{"dttime":"Nov 02, 2010 08:47 PM","totals":
 {"name":"Arkansas","fix":
 {"Saint Francis":"St. Francis"},
 "precincts":
@@ -36,8 +36,8 @@
 "Issue":
 {"1 - Hunting and Fishing":
 {"votes":[
-{"votes":0,"id":"3"},
-{"votes":0,"id":"2"}]}},
+{"votes":1568,"id":"2"},
+{"votes":266,"id":"3"}]}},
 "Governor":
 {"":
 {"votes":[
