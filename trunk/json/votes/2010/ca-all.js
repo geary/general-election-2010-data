@@ -1,12 +1,12 @@
-votesReady( {"dttime":"Nov 03,2010 06:30 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 06:32 AM","totals":
 {"races":
 {"U.S. House":
 {"30":
 {"votes":[
-{"votes":97215,"id":"92"},
-{"votes":47084,"id":"60853"},
-{"votes":2975,"id":"7900"},
-{"votes":1849,"id":"60854"}],
+{"votes":120569,"id":"92"},
+{"votes":59695,"id":"60853"},
+{"votes":3813,"id":"7900"},
+{"votes":2348,"id":"60854"}],
 "final":"92"},
 "28":
 {"votes":[
@@ -22,8 +22,8 @@ votesReady( {"dttime":"Nov 03,2010 06:30 AM","totals":
 "final":"89"},
 "35":
 {"votes":[
-{"votes":79705,"id":"104"},
-{"votes":20719,"id":"60856"}],
+{"votes":80145,"id":"104"},
+{"votes":20925,"id":"60856"}],
 "final":"104"},
 "34":
 {"votes":[
@@ -248,8 +248,8 @@ votesReady( {"dttime":"Nov 03,2010 06:30 AM","totals":
 "final":"56"},
 "31":
 {"votes":[
-{"votes":60082,"id":"94"},
-{"votes":11398,"id":"60879"}],
+{"votes":62561,"id":"94"},
+{"votes":11855,"id":"60879"}],
 "final":"94"},
 "23":
 {"votes":[
@@ -265,9 +265,9 @@ votesReady( {"dttime":"Nov 03,2010 06:30 AM","totals":
 "final":"151"},
 "36":
 {"votes":[
-{"votes":87379,"id":"107"},
-{"votes":52694,"id":"60857"},
-{"votes":8108,"id":"112"}],
+{"votes":92214,"id":"107"},
+{"votes":54061,"id":"60857"},
+{"votes":8441,"id":"112"}],
 "final":"107"},
 "53":
 {"votes":[
@@ -283,8 +283,8 @@ votesReady( {"dttime":"Nov 03,2010 06:30 AM","totals":
 "final":"59681"},
 "33":
 {"votes":[
-{"votes":87621,"id":"50853"},
-{"votes":14283,"id":"51826"}],
+{"votes":106152,"id":"50853"},
+{"votes":16819,"id":"51826"}],
 "final":"50853"},
 "37":
 {"votes":[
@@ -317,12 +317,12 @@ votesReady( {"dttime":"Nov 03,2010 06:30 AM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":3691131,"id":"6622"},
-{"votes":2847955,"id":"60373"},
-{"votes":107873,"id":"60869"},
-{"votes":99870,"id":"8029"},
-{"votes":84143,"id":"8762"},
-{"votes":59111,"id":"60870"}],
+{"votes":3701641,"id":"6622"},
+{"votes":2856361,"id":"60373"},
+{"votes":108335,"id":"60869"},
+{"votes":100244,"id":"8029"},
+{"votes":84368,"id":"8762"},
+{"votes":59367,"id":"60870"}],
 "final":"6622"}},
 "Proposition":
 {"19 - Legalize Marijuana":
