@@ -1,8 +1,8 @@
-votesReady( {"dttime":"Nov 02,2010 10:23 PM","totals":
+votesReady( {"dttime":"Nov 02,2010 10:26 PM","totals":
 {"name":"Virginia","fix":
 {},
 "precincts":
-{"total":196,"reporting":194},
+{"total":196,"reporting":195},
 "races":
 {"U.S. House":
 {"11":
@@ -26,10 +26,10 @@ votesReady( {"dttime":"Nov 02,2010 10:23 PM","totals":
 "final":"57798"},
 "3":
 {"votes":[
-{"votes":107594,"id":"1451"},
-{"votes":41398,"id":"61064"},
-{"votes":2256,"id":"61122"},
-{"votes":1920,"id":"51698"}],
+{"votes":111986,"id":"1451"},
+{"votes":43487,"id":"61064"},
+{"votes":2319,"id":"61122"},
+{"votes":1997,"id":"51698"}],
 "final":"1451"},
 "2":
 {"votes":[
