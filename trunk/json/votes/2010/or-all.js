@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 02:57 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 02:59 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -52,13 +52,13 @@ votesReady( {"dttime":"Nov 03,2010 02:57 AM","totals":
 "Measure":
 {"75 - Multnomah Casino":
 {"votes":[
-{"votes":693121,"id":"3"},
-{"votes":328716,"id":"2"}],
+{"votes":716867,"id":"3"},
+{"votes":337228,"id":"2"}],
 "final":"3"},
 "74 - Medical Marijuana":
 {"votes":[
-{"votes":597324,"id":"3"},
-{"votes":431481,"id":"2"}],
+{"votes":614090,"id":"3"},
+{"votes":447254,"id":"2"}],
 "final":"3"}}},
 "precincts":
 {"total":1000,"reporting":818},

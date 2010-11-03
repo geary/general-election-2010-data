@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 02:57 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 02:59 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -43,15 +43,15 @@ votesReady( {"dttime":"Nov 03,2010 02:57 AM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":581998,"id":"60381"},
-{"votes":474627,"id":"19289"},
-{"votes":20060,"id":"61114"},
-{"votes":13998,"id":"19282"},
-{"votes":3744,"id":"61116"},
-{"votes":2757,"id":"61115"}],
+{"votes":587604,"id":"60381"},
+{"votes":480126,"id":"19289"},
+{"votes":20398,"id":"61114"},
+{"votes":14141,"id":"19282"},
+{"votes":3824,"id":"61116"},
+{"votes":2818,"id":"61115"}],
 "final":"60381"}}},
 "precincts":
-{"total":1873,"reporting":1865},
+{"total":1873,"reporting":1866},
 "abbr":"IA","name":"Iowa"},
 "state":"IA","candidates":
 {"59745":"GOP|Miller-Meeks|Mariannette Miller-Meeks","61109":"CST|Tack|Jon Tack","61108":"Ind|Faulkner|Jason Faulkner","61107":"Lib|Petsche|Rob Petsche","61106":"Lib|Heiderscheit|John Heiderscheit","60381":"GOP|Branstad|Terry Branstad","60403":"GOP|Zaun|Brad Zaun","60385":"GOP|Lange|Benjamin Lange","51537":"Dem|Loebsack|Dave Loebsack","1717":"GOP|Grassley|Chuck Grassley","51431":"Dem|Braley|Bruce Braley","61116":"Ind|Hughes|Gregory Hughes","60559":"Dem|Maske|Bill Maske","60558":"Dem|Campbell|Matthew Campbell","61114":"Oth|Narcisse|Jonathan Narcisse","61115":"SWP|Rosenfeld|David Rosenfeld","61112":"Ind|Lensing|Dan Lensing","61113":"Ind|Monroe|Martin Monroe","61110":"Lib|Sicard|Gary Sicard","61111":"SWP|Williamson|Rebecca Williamson","60379":"Dem|Conlin|Roxanne Conlin","19282":"Lib|Cooper|Eric Cooper","19289":"Dem|Culver|Chet Culver","537":"GOP|Latham|Tom Latham","535":"Dem|Boswell|Leonard Boswell","539":"GOP|King|Steve King"},
