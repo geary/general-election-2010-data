@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 09:13 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 09:20 AM","totals":
 {"races":
 {"President":
 {"":
@@ -1288,10 +1288,10 @@ votesReady( {"dttime":"Nov 03,2010 09:13 AM","totals":
 "final":"478"},
 "3":
 {"votes":[
-{"votes":141748,"id":"482"},
-{"votes":33739,"id":"61141"},
-{"votes":24880,"id":"58449"},
-{"votes":4079,"id":"59797"}],
+{"votes":143800,"id":"482"},
+{"votes":33923,"id":"61141"},
+{"votes":26982,"id":"58449"},
+{"votes":4139,"id":"59797"}],
 "final":"482"},
 "2":
 {"votes":[
@@ -1300,9 +1300,9 @@ votesReady( {"dttime":"Nov 03,2010 09:13 AM","totals":
 "final":"481"},
 "5":
 {"votes":[
-{"votes":133545,"id":"57501"},
-{"votes":120057,"id":"38736"},
-{"votes":6890,"id":"51866"}],
+{"votes":137372,"id":"57501"},
+{"votes":123757,"id":"38736"},
+{"votes":7018,"id":"51866"}],
 "final":"57501"},
 "4":
 {"votes":[
@@ -1322,10 +1322,10 @@ votesReady( {"dttime":"Nov 03,2010 09:13 AM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":609289,"id":"60200"},
-{"votes":596133,"id":"39053"},
-{"votes":17503,"id":"61133"},
-{"votes":16093,"id":"61134"}]}},
+{"votes":616169,"id":"60200"},
+{"votes":601501,"id":"39053"},
+{"votes":17679,"id":"61133"},
+{"votes":16216,"id":"61134"}]}},
 "Measure":
 {"75 - Multnomah Casino":
 {"votes":[
@@ -1338,7 +1338,7 @@ votesReady( {"dttime":"Nov 03,2010 09:13 AM","totals":
 {"votes":517153,"id":"2"}],
 "final":"3"}}},
 "precincts":
-{"total":1000,"reporting":882},
+{"total":1000,"reporting":888},
 "abbr":"OR","name":"Oregon"},
 "Connecticut":
 {"name":"Connecticut","precincts":
@@ -1398,15 +1398,15 @@ votesReady( {"dttime":"Nov 03,2010 09:13 AM","totals":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":220129,"id":"1162"},
-{"votes":122439,"id":"60401"},
-{"votes":20764,"id":"540"}],
+{"votes":217221,"id":"1162"},
+{"votes":121297,"id":"60401"},
+{"votes":20540,"id":"540"}],
 "final":"1162"}},
 "Initiative":
 {"I - 164 Payday Loans":
 {"votes":[
-{"votes":255172,"id":"2"},
-{"votes":100232,"id":"3"}],
+{"votes":252017,"id":"2"},
+{"votes":99187,"id":"3"}],
 "final":"2"}}},
 "abbr":"MT"},
 "California":
@@ -1753,7 +1753,7 @@ votesReady( {"dttime":"Nov 03,2010 09:13 AM","totals":
 {"name":"Massachusetts","fix":
 {"Barnstable":"Barnstable Town","Manchester":"Manchester-by-the-Sea"},
 "precincts":
-{"total":255,"reporting":252},
+{"total":255,"reporting":253},
 "races":
 {"U.S. House":
 {"10":
@@ -1766,9 +1766,9 @@ votesReady( {"dttime":"Nov 03,2010 09:13 AM","totals":
 "final":"22757"},
 "1":
 {"votes":[
-{"votes":127181,"id":"880"},
-{"votes":73856,"id":"60669"},
-{"votes":10816,"id":"61227"}],
+{"votes":127474,"id":"880"},
+{"votes":73952,"id":"60669"},
+{"votes":10841,"id":"61227"}],
 "final":"880"},
 "3":
 {"votes":[
@@ -1797,8 +1797,8 @@ votesReady( {"dttime":"Nov 03,2010 09:13 AM","totals":
 "final":"884"},
 "7":
 {"votes":[
-{"votes":137231,"id":"888"},
-{"votes":70692,"id":"61235"}],
+{"votes":141364,"id":"888"},
+{"votes":73006,"id":"61235"}],
 "final":"888"},
 "6":
 {"votes":[
@@ -1818,10 +1818,10 @@ votesReady( {"dttime":"Nov 03,2010 09:13 AM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":1078571,"id":"51516"},
-{"votes":926444,"id":"60668"},
-{"votes":177841,"id":"22674"},
-{"votes":31941,"id":"895"}],
+{"votes":1081714,"id":"51516"},
+{"votes":929573,"id":"60668"},
+{"votes":178500,"id":"22674"},
+{"votes":32074,"id":"895"}],
 "final":"51516"}}},
 "abbr":"MA","votesby":"town"},
 "West Virginia":
@@ -3130,13 +3130,13 @@ votesReady( {"dttime":"Nov 03,2010 09:13 AM","totals":
 "Amendment":
 {"62 - Definition of Person":
 {"votes":[
-{"votes":1116881,"id":"3"},
-{"votes":470007,"id":"2"}],
+{"votes":1122404,"id":"3"},
+{"votes":472594,"id":"2"}],
 "final":"3"},
 "63 - Health Care":
 {"votes":[
-{"votes":829050,"id":"3"},
-{"votes":739688,"id":"2"}]}},
+{"votes":833021,"id":"3"},
+{"votes":743750,"id":"2"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
@@ -3671,22 +3671,22 @@ votesReady( {"dttime":"Nov 03,2010 09:13 AM","totals":
 "final":"59613"},
 "2":
 {"votes":[
-{"votes":131601,"id":"585"},
-{"votes":108081,"id":"60617"}],
+{"votes":132844,"id":"585"},
+{"votes":109112,"id":"60617"}],
 "final":"585"}},
 "Question":
 {"1 - Oxford County Casino":
 {"votes":[
-{"votes":246781,"id":"2"},
-{"votes":242996,"id":"3"}]}},
+{"votes":247892,"id":"2"},
+{"votes":244173,"id":"3"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":191212,"id":"60414"},
-{"votes":184354,"id":"60614"},
-{"votes":96803,"id":"60416"},
-{"votes":25326,"id":"60615"},
-{"votes":5120,"id":"60616"}]}}},
+{"votes":192151,"id":"60414"},
+{"votes":185196,"id":"60614"},
+{"votes":97183,"id":"60416"},
+{"votes":25453,"id":"60615"},
+{"votes":5145,"id":"60616"}]}}},
 "abbr":"ME"},
 "Rhode Island":
 {"races":
