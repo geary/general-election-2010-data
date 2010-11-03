@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 12:43 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 12:45 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -37,20 +37,20 @@ votesReady( {"dttime":"Nov 03,2010 12:43 AM","totals":
 "Question":
 {"4 - Eminent Domain":
 {"votes":[
-{"votes":313221,"id":"3"},
-{"votes":152676,"id":"2"}],
+{"votes":313528,"id":"3"},
+{"votes":152748,"id":"2"}],
 "final":"3"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":269305,"id":"30767"},
-{"votes":218646,"id":"30739"},
-{"votes":8422,"id":"100013"},
-{"votes":4251,"id":"60755"},
-{"votes":2990,"id":"59554"},
-{"votes":2959,"id":"60757"},
-{"votes":2916,"id":"60754"},
-{"votes":2219,"id":"60756"}],
+{"votes":269594,"id":"30767"},
+{"votes":218694,"id":"30739"},
+{"votes":8442,"id":"100013"},
+{"votes":4257,"id":"60755"},
+{"votes":3001,"id":"59554"},
+{"votes":2971,"id":"60757"},
+{"votes":2923,"id":"60754"},
+{"votes":2224,"id":"60756"}],
 "final":"30767"}}},
 "precincts":
 {"total":492,"reporting":143},

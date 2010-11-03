@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 12:43 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 12:45 AM","totals":
 {"name":"Vermont","precincts":
 {"total":260,"reporting":207},
 "races":
@@ -24,13 +24,13 @@ votesReady( {"dttime":"Nov 03,2010 12:43 AM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":90798,"id":"45461"},
-{"votes":86530,"id":"45222"},
-{"votes":1485,"id":"60895"},
-{"votes":1399,"id":"1158"},
-{"votes":1018,"id":"60893"},
-{"votes":713,"id":"60894"},
-{"votes":339,"id":"50649"}]}}},
+{"votes":91249,"id":"45461"},
+{"votes":87006,"id":"45222"},
+{"votes":1491,"id":"60895"},
+{"votes":1406,"id":"1158"},
+{"votes":1021,"id":"60893"},
+{"votes":719,"id":"60894"},
+{"votes":342,"id":"50649"}]}}},
 "abbr":"VT","votesby":"town"},
 "state":"VT","candidates":
 {"50649":"LUn|Mitchell|Ben Mitchell","60888":"Ind|Freilich|Daniel Freilich","60887":"Ind|Cain|Stephen Cain","1158":"Oth|Ericson|Cris Ericson","60885":"GOP|Britton|Len Britton","60894":"Ind|Peyton|Em Peyton","60895":"Ind|Steele|Dennis Steele","1157":"Soc|Diamondstone|Peter Diamondstone","58883":"Dem|Welch|Peter Welch","45222":"GOP|Dubie|Brian Dubie","60891":"Ind|Jaccaci|Gus Jaccaci","1152":"Soc|Newton|Jane Newton","61151":"GOP|Beaudry|Paul Beaudry","1760":"Dem|Leahy|Patrick Leahy","60893":"Ind|Feliciano|Dan Feliciano","60889":"Ind|Nunes|Johenry Nunes","45461":"Dem|Shumlin|Peter Shumlin"},

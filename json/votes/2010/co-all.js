@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 12:43 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 12:45 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -11,16 +11,16 @@ votesReady( {"dttime":"Nov 03,2010 12:43 AM","totals":
 "final":"734"},
 "3":
 {"votes":[
-{"votes":89138,"id":"51753"},
-{"votes":79462,"id":"9344"},
-{"votes":3889,"id":"60586"},
-{"votes":3394,"id":"60999"}]},
+{"votes":89451,"id":"51753"},
+{"votes":80605,"id":"9344"},
+{"votes":3904,"id":"60586"},
+{"votes":3415,"id":"60999"}]},
 "2":
 {"votes":[
-{"votes":104212,"id":"9302"},
-{"votes":72780,"id":"60691"},
-{"votes":5047,"id":"60584"},
-{"votes":3271,"id":"60585"}],
+{"votes":104694,"id":"9302"},
+{"votes":72936,"id":"60691"},
+{"votes":5055,"id":"60584"},
+{"votes":3282,"id":"60585"}],
 "final":"9302"},
 "5":
 {"votes":[
@@ -31,10 +31,10 @@ votesReady( {"dttime":"Nov 03,2010 12:43 AM","totals":
 "final":"9174"},
 "4":
 {"votes":[
-{"votes":105182,"id":"60588"},
-{"votes":82931,"id":"59348"},
-{"votes":9057,"id":"60589"},
-{"votes":2897,"id":"60593"}],
+{"votes":105396,"id":"60588"},
+{"votes":83179,"id":"59348"},
+{"votes":9080,"id":"60589"},
+{"votes":2899,"id":"60593"}],
 "final":"60588"},
 "7":
 {"votes":[
@@ -51,34 +51,34 @@ votesReady( {"dttime":"Nov 03,2010 12:43 AM","totals":
 "Amendment":
 {"62 - Definition of Person":
 {"votes":[
-{"votes":872125,"id":"3"},
-{"votes":357341,"id":"2"}]},
+{"votes":884156,"id":"3"},
+{"votes":361650,"id":"2"}]},
 "63 - Health Care":
 {"votes":[
-{"votes":646945,"id":"3"},
-{"votes":569905,"id":"2"}]}},
+{"votes":656208,"id":"3"},
+{"votes":576671,"id":"2"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":641746,"id":"61077"},
-{"votes":610997,"id":"59911"},
-{"votes":27165,"id":"59783"},
-{"votes":15243,"id":"61078"},
-{"votes":13632,"id":"60998"},
-{"votes":8060,"id":"60578"},
-{"votes":3979,"id":"60579"}]}},
+{"votes":643423,"id":"61077"},
+{"votes":612433,"id":"59911"},
+{"votes":27275,"id":"59783"},
+{"votes":15298,"id":"61078"},
+{"votes":13681,"id":"60998"},
+{"votes":8093,"id":"60578"},
+{"votes":3991,"id":"60579"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":655684,"id":"60601"},
-{"votes":479600,"id":"751"},
-{"votes":137688,"id":"61076"},
-{"votes":8619,"id":"60604"},
-{"votes":5943,"id":"60607"},
-{"votes":2303,"id":"53523"}],
+{"votes":657658,"id":"60601"},
+{"votes":480375,"id":"751"},
+{"votes":138059,"id":"61076"},
+{"votes":8641,"id":"60604"},
+{"votes":5964,"id":"60607"},
+{"votes":2312,"id":"53523"}],
 "final":"60601"}}},
 "precincts":
-{"total":462,"reporting":317},
+{"total":462,"reporting":310},
 "abbr":"CO","name":"Colorado"},
 "state":"CO","candidates":
 {"744":"Grn|Swing|Gary Swing","59783":"Grn|Kinsey|Bob Kinsey","53523":"Una|Fiorino|Paul Fiorino","59348":"Dem|Markey|Betsy Markey","9344":"Dem|Salazar|John Salazar","60600":"Lib|Bailey|Buck Bailey","9302":"Dem|Polis|Jared Polis","60586":"Lib|Gilman|Gregory Gilman","60604":"Lib|Brown|Jaimes Brown","60584":"AmC|Goss|Jenna Goss","60585":"Lib|Harris|Curtis Harris","60582":"GOP|Fallon|Mike Fallon","60583":"AmC|Styskal|Chris Styskal","60588":"GOP|Gardner|Cory Gardner","60589":"AmC|Aden|Doug Aden","51753":"GOP|Tipton|Scott Tipton","3":"|No| No","2":"|Yes| Yes","734":"Dem|DeGette|Diana DeGette","61077":"GOP|Buck|Ken Buck","61076":"GOP|Maes|Dan Maes","61079":"Lib|Jones|Clint Jones","61078":"Lib|Stringer|Maclyn Stringer","60999":"Una|Segrest|Jake Segrest","60998":"INR|Napolitano|Jason Napolitano","751":"AmC|Tancredo|Tom Tancredo","59911":"Dem|Bennet|Michael Bennet","60579":"Una|Moromisato|J. Moromisato","60578":"Una|Miller|Charley Miller","60607":"Una|Clark|Jason Clark","60596":"Dem|Flerlage|John Flerlage","59791":"AmC|Scott|Brian Scott","60601":"Dem|Hickenlooper|John Hickenlooper","9174":"GOP|Lamborn|Doug Lamborn","60691":"GOP|Bailey|Stephen Bailey","60595":"Lib|Klaver|Jerell Klaver","60594":"Dem|Bradley|Kevin Bradley","9291":"Dem|Perlmutter|Ed Perlmutter","60593":"Una|Waszkiewicz|Ken Waszkiewicz","8993":"GOP|Coffman|Mike Coffman","60599":"GOP|Frazier|Ryan Frazier","60598":"Lib|McNealy|Rob McNealy"},
