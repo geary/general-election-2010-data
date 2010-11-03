@@ -1,4 +1,4 @@
-{"dttime":"Nov 02, 2010 09:24 PM","totals":
+{"dttime":"Nov 02, 2010 09:26 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -8,9 +8,9 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":9031,"id":"1780"},
-{"votes":2611,"id":"60744"},
-{"votes":159,"id":"60745"}],
+{"votes":10395,"id":"1780"},
+{"votes":2963,"id":"60744"},
+{"votes":191,"id":"60745"}],
 "final":"1780"}}},
 "precincts":
 {"total":505,"reporting":31},
