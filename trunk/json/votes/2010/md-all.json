@@ -1,4 +1,4 @@
-{"dttime":"Nov 02, 2010 08:46 PM","totals":
+{"dttime":"Nov 02, 2010 08:47 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -60,11 +60,11 @@
 "Governor":
 {"":
 {"votes":[
-{"votes":78163,"id":"22603"},
-{"votes":56214,"id":"1051"},
-{"votes":868,"id":"61264"},
-{"votes":785,"id":"51155"},
-{"votes":529,"id":"61265"}]}}},
+{"votes":78355,"id":"22603"},
+{"votes":56627,"id":"1051"},
+{"votes":875,"id":"61264"},
+{"votes":790,"id":"51155"},
+{"votes":534,"id":"61265"}]}}},
 "precincts":
 {"total":1833,"reporting":31},
 "abbr":"MD","name":"Maryland"},
