@@ -1,4 +1,4 @@
-{"dttime":"Nov 03,2010 12:08 AM","totals":
+{"dttime":"Nov 03,2010 12:10 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -7,8 +7,8 @@
 {"votes":65386,"id":"61010"}]},
 "3":
 {"votes":[
-{"votes":95604,"id":"61094"},
-{"votes":84393,"id":"61011"}]},
+{"votes":95561,"id":"61094"},
+{"votes":84376,"id":"61011"}]},
 "2":
 {"votes":[
 {"votes":85906,"id":"46225"},
@@ -44,10 +44,10 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":687664,"id":"1762"},
-{"votes":670069,"id":"46399"}]}}},
+{"votes":687648,"id":"1762"},
+{"votes":670025,"id":"46399"}]}}},
 "precincts":
-{"total":695,"reporting":401},
+{"total":695,"reporting":397},
 "abbr":"WA","name":"Washington"},
 "state":"WA","candidates":
 {"51235":"GOP|Cloud|Doug Cloud","46291":"GOP|Rodgers|Cathy McMorris Rodgers","1488":"Dem|Smith|Adam Smith","1762":"Dem|Murray|Patty Murray","46399":"GOP|Rossi|Dino Rossi","1475":"GOP|Hastings|Doc Hastings","61012":"Dem|DelBene|Suzan DelBene","61011":"Dem|Heck|Denny Heck","61010":"GOP|Watkins|James Watkins","1479":"Dem|Dicks|Norm Dicks","1482":"Dem|McDermott|Jim McDermott","46225":"GOP|Koster|John Koster","61097":"NPD|Jeffers-Schroder|Bob Jeffers-Schroder","1468":"Dem|Larsen|Rick Larsen","61095":"GOP|Muri|Dick Muri","61094":"GOP|Herrera|Jaime Herrera","1465":"Dem|Inslee|Jay Inslee","50215":"GOP|Reichert|Dave Reichert","61098":"Dem|Romeyn|Daryl Romeyn","61096":"Dem|Clough|Jay Clough"},
