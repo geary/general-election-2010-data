@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 12:24 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 12:26 AM","totals":
 {"name":"Oklahoma","fix":
 {"LeFlore":"Le Flore"},
 "precincts":
@@ -47,8 +47,8 @@ votesReady( {"dttime":"Nov 03,2010 12:24 AM","totals":
 "final":"2"},
 "756 - Health Care":
 {"votes":[
-{"votes":589302,"id":"2"},
-{"votes":323017,"id":"3"}],
+{"votes":593948,"id":"2"},
+{"votes":325370,"id":"3"}],
 "final":"2"},
 "755 - Ban Intl or Islamic Law":
 {"votes":[
