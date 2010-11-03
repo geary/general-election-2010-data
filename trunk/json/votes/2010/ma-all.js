@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 01:15 PM","totals":
+votesReady( {"dttime":"Nov 03,2010 01:21 PM","totals":
 {"name":"Massachusetts","fix":
 {"Barnstable":"Barnstable Town","Manchester":"Manchester-by-the-Sea"},
 "precincts":
@@ -67,10 +67,10 @@ votesReady( {"dttime":"Nov 03,2010 01:15 PM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":1096610,"id":"51516"},
-{"votes":949302,"id":"60668"},
-{"votes":181290,"id":"22674"},
-{"votes":32456,"id":"895"}],
+{"votes":1098383,"id":"51516"},
+{"votes":951759,"id":"60668"},
+{"votes":181854,"id":"22674"},
+{"votes":32536,"id":"895"}],
 "final":"51516"}}},
 "abbr":"MA","votesby":"town"},
 "state":"MA","candidates":
