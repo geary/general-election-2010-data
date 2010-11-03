@@ -1,12 +1,12 @@
-{"dttime":"Nov 02, 2010 09:29 PM","totals":
+{"dttime":"Nov 02, 2010 09:30 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":503,"id":"39864"},
-{"votes":368,"id":"60670"},
-{"votes":35,"id":"56221"},
-{"votes":1,"id":"40044"}]},
+{"votes":877,"id":"60670"},
+{"votes":825,"id":"39864"},
+{"votes":62,"id":"56221"},
+{"votes":7,"id":"40044"}]},
 "2":
 {"votes":[
 {"votes":2376,"id":"967"},
@@ -15,8 +15,8 @@
 "Question":
 {"1 - State Name Change":
 {"votes":[
-{"votes":2540,"id":"3"},
-{"votes":511,"id":"2"}]}},
+{"votes":4752,"id":"3"},
+{"votes":1044,"id":"2"}]}},
 "Governor":
 {"":
 {"votes":[
