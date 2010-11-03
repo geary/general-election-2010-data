@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 02,2010 11:56 PM","totals":
+votesReady( {"dttime":"Nov 02,2010 11:58 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -39,20 +39,20 @@ votesReady( {"dttime":"Nov 02,2010 11:56 PM","totals":
 "final":"60681"},
 "6":
 {"votes":[
-{"votes":104491,"id":"1414"},
-{"votes":57660,"id":"60684"},
-{"votes":1184,"id":"60685"}],
+{"votes":105288,"id":"1414"},
+{"votes":57857,"id":"60684"},
+{"votes":1192,"id":"60685"}],
 "final":"1414"}},
 "Amendment":
 {"1 - Hunting and Fishing":
 {"votes":[
-{"votes":1015884,"id":"2"},
-{"votes":126558,"id":"3"}],
+{"votes":1017281,"id":"2"},
+{"votes":126852,"id":"3"}],
 "final":"2"},
 "2 - Secret Ballot":
 {"votes":[
-{"votes":982152,"id":"2"},
-{"votes":158647,"id":"3"}],
+{"votes":983447,"id":"2"},
+{"votes":158995,"id":"3"}],
 "final":"2"}},
 "U.S. Senate":
 {"":
