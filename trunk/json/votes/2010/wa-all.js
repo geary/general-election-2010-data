@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 02:14 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 02:17 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -17,8 +17,8 @@ votesReady( {"dttime":"Nov 03,2010 02:14 AM","totals":
 {"votes":86258,"id":"1468"}]},
 "5":
 {"votes":[
-{"votes":82569,"id":"46291"},
-{"votes":44206,"id":"61098"}],
+{"votes":88161,"id":"46291"},
+{"votes":48506,"id":"61098"}],
 "final":"46291"},
 "4":
 {"votes":[
@@ -32,23 +32,23 @@ votesReady( {"dttime":"Nov 03,2010 02:14 AM","totals":
 "final":"1482"},
 "6":
 {"votes":[
-{"votes":92382,"id":"1479"},
-{"votes":69184,"id":"51235"}],
+{"votes":96890,"id":"1479"},
+{"votes":72728,"id":"51235"}],
 "final":"1479"},
 "9":
 {"votes":[
-{"votes":70960,"id":"1488"},
-{"votes":60647,"id":"61095"}]},
+{"votes":74266,"id":"1488"},
+{"votes":64756,"id":"61095"}]},
 "8":
 {"votes":[
-{"votes":88161,"id":"50215"},
-{"votes":74531,"id":"61012"}],
+{"votes":91797,"id":"50215"},
+{"votes":76319,"id":"61012"}],
 "final":"50215"}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":707473,"id":"1762"},
-{"votes":690393,"id":"46399"}]}}},
+{"votes":721742,"id":"1762"},
+{"votes":707481,"id":"46399"}]}}},
 "precincts":
 {"total":695,"reporting":406},
 "abbr":"WA","name":"Washington"},

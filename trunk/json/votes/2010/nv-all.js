@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 02:14 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 02:17 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -17,9 +17,9 @@ votesReady( {"dttime":"Nov 03,2010 02:14 AM","totals":
 {"votes":1136,"id":"60753"}]},
 "2":
 {"votes":[
-{"votes":148668,"id":"30423"},
-{"votes":74840,"id":"30718"},
-{"votes":9574,"id":"60752"}],
+{"votes":149267,"id":"30423"},
+{"votes":74921,"id":"30718"},
+{"votes":9639,"id":"60752"}],
 "final":"30423"}},
 "U.S. Senate":
 {"":
@@ -37,20 +37,20 @@ votesReady( {"dttime":"Nov 03,2010 02:14 AM","totals":
 "Question":
 {"4 - Eminent Domain":
 {"votes":[
-{"votes":377789,"id":"3"},
-{"votes":181452,"id":"2"}],
+{"votes":395785,"id":"3"},
+{"votes":191769,"id":"2"}],
 "final":"3"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":343001,"id":"30767"},
-{"votes":266946,"id":"30739"},
-{"votes":10811,"id":"100013"},
-{"votes":5694,"id":"60755"},
-{"votes":4541,"id":"59554"},
-{"votes":4091,"id":"60757"},
-{"votes":3907,"id":"60754"},
-{"votes":2882,"id":"60756"}],
+{"votes":343598,"id":"30767"},
+{"votes":267022,"id":"30739"},
+{"votes":10842,"id":"100013"},
+{"votes":5703,"id":"60755"},
+{"votes":4561,"id":"59554"},
+{"votes":4103,"id":"60757"},
+{"votes":3917,"id":"60754"},
+{"votes":2883,"id":"60756"}],
 "final":"30767"}}},
 "precincts":
 {"total":492,"reporting":317},
