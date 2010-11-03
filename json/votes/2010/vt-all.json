@@ -1,6 +1,6 @@
-{"dttime":"Nov 03,2010 01:02 AM","totals":
+{"dttime":"Nov 03,2010 01:05 AM","totals":
 {"name":"Vermont","precincts":
-{"total":260,"reporting":212},
+{"total":260,"reporting":213},
 "races":
 {"U.S. House":
 {"1":
@@ -13,13 +13,13 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":118750,"id":"1760"},
-{"votes":56826,"id":"60885"},
-{"votes":2894,"id":"60888"},
-{"votes":2246,"id":"1158"},
-{"votes":1818,"id":"60887"},
-{"votes":1154,"id":"1157"},
-{"votes":812,"id":"60889"}],
+{"votes":119433,"id":"1760"},
+{"votes":57267,"id":"60885"},
+{"votes":2906,"id":"60888"},
+{"votes":2256,"id":"1158"},
+{"votes":1831,"id":"60887"},
+{"votes":1164,"id":"1157"},
+{"votes":818,"id":"60889"}],
 "final":"1760"}},
 "Governor":
 {"":

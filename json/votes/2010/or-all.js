@@ -1,13 +1,13 @@
-votesReady( {"dttime":"Nov 03,2010 01:02 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 01:05 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":106147,"id":"478"},
-{"votes":82122,"id":"60610"},
-{"votes":2270,"id":"61132"},
-{"votes":1854,"id":"59846"},
-{"votes":1434,"id":"39371"}],
+{"votes":108783,"id":"478"},
+{"votes":84145,"id":"60610"},
+{"votes":2322,"id":"61132"},
+{"votes":1890,"id":"59846"},
+{"votes":1460,"id":"39371"}],
 "final":"478"},
 "3":
 {"votes":[
@@ -18,8 +18,8 @@ votesReady( {"dttime":"Nov 03,2010 01:02 AM","totals":
 "final":"482"},
 "2":
 {"votes":[
-{"votes":135410,"id":"481"},
-{"votes":46035,"id":"60611"}],
+{"votes":140182,"id":"481"},
+{"votes":47499,"id":"60611"}],
 "final":"481"},
 "5":
 {"votes":[
@@ -35,19 +35,19 @@ votesReady( {"dttime":"Nov 03,2010 01:02 AM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":556714,"id":"1750"},
-{"votes":398014,"id":"60190"},
-{"votes":12035,"id":"38806"},
-{"votes":9835,"id":"61142"},
-{"votes":8954,"id":"61143"}],
+{"votes":559706,"id":"1750"},
+{"votes":399852,"id":"60190"},
+{"votes":12072,"id":"38806"},
+{"votes":9895,"id":"61142"},
+{"votes":8988,"id":"61143"}],
 "final":"1750"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":482690,"id":"60200"},
-{"votes":474768,"id":"39053"},
-{"votes":13214,"id":"61133"},
-{"votes":12517,"id":"61134"}]}},
+{"votes":489048,"id":"60200"},
+{"votes":479378,"id":"39053"},
+{"votes":13354,"id":"61133"},
+{"votes":12661,"id":"61134"}]}},
 "Measure":
 {"75 - Multnomah Casino":
 {"votes":[
@@ -59,7 +59,7 @@ votesReady( {"dttime":"Nov 03,2010 01:02 AM","totals":
 {"votes":544802,"id":"3"},
 {"votes":392811,"id":"2"}]}}},
 "precincts":
-{"total":1000,"reporting":659},
+{"total":1000,"reporting":666},
 "abbr":"OR","name":"Oregon"},
 "state":"OR","candidates":
 {"60200":"GOP|Dudley|Chris Dudley","51866":"PAG|Lugo|Chris Lugo","38736":"GOP|Bruun|Scott Bruun","60190":"GOP|Huffman|Jim Huffman","61134":"Lib|Wagner|Wes Wagner","3":"|No| No","2":"|Yes| Yes","39371":"Lib|Tabor|Joe Tabor","61132":"CST|LaMunyon|Don LaMunyon","61133":"CST|Kord|Greg Kord","59807":"PAG|Beilstein|Mike Beilstein","1750":"Dem|Wyden|Ron Wyden","59846":"PAG|Henry|Chris Henry","59797":"PAG|Meo|Michael Meo","58449":"GOP|Lopez|Delia Lopez","484":"Dem|DeFazio|Peter DeFazio","482":"Dem|Blumenauer|Earl Blumenauer","481":"GOP|Walden|Greg Walden","38806":"WF|Cronk|Bruce Cronk","60612":"GOP|Robinson|Art Robinson","60610":"GOP|Cornilles|Rob Cornilles","60611":"Dem|Segers|Joyce Segers","61141":"Lib|Lawrence|Jeff Lawrence","57501":"Dem|Schrader|Kurt Schrader","61143":"Prg|Staggenborg|Rick Staggenborg","61142":"Lib|Delphine|Marc Delphine","39053":"Dem|Kitzhaber|John Kitzhaber","478":"Dem|Wu|David Wu"},
