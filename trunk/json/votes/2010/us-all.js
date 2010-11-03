@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 01:21 PM","totals":
+votesReady( {"dttime":"Nov 03,2010 01:27 PM","totals":
 {"races":
 {"President":
 {"":
@@ -341,8 +341,8 @@ votesReady( {"dttime":"Nov 03,2010 01:21 PM","totals":
 "Amendment":
 {"Recall of Governor":
 {"votes":[
-{"votes":2110942,"id":"2"},
-{"votes":1102257,"id":"3"}],
+{"votes":2111539,"id":"2"},
+{"votes":1102605,"id":"3"}],
 "final":"2"}},
 "U.S. Senate":
 {"2010":
@@ -1546,8 +1546,8 @@ votesReady( {"dttime":"Nov 03,2010 01:21 PM","totals":
 "final":"7721"},
 "2":
 {"votes":[
-{"votes":94490,"id":"5"},
-{"votes":72884,"id":"60871"}],
+{"votes":97775,"id":"5"},
+{"votes":74593,"id":"60871"}],
 "final":"5"},
 "5":
 {"votes":[
@@ -1720,36 +1720,36 @@ votesReady( {"dttime":"Nov 03,2010 01:21 PM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":3789608,"id":"1705"},
-{"votes":3091191,"id":"60339"},
-{"votes":124343,"id":"7691"},
-{"votes":94197,"id":"7042"},
-{"votes":91162,"id":"8004"},
-{"votes":89900,"id":"60825"}],
+{"votes":3789777,"id":"1705"},
+{"votes":3091426,"id":"60339"},
+{"votes":124354,"id":"7691"},
+{"votes":94202,"id":"7042"},
+{"votes":91173,"id":"8004"},
+{"votes":89903,"id":"60825"}],
 "final":"1705"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":3945803,"id":"6622"},
-{"votes":3026775,"id":"60373"},
-{"votes":115634,"id":"60869"},
-{"votes":106847,"id":"8029"},
-{"votes":89321,"id":"8762"},
-{"votes":63980,"id":"60870"}],
+{"votes":3945989,"id":"6622"},
+{"votes":3026994,"id":"60373"},
+{"votes":115644,"id":"60869"},
+{"votes":106858,"id":"8029"},
+{"votes":89327,"id":"8762"},
+{"votes":63983,"id":"60870"}],
 "final":"6622"}},
 "Proposition":
 {"19 - Legalize Marijuana":
 {"votes":[
-{"votes":3894532,"id":"3"},
-{"votes":3346276,"id":"2"}],
+{"votes":3894778,"id":"3"},
+{"votes":3346468,"id":"2"}],
 "final":"3"},
 "25 - Budget Vote":
 {"votes":[
-{"votes":3812576,"id":"2"},
-{"votes":3141049,"id":"3"}],
+{"votes":3812813,"id":"2"},
+{"votes":3141242,"id":"3"}],
 "final":"2"}}},
 "precincts":
-{"total":565,"reporting":521},
+{"total":565,"reporting":565},
 "abbr":"CA","name":"California"},
 "Massachusetts":
 {"name":"Massachusetts","fix":
@@ -1780,8 +1780,8 @@ votesReady( {"dttime":"Nov 03,2010 01:21 PM","totals":
 "final":"883"},
 "2":
 {"votes":[
-{"votes":115629,"id":"882"},
-{"votes":84592,"id":"61228"}],
+{"votes":122547,"id":"882"},
+{"votes":91181,"id":"61228"}],
 "final":"882"},
 "5":
 {"votes":[
@@ -1820,10 +1820,10 @@ votesReady( {"dttime":"Nov 03,2010 01:21 PM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":1098383,"id":"51516"},
-{"votes":951759,"id":"60668"},
-{"votes":181854,"id":"22674"},
-{"votes":32536,"id":"895"}],
+{"votes":1101966,"id":"51516"},
+{"votes":956266,"id":"60668"},
+{"votes":182614,"id":"22674"},
+{"votes":32644,"id":"895"}],
 "final":"51516"}}},
 "abbr":"MA","votesby":"town"},
 "West Virginia":
@@ -2350,8 +2350,8 @@ votesReady( {"dttime":"Nov 03,2010 01:21 PM","totals":
 "final":"851"},
 "7":
 {"votes":[
-{"votes":184028,"id":"856"},
-{"votes":82716,"id":"60484"}],
+{"votes":184859,"id":"856"},
+{"votes":83001,"id":"60484"}],
 "final":"856"},
 "6":
 {"votes":[
@@ -2425,33 +2425,33 @@ votesReady( {"dttime":"Nov 03,2010 01:21 PM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":2580372,"id":"53044"},
-{"votes":1571991,"id":"10601"},
-{"votes":1067572,"id":"865"},
-{"votes":24278,"id":"60497"},
-{"votes":14908,"id":"60494"},
+{"votes":2581076,"id":"53044"},
+{"votes":1572301,"id":"10601"},
+{"votes":1067686,"id":"865"},
+{"votes":24279,"id":"60497"},
+{"votes":14911,"id":"60494"},
 {"votes":7229,"id":"60498"},
-{"votes":4683,"id":"60492"},
-{"votes":4292,"id":"60493"},
+{"votes":4685,"id":"60492"},
+{"votes":4293,"id":"60493"},
 {"votes":4192,"id":"60495"},
 {"votes":3560,"id":"60496"}],
 "final":"53044"}},
 "Referendum":
 {"1 - Balanced Budget":
 {"votes":[
-{"votes":3343050,"id":"2"},
-{"votes":1308041,"id":"3"}],
+{"votes":3343144,"id":"2"},
+{"votes":1308063,"id":"3"}],
 "final":"2"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":2553797,"id":"61149"},
-{"votes":2500776,"id":"60518"},
-{"votes":120536,"id":"60520"},
-{"votes":18434,"id":"60523"},
-{"votes":18156,"id":"60519"},
-{"votes":13361,"id":"60556"},
-{"votes":7289,"id":"60555"}],
+{"votes":2554457,"id":"61149"},
+{"votes":2501219,"id":"60518"},
+{"votes":120552,"id":"60520"},
+{"votes":18436,"id":"60523"},
+{"votes":18161,"id":"60519"},
+{"votes":13364,"id":"60556"},
+{"votes":7290,"id":"60555"}],
 "final":"61149"}}},
 "precincts":
 {"total":372,"reporting":368},

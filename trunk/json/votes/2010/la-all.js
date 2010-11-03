@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 01:21 PM","totals":
+votesReady( {"dttime":"Nov 03,2010 01:27 PM","totals":
 {"name":"Louisiana","fix":
 {"DeSoto":"De Soto","Jeff Davis":"Jefferson Davis","LaSalle":"La Salle"},
 "precincts":
