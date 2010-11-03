@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 11:28 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 11:34 AM","totals":
 {"name":"Maine","fix":
 {},
 "precincts":
@@ -12,22 +12,22 @@ votesReady( {"dttime":"Nov 03,2010 11:28 AM","totals":
 "final":"59613"},
 "2":
 {"votes":[
-{"votes":136490,"id":"585"},
-{"votes":112567,"id":"60617"}],
+{"votes":137535,"id":"585"},
+{"votes":113483,"id":"60617"}],
 "final":"585"}},
 "Question":
 {"1 - Oxford County Casino":
 {"votes":[
-{"votes":263624,"id":"2"},
-{"votes":259303,"id":"3"}]}},
+{"votes":264781,"id":"2"},
+{"votes":260100,"id":"3"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":203814,"id":"60414"},
-{"votes":196638,"id":"60614"},
-{"votes":102266,"id":"60416"},
-{"votes":27047,"id":"60615"},
-{"votes":5340,"id":"60616"}],
+{"votes":204727,"id":"60414"},
+{"votes":197333,"id":"60614"},
+{"votes":102562,"id":"60416"},
+{"votes":27125,"id":"60615"},
+{"votes":5363,"id":"60616"}],
 "final":"60414"}}},
 "abbr":"ME"},
 "state":"ME","candidates":
