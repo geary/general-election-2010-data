@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 06:23 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 06:26 AM","totals":
 {"name":"Minnesota","fix":
 {"Lac Qui Parle":"Lac qui Parle"},
 "precincts":
@@ -53,18 +53,18 @@ votesReady( {"dttime":"Nov 03,2010 06:23 AM","totals":
 "final":"55336"},
 "8":
 {"votes":[
-{"votes":132291,"id":"60719"},
-{"votes":127939,"id":"996"},
-{"votes":11747,"id":"60726"},
+{"votes":132322,"id":"60719"},
+{"votes":127965,"id":"996"},
+{"votes":11749,"id":"60726"},
 {"votes":2375,"id":"60720"}],
 "final":"60719"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":917073,"id":"1730"},
-{"votes":907817,"id":"60721"},
-{"votes":250956,"id":"60723"},
-{"votes":7487,"id":"26995"},
+{"votes":917100,"id":"1730"},
+{"votes":907843,"id":"60721"},
+{"votes":250960,"id":"60723"},
+{"votes":7489,"id":"26995"},
 {"votes":6170,"id":"60722"},
 {"votes":6160,"id":"980"},
 {"votes":4051,"id":"60724"}]}}},
