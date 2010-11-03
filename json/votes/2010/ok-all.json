@@ -1,31 +1,32 @@
-{"dttime":"Nov 02,2010 10:04 PM","totals":
+{"dttime":"Nov 02,2010 10:05 PM","totals":
 {"name":"Oklahoma","fix":
 {"LeFlore":"Le Flore"},
 "precincts":
-{"total":349,"reporting":45},
+{"total":349,"reporting":58},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":23567,"id":"1394"},
-{"votes":6247,"id":"60943"}],
+{"votes":27744,"id":"1394"},
+{"votes":7365,"id":"60943"}],
 "final":"1394"},
 "3":
 {"votes":[
-{"votes":74806,"id":"1396"},
-{"votes":21401,"id":"59450"}],
+{"votes":81901,"id":"1396"},
+{"votes":22806,"id":"59450"}],
 "final":"1396"},
 "2":
 {"votes":[
-{"votes":71391,"id":"50187"},
-{"votes":54431,"id":"61120"}],
+{"votes":74258,"id":"50187"},
+{"votes":56523,"id":"61120"}],
 "final":"50187"},
 "5":
 {"votes":[
 {"votes":38901,"id":"61119"},
 {"votes":25806,"id":"60945"},
 {"votes":1414,"id":"37460"},
-{"votes":923,"id":"61056"}]},
+{"votes":923,"id":"61056"}],
+"final":"61119"},
 "4":
 {"votes":[
 {"votes":0,"id":"1398"}],
@@ -33,37 +34,37 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":286138,"id":"37351"},
-{"votes":111176,"id":"38273"},
-{"votes":10025,"id":"59449"},
-{"votes":4194,"id":"61099"}],
+{"votes":300541,"id":"37351"},
+{"votes":116218,"id":"38273"},
+{"votes":10477,"id":"59449"},
+{"votes":4327,"id":"61099"}],
 "final":"37351"}},
 "Question":
 {"751 - English Official Language":
 {"votes":[
-{"votes":312966,"id":"2"},
-{"votes":100250,"id":"3"}],
+{"votes":317458,"id":"2"},
+{"votes":101554,"id":"3"}],
 "final":"2"},
 "756 - Health Care":
 {"votes":[
-{"votes":229220,"id":"2"},
-{"votes":124073,"id":"3"}],
+{"votes":270519,"id":"2"},
+{"votes":148188,"id":"3"}],
 "final":"2"},
 "755 - Ban Intl or Islamic Law":
 {"votes":[
-{"votes":248618,"id":"2"},
-{"votes":105729,"id":"3"}],
+{"votes":293296,"id":"2"},
+{"votes":127717,"id":"3"}],
 "final":"2"},
 "746 - Voter ID":
 {"votes":[
-{"votes":301751,"id":"2"},
-{"votes":110792,"id":"3"}],
+{"votes":318426,"id":"2"},
+{"votes":116324,"id":"3"}],
 "final":"2"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":245622,"id":"37501"},
-{"votes":181031,"id":"57325"}],
+{"votes":279173,"id":"37501"},
+{"votes":197409,"id":"57325"}],
 "final":"37501"}}},
 "abbr":"OK"},
 "state":"OK","candidates":
