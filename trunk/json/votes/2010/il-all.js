@@ -1,14 +1,15 @@
-votesReady( {"dttime":"Nov 02,2010 10:54 PM","totals":
+votesReady( {"dttime":"Nov 02,2010 11:00 PM","totals":
 {"name":"Illinois","fix":
 {"JoDaviess":"Jo Daviess","DeWitt":"De Witt","LaSalle":"La Salle"},
 "precincts":
-{"total":11209,"reporting":8824},
+{"total":11209,"reporting":9020},
 "races":
 {"U.S. House":
 {"11":
 {"votes":[
-{"votes":87379,"id":"60166"},
-{"votes":65615,"id":"53817"}]},
+{"votes":94755,"id":"60166"},
+{"votes":71232,"id":"53817"}],
+"final":"60166"},
 "10":
 {"votes":[
 {"votes":96356,"id":"60158"},
@@ -20,25 +21,26 @@ votesReady( {"dttime":"Nov 02,2010 10:54 PM","totals":
 "final":"187"},
 "12":
 {"votes":[
-{"votes":98146,"id":"1280"},
-{"votes":60462,"id":"60168"},
-{"votes":6270,"id":"59312"}],
+{"votes":102225,"id":"1280"},
+{"votes":61245,"id":"60168"},
+{"votes":6384,"id":"59312"}],
 "final":"1280"},
 "15":
 {"votes":[
-{"votes":84363,"id":"16816"},
-{"votes":44832,"id":"1879"}],
+{"votes":85382,"id":"16816"},
+{"votes":45255,"id":"1879"}],
 "final":"16816"},
 "14":
 {"votes":[
-{"votes":86737,"id":"53754"},
-{"votes":76024,"id":"58367"},
-{"votes":6091,"id":"60788"}]},
+{"votes":87079,"id":"53754"},
+{"votes":76291,"id":"58367"},
+{"votes":6112,"id":"60788"}]},
 "17":
 {"votes":[
-{"votes":76191,"id":"60791"},
-{"votes":58575,"id":"51640"},
-{"votes":6556,"id":"60792"}]},
+{"votes":79275,"id":"60791"},
+{"votes":61586,"id":"51640"},
+{"votes":6862,"id":"60792"}],
+"final":"60791"},
 "16":
 {"votes":[
 {"votes":83856,"id":"1283"},
@@ -47,14 +49,14 @@ votesReady( {"dttime":"Nov 02,2010 10:54 PM","totals":
 "final":"1283"},
 "19":
 {"votes":[
-{"votes":122042,"id":"1285"},
-{"votes":48295,"id":"28671"}],
+{"votes":126660,"id":"1285"},
+{"votes":49799,"id":"28671"}],
 "final":"1285"},
 "18":
 {"votes":[
-{"votes":100103,"id":"32649"},
-{"votes":36600,"id":"60172"},
-{"votes":7432,"id":"59332"}],
+{"votes":104485,"id":"32649"},
+{"votes":38128,"id":"60172"},
+{"votes":7749,"id":"59332"}],
 "final":"32649"},
 "1":
 {"votes":[
@@ -111,23 +113,23 @@ votesReady( {"dttime":"Nov 02,2010 10:54 PM","totals":
 "Amendment":
 {"Recall of Governor":
 {"votes":[
-{"votes":1599257,"id":"2"},
-{"votes":826219,"id":"3"}]}},
+{"votes":1615071,"id":"2"},
+{"votes":834397,"id":"3"}]}},
 "U.S. Senate":
 {"2010":
 {"votes":[
-{"votes":1321943,"id":"1277"},
-{"votes":1310881,"id":"60136"},
-{"votes":88427,"id":"60769"},
-{"votes":64933,"id":"60771"}]}},
+{"votes":1357216,"id":"1277"},
+{"votes":1333829,"id":"60136"},
+{"votes":90399,"id":"60769"},
+{"votes":66571,"id":"60771"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":1325461,"id":"17730"},
-{"votes":1260072,"id":"53821"},
-{"votes":101972,"id":"60781"},
-{"votes":76079,"id":"18534"},
-{"votes":26780,"id":"60777"}]}}},
+{"votes":1345501,"id":"17730"},
+{"votes":1291454,"id":"53821"},
+{"votes":103797,"id":"60781"},
+{"votes":77483,"id":"18534"},
+{"votes":27346,"id":"60777"}]}}},
 "abbr":"IL"},
 "state":"IL","candidates":
 {"60784":"GOP|Vasquez|Israel Vasquez","60785":"Grn|Burns|Robert Burns","60786":"Grn|Ribeiro|Simon Ribeiro","60781":"Ind|Cohen|Scott Lee Cohen","60782":"Grn|Adams|Jeff Adams","60783":"Grn|Lambert Schmidt|Laurel Lambert Schmidt","1263":"Dem|Rush|Bobby Rush","15926":"Ind|Clemons|Clarence Clemons","60788":"Grn|Kairis|Daniel Kairis","1265":"Dem|Jackson|Jesse Jackson, Jr.","32649":"GOP|Schock|Aaron Schock","60172":"Dem|Hirner|Deirdre Hirner","60157":"GOP|Pollak|Joel Pollak","60170":"Dem|Gaulrapp|George Gaulrapp","60150":"GOP|Weiman|Mark Weiman","60158":"GOP|Dold|Robert Dold","58367":"Dem|Foster|Bill Foster","1879":"Dem|Gill|David Gill","60769":"Grn|Jones|LeAlan Jones","51634":"Dem|Seals|Daniel Seals","60136":"Dem|Giannoulias|Alexi Giannoulias","3":"|No| No","50681":"Dem|Lipinski|Daniel Lipinski","18446":"GOP|Walsh|Joe Walsh","2":"|Yes| Yes","53754":"GOP|Hultgren|Randy Hultgren","28527":"Grn|Scheurer|Bill Scheurer","60791":"GOP|Schilling|Bobby Schilling","53817":"Dem|Halvorson|Debbie Halvorson","187":"GOP|Biggert|Judy Biggert","1272":"Dem|Davis|Danny Davis","59914":"Dem|Quigley|Mike Quigley","1267":"Dem|Gutierrez|Luis Gutierrez","18561":"Grn|Williams|Anthony Williams","1273":"Dem|Bean|Melissa Bean","60086":"Grn|Reichel|Matthew Reichel","1275":"Dem|Schakowsky|Jan Schakowsky","60147":"GOP|Ratowitz|David Ratowitz","60144":"GOP|Hayes|Isaac Hayes","60145":"GOP|Bendas|Michael Bendas","60168":"GOP|Newman|Teri Newman","1277":"GOP|Kirk|Mark Kirk","60792":"Grn|Davis|Roger Davis","60166":"GOP|Kinzinger|Adam Kinzinger","60790":"Grn|Campbell|Terry Campbell","53821":"GOP|Brady|Bill Brady","60149":"Dem|Lowe|Benjamin Lowe","1285":"GOP|Shimkus|John Shimkus","59312":"Grn|Jennings|Rodger Jennings","53825":"GOP|Roskam|Peter Roskam","1280":"Dem|Costello|Jerry Costello","1283":"GOP|Manzullo|Donald Manzullo","59314":"Dem|Harper|Scott Harper","1264":"GOP|Wardingley|Ray Wardingley","59332":"Grn|Schafer|Sheldon Schafer","60777":"Lib|Green|Lex Green","16816":"GOP|Johnson|Tim Johnson","60771":"Lib|Labno|Mike Labno","17730":"Dem|Quinn|Pat Quinn","51640":"Dem|Hare|Phil Hare","18534":"Grn|Whitney|Rich Whitney","28671":"Dem|Bagwell|Tim Bagwell"},
