@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 10:39 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 10:45 AM","totals":
 {"races":
 {"President":
 {"":
@@ -1281,11 +1281,11 @@ votesReady( {"dttime":"Nov 03,2010 10:39 AM","totals":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":139912,"id":"478"},
-{"votes":108024,"id":"60610"},
-{"votes":3222,"id":"61132"},
-{"votes":2424,"id":"59846"},
-{"votes":2061,"id":"39371"}],
+{"votes":140742,"id":"478"},
+{"votes":108743,"id":"60610"},
+{"votes":3272,"id":"61132"},
+{"votes":2443,"id":"59846"},
+{"votes":2082,"id":"39371"}],
 "final":"478"},
 "3":
 {"votes":[
@@ -1314,32 +1314,32 @@ votesReady( {"dttime":"Nov 03,2010 10:39 AM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":700987,"id":"1750"},
-{"votes":503318,"id":"60190"},
-{"votes":15928,"id":"38806"},
-{"votes":13247,"id":"61142"},
-{"votes":11677,"id":"61143"}],
+{"votes":701889,"id":"1750"},
+{"votes":504261,"id":"60190"},
+{"votes":15960,"id":"38806"},
+{"votes":13270,"id":"61142"},
+{"votes":11694,"id":"61143"}],
 "final":"1750"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":616169,"id":"60200"},
-{"votes":601501,"id":"39053"},
-{"votes":17679,"id":"61133"},
-{"votes":16216,"id":"61134"}]}},
+{"votes":616989,"id":"60200"},
+{"votes":602280,"id":"39053"},
+{"votes":17718,"id":"61133"},
+{"votes":16236,"id":"61134"}]}},
 "Measure":
 {"75 - Multnomah Casino":
 {"votes":[
-{"votes":828079,"id":"3"},
-{"votes":388085,"id":"2"}],
+{"votes":829123,"id":"3"},
+{"votes":388645,"id":"2"}],
 "final":"3"},
 "74 - Medical Marijuana":
 {"votes":[
-{"votes":702095,"id":"3"},
-{"votes":522309,"id":"2"}],
+{"votes":702998,"id":"3"},
+{"votes":523022,"id":"2"}],
 "final":"3"}}},
 "precincts":
-{"total":1000,"reporting":912},
+{"total":1000,"reporting":914},
 "abbr":"OR","name":"Oregon"},
 "Connecticut":
 {"name":"Connecticut","precincts":
@@ -1883,8 +1883,8 @@ votesReady( {"dttime":"Nov 03,2010 10:39 AM","totals":
 "final":"1410"},
 "5":
 {"votes":[
-{"votes":119698,"id":"60619"},
-{"votes":98875,"id":"612"}],
+{"votes":119776,"id":"60619"},
+{"votes":99034,"id":"612"}],
 "final":"60619"},
 "4":
 {"votes":[
@@ -1896,9 +1896,9 @@ votesReady( {"dttime":"Nov 03,2010 10:39 AM","totals":
 "final":"60681"},
 "6":
 {"votes":[
-{"votes":121454,"id":"1414"},
-{"votes":68495,"id":"60684"},
-{"votes":1353,"id":"60685"}],
+{"votes":122709,"id":"1414"},
+{"votes":69390,"id":"60684"},
+{"votes":1364,"id":"60685"}],
 "final":"1414"}},
 "Amendment":
 {"1 - Hunting and Fishing":
@@ -1914,16 +1914,16 @@ votesReady( {"dttime":"Nov 03,2010 10:39 AM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":790570,"id":"610"},
-{"votes":356969,"id":"60335"},
-{"votes":118619,"id":"60671"}],
+{"votes":791627,"id":"610"},
+{"votes":358069,"id":"60335"},
+{"votes":118891,"id":"60671"}],
 "final":"610"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":673203,"id":"60420"},
-{"votes":615922,"id":"58026"},
-{"votes":19778,"id":"60672"}],
+{"votes":674103,"id":"60420"},
+{"votes":617427,"id":"58026"},
+{"votes":19791,"id":"60672"}],
 "final":"60420"}}},
 "precincts":
 {"total":398,"reporting":398},
@@ -2100,7 +2100,8 @@ votesReady( {"dttime":"Nov 03,2010 10:39 AM","totals":
 "2":
 {"votes":[
 {"votes":86370,"id":"1253"},
-{"votes":81594,"id":"61016"}]},
+{"votes":81594,"id":"61016"}],
+"final":"1253"},
 "5":
 {"votes":[
 {"votes":128907,"id":"833"},
@@ -3662,13 +3663,13 @@ votesReady( {"dttime":"Nov 03,2010 10:39 AM","totals":
 {"name":"Maine","fix":
 {},
 "precincts":
-{"total":184,"reporting":168},
+{"total":184,"reporting":170},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":152286,"id":"59613"},
-{"votes":114147,"id":"60618"}],
+{"votes":156923,"id":"59613"},
+{"votes":118909,"id":"60618"}],
 "final":"59613"},
 "2":
 {"votes":[
@@ -3678,16 +3679,16 @@ votesReady( {"dttime":"Nov 03,2010 10:39 AM","totals":
 "Question":
 {"1 - Oxford County Casino":
 {"votes":[
-{"votes":256226,"id":"2"},
-{"votes":252244,"id":"3"}]}},
+{"votes":261367,"id":"2"},
+{"votes":256677,"id":"3"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":198432,"id":"60414"},
-{"votes":191125,"id":"60614"},
-{"votes":99566,"id":"60416"},
-{"votes":26187,"id":"60615"},
-{"votes":5255,"id":"60616"}]}}},
+{"votes":201850,"id":"60414"},
+{"votes":194871,"id":"60614"},
+{"votes":101164,"id":"60416"},
+{"votes":26894,"id":"60615"},
+{"votes":5293,"id":"60616"}]}}},
 "abbr":"ME"},
 "Rhode Island":
 {"races":

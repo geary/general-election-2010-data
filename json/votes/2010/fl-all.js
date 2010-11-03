@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 10:39 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 10:45 AM","totals":
 {"races":
 {"U.S. House":
 {"24":
