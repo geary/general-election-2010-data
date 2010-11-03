@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 02,2010 11:32 PM","totals":
+votesReady( {"dttime":"Nov 02,2010 11:35 PM","totals":
 {"name":"Kentucky","fix":
 {"LaRue":"Larue"},
 "precincts":
@@ -7,8 +7,8 @@ votesReady( {"dttime":"Nov 02,2010 11:32 PM","totals":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":144398,"id":"202"},
-{"votes":60299,"id":"60530"}],
+{"votes":148309,"id":"202"},
+{"votes":60913,"id":"60530"}],
 "final":"202"},
 "3":
 {"votes":[
