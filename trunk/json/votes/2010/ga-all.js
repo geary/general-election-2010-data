@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 01:45 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 01:48 AM","totals":
 {"races":
 {"U.S. House":
 {"11":
@@ -12,8 +12,8 @@ votesReady( {"dttime":"Nov 03,2010 01:45 AM","totals":
 "final":"11651"},
 "13":
 {"votes":[
-{"votes":111485,"id":"1257"},
-{"votes":51897,"id":"61023"}],
+{"votes":111565,"id":"1257"},
+{"votes":51944,"id":"61023"}],
 "final":"1257"},
 "12":
 {"votes":[
@@ -77,7 +77,7 @@ votesReady( {"dttime":"Nov 03,2010 01:45 AM","totals":
 {"votes":98607,"id":"61029"}],
 "final":"841"}}},
 "precincts":
-{"total":2902,"reporting":2824},
+{"total":2902,"reporting":2825},
 "abbr":"GA","name":"Georgia"},
 "state":"GA","candidates":
 {"12873":"GOP|Price|Tom Price","61028":"Dem|Harris|Oscar Harris","61029":"Lib|Monds|John Monds","61027":"Lib|Donovan|Chuck Donovan","61022":"Dem|Edwards|Russell Edwards","61023":"GOP|Crane|Mike Crane","61021":"GOP|Woodall|Rob Woodall","13348":"GOP|Westmoreland|Lynn Westmoreland","833":"Dem|Lewis|John Lewis","1837":"Dem|Barrow|John Barrow","835":"GOP|Isakson|Johnny Isakson","1257":"Dem|Scott|David Scott","13241":"Dem|Thurmond|Michael Thurmond","1253":"Dem|Bishop|Sanford Bishop","61019":"GOP|Little|Fenn Little","61018":"GOP|Carter|Lisbeth Carter","61017":"Dem|Saunders|Frank Saunders","61016":"GOP|Keown|Mike Keown","59402":"Dem|Heckman|Doug Heckman","59400":"Dem|Johnson|Hank Johnson","59408":"GOP|McKinney|Ray McKinney","843":"GOP|Gingrey|Phil Gingrey","841":"GOP|Deal|Nathan Deal","829":"Dem|Marshall|Jim Marshall","828":"GOP|Kingston|Jack Kingston","824":"Dem|Barnes|Roy Barnes","11651":"GOP|Broun|Paul Broun","53104":"GOP|Graves|Tom Graves","13031":"GOP|Scott|Austin Scott"},
