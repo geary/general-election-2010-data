@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 11:46 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 11:51 AM","totals":
 {"name":"Oklahoma","fix":
 {"LeFlore":"Le Flore"},
 "precincts":
