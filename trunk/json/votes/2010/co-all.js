@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 10:15 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 10:21 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -11,10 +11,10 @@ votesReady( {"dttime":"Nov 03,2010 10:15 AM","totals":
 "final":"734"},
 "3":
 {"votes":[
-{"votes":125924,"id":"51753"},
-{"votes":114497,"id":"9344"},
-{"votes":5473,"id":"60586"},
-{"votes":4765,"id":"60999"}],
+{"votes":126227,"id":"51753"},
+{"votes":114763,"id":"9344"},
+{"votes":5482,"id":"60586"},
+{"votes":4769,"id":"60999"}],
 "final":"51753"},
 "2":
 {"votes":[
@@ -52,32 +52,32 @@ votesReady( {"dttime":"Nov 03,2010 10:15 AM","totals":
 "Amendment":
 {"62 - Definition of Person":
 {"votes":[
-{"votes":1123745,"id":"3"},
-{"votes":472910,"id":"2"}],
+{"votes":1124123,"id":"3"},
+{"votes":473082,"id":"2"}],
 "final":"3"},
 "63 - Health Care":
 {"votes":[
-{"votes":834034,"id":"3"},
-{"votes":744331,"id":"2"}]}},
+{"votes":834285,"id":"3"},
+{"votes":744643,"id":"2"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":779436,"id":"59911"},
-{"votes":771791,"id":"61077"},
-{"votes":35586,"id":"59783"},
-{"votes":20484,"id":"61078"},
-{"votes":17914,"id":"60998"},
-{"votes":10489,"id":"60578"},
-{"votes":5282,"id":"60579"}]}},
+{"votes":779661,"id":"59911"},
+{"votes":772105,"id":"61077"},
+{"votes":35605,"id":"59783"},
+{"votes":20489,"id":"61078"},
+{"votes":17920,"id":"60998"},
+{"votes":10492,"id":"60578"},
+{"votes":5283,"id":"60579"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":835792,"id":"60601"},
-{"votes":610548,"id":"751"},
-{"votes":185561,"id":"61076"},
-{"votes":12025,"id":"60604"},
-{"votes":7894,"id":"60607"},
-{"votes":3144,"id":"53523"}],
+{"votes":836083,"id":"60601"},
+{"votes":610689,"id":"751"},
+{"votes":185700,"id":"61076"},
+{"votes":12031,"id":"60604"},
+{"votes":7896,"id":"60607"},
+{"votes":3146,"id":"53523"}],
 "final":"60601"}}},
 "precincts":
 {"total":462,"reporting":410},
