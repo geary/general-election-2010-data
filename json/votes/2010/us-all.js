@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 07:16 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 07:19 AM","totals":
 {"races":
 {"President":
 {"":
@@ -381,10 +381,10 @@ votesReady( {"dttime":"Nov 03,2010 07:16 AM","totals":
 "final":"60238"},
 "2":
 {"votes":[
-{"votes":119876,"id":"60231"},
-{"votes":79151,"id":"52721"},
-{"votes":4342,"id":"60553"},
-{"votes":3549,"id":"61139"}],
+{"votes":119962,"id":"60231"},
+{"votes":79183,"id":"52721"},
+{"votes":4344,"id":"60553"},
+{"votes":3550,"id":"61139"}],
 "final":"60231"},
 "4":
 {"votes":[
@@ -395,10 +395,10 @@ votesReady( {"dttime":"Nov 03,2010 07:16 AM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":432240,"id":"1620"},
-{"votes":279244,"id":"7086"},
+{"votes":432322,"id":"1620"},
+{"votes":279281,"id":"7086"},
 {"votes":24489,"id":"60551"},
-{"votes":13990,"id":"61137"}],
+{"votes":13992,"id":"61137"}],
 "final":"1620"}},
 "Issue":
 {"1 - Hunting and Fishing":
@@ -409,9 +409,9 @@ votesReady( {"dttime":"Nov 03,2010 07:16 AM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":486234,"id":"5647"},
-{"votes":251719,"id":"60197"},
-{"votes":14067,"id":"52723"}],
+{"votes":486313,"id":"5647"},
+{"votes":251761,"id":"60197"},
+{"votes":14068,"id":"52723"}],
 "final":"5647"}}},
 "abbr":"AR"},
 "New Mexico":
@@ -1329,13 +1329,13 @@ votesReady( {"dttime":"Nov 03,2010 07:16 AM","totals":
 "Measure":
 {"75 - Multnomah Casino":
 {"votes":[
-{"votes":781263,"id":"3"},
-{"votes":368444,"id":"2"}],
+{"votes":784007,"id":"3"},
+{"votes":369956,"id":"2"}],
 "final":"3"},
 "74 - Medical Marijuana":
 {"votes":[
-{"votes":667401,"id":"3"},
-{"votes":490376,"id":"2"}],
+{"votes":670019,"id":"3"},
+{"votes":492196,"id":"2"}],
 "final":"3"}}},
 "precincts":
 {"total":1000,"reporting":845},
