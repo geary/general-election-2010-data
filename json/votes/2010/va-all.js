@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 02,2010 10:54 PM","totals":
+votesReady( {"dttime":"Nov 02,2010 11:00 PM","totals":
 {"name":"Virginia","fix":
 {},
 "precincts":
@@ -14,15 +14,15 @@ votesReady( {"dttime":"Nov 02,2010 10:54 PM","totals":
 {"votes":930,"id":"61128"}]},
 "10":
 {"votes":[
-{"votes":131567,"id":"719"},
-{"votes":69228,"id":"61067"},
-{"votes":4420,"id":"50496"}],
+{"votes":134672,"id":"719"},
+{"votes":71206,"id":"61067"},
+{"votes":4500,"id":"50496"}],
 "final":"719"},
 "1":
 {"votes":[
-{"votes":133739,"id":"57798"},
-{"votes":72698,"id":"61063"},
-{"votes":2517,"id":"59800"}],
+{"votes":134295,"id":"57798"},
+{"votes":73104,"id":"61063"},
+{"votes":2529,"id":"59800"}],
 "final":"57798"},
 "3":
 {"votes":[
@@ -62,15 +62,15 @@ votesReady( {"dttime":"Nov 02,2010 10:54 PM","totals":
 "final":"714"},
 "9":
 {"votes":[
-{"votes":95161,"id":"58574"},
-{"votes":86420,"id":"717"},
-{"votes":4372,"id":"61127"}],
+{"votes":95318,"id":"58574"},
+{"votes":86502,"id":"717"},
+{"votes":4380,"id":"61127"}],
 "final":"58574"},
 "8":
 {"votes":[
-{"votes":112212,"id":"1453"},
-{"votes":68059,"id":"60331"},
-{"votes":2608,"id":"59830"}],
+{"votes":115383,"id":"1453"},
+{"votes":70562,"id":"60331"},
+{"votes":2672,"id":"59830"}],
 "final":"1453"}}},
 "abbr":"VA"},
 "state":"VA","candidates":
