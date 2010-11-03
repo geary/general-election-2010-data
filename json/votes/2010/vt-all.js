@@ -1,14 +1,14 @@
-votesReady( {"dttime":"Nov 03,2010 02:04 PM","totals":
+votesReady( {"dttime":"Nov 03,2010 02:10 PM","totals":
 {"name":"Vermont","precincts":
 {"total":260,"reporting":251},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":145836,"id":"58883"},
-{"votes":71307,"id":"61151"},
-{"votes":4475,"id":"60891"},
-{"votes":3663,"id":"1152"}],
+{"votes":147094,"id":"58883"},
+{"votes":72261,"id":"61151"},
+{"votes":4503,"id":"60891"},
+{"votes":3676,"id":"1152"}],
 "final":"58883"}},
 "U.S. Senate":
 {"":
@@ -24,13 +24,13 @@ votesReady( {"dttime":"Nov 03,2010 02:04 PM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":113108,"id":"45461"},
-{"votes":107928,"id":"45222"},
-{"votes":1836,"id":"60895"},
-{"votes":1730,"id":"1158"},
-{"votes":1254,"id":"60893"},
-{"votes":838,"id":"60894"},
-{"votes":414,"id":"50649"}]}}},
+{"votes":113844,"id":"45461"},
+{"votes":109410,"id":"45222"},
+{"votes":1846,"id":"60895"},
+{"votes":1743,"id":"1158"},
+{"votes":1266,"id":"60893"},
+{"votes":842,"id":"60894"},
+{"votes":418,"id":"50649"}]}}},
 "abbr":"VT","votesby":"town"},
 "state":"VT","candidates":
 {"50649":"LUn|Mitchell|Ben Mitchell","60888":"Ind|Freilich|Daniel Freilich","60887":"Ind|Cain|Stephen Cain","1158":"Oth|Ericson|Cris Ericson","60885":"GOP|Britton|Len Britton","60894":"Ind|Peyton|Em Peyton","60895":"Ind|Steele|Dennis Steele","1157":"Soc|Diamondstone|Peter Diamondstone","58883":"Dem|Welch|Peter Welch","45222":"GOP|Dubie|Brian Dubie","60891":"Ind|Jaccaci|Gus Jaccaci","1152":"Soc|Newton|Jane Newton","61151":"GOP|Beaudry|Paul Beaudry","1760":"Dem|Leahy|Patrick Leahy","60893":"Ind|Feliciano|Dan Feliciano","60889":"Ind|Nunes|Johenry Nunes","45461":"Dem|Shumlin|Peter Shumlin"},
