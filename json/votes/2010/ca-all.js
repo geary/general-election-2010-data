@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 07:04 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 07:06 AM","totals":
 {"races":
 {"U.S. House":
 {"30":
@@ -327,8 +327,8 @@ votesReady( {"dttime":"Nov 03,2010 07:04 AM","totals":
 "Proposition":
 {"19 - Legalize Marijuana":
 {"votes":[
-{"votes":3751438,"id":"3"},
-{"votes":3224673,"id":"2"}],
+{"votes":3761943,"id":"3"},
+{"votes":3235805,"id":"2"}],
 "final":"3"},
 "25 - Budget Vote":
 {"votes":[
