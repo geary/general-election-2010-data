@@ -1,4 +1,4 @@
-{"dttime":"Nov 02, 2010 07:59 PM","totals":
+{"dttime":"Nov 02, 2010 08:00 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -11,16 +11,16 @@
 {"votes":1765,"id":"47478"}]},
 "2":
 {"votes":[
-{"votes":0,"id":"441"},
-{"votes":0,"id":"60898"},
-{"votes":0,"id":"47239"}]}},
+{"votes":64,"id":"441"},
+{"votes":24,"id":"60898"},
+{"votes":5,"id":"47239"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":1971,"id":"47450"},
-{"votes":1695,"id":"51735"},
-{"votes":49,"id":"51149"},
-{"votes":24,"id":"61249"}]}}},
+{"votes":2028,"id":"47450"},
+{"votes":1726,"id":"51735"},
+{"votes":51,"id":"51149"},
+{"votes":28,"id":"61249"}]}}},
 "precincts":
 {"total":672,"reporting":0},
 "abbr":"WV","name":"West Virginia"},
