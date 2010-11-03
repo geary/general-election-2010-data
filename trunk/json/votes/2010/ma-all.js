@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 10:27 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 10:33 AM","totals":
 {"name":"Massachusetts","fix":
 {"Barnstable":"Barnstable Town","Manchester":"Manchester-by-the-Sea"},
 "precincts":

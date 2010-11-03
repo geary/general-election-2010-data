@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 10:27 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 10:33 AM","totals":
 {"races":
 {"President":
 {"":
@@ -497,16 +497,16 @@ votesReady( {"dttime":"Nov 03,2010 10:27 AM","totals":
 "final":"60424"},
 "8":
 {"votes":[
-{"votes":108901,"id":"60421"},
-{"votes":71544,"id":"53911"},
-{"votes":9507,"id":"60822"}],
+{"votes":110475,"id":"60421"},
+{"votes":72301,"id":"53911"},
+{"votes":9706,"id":"60822"}],
 "final":"60421"}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":942905,"id":"18782"},
-{"votes":690663,"id":"51513"},
-{"votes":91943,"id":"19108"}],
+{"votes":944435,"id":"18782"},
+{"votes":691559,"id":"51513"},
+{"votes":92099,"id":"19108"}],
 "final":"18782"}}},
 "precincts":
 {"total":740,"reporting":740},
@@ -1083,8 +1083,8 @@ votesReady( {"dttime":"Nov 03,2010 10:27 AM","totals":
 "Proposal":
 {"10-2 - Felon Politician Ban":
 {"votes":[
-{"votes":2257251,"id":"2"},
-{"votes":757876,"id":"3"}],
+{"votes":2274703,"id":"2"},
+{"votes":762164,"id":"3"}],
 "final":"2"}},
 "Governor":
 {"":
@@ -1131,8 +1131,8 @@ votesReady( {"dttime":"Nov 03,2010 10:27 AM","totals":
 "Amendment":
 {"1 - Right to Bear Arms":
 {"votes":[
-{"votes":709742,"id":"2"},
-{"votes":91412,"id":"3"}],
+{"votes":710158,"id":"2"},
+{"votes":90996,"id":"3"}],
 "final":"2"}},
 "U.S. Senate":
 {"2010":
@@ -1386,8 +1386,8 @@ votesReady( {"dttime":"Nov 03,2010 10:27 AM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":508673,"id":"60571"},
-{"votes":497586,"id":"9881"},
+{"votes":516734,"id":"9881"},
+{"votes":515175,"id":"60571"},
 {"votes":16323,"id":"61100"}]}}},
 "abbr":"CT","votesby":"town"},
 "Montana":
@@ -3041,27 +3041,27 @@ votesReady( {"dttime":"Nov 03,2010 10:27 AM","totals":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":153772,"id":"60394"},
-{"votes":146550,"id":"581"},
-{"votes":19129,"id":"60708"}],
+{"votes":153773,"id":"60394"},
+{"votes":146551,"id":"581"},
+{"votes":19130,"id":"60708"}],
 "final":"60394"}},
 "Amendment":
 {"K - Secret Ballot":
 {"votes":[
-{"votes":241836,"id":"2"},
-{"votes":63773,"id":"3"}],
+{"votes":241838,"id":"2"},
+{"votes":63774,"id":"3"}],
 "final":"2"}},
 "Referendum":
 {"12 - Smoking Ban":
 {"votes":[
-{"votes":204059,"id":"2"},
-{"votes":112960,"id":"3"}],
+{"votes":204060,"id":"2"},
+{"votes":112962,"id":"3"}],
 "final":"2"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":195014,"id":"40715"},
-{"votes":122000,"id":"60690"}],
+{"votes":195015,"id":"40715"},
+{"votes":122002,"id":"60690"}],
 "final":"40715"}},
 "U.S. Senate":
 {"":
@@ -3071,8 +3071,8 @@ votesReady( {"dttime":"Nov 03,2010 10:27 AM","totals":
 "Initiative":
 {"13 - Medical Marijuana":
 {"votes":[
-{"votes":199551,"id":"3"},
-{"votes":115616,"id":"2"}],
+{"votes":199552,"id":"3"},
+{"votes":115618,"id":"2"}],
 "final":"3"}}},
 "precincts":
 {"total":791,"reporting":791},
@@ -3244,9 +3244,9 @@ votesReady( {"dttime":"Nov 03,2010 10:27 AM","totals":
 "final":"375"},
 "9":
 {"votes":[
-{"votes":74838,"id":"380"},
-{"votes":47445,"id":"60458"},
-{"votes":1664,"id":"31001"}],
+{"votes":77993,"id":"380"},
+{"votes":48965,"id":"60458"},
+{"votes":1827,"id":"31001"}],
 "final":"380"},
 "8":
 {"votes":[
@@ -3342,9 +3342,9 @@ votesReady( {"dttime":"Nov 03,2010 10:27 AM","totals":
 "final":"34352"},
 "3":
 {"votes":[
-{"votes":141947,"id":"1362"},
-{"votes":50551,"id":"35602"},
-{"votes":4702,"id":"60657"}],
+{"votes":141978,"id":"1362"},
+{"votes":50600,"id":"35602"},
+{"votes":4704,"id":"60657"}],
 "final":"1362"},
 "2":
 {"votes":[
@@ -3386,9 +3386,9 @@ votesReady( {"dttime":"Nov 03,2010 10:27 AM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":1447884,"id":"452"},
-{"votes":1130281,"id":"35216"},
-{"votes":55122,"id":"60655"}],
+{"votes":1447911,"id":"452"},
+{"votes":1130335,"id":"35216"},
+{"votes":55124,"id":"60655"}],
 "final":"452"}}},
 "precincts":
 {"total":224,"reporting":224},
@@ -3662,13 +3662,13 @@ votesReady( {"dttime":"Nov 03,2010 10:27 AM","totals":
 {"name":"Maine","fix":
 {},
 "precincts":
-{"total":184,"reporting":167},
+{"total":184,"reporting":168},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":151586,"id":"59613"},
-{"votes":113516,"id":"60618"}],
+{"votes":152286,"id":"59613"},
+{"votes":114147,"id":"60618"}],
 "final":"59613"},
 "2":
 {"votes":[
@@ -3678,16 +3678,16 @@ votesReady( {"dttime":"Nov 03,2010 10:27 AM","totals":
 "Question":
 {"1 - Oxford County Casino":
 {"votes":[
-{"votes":255392,"id":"2"},
-{"votes":251725,"id":"3"}]}},
+{"votes":256226,"id":"2"},
+{"votes":252244,"id":"3"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":197764,"id":"60414"},
-{"votes":190704,"id":"60614"},
-{"votes":99366,"id":"60416"},
-{"votes":26134,"id":"60615"},
-{"votes":5240,"id":"60616"}]}}},
+{"votes":198432,"id":"60414"},
+{"votes":191125,"id":"60614"},
+{"votes":99566,"id":"60416"},
+{"votes":26187,"id":"60615"},
+{"votes":5255,"id":"60616"}]}}},
 "abbr":"ME"},
 "Rhode Island":
 {"races":
