@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 07:13 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 07:16 AM","totals":
 {"races":
 {"U.S. House":
 {"30":
@@ -332,8 +332,8 @@ votesReady( {"dttime":"Nov 03,2010 07:13 AM","totals":
 "final":"3"},
 "25 - Budget Vote":
 {"votes":[
-{"votes":3684397,"id":"2"},
-{"votes":3016445,"id":"3"}],
+{"votes":3696663,"id":"2"},
+{"votes":3024407,"id":"3"}],
 "final":"2"}}},
 "precincts":
 {"total":565,"reporting":516},
