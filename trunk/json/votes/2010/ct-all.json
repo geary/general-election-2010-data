@@ -1,14 +1,14 @@
-{"dttime":"Nov 03,2010 12:01 AM","totals":
+{"dttime":"Nov 03,2010 12:03 AM","totals":
 {"name":"Connecticut","precincts":
-{"total":156,"reporting":95},
+{"total":156,"reporting":105},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":81375,"id":"1139"},
-{"votes":58871,"id":"60573"},
-{"votes":1517,"id":"61202"},
-{"votes":543,"id":"61162"}],
+{"votes":91633,"id":"1139"},
+{"votes":64815,"id":"60573"},
+{"votes":1732,"id":"61202"},
+{"votes":622,"id":"61162"}],
 "final":"1139"},
 "3":
 {"votes":[
@@ -35,10 +35,10 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":390863,"id":"9548"},
-{"votes":342679,"id":"60572"},
-{"votes":7804,"id":"61101"},
-{"votes":4493,"id":"61081"}],
+{"votes":400940,"id":"9548"},
+{"votes":348972,"id":"60572"},
+{"votes":8026,"id":"61101"},
+{"votes":4600,"id":"61081"}],
 "final":"9548"}},
 "Governor":
 {"":

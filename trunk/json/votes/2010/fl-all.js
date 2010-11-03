@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 12:01 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 12:03 AM","totals":
 {"races":
 {"U.S. House":
 {"24":
@@ -25,12 +25,12 @@ votesReady( {"dttime":"Nov 03,2010 12:01 AM","totals":
 "final":"878"},
 "22":
 {"votes":[
-{"votes":96655,"id":"58634"},
-{"votes":80301,"id":"53083"}]},
+{"votes":101461,"id":"58634"},
+{"votes":84505,"id":"53083"}]},
 "23":
 {"votes":[
-{"votes":81911,"id":"874"},
-{"votes":21162,"id":"60515"}],
+{"votes":89769,"id":"874"},
+{"votes":23348,"id":"60515"}],
 "final":"874"},
 "1":
 {"votes":[
@@ -73,8 +73,8 @@ votesReady( {"dttime":"Nov 03,2010 12:01 AM","totals":
 "final":"854"},
 "9":
 {"votes":[
-{"votes":160127,"id":"52981"},
-{"votes":63904,"id":"59134"}],
+{"votes":161407,"id":"52981"},
+{"votes":64546,"id":"59134"}],
 "final":"52981"},
 "8":
 {"votes":[
@@ -137,22 +137,22 @@ votesReady( {"dttime":"Nov 03,2010 12:01 AM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":2534398,"id":"53044"},
-{"votes":1520773,"id":"10601"},
-{"votes":1042895,"id":"865"},
-{"votes":23884,"id":"60497"},
-{"votes":14655,"id":"60494"},
-{"votes":7114,"id":"60498"},
-{"votes":4608,"id":"60492"},
-{"votes":4166,"id":"60493"},
-{"votes":4134,"id":"60495"},
-{"votes":3500,"id":"60496"}],
+{"votes":2536704,"id":"53044"},
+{"votes":1523566,"id":"10601"},
+{"votes":1044185,"id":"865"},
+{"votes":23936,"id":"60497"},
+{"votes":14673,"id":"60494"},
+{"votes":7116,"id":"60498"},
+{"votes":4618,"id":"60492"},
+{"votes":4177,"id":"60493"},
+{"votes":4138,"id":"60495"},
+{"votes":3506,"id":"60496"}],
 "final":"53044"}},
 "Referendum":
 {"1 - Balanced Budget":
 {"votes":[
-{"votes":3171548,"id":"2"},
-{"votes":1230670,"id":"3"}],
+{"votes":3174938,"id":"2"},
+{"votes":1231724,"id":"3"}],
 "final":"2"}},
 "Governor":
 {"":
