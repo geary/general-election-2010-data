@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 02,2010 10:26 PM","totals":
+votesReady( {"dttime":"Nov 02,2010 10:28 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -26,7 +26,8 @@ votesReady( {"dttime":"Nov 02,2010 10:26 PM","totals":
 {"votes":[
 {"votes":41990,"id":"60693"},
 {"votes":39991,"id":"60694"},
-{"votes":2977,"id":"51684"}]}},
+{"votes":2977,"id":"51684"}],
+"final":"60693"}},
 "Constitutional Amendment":
 {"A - Secret Ballot":
 {"votes":[
@@ -38,7 +39,8 @@ votesReady( {"dttime":"Nov 02,2010 10:26 PM","totals":
 {"votes":44031,"id":"44298"},
 {"votes":39856,"id":"60702"},
 {"votes":1371,"id":"44544"},
-{"votes":1107,"id":"61131"}]}}},
+{"votes":1107,"id":"61131"}],
+"final":"44298"}}},
 "precincts":
 {"total":667,"reporting":4},
 "abbr":"UT","name":"Utah"},
