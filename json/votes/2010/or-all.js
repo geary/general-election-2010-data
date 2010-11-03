@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 04:03 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 04:06 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -57,8 +57,8 @@ votesReady( {"dttime":"Nov 03,2010 04:03 AM","totals":
 "final":"3"},
 "74 - Medical Marijuana":
 {"votes":[
-{"votes":632652,"id":"3"},
-{"votes":462208,"id":"2"}],
+{"votes":632968,"id":"3"},
+{"votes":462494,"id":"2"}],
 "final":"3"}}},
 "precincts":
 {"total":1000,"reporting":849},
