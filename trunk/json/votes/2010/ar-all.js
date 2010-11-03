@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 01:48 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 01:50 AM","totals":
 {"name":"Arkansas","fix":
 {"Saint Francis":"St. Francis"},
 "precincts":
