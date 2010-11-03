@@ -1,13 +1,13 @@
-votesReady( {"dttime":"Nov 03,2010 12:36 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 12:38 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":93338,"id":"734"},
-{"votes":40818,"id":"60582"},
-{"votes":1677,"id":"744"},
-{"votes":1609,"id":"61079"},
-{"votes":1332,"id":"60583"}],
+{"votes":93727,"id":"734"},
+{"votes":41099,"id":"60582"},
+{"votes":1691,"id":"744"},
+{"votes":1630,"id":"61079"},
+{"votes":1348,"id":"60583"}],
 "final":"734"},
 "3":
 {"votes":[
@@ -44,9 +44,9 @@ votesReady( {"dttime":"Nov 03,2010 12:36 AM","totals":
 "final":"9291"},
 "6":
 {"votes":[
-{"votes":169843,"id":"8993"},
-{"votes":80985,"id":"60596"},
-{"votes":6710,"id":"60598"}],
+{"votes":173954,"id":"8993"},
+{"votes":83335,"id":"60596"},
+{"votes":6949,"id":"60598"}],
 "final":"8993"}},
 "Amendment":
 {"62 - Definition of Person":
@@ -60,13 +60,13 @@ votesReady( {"dttime":"Nov 03,2010 12:36 AM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":596788,"id":"59911"},
-{"votes":588335,"id":"61077"},
-{"votes":26303,"id":"59783"},
-{"votes":14811,"id":"61078"},
-{"votes":13282,"id":"60998"},
-{"votes":7783,"id":"60578"},
-{"votes":3862,"id":"60579"}]}},
+{"votes":604598,"id":"59911"},
+{"votes":593911,"id":"61077"},
+{"votes":26594,"id":"59783"},
+{"votes":15017,"id":"61078"},
+{"votes":13428,"id":"60998"},
+{"votes":7868,"id":"60578"},
+{"votes":3900,"id":"60579"}]}},
 "Governor":
 {"":
 {"votes":[
