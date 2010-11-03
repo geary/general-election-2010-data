@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 08:43 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 08:49 AM","totals":
 {"races":
 {"President":
 {"":
@@ -1738,13 +1738,13 @@ votesReady( {"dttime":"Nov 03,2010 08:43 AM","totals":
 "Proposition":
 {"19 - Legalize Marijuana":
 {"votes":[
-{"votes":3785744,"id":"3"},
-{"votes":3259595,"id":"2"}],
+{"votes":3789423,"id":"3"},
+{"votes":3261373,"id":"2"}],
 "final":"3"},
 "25 - Budget Vote":
 {"votes":[
-{"votes":3718828,"id":"2"},
-{"votes":3046906,"id":"3"}],
+{"votes":3721252,"id":"2"},
+{"votes":3049769,"id":"3"}],
 "final":"2"}}},
 "precincts":
 {"total":565,"reporting":516},
