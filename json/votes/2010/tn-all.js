@@ -1,11 +1,11 @@
-votesReady( {"dttime":"Nov 02,2010 11:35 PM","totals":
+votesReady( {"dttime":"Nov 02,2010 11:42 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":122671,"id":"59572"},
-{"votes":25974,"id":"60957"},
-{"votes":3095,"id":"60958"}],
+{"votes":122985,"id":"59572"},
+{"votes":26038,"id":"60957"},
+{"votes":3109,"id":"60958"}],
 "final":"59572"},
 "3":
 {"votes":[
@@ -82,31 +82,31 @@ votesReady( {"dttime":"Nov 02,2010 11:35 PM","totals":
 "Amendment":
 {"Hunting and Fishing":
 {"votes":[
-{"votes":1277175,"id":"2"},
-{"votes":145580,"id":"3"}],
+{"votes":1281656,"id":"2"},
+{"votes":146443,"id":"3"}],
 "final":"2"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":1033961,"id":"60948"},
-{"votes":520755,"id":"60947"},
-{"votes":6386,"id":"655"},
-{"votes":4608,"id":"60950"},
-{"votes":4567,"id":"60949"},
-{"votes":2541,"id":"50460"},
-{"votes":2000,"id":"60955"},
-{"votes":1837,"id":"51872"},
-{"votes":1707,"id":"60951"},
-{"votes":1182,"id":"60989"},
-{"votes":977,"id":"60946"},
-{"votes":850,"id":"648"},
-{"votes":813,"id":"60953"},
-{"votes":782,"id":"60956"},
-{"votes":583,"id":"60952"},
-{"votes":569,"id":"60954"}],
+{"votes":1035947,"id":"60948"},
+{"votes":524600,"id":"60947"},
+{"votes":6419,"id":"655"},
+{"votes":4621,"id":"60950"},
+{"votes":4604,"id":"60949"},
+{"votes":2552,"id":"50460"},
+{"votes":2010,"id":"60955"},
+{"votes":1862,"id":"51872"},
+{"votes":1717,"id":"60951"},
+{"votes":1196,"id":"60989"},
+{"votes":982,"id":"60946"},
+{"votes":854,"id":"648"},
+{"votes":816,"id":"60953"},
+{"votes":789,"id":"60956"},
+{"votes":586,"id":"60952"},
+{"votes":571,"id":"60954"}],
 "final":"60948"}}},
 "precincts":
-{"total":247,"reporting":245},
+{"total":247,"reporting":247},
 "abbr":"TN","name":"Tennessee"},
 "state":"TN","candidates":
 {"60988":"Ind|Sullivan|Sandra Sullivan","60989":"Ind|Smith|Thomas Smith","50460":"Ind|Griffin|June Griffin","60982":"Dem|Rabidoux|Greg Rabidoux","60983":"GOP|Fincher|Stephen Fincher","665":"GOP|Duncan|John Duncan","60981":"Ind|Sprague|Stephen Sprague","60986":"GOP|Bergmann|Charlotte Bergmann","60987":"Ind|Steele|Perry Steele","60984":"Ind|Janes|Donn Janes","60985":"Ind|Rawles|Mark Rawles","59573":"Dem|Hancock|David Hancock","59572":"GOP|Roe|Phil Roe","60956":"Ind|Reesor|James Reesor","1426":"Dem|Wolfe|John Wolfe","1428":"Dem|Davis|Lincoln Davis","60979":"Ind|Hay|Tommy Hay","58195":"GOP|Black|Diane Black","41288":"Dem|Cohen|Steve Cohen","60980":"Ind|Purcell|David Purcell","60978":"Ind|Gore|Brandon Gore","60959":"Ind|Andrew|D.H. Andrew","60958":"Ind|Steck|Kermit Steck","60973":"Ind|Collings|Stephen Collings","60954":"Ind|McFolin|Donald McFolin","60957":"Dem|Clark|Michael Clark","60970":"Ind|Curtis|Paul Curtis","60977":"Ind|Whitfield|James Whitfield","60993":"Ind|Moore|Joe Moore","60975":"Ind|Miller|Jackie Miller","60974":"Ind|Crook|Bill Crook","3":"|No| No","60990":"Ind|Goodwin|Gregory Goodwin","676":"Dem|Cooper|Jim Cooper","60992":"Ind|Johnson|Richard Johnson","60995":"Ind|Boyd|Jim Boyd","60994":"Ind|Smith|John Smith","60996":"Ind|Stone|J.W. Stone","61093":"Dem|Carter|Brett Carter","61092":"GOP|Hall|David Hall","61091":"GOP|DesJarlais|Scott DesJarlais","51872":"Ind|Switzer|Howard Switzer","59778":"Ind|Miglietta|John Miglietta","648":"Ind|Gatchell|David Gatchell","59775":"Ind|Gray|James Gray","2":"|Yes| Yes","655":"Ind|Whitaker|Carl Whitaker","60971":"Ind|York|Gerald York","60964":"GOP|Fleischmann|Chuck Fleischmann","60965":"Ind|Barkman|Don Barkman","60966":"Ind|DeVol|Mark DeVol","60967":"Ind|Humphries|Robert Humphries","60960":"Ind|Headings|James Headings","60961":"Ind|Leinweber|Joseph Leinweber","60962":"Ind|Samples|Greg Samples","60950":"Ind|Dodds|Brandon Dodds","60951":"Ind|Duck|Samuel Duck","60968":"Ind|Kiah|Mo Kiah","60969":"Ind|Kyriakidis|Savas Kyriakidis","60976":"Ind|Taylor|Clark Taylor","60955":"Ind|Perry|Linda Perry","60948":"GOP|Haslam|Bill Haslam","60949":"Ind|Binkley|Bayron Binkley","60946":"Ind|Hall|Toni Hall","60947":"Dem|McWherter|Mike McWherter","60952":"Ind|Knois|Mike Knois","58273":"Dem|Herron|Roy Herron","60953":"Ind|McCall|Boyce McCall","682":"GOP|Blackburn|Marsha Blackburn"},

@@ -1,8 +1,8 @@
-votesReady( {"dttime":"Nov 02,2010 11:35 PM","totals":
+votesReady( {"dttime":"Nov 02,2010 11:42 PM","totals":
 {"name":"Massachusetts","fix":
 {"Barnstable":"Barnstable Town","Manchester":"Manchester-by-the-Sea"},
 "precincts":
-{"total":255,"reporting":203},
+{"total":255,"reporting":205},
 "races":
 {"U.S. House":
 {"10":
@@ -15,9 +15,9 @@ votesReady( {"dttime":"Nov 02,2010 11:35 PM","totals":
 "final":"22757"},
 "1":
 {"votes":[
-{"votes":106188,"id":"880"},
-{"votes":59086,"id":"60669"},
-{"votes":9004,"id":"61227"}],
+{"votes":106960,"id":"880"},
+{"votes":59378,"id":"60669"},
+{"votes":9074,"id":"61227"}],
 "final":"880"},
 "3":
 {"votes":[
@@ -32,10 +32,10 @@ votesReady( {"dttime":"Nov 02,2010 11:35 PM","totals":
 "final":"882"},
 "5":
 {"votes":[
-{"votes":111880,"id":"59617"},
-{"votes":86872,"id":"61039"},
-{"votes":4056,"id":"61233"},
-{"votes":1553,"id":"61234"}],
+{"votes":112845,"id":"59617"},
+{"votes":87397,"id":"61039"},
+{"votes":4075,"id":"61233"},
+{"votes":1556,"id":"61234"}],
 "final":"59617"},
 "4":
 {"votes":[
@@ -51,14 +51,14 @@ votesReady( {"dttime":"Nov 02,2010 11:35 PM","totals":
 "final":"888"},
 "6":
 {"votes":[
-{"votes":121456,"id":"887"},
-{"votes":89103,"id":"61038"}],
+{"votes":123792,"id":"887"},
+{"votes":92175,"id":"61038"}],
 "final":"887"},
 "9":
 {"votes":[
-{"votes":141016,"id":"890"},
-{"votes":52709,"id":"61236"},
-{"votes":11546,"id":"61237"}],
+{"votes":143811,"id":"890"},
+{"votes":53960,"id":"61236"},
+{"votes":11761,"id":"61237"}],
 "final":"890"},
 "8":
 {"votes":[
@@ -67,10 +67,10 @@ votesReady( {"dttime":"Nov 02,2010 11:35 PM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":1013196,"id":"51516"},
-{"votes":868049,"id":"60668"},
-{"votes":168087,"id":"22674"},
-{"votes":29389,"id":"895"}],
+{"votes":1027550,"id":"51516"},
+{"votes":877113,"id":"60668"},
+{"votes":169502,"id":"22674"},
+{"votes":29864,"id":"895"}],
 "final":"51516"}}},
 "abbr":"MA","votesby":"town"},
 "state":"MA","candidates":
