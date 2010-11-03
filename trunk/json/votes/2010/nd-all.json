@@ -1,21 +1,21 @@
-{"dttime":"Nov 02, 2010 09:18 PM","totals":
+{"dttime":"Nov 02, 2010 09:19 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":4198,"id":"591"},
-{"votes":4193,"id":"56129"}]}},
+{"votes":4943,"id":"56129"},
+{"votes":4879,"id":"591"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":6645,"id":"1780"},
-{"votes":1716,"id":"60744"},
-{"votes":95,"id":"60745"}],
+{"votes":7643,"id":"1780"},
+{"votes":2149,"id":"60744"},
+{"votes":127,"id":"60745"}],
 "final":"1780"}}},
 "precincts":
-{"total":505,"reporting":17},
+{"total":505,"reporting":21},
 "abbr":"ND","name":"North Dakota"},
 "state":"ND","candidates":
-{"591":"Dem|Pomeroy|Earl Pomeroy","56129":"GOP|Berg|Rick Berg","60744":"Dem|Potter|Tracy Potter","60745":"Lib|Hanson|Keith Hanson","1780":"GOP|Hoeven|John Hoeven"},
+{"56129":"GOP|Berg|Rick Berg","591":"Dem|Pomeroy|Earl Pomeroy","60744":"Dem|Potter|Tracy Potter","60745":"Lib|Hanson|Keith Hanson","1780":"GOP|Hoeven|John Hoeven"},
 "total":0,"locals":
 {}}
