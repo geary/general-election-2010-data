@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 04:47 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 04:50 AM","totals":
 {"name":"Maine","fix":
 {},
 "precincts":
