@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 11:34 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 11:40 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -36,7 +36,7 @@ votesReady( {"dttime":"Nov 03,2010 11:34 AM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":715362,"id":"1750"},
+{"votes":715325,"id":"1750"},
 {"votes":511798,"id":"60190"},
 {"votes":16262,"id":"38806"},
 {"votes":13556,"id":"61142"},
@@ -61,7 +61,7 @@ votesReady( {"dttime":"Nov 03,2010 11:34 AM","totals":
 {"votes":533781,"id":"2"}],
 "final":"3"}}},
 "precincts":
-{"total":1000,"reporting":940},
+{"total":1000,"reporting":941},
 "abbr":"OR","name":"Oregon"},
 "state":"OR","candidates":
 {"60200":"GOP|Dudley|Chris Dudley","51866":"PAG|Lugo|Chris Lugo","38736":"GOP|Bruun|Scott Bruun","60190":"GOP|Huffman|Jim Huffman","61134":"Lib|Wagner|Wes Wagner","3":"|No| No","2":"|Yes| Yes","39371":"Lib|Tabor|Joe Tabor","61132":"CST|LaMunyon|Don LaMunyon","61133":"CST|Kord|Greg Kord","59807":"PAG|Beilstein|Mike Beilstein","1750":"Dem|Wyden|Ron Wyden","59846":"PAG|Henry|Chris Henry","59797":"PAG|Meo|Michael Meo","58449":"GOP|Lopez|Delia Lopez","484":"Dem|DeFazio|Peter DeFazio","482":"Dem|Blumenauer|Earl Blumenauer","481":"GOP|Walden|Greg Walden","38806":"WF|Cronk|Bruce Cronk","60612":"GOP|Robinson|Art Robinson","60610":"GOP|Cornilles|Rob Cornilles","60611":"Dem|Segers|Joyce Segers","61141":"Lib|Lawrence|Jeff Lawrence","57501":"Dem|Schrader|Kurt Schrader","61143":"Prg|Staggenborg|Rick Staggenborg","61142":"Lib|Delphine|Marc Delphine","39053":"Dem|Kitzhaber|John Kitzhaber","478":"Dem|Wu|David Wu"},

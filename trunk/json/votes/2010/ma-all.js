@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 11:34 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 11:40 AM","totals":
 {"name":"Massachusetts","fix":
 {"Barnstable":"Barnstable Town","Manchester":"Manchester-by-the-Sea"},
 "precincts":
@@ -56,9 +56,9 @@ votesReady( {"dttime":"Nov 03,2010 11:34 AM","totals":
 "final":"887"},
 "9":
 {"votes":[
-{"votes":143811,"id":"890"},
-{"votes":53960,"id":"61236"},
-{"votes":11761,"id":"61237"}],
+{"votes":148722,"id":"890"},
+{"votes":57300,"id":"61236"},
+{"votes":12107,"id":"61237"}],
 "final":"890"},
 "8":
 {"votes":[

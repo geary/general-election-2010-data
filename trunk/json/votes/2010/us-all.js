@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 11:34 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 11:40 AM","totals":
 {"races":
 {"President":
 {"":
@@ -651,10 +651,10 @@ votesReady( {"dttime":"Nov 03,2010 11:34 AM","totals":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":125904,"id":"60527"},
-{"votes":101714,"id":"58553"},
-{"votes":14408,"id":"56227"},
-{"votes":4681,"id":"60567"}],
+{"votes":126055,"id":"60527"},
+{"votes":101870,"id":"58553"},
+{"votes":14436,"id":"56227"},
+{"votes":4690,"id":"60567"}],
 "final":"60527"},
 "2":
 {"votes":[
@@ -665,9 +665,9 @@ votesReady( {"dttime":"Nov 03,2010 11:34 AM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":318231,"id":"81"},
-{"votes":111626,"id":"60565"},
-{"votes":17342,"id":"60566"}],
+{"votes":318468,"id":"81"},
+{"votes":111709,"id":"60565"},
+{"votes":17369,"id":"60566"}],
 "final":"81"}},
 "Governor":
 {"":
@@ -679,7 +679,7 @@ votesReady( {"dttime":"Nov 03,2010 11:34 AM","totals":
 {"votes":3834,"id":"56769"}],
 "final":"501"}}},
 "precincts":
-{"total":472,"reporting":471},
+{"total":472,"reporting":472},
 "abbr":"ID","name":"Idaho"},
 "Wyoming":
 {"races":
@@ -1314,7 +1314,7 @@ votesReady( {"dttime":"Nov 03,2010 11:34 AM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":715362,"id":"1750"},
+{"votes":715325,"id":"1750"},
 {"votes":511798,"id":"60190"},
 {"votes":16262,"id":"38806"},
 {"votes":13556,"id":"61142"},
@@ -1339,7 +1339,7 @@ votesReady( {"dttime":"Nov 03,2010 11:34 AM","totals":
 {"votes":533781,"id":"2"}],
 "final":"3"}}},
 "precincts":
-{"total":1000,"reporting":940},
+{"total":1000,"reporting":941},
 "abbr":"OR","name":"Oregon"},
 "Connecticut":
 {"name":"Connecticut","precincts":
@@ -1386,9 +1386,9 @@ votesReady( {"dttime":"Nov 03,2010 11:34 AM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":530027,"id":"60571"},
-{"votes":528970,"id":"9881"},
-{"votes":16627,"id":"61100"}]}}},
+{"votes":532238,"id":"60571"},
+{"votes":530899,"id":"9881"},
+{"votes":16665,"id":"61100"}]}}},
 "abbr":"CT","votesby":"town"},
 "Montana":
 {"name":"Montana","fix":
@@ -1808,9 +1808,9 @@ votesReady( {"dttime":"Nov 03,2010 11:34 AM","totals":
 "final":"887"},
 "9":
 {"votes":[
-{"votes":143811,"id":"890"},
-{"votes":53960,"id":"61236"},
-{"votes":11761,"id":"61237"}],
+{"votes":148722,"id":"890"},
+{"votes":57300,"id":"61236"},
+{"votes":12107,"id":"61237"}],
 "final":"890"},
 "8":
 {"votes":[
@@ -2133,16 +2133,16 @@ votesReady( {"dttime":"Nov 03,2010 11:34 AM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":1458111,"id":"835"},
-{"votes":971386,"id":"13241"},
-{"votes":67527,"id":"61027"}],
+{"votes":1462823,"id":"835"},
+{"votes":986338,"id":"13241"},
+{"votes":67739,"id":"61027"}],
 "final":"835"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":1337343,"id":"841"},
-{"votes":1079237,"id":"824"},
-{"votes":101220,"id":"61029"}],
+{"votes":1341589,"id":"841"},
+{"votes":1094621,"id":"824"},
+{"votes":101720,"id":"61029"}],
 "final":"841"}}},
 "precincts":
 {"total":2902,"reporting":2902},
@@ -3673,22 +3673,22 @@ votesReady( {"dttime":"Nov 03,2010 11:34 AM","totals":
 "final":"59613"},
 "2":
 {"votes":[
-{"votes":137535,"id":"585"},
-{"votes":113483,"id":"60617"}],
+{"votes":137980,"id":"585"},
+{"votes":113916,"id":"60617"}],
 "final":"585"}},
 "Question":
 {"1 - Oxford County Casino":
 {"votes":[
-{"votes":264781,"id":"2"},
-{"votes":260100,"id":"3"}]}},
+{"votes":265128,"id":"2"},
+{"votes":260593,"id":"3"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":204727,"id":"60414"},
-{"votes":197333,"id":"60614"},
-{"votes":102562,"id":"60416"},
-{"votes":27125,"id":"60615"},
-{"votes":5363,"id":"60616"}],
+{"votes":205080,"id":"60414"},
+{"votes":197710,"id":"60614"},
+{"votes":102690,"id":"60416"},
+{"votes":27147,"id":"60615"},
+{"votes":5372,"id":"60616"}],
 "final":"60414"}}},
 "abbr":"ME"},
 "Rhode Island":
