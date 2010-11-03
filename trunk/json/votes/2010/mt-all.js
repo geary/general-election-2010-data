@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 03:39 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 03:41 AM","totals":
 {"name":"Montana","fix":
 {"Lewis & Clark":"Lewis and Clark"},
 "precincts":
