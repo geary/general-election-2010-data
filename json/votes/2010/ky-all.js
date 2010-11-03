@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 01:59 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 02:01 AM","totals":
 {"name":"Kentucky","fix":
 {"LaRue":"Larue"},
 "precincts":
@@ -39,7 +39,7 @@ votesReady( {"dttime":"Nov 03,2010 01:59 AM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":758856,"id":"60208"},
+{"votes":759003,"id":"60208"},
 {"votes":598196,"id":"204"}],
 "final":"60208"}}},
 "abbr":"KY"},
