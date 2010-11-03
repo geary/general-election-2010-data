@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 12:55 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 12:57 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -13,9 +13,9 @@ votesReady( {"dttime":"Nov 03,2010 12:55 AM","totals":
 "final":"60345"},
 "3":
 {"votes":[
-{"votes":120946,"id":"57891"},
-{"votes":68906,"id":"59676"},
-{"votes":2810,"id":"60680"}],
+{"votes":125513,"id":"57891"},
+{"votes":72436,"id":"59676"},
+{"votes":2868,"id":"60680"}],
 "final":"57891"},
 "2":
 {"votes":[
@@ -46,20 +46,20 @@ votesReady( {"dttime":"Nov 03,2010 12:55 AM","totals":
 "Amendment":
 {"1 - Hunting and Fishing":
 {"votes":[
-{"votes":1025865,"id":"2"},
-{"votes":127955,"id":"3"}],
+{"votes":1032272,"id":"2"},
+{"votes":128837,"id":"3"}],
 "final":"2"},
 "2 - Secret Ballot":
 {"votes":[
-{"votes":992011,"id":"2"},
-{"votes":160108,"id":"3"}],
+{"votes":998166,"id":"2"},
+{"votes":161179,"id":"3"}],
 "final":"2"}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":743563,"id":"610"},
-{"votes":327463,"id":"60335"},
-{"votes":112086,"id":"60671"}],
+{"votes":748412,"id":"610"},
+{"votes":330428,"id":"60335"},
+{"votes":112351,"id":"60671"}],
 "final":"610"}},
 "Governor":
 {"":

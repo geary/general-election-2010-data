@@ -1,12 +1,12 @@
-{"dttime":"Nov 03,2010 12:55 AM","totals":
+{"dttime":"Nov 03,2010 12:57 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":76103,"id":"489"},
-{"votes":43511,"id":"51987"},
-{"votes":1932,"id":"30396"},
-{"votes":1419,"id":"60751"}],
+{"votes":78732,"id":"489"},
+{"votes":45198,"id":"51987"},
+{"votes":2009,"id":"30396"},
+{"votes":1479,"id":"60751"}],
 "final":"489"},
 "3":
 {"votes":[
@@ -37,23 +37,23 @@
 "Question":
 {"4 - Eminent Domain":
 {"votes":[
-{"votes":313528,"id":"3"},
-{"votes":152748,"id":"2"}],
+{"votes":322825,"id":"3"},
+{"votes":155685,"id":"2"}],
 "final":"3"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":281316,"id":"30767"},
-{"votes":221550,"id":"30739"},
-{"votes":8836,"id":"100013"},
-{"votes":4471,"id":"60755"},
-{"votes":3470,"id":"59554"},
-{"votes":3103,"id":"60757"},
-{"votes":3040,"id":"60754"},
-{"votes":2309,"id":"60756"}],
+{"votes":282925,"id":"30767"},
+{"votes":219649,"id":"30739"},
+{"votes":8910,"id":"100013"},
+{"votes":4505,"id":"60755"},
+{"votes":3508,"id":"59554"},
+{"votes":3127,"id":"60757"},
+{"votes":3063,"id":"60754"},
+{"votes":2318,"id":"60756"}],
 "final":"30767"}}},
 "precincts":
-{"total":492,"reporting":143},
+{"total":492,"reporting":316},
 "abbr":"NV","name":"Nevada"},
 "state":"NV","candidates":
 {"30718":"Dem|Price|Nancy Price","60751":"Lib|Klapproth|Ed Klapproth","30878":"Dem|Titus|Dina Titus","60747":"IAP|Fasano|Tim Fasano","51987":"GOP|Wegner|Kenneth Wegner","60689":"GOP|Heck|Joe Heck","60746":"TEA|Ashjian|Scott Ashjian","59552":"Ind|Reeves|Jeffrey Reeves","60748":"Ind|Haines|Michael Haines","60749":"Ind|Holland|Jesse Holland","56895":"GOP|Angle|Sharron Angle","51349":"Lib|Silvestri|Joseph Silvestri","30423":"GOP|Heller|Dean Heller","3":"|No| No","2":"|Yes| Yes","100013":"NPD|None of these candidates| None of these candidates","30767":"GOP|Sandoval|Brian Sandoval","30396":"IAP|Hansen|Jonathan Hansen","60756":"Ind|Honig|Aaron Honig","60755":"Ind|Disimone|Eugene Disimone","60754":"Grn|Curtis|David Curtis","60753":"IAP|Narter|Scott Narter","60752":"IAP|Best|Russell Best","489":"Dem|Berkley|Shelley Berkley","60750":"Ind|Stand|Wil Stand","59549":"Ind|Michaels|Barry Michaels","60757":"Lib|Lampitt|Arthur Lampitt","59554":"IAP|Fitzgibbons|Floyd Fitzgibbons","30739":"Dem|Reid|Rory Reid","1741":"Dem|Reid|Harry Reid"},

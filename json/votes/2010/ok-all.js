@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 12:55 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 12:57 AM","totals":
 {"name":"Oklahoma","fix":
 {"LeFlore":"Le Flore"},
 "precincts":
@@ -37,23 +37,23 @@ votesReady( {"dttime":"Nov 03,2010 12:55 AM","totals":
 {"votes":709540,"id":"37351"},
 {"votes":263616,"id":"38273"},
 {"votes":24862,"id":"59449"},
-{"votes":8743,"id":"61099"}],
+{"votes":8733,"id":"61099"}],
 "final":"37351"}},
 "Question":
 {"751 - English Official Language":
 {"votes":[
-{"votes":732934,"id":"2"},
-{"votes":237864,"id":"3"}],
+{"votes":739231,"id":"2"},
+{"votes":239231,"id":"3"}],
 "final":"2"},
 "756 - Health Care":
 {"votes":[
-{"votes":632283,"id":"2"},
-{"votes":345432,"id":"3"}],
+{"votes":637876,"id":"2"},
+{"votes":347532,"id":"3"}],
 "final":"2"},
 "755 - Ban Intl or Islamic Law":
 {"votes":[
-{"votes":687726,"id":"2"},
-{"votes":296023,"id":"3"}],
+{"votes":693811,"id":"2"},
+{"votes":297686,"id":"3"}],
 "final":"2"},
 "746 - Voter ID":
 {"votes":[

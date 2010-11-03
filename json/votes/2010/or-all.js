@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 12:55 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 12:57 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -18,8 +18,8 @@ votesReady( {"dttime":"Nov 03,2010 12:55 AM","totals":
 "final":"482"},
 "2":
 {"votes":[
-{"votes":98184,"id":"481"},
-{"votes":30733,"id":"60611"}],
+{"votes":135410,"id":"481"},
+{"votes":46035,"id":"60611"}],
 "final":"481"},
 "5":
 {"votes":[
@@ -35,19 +35,19 @@ votesReady( {"dttime":"Nov 03,2010 12:55 AM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":522607,"id":"1750"},
-{"votes":368927,"id":"60190"},
-{"votes":11192,"id":"38806"},
-{"votes":9177,"id":"61142"},
-{"votes":8409,"id":"61143"}],
+{"votes":549515,"id":"1750"},
+{"votes":393890,"id":"60190"},
+{"votes":11868,"id":"38806"},
+{"votes":9726,"id":"61142"},
+{"votes":8821,"id":"61143"}],
 "final":"1750"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":451057,"id":"60200"},
-{"votes":449178,"id":"39053"},
-{"votes":12258,"id":"61133"},
-{"votes":11745,"id":"61134"}]}},
+{"votes":480589,"id":"60200"},
+{"votes":470061,"id":"39053"},
+{"votes":13123,"id":"61133"},
+{"votes":12436,"id":"61134"}]}},
 "Measure":
 {"75 - Multnomah Casino":
 {"votes":[
@@ -59,7 +59,7 @@ votesReady( {"dttime":"Nov 03,2010 12:55 AM","totals":
 {"votes":509886,"id":"3"},
 {"votes":369662,"id":"2"}]}}},
 "precincts":
-{"total":1000,"reporting":617},
+{"total":1000,"reporting":654},
 "abbr":"OR","name":"Oregon"},
 "state":"OR","candidates":
 {"60200":"GOP|Dudley|Chris Dudley","51866":"PAG|Lugo|Chris Lugo","38736":"GOP|Bruun|Scott Bruun","60190":"GOP|Huffman|Jim Huffman","61134":"Lib|Wagner|Wes Wagner","3":"|No| No","2":"|Yes| Yes","39371":"Lib|Tabor|Joe Tabor","61132":"CST|LaMunyon|Don LaMunyon","61133":"CST|Kord|Greg Kord","59807":"PAG|Beilstein|Mike Beilstein","1750":"Dem|Wyden|Ron Wyden","59846":"PAG|Henry|Chris Henry","59797":"PAG|Meo|Michael Meo","58449":"GOP|Lopez|Delia Lopez","484":"Dem|DeFazio|Peter DeFazio","482":"Dem|Blumenauer|Earl Blumenauer","481":"GOP|Walden|Greg Walden","38806":"WF|Cronk|Bruce Cronk","60612":"GOP|Robinson|Art Robinson","60610":"GOP|Cornilles|Rob Cornilles","60611":"Dem|Segers|Joyce Segers","61141":"Lib|Lawrence|Jeff Lawrence","57501":"Dem|Schrader|Kurt Schrader","61143":"Prg|Staggenborg|Rick Staggenborg","61142":"Lib|Delphine|Marc Delphine","39053":"Dem|Kitzhaber|John Kitzhaber","478":"Dem|Wu|David Wu"},

@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 12:55 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 12:57 AM","totals":
 {"name":"Missouri","fix":
 {"LaClede":"Laclede"},
 "precincts":
@@ -25,10 +25,10 @@ votesReady( {"dttime":"Nov 03,2010 12:55 AM","totals":
 "final":"937"},
 "5":
 {"votes":[
-{"votes":122610,"id":"50040"},
-{"votes":119816,"id":"51614"},
-{"votes":4199,"id":"50430"},
-{"votes":2428,"id":"60809"}],
+{"votes":101076,"id":"50040"},
+{"votes":84415,"id":"51614"},
+{"votes":3068,"id":"50430"},
+{"votes":1687,"id":"60809"}],
 "final":"50040"},
 "4":
 {"votes":[
