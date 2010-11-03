@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 01:00 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 01:02 AM","totals":
 {"name":"Connecticut","precincts":
 {"total":156,"reporting":127},
 "races":
@@ -24,8 +24,8 @@ votesReady( {"dttime":"Nov 03,2010 01:00 AM","totals":
 "final":"1231"},
 "5":
 {"votes":[
-{"votes":86420,"id":"52147"},
-{"votes":79974,"id":"60576"}],
+{"votes":96805,"id":"52147"},
+{"votes":84819,"id":"60576"}],
 "final":"52147"},
 "4":
 {"votes":[

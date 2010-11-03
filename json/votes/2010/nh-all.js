@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 01:00 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 01:02 AM","totals":
 {"name":"New Hampshire","fix":
 {"":"Atkinson and Gilmanton Academy"},
 "precincts":
@@ -21,7 +21,7 @@ votesReady( {"dttime":"Nov 03,2010 01:00 AM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":242128,"id":"61040"},
+{"votes":242130,"id":"61040"},
 {"votes":144990,"id":"50448"},
 {"votes":8100,"id":"61219"},
 {"votes":4134,"id":"1075"}],

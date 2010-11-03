@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 01:00 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 01:02 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -20,7 +20,7 @@ votesReady( {"dttime":"Nov 03,2010 01:00 AM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":323916,"id":"29894"},
+{"votes":323921,"id":"29894"},
 {"votes":114024,"id":"29957"}],
 "final":"29894"}}},
 "precincts":
