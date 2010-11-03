@@ -1,10 +1,10 @@
-{"dttime":"Nov 03,2010 01:00 AM","totals":
+{"dttime":"Nov 03,2010 01:02 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
 {"votes":[
 {"votes":152198,"id":"60394"},
-{"votes":144075,"id":"581"},
+{"votes":144105,"id":"581"},
 {"votes":18920,"id":"60708"}],
 "final":"60394"}},
 "Amendment":
@@ -22,8 +22,8 @@
 "Governor":
 {"":
 {"votes":[
-{"votes":190948,"id":"40715"},
-{"votes":118571,"id":"60690"}],
+{"votes":193059,"id":"40715"},
+{"votes":119830,"id":"60690"}],
 "final":"40715"}},
 "U.S. Senate":
 {"":
