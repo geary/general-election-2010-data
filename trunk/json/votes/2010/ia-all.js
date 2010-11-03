@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 02,2010 11:29 PM","totals":
+votesReady( {"dttime":"Nov 02,2010 11:32 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -10,9 +10,9 @@ votesReady( {"dttime":"Nov 02,2010 11:29 PM","totals":
 "final":"51431"},
 "3":
 {"votes":[
-{"votes":87116,"id":"535"},
-{"votes":77971,"id":"60403"},
-{"votes":4230,"id":"61111"}],
+{"votes":88869,"id":"535"},
+{"votes":81183,"id":"60403"},
+{"votes":4405,"id":"61111"}],
 "final":"535"},
 "2":
 {"votes":[
@@ -23,34 +23,34 @@ votesReady( {"dttime":"Nov 02,2010 11:29 PM","totals":
 "final":"51537"},
 "5":
 {"votes":[
-{"votes":78091,"id":"539"},
-{"votes":38481,"id":"60558"},
-{"votes":2007,"id":"61113"}],
+{"votes":79573,"id":"539"},
+{"votes":39140,"id":"60558"},
+{"votes":2067,"id":"61113"}],
 "final":"539"},
 "4":
 {"votes":[
-{"votes":73206,"id":"537"},
-{"votes":37727,"id":"60559"},
-{"votes":2483,"id":"61112"}],
+{"votes":80836,"id":"537"},
+{"votes":40460,"id":"60559"},
+{"votes":2755,"id":"61112"}],
 "final":"537"}},
 "U.S. Senate":
 {"2010":
 {"votes":[
-{"votes":367235,"id":"1717"},
-{"votes":199452,"id":"60379"},
-{"votes":11930,"id":"61106"}],
+{"votes":382188,"id":"1717"},
+{"votes":204163,"id":"60379"},
+{"votes":12256,"id":"61106"}],
 "final":"1717"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":300005,"id":"60381"},
-{"votes":253296,"id":"19289"},
-{"votes":10266,"id":"61114"},
-{"votes":6734,"id":"19282"},
-{"votes":2062,"id":"61116"},
-{"votes":1487,"id":"61115"}]}}},
+{"votes":311743,"id":"60381"},
+{"votes":259450,"id":"19289"},
+{"votes":10925,"id":"61114"},
+{"votes":6968,"id":"19282"},
+{"votes":2125,"id":"61116"},
+{"votes":1539,"id":"61115"}]}}},
 "precincts":
-{"total":1873,"reporting":858},
+{"total":1873,"reporting":905},
 "abbr":"IA","name":"Iowa"},
 "state":"IA","candidates":
 {"59745":"GOP|Miller-Meeks|Mariannette Miller-Meeks","61109":"CST|Tack|Jon Tack","61108":"Ind|Faulkner|Jason Faulkner","61107":"Lib|Petsche|Rob Petsche","61106":"Lib|Heiderscheit|John Heiderscheit","60381":"GOP|Branstad|Terry Branstad","60403":"GOP|Zaun|Brad Zaun","60385":"GOP|Lange|Benjamin Lange","51537":"Dem|Loebsack|Dave Loebsack","1717":"GOP|Grassley|Chuck Grassley","51431":"Dem|Braley|Bruce Braley","61116":"Ind|Hughes|Gregory Hughes","60559":"Dem|Maske|Bill Maske","60558":"Dem|Campbell|Matthew Campbell","61114":"Oth|Narcisse|Jonathan Narcisse","61115":"SWP|Rosenfeld|David Rosenfeld","61112":"Ind|Lensing|Dan Lensing","61113":"Ind|Monroe|Martin Monroe","61110":"Lib|Sicard|Gary Sicard","61111":"SWP|Williamson|Rebecca Williamson","60379":"Dem|Conlin|Roxanne Conlin","19282":"Lib|Cooper|Eric Cooper","19289":"Dem|Culver|Chet Culver","537":"GOP|Latham|Tom Latham","535":"Dem|Boswell|Leonard Boswell","539":"GOP|King|Steve King"},

@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 02,2010 11:29 PM","totals":
+votesReady( {"dttime":"Nov 02,2010 11:32 PM","totals":
 {"name":"Minnesota","fix":
 {"Lac Qui Parle":"Lac qui Parle"},
 "precincts":
@@ -51,20 +51,20 @@ votesReady( {"dttime":"Nov 02,2010 11:29 PM","totals":
 "final":"55336"},
 "8":
 {"votes":[
-{"votes":25633,"id":"996"},
-{"votes":17937,"id":"60719"},
-{"votes":1373,"id":"60726"},
-{"votes":367,"id":"60720"}]}},
+{"votes":28224,"id":"996"},
+{"votes":19950,"id":"60719"},
+{"votes":1506,"id":"60726"},
+{"votes":396,"id":"60720"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":786411,"id":"1730"},
-{"votes":656722,"id":"60721"},
-{"votes":202299,"id":"60723"},
-{"votes":5180,"id":"60722"},
-{"votes":4912,"id":"26995"},
-{"votes":4456,"id":"980"},
-{"votes":2266,"id":"60724"}]}}},
+{"votes":789049,"id":"1730"},
+{"votes":658144,"id":"60721"},
+{"votes":202698,"id":"60723"},
+{"votes":5186,"id":"60722"},
+{"votes":4940,"id":"26995"},
+{"votes":4467,"id":"980"},
+{"votes":2276,"id":"60724"}]}}},
 "abbr":"MN"},
 "state":"MN","candidates":
 {"55208":"GOP|Demmer|Randy Demmer","989":"Dem|McCollum|Betty McCollum","55265":"Dem|Ellison|Keith Ellison","59874":"Ind|Immelman|Aubrey Immelman","985":"GOP|Kline|John Kline","60743":"Inp|Schrunk|Tom Schrunk","51531":"Dem|Walz|Tim Walz","60726":"Inp|Olson|Timothy Olson","60724":"Ind|Eno|Linda Eno","60725":"Inp|Wilson|Steven Wilson","60722":"Grn|Hakeem|Farheen Hakeem","60709":"Ind|Johnson|Lars Johnson","60720":"CST|Burton|George Burton","60721":"GOP|Emmer|Tom Emmer","1730":"Dem|Dayton|Mark Dayton","55233":"GOP|Paulsen|Erik Paulsen","61074":"Dem|Madore|Shelley Madore","26037":"Ind|Cavlan|Michael Cavlan","980":"Ind|Pentel|Ken Pentel","59610":"Inp|Anderson|Bob Anderson","996":"Dem|Oberstar|James Oberstar","1333":"Dem|Peterson|Collin Peterson","55336":"GOP|Bachmann|Michele Bachmann","26995":"GRP|Wright|Chris Wright","60723":"Inp|Horner|Tom Horner","60713":"Inp|Carlson|Steve Carlson","60712":"Dem|Meffert|Jim Meffert","60711":"Inp|Oleson|Jon Oleson","60717":"GOP|Byberg|Lee Byberg","60716":"GOP|Demos|Joel Demos","60715":"Ind|Torgerson|Lynne Torgerson","60714":"GOP|Collett|Teresa Collett","60719":"GOP|Cravaack|Chip Cravaack","60718":"Ind|Waldorf|Gene Waldorf","26560":"Inp|Menze|Glen Menze","26048":"Dem|Clark|Tarryl Clark"},
