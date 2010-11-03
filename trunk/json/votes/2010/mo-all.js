@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 01:09 PM","totals":
+votesReady( {"dttime":"Nov 03,2010 01:15 PM","totals":
 {"name":"Missouri","fix":
 {"LaClede":"Laclede"},
 "precincts":
