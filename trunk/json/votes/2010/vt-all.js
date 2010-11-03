@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 10:57 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 11:04 AM","totals":
 {"name":"Vermont","precincts":
 {"total":260,"reporting":233},
 "races":
@@ -16,7 +16,7 @@ votesReady( {"dttime":"Nov 03,2010 10:57 AM","totals":
 {"votes":131974,"id":"1760"},
 {"votes":63724,"id":"60885"},
 {"votes":3121,"id":"60888"},
-{"votes":2442,"id":"1158"},
+{"votes":2392,"id":"1158"},
 {"votes":2026,"id":"60887"},
 {"votes":1283,"id":"1157"},
 {"votes":873,"id":"60889"}],

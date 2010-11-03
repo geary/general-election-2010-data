@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 10:57 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 11:04 AM","totals":
 {"races":
 {"U.S. House":
 {"24":
@@ -42,8 +42,8 @@ votesReady( {"dttime":"Nov 03,2010 10:57 AM","totals":
 "final":"1240"},
 "3":
 {"votes":[
-{"votes":91831,"id":"1242"},
-{"votes":50047,"id":"60478"},
+{"votes":91842,"id":"1242"},
+{"votes":50064,"id":"60478"},
 {"votes":4528,"id":"60503"}],
 "final":"1242"},
 "2":
@@ -140,15 +140,15 @@ votesReady( {"dttime":"Nov 03,2010 10:57 AM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":2579974,"id":"53044"},
-{"votes":1571845,"id":"10601"},
-{"votes":1067453,"id":"865"},
-{"votes":24276,"id":"60497"},
-{"votes":14905,"id":"60494"},
-{"votes":7226,"id":"60498"},
-{"votes":4681,"id":"60492"},
-{"votes":4290,"id":"60493"},
-{"votes":4190,"id":"60495"},
+{"votes":2580195,"id":"53044"},
+{"votes":1571907,"id":"10601"},
+{"votes":1067533,"id":"865"},
+{"votes":24277,"id":"60497"},
+{"votes":14907,"id":"60494"},
+{"votes":7228,"id":"60498"},
+{"votes":4683,"id":"60492"},
+{"votes":4292,"id":"60493"},
+{"votes":4192,"id":"60495"},
 {"votes":3559,"id":"60496"}],
 "final":"53044"}},
 "Referendum":
