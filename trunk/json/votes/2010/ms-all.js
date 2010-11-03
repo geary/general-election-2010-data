@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 10:03 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 10:09 AM","totals":
 {"name":"Mississippi","fix":
 {"Jeff Davis":"Jefferson Davis"},
 "precincts":
