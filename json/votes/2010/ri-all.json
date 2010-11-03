@@ -1,4 +1,4 @@
-{"dttime":"Nov 02,2010 11:42 PM","totals":
+{"dttime":"Nov 02,2010 11:46 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -17,19 +17,20 @@
 "Question":
 {"1 - State Name Change":
 {"votes":[
-{"votes":244672,"id":"3"},
-{"votes":69259,"id":"2"}],
+{"votes":250162,"id":"3"},
+{"votes":71030,"id":"2"}],
 "final":"3"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":120265,"id":"1753"},
-{"votes":112104,"id":"61041"},
-{"votes":77786,"id":"57844"},
-{"votes":21372,"id":"61223"},
-{"votes":1074,"id":"61226"},
-{"votes":866,"id":"61225"},
-{"votes":783,"id":"61224"}]}}},
+{"votes":123398,"id":"1753"},
+{"votes":114761,"id":"61041"},
+{"votes":78776,"id":"57844"},
+{"votes":22116,"id":"61223"},
+{"votes":1087,"id":"61226"},
+{"votes":880,"id":"61225"},
+{"votes":792,"id":"61224"}],
+"final":"1753"}}},
 "precincts":
 {"total":537,"reporting":537},
 "abbr":"RI","name":"Rhode Island"},

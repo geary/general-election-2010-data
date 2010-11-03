@@ -1,8 +1,8 @@
-votesReady( {"dttime":"Nov 02,2010 11:42 PM","totals":
+votesReady( {"dttime":"Nov 02,2010 11:46 PM","totals":
 {"name":"Louisiana","fix":
 {"DeSoto":"De Soto","Jeff Davis":"Jefferson Davis","LaSalle":"La Salle"},
 "precincts":
-{"total":3877,"reporting":3838},
+{"total":3877,"reporting":3872},
 "races":
 {"U.S. House":
 {"1":
@@ -18,10 +18,10 @@ votesReady( {"dttime":"Nov 02,2010 11:42 PM","totals":
 "final":"61154"},
 "2":
 {"votes":[
-{"votes":75517,"id":"54388"},
-{"votes":40638,"id":"59650"},
-{"votes":1793,"id":"60649"},
-{"votes":597,"id":"60650"}],
+{"votes":82803,"id":"54388"},
+{"votes":43262,"id":"59650"},
+{"votes":1871,"id":"60649"},
+{"votes":637,"id":"60650"}],
 "final":"54388"},
 "5":
 {"votes":[
@@ -46,18 +46,18 @@ votesReady( {"dttime":"Nov 02,2010 11:42 PM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":713496,"id":"906"},
-{"votes":467888,"id":"21828"},
-{"votes":13884,"id":"21555"},
-{"votes":9888,"id":"21186"},
-{"votes":9099,"id":"60646"},
-{"votes":8112,"id":"54392"},
-{"votes":7430,"id":"21459"},
-{"votes":5833,"id":"60642"},
-{"votes":5712,"id":"60645"},
-{"votes":4769,"id":"60643"},
-{"votes":4011,"id":"60644"},
-{"votes":3751,"id":"1315"}],
+{"votes":715276,"id":"906"},
+{"votes":475566,"id":"21828"},
+{"votes":13946,"id":"21555"},
+{"votes":9955,"id":"21186"},
+{"votes":9178,"id":"60646"},
+{"votes":8160,"id":"54392"},
+{"votes":7466,"id":"21459"},
+{"votes":5875,"id":"60642"},
+{"votes":5732,"id":"60645"},
+{"votes":4803,"id":"60643"},
+{"votes":4037,"id":"60644"},
+{"votes":3775,"id":"1315"}],
 "final":"906"}}},
 "abbr":"LA"},
 "state":"LA","candidates":

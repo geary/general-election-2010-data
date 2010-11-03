@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 02,2010 11:42 PM","totals":
+votesReady( {"dttime":"Nov 02,2010 11:46 PM","totals":
 {"name":"Oklahoma","fix":
 {"LeFlore":"Le Flore"},
 "precincts":
@@ -42,29 +42,29 @@ votesReady( {"dttime":"Nov 02,2010 11:42 PM","totals":
 "Question":
 {"751 - English Official Language":
 {"votes":[
-{"votes":606084,"id":"2"},
-{"votes":191661,"id":"3"}],
+{"votes":672658,"id":"2"},
+{"votes":218133,"id":"3"}],
 "final":"2"},
 "756 - Health Care":
 {"votes":[
-{"votes":525199,"id":"2"},
-{"votes":281011,"id":"3"}],
+{"votes":537111,"id":"2"},
+{"votes":288399,"id":"3"}],
 "final":"2"},
 "755 - Ban Intl or Islamic Law":
 {"votes":[
-{"votes":569809,"id":"2"},
-{"votes":241326,"id":"3"}],
+{"votes":630699,"id":"2"},
+{"votes":272806,"id":"3"}],
 "final":"2"},
 "746 - Voter ID":
 {"votes":[
-{"votes":601861,"id":"2"},
-{"votes":210800,"id":"3"}],
+{"votes":677197,"id":"2"},
+{"votes":233128,"id":"3"}],
 "final":"2"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":554951,"id":"37501"},
-{"votes":370920,"id":"57325"}],
+{"votes":555410,"id":"37501"},
+{"votes":371279,"id":"57325"}],
 "final":"37501"}}},
 "abbr":"OK"},
 "state":"OK","candidates":
