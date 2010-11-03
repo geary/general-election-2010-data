@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 03:43 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 03:46 AM","totals":
 {"races":
 {"U.S. House":
 {"11":
@@ -72,7 +72,7 @@ votesReady( {"dttime":"Nov 03,2010 03:43 AM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":1335145,"id":"841"},
+{"votes":1335685,"id":"841"},
 {"votes":1073567,"id":"824"},
 {"votes":100965,"id":"61029"}],
 "final":"841"}}},
