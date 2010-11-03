@@ -1,4 +1,4 @@
-{"dttime":"Nov 03,2010 06:49 AM","totals":
+{"dttime":"Nov 03,2010 06:51 AM","totals":
 {"name":"Arkansas","fix":
 {"Saint Francis":"St. Francis"},
 "precincts":
@@ -32,10 +32,10 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":432001,"id":"1620"},
-{"votes":279041,"id":"7086"},
-{"votes":24476,"id":"60551"},
-{"votes":13983,"id":"61137"}],
+{"votes":432029,"id":"1620"},
+{"votes":279067,"id":"7086"},
+{"votes":24477,"id":"60551"},
+{"votes":13984,"id":"61137"}],
 "final":"1620"}},
 "Issue":
 {"1 - Hunting and Fishing":
