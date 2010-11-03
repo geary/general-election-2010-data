@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 03:20 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 03:23 AM","totals":
 {"name":"Kansas","precincts":
 {"total":1321,"reporting":1321},
 "races":
@@ -17,9 +17,9 @@ votesReady( {"dttime":"Nov 03,2010 03:20 AM","totals":
 "final":"54005"},
 "2":
 {"votes":[
-{"votes":127680,"id":"19867"},
-{"votes":65362,"id":"61084"},
-{"votes":9149,"id":"59786"}],
+{"votes":128032,"id":"19867"},
+{"votes":65434,"id":"61084"},
+{"votes":9161,"id":"59786"}],
 "final":"19867"},
 "4":
 {"votes":[
@@ -37,18 +37,18 @@ votesReady( {"dttime":"Nov 03,2010 03:20 AM","totals":
 "U.S. Senate":
 {"2010":
 {"votes":[
-{"votes":571087,"id":"692"},
-{"votes":213220,"id":"61083"},
-{"votes":17237,"id":"61102"},
-{"votes":11164,"id":"51224"}],
+{"votes":571435,"id":"692"},
+{"votes":213287,"id":"61083"},
+{"votes":17251,"id":"61102"},
+{"votes":11172,"id":"51224"}],
 "final":"692"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":515095,"id":"1720"},
-{"votes":261956,"id":"53995"},
-{"votes":21715,"id":"61104"},
-{"votes":14789,"id":"61103"}],
+{"votes":515422,"id":"1720"},
+{"votes":262048,"id":"53995"},
+{"votes":21729,"id":"61104"},
+{"votes":14802,"id":"61103"}],
 "final":"1720"}}},
 "abbr":"KS","votesby":"district"},
 "state":"KS","candidates":
