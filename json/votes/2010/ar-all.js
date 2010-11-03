@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 02:21 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 02:24 AM","totals":
 {"name":"Arkansas","fix":
 {"Saint Francis":"St. Francis"},
 "precincts":
@@ -40,8 +40,8 @@ votesReady( {"dttime":"Nov 03,2010 02:21 AM","totals":
 "Issue":
 {"1 - Hunting and Fishing":
 {"votes":[
-{"votes":512940,"id":"2"},
-{"votes":109412,"id":"3"}],
+{"votes":513571,"id":"2"},
+{"votes":109490,"id":"3"}],
 "final":"2"}},
 "Governor":
 {"":

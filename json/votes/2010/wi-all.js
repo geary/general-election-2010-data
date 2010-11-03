@@ -1,11 +1,11 @@
-votesReady( {"dttime":"Nov 03,2010 02:21 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 02:24 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":156990,"id":"1461"},
-{"votes":77546,"id":"60936"},
-{"votes":4008,"id":"59594"}],
+{"votes":176109,"id":"1461"},
+{"votes":78140,"id":"60936"},
+{"votes":4230,"id":"59594"}],
 "final":"1461"},
 "3":
 {"votes":[
@@ -20,9 +20,9 @@ votesReady( {"dttime":"Nov 03,2010 02:21 AM","totals":
 "final":"1092"},
 "5":
 {"votes":[
-{"votes":219249,"id":"1099"},
-{"votes":86109,"id":"60734"},
-{"votes":10360,"id":"1100"}],
+{"votes":224115,"id":"1099"},
+{"votes":87877,"id":"60734"},
+{"votes":10544,"id":"1100"}],
 "final":"1099"},
 "4":
 {"votes":[
@@ -56,14 +56,14 @@ votesReady( {"dttime":"Nov 03,2010 02:21 AM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":1101554,"id":"48976"},
-{"votes":986627,"id":"48317"},
-{"votes":10351,"id":"60798"},
-{"votes":8145,"id":"60799"},
-{"votes":6630,"id":"61275"}],
+{"votes":1109792,"id":"48976"},
+{"votes":989958,"id":"48317"},
+{"votes":10375,"id":"60798"},
+{"votes":8169,"id":"60799"},
+{"votes":6646,"id":"61275"}],
 "final":"48976"}}},
 "precincts":
-{"total":3609,"reporting":3502},
+{"total":3609,"reporting":3523},
 "abbr":"WI","name":"Wisconsin"},
 "state":"WI","candidates":
 {"59151":"Dem|Lassa|Julie Lassa","53709":"Dem|Kagen|Steven Kagen","60740":"GOP|Johnson|Ron Johnson","60742":"CST|Taylor|Rob Taylor","48730":"Dem|Moore|Gwen Moore","61200":"GOP|Sebring|Dan Sebring","60936":"Dem|Heckenlively|John Heckenlively","48976":"GOP|Walker|Scott Walker","60728":"GOP|Lee|Chad Lee","1461":"GOP|Ryan|Paul Ryan","1094":"Dem|Kind|Ron Kind","48317":"Dem|Barrett|Tom Barrett","1092":"Dem|Baldwin|Tammy Baldwin","61201":"GOP|Ribble|Reid Ribble","1099":"GOP|Sensenbrenner|Jim Sensenbrenner","60799":"Ind|James|James James","60798":"Ind|Langer|Jim Langer","60797":"Dem|Kallas|Joseph Kallas","60735":"GOP|Duffy|Sean Duffy","60734":"Dem|Kolosso|Todd Kolosso","60737":"Ind|Kauther|Gary Kauther","60730":"Ind|Krsiean|Michael Krsiean","60732":"Ind|Ayyash|Eddie Ayyash","48599":"GOP|Kapanke|Dan Kapanke","61275":"Lib|No Candidate/Virgil| No Candidate/Virgil","59594":"Lib|Kexel|Joseph Kexel","1100":"Ind|Raymond|Robert Raymond","1101":"GOP|Petri|Tom Petri","1765":"Dem|Feingold|Russ Feingold"},

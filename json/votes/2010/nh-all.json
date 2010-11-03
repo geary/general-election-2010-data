@@ -1,4 +1,4 @@
-{"dttime":"Nov 03,2010 02:21 AM","totals":
+{"dttime":"Nov 03,2010 02:24 AM","totals":
 {"name":"New Hampshire","fix":
 {"":"Atkinson and Gilmanton Academy"},
 "precincts":
@@ -9,7 +9,7 @@
 {"votes":[
 {"votes":110921,"id":"61212"},
 {"votes":88135,"id":"53539"},
-{"votes":7428,"id":"61220"}],
+{"votes":7303,"id":"61220"}],
 "final":"61212"},
 "2":
 {"votes":[
@@ -29,9 +29,9 @@
 "Governor":
 {"":
 {"votes":[
-{"votes":222895,"id":"7722"},
-{"votes":192911,"id":"59860"},
-{"votes":9563,"id":"1072"}],
+{"votes":222495,"id":"7722"},
+{"votes":193311,"id":"59860"},
+{"votes":9573,"id":"1072"}],
 "final":"7722"}}},
 "abbr":"NH","votesby":"town"},
 "state":"NH","candidates":

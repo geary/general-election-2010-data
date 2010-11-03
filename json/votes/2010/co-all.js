@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 02:21 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 02:24 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -11,8 +11,8 @@ votesReady( {"dttime":"Nov 03,2010 02:21 AM","totals":
 "final":"734"},
 "3":
 {"votes":[
-{"votes":120331,"id":"51753"},
-{"votes":109200,"id":"9344"},
+{"votes":120741,"id":"51753"},
+{"votes":115420,"id":"9344"},
 {"votes":5208,"id":"60586"},
 {"votes":4593,"id":"60999"}],
 "final":"51753"},
@@ -45,9 +45,9 @@ votesReady( {"dttime":"Nov 03,2010 02:21 AM","totals":
 "final":"9291"},
 "6":
 {"votes":[
-{"votes":183980,"id":"8993"},
-{"votes":88531,"id":"60596"},
-{"votes":7608,"id":"60598"}],
+{"votes":190186,"id":"8993"},
+{"votes":90953,"id":"60596"},
+{"votes":7924,"id":"60598"}],
 "final":"8993"}},
 "Amendment":
 {"62 - Definition of Person":
@@ -62,22 +62,22 @@ votesReady( {"dttime":"Nov 03,2010 02:21 AM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":707499,"id":"61077"},
-{"votes":698025,"id":"59911"},
-{"votes":32004,"id":"59783"},
-{"votes":18071,"id":"61078"},
-{"votes":16028,"id":"60998"},
-{"votes":9476,"id":"60578"},
-{"votes":4724,"id":"60579"}]}},
+{"votes":713445,"id":"61077"},
+{"votes":707499,"id":"59911"},
+{"votes":32190,"id":"59783"},
+{"votes":18223,"id":"61078"},
+{"votes":16108,"id":"60998"},
+{"votes":9534,"id":"60578"},
+{"votes":4743,"id":"60579"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":749998,"id":"60601"},
-{"votes":559113,"id":"751"},
-{"votes":168978,"id":"61076"},
-{"votes":10559,"id":"60604"},
+{"votes":755841,"id":"60601"},
+{"votes":557869,"id":"751"},
+{"votes":170620,"id":"61076"},
+{"votes":10686,"id":"60604"},
 {"votes":7180,"id":"60607"},
-{"votes":2813,"id":"53523"}],
+{"votes":2828,"id":"53523"}],
 "final":"60601"}}},
 "precincts":
 {"total":462,"reporting":336},
