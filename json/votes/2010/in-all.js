@@ -1,11 +1,11 @@
-votesReady( {"dttime":"Nov 02,2010 11:51 PM","totals":
+votesReady( {"dttime":"Nov 02,2010 11:54 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":96872,"id":"422"},
-{"votes":63750,"id":"1287"},
-{"votes":4604,"id":"60815"}],
+{"votes":98492,"id":"422"},
+{"votes":65122,"id":"1287"},
+{"votes":4734,"id":"60815"}],
 "final":"422"},
 "3":
 {"votes":[
@@ -59,12 +59,12 @@ votesReady( {"dttime":"Nov 02,2010 11:51 PM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":932374,"id":"18782"},
-{"votes":681214,"id":"51513"},
-{"votes":90891,"id":"19108"}],
+{"votes":933867,"id":"18782"},
+{"votes":682660,"id":"51513"},
+{"votes":91015,"id":"19108"}],
 "final":"18782"}}},
 "precincts":
-{"total":740,"reporting":707},
+{"total":740,"reporting":725},
 "abbr":"IN","name":"Indiana"},
 "state":"IN","candidates":
 {"19081":"GOP|Rokita|Todd Rokita","60424":"GOP|Young|Todd Young","51511":"Dem|Welsh|Barry Welsh","51513":"Dem|Ellsworth|Brad Ellsworth","50000":"Dem|Donnelly|Joe Donnelly","60815":"Lib|Morris|Jon Morris","59369":"Lib|Wise|Scott Wise","53911":"Dem|Van Haaften|Trent Van Haaften","60421":"GOP|Bucshon|Larry Bucshon","60423":"GOP|Walorski|Jackie Walorski","60422":"Dem|Crawford|Tim Crawford","60818":"Lib|Reid|Chard Reid","60819":"Lib|Thompson|T.J. Thompson","429":"GOP|Burton|Dan Burton","422":"Dem|Visclosky|Peter Visclosky","1295":"Dem|Hill|Baron Hill","57849":"Dem|Carson|Andre Carson","19092":"Dem|Sanders|David Sanders","60817":"Lib|Duncan|John Duncan","1936":"GOP|Scott|Marvin Scott","53887":"GOP|Stutzman|Marlin Stutzman","59422":"Lib|Vogel|Mark Vogel","51509":"Dem|Hayhurst|Thomas Hayhurst","1287":"GOP|Leyva|Mark Leyva","19108":"Lib|Sink-Burris|Rebecca Sink-Burris","18782":"GOP|Coats|Dan Coats","61068":"Ind|Trueblood|Jesse Trueblood","60822":"Lib|Cunningham|John Cunningham","60820":"Lib|Wilson|Dav Wilson","60823":"Lib|Knott|Greg Knott","431":"GOP|Pence|Mike Pence"},
