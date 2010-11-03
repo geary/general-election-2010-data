@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 10:09 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 10:15 AM","totals":
 {"races":
 {"President":
 {"":
@@ -1067,12 +1067,12 @@ votesReady( {"dttime":"Nov 03,2010 10:09 AM","totals":
 "final":"788"},
 "9":
 {"votes":[
-{"votes":123976,"id":"24973"},
-{"votes":119328,"id":"769"},
-{"votes":2591,"id":"51970"},
-{"votes":2469,"id":"1321"},
-{"votes":1844,"id":"61180"},
-{"votes":637,"id":"61181"}],
+{"votes":126155,"id":"24973"},
+{"votes":119673,"id":"769"},
+{"votes":2603,"id":"51970"},
+{"votes":2490,"id":"1321"},
+{"votes":1871,"id":"61180"},
+{"votes":648,"id":"61181"}],
 "final":"24973"},
 "8":
 {"votes":[
@@ -1123,32 +1123,32 @@ votesReady( {"dttime":"Nov 03,2010 10:09 AM","totals":
 "final":"19867"},
 "4":
 {"votes":[
-{"votes":110167,"id":"60768"},
-{"votes":69717,"id":"61085"},
-{"votes":4660,"id":"59789"},
-{"votes":4285,"id":"61243"}],
+{"votes":117171,"id":"60768"},
+{"votes":71866,"id":"61085"},
+{"votes":4885,"id":"59789"},
+{"votes":4487,"id":"61243"}],
 "final":"60768"}},
 "Amendment":
 {"1 - Right to Bear Arms":
 {"votes":[
-{"votes":691911,"id":"2"},
-{"votes":89963,"id":"3"}],
+{"votes":709742,"id":"2"},
+{"votes":91412,"id":"3"}],
 "final":"2"}},
 "U.S. Senate":
 {"2010":
 {"votes":[
-{"votes":571435,"id":"692"},
-{"votes":213287,"id":"61083"},
-{"votes":17251,"id":"61102"},
-{"votes":11172,"id":"51224"}],
+{"votes":578684,"id":"692"},
+{"votes":215249,"id":"61083"},
+{"votes":17431,"id":"61102"},
+{"votes":11354,"id":"51224"}],
 "final":"692"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":515422,"id":"1720"},
-{"votes":262048,"id":"53995"},
-{"votes":21729,"id":"61104"},
-{"votes":14802,"id":"61103"}],
+{"votes":522461,"id":"1720"},
+{"votes":264191,"id":"53995"},
+{"votes":21909,"id":"61104"},
+{"votes":15048,"id":"61103"}],
 "final":"1720"}}},
 "abbr":"KS","votesby":"district"},
 "Utah":
@@ -3097,10 +3097,10 @@ votesReady( {"dttime":"Nov 03,2010 10:09 AM","totals":
 "final":"51753"},
 "2":
 {"votes":[
-{"votes":129232,"id":"9302"},
-{"votes":89485,"id":"60691"},
-{"votes":6409,"id":"60584"},
-{"votes":4390,"id":"60585"}],
+{"votes":130374,"id":"9302"},
+{"votes":89991,"id":"60691"},
+{"votes":6444,"id":"60584"},
+{"votes":4430,"id":"60585"}],
 "final":"9302"},
 "5":
 {"votes":[
@@ -3111,10 +3111,10 @@ votesReady( {"dttime":"Nov 03,2010 10:09 AM","totals":
 "final":"9174"},
 "4":
 {"votes":[
-{"votes":127803,"id":"60588"},
-{"votes":97065,"id":"59348"},
-{"votes":11012,"id":"60589"},
-{"votes":3458,"id":"60593"}],
+{"votes":127813,"id":"60588"},
+{"votes":97089,"id":"59348"},
+{"votes":11013,"id":"60589"},
+{"votes":3468,"id":"60593"}],
 "final":"60588"},
 "7":
 {"votes":[
@@ -3131,13 +3131,13 @@ votesReady( {"dttime":"Nov 03,2010 10:09 AM","totals":
 "Amendment":
 {"62 - Definition of Person":
 {"votes":[
-{"votes":1122404,"id":"3"},
-{"votes":472594,"id":"2"}],
+{"votes":1123745,"id":"3"},
+{"votes":472910,"id":"2"}],
 "final":"3"},
 "63 - Health Care":
 {"votes":[
-{"votes":833021,"id":"3"},
-{"votes":743750,"id":"2"}]}},
+{"votes":834034,"id":"3"},
+{"votes":744331,"id":"2"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
@@ -3151,15 +3151,15 @@ votesReady( {"dttime":"Nov 03,2010 10:09 AM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":834577,"id":"60601"},
-{"votes":610126,"id":"751"},
-{"votes":185447,"id":"61076"},
-{"votes":12002,"id":"60604"},
-{"votes":7889,"id":"60607"},
-{"votes":3142,"id":"53523"}],
+{"votes":835792,"id":"60601"},
+{"votes":610548,"id":"751"},
+{"votes":185561,"id":"61076"},
+{"votes":12025,"id":"60604"},
+{"votes":7894,"id":"60607"},
+{"votes":3144,"id":"53523"}],
 "final":"60601"}}},
 "precincts":
-{"total":462,"reporting":407},
+{"total":462,"reporting":410},
 "abbr":"CO","name":"Colorado"},
 "New Jersey":
 {"races":
@@ -3662,32 +3662,32 @@ votesReady( {"dttime":"Nov 03,2010 10:09 AM","totals":
 {"name":"Maine","fix":
 {},
 "precincts":
-{"total":184,"reporting":166},
+{"total":184,"reporting":167},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":150920,"id":"59613"},
-{"votes":112780,"id":"60618"}],
+{"votes":151586,"id":"59613"},
+{"votes":113516,"id":"60618"}],
 "final":"59613"},
 "2":
 {"votes":[
-{"votes":135831,"id":"585"},
-{"votes":112254,"id":"60617"}],
+{"votes":136434,"id":"585"},
+{"votes":112531,"id":"60617"}],
 "final":"585"}},
 "Question":
 {"1 - Oxford County Casino":
 {"votes":[
-{"votes":254114,"id":"2"},
-{"votes":250744,"id":"3"}]}},
+{"votes":255392,"id":"2"},
+{"votes":251725,"id":"3"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":196891,"id":"60414"},
-{"votes":189909,"id":"60614"},
-{"votes":99041,"id":"60416"},
-{"votes":25830,"id":"60615"},
-{"votes":5225,"id":"60616"}]}}},
+{"votes":197764,"id":"60414"},
+{"votes":190704,"id":"60614"},
+{"votes":99366,"id":"60416"},
+{"votes":26134,"id":"60615"},
+{"votes":5240,"id":"60616"}]}}},
 "abbr":"ME"},
 "Rhode Island":
 {"races":
