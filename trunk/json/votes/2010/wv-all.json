@@ -1,28 +1,28 @@
-{"dttime":"Nov 02, 2010 08:11 PM","totals":
+{"dttime":"Nov 02, 2010 08:12 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":733,"id":"47656"},
-{"votes":597,"id":"47518"}]},
+{"votes":1351,"id":"47656"},
+{"votes":1127,"id":"47518"}]},
 "3":
 {"votes":[
 {"votes":1894,"id":"442"},
 {"votes":1765,"id":"47478"}]},
 "2":
 {"votes":[
-{"votes":194,"id":"441"},
-{"votes":97,"id":"60898"},
-{"votes":7,"id":"47239"}]}},
+{"votes":7526,"id":"441"},
+{"votes":3765,"id":"60898"},
+{"votes":119,"id":"47239"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":2920,"id":"47450"},
-{"votes":2392,"id":"51735"},
-{"votes":81,"id":"51149"},
-{"votes":50,"id":"61249"}]}}},
+{"votes":9930,"id":"47450"},
+{"votes":8207,"id":"51735"},
+{"votes":412,"id":"51149"},
+{"votes":100,"id":"61249"}]}}},
 "precincts":
-{"total":672,"reporting":4},
+{"total":672,"reporting":5},
 "abbr":"WV","name":"West Virginia"},
 "state":"WV","candidates":
 {"47239":"CST|Hudok|Phil Hudok","47656":"Dem|Oliverio|Mike Oliverio","60898":"Dem|Graf|Virginia Lynch Graf","47478":"GOP|Maynard|Elliott Maynard","442":"Dem|Rahall|Nick Rahall","441":"GOP|Capito|Shelley Moore Capito","47450":"Dem|Manchin|Joe Manchin","51149":"Mnt|Johnson|Jesse Johnson","61249":"CST|Becker|Jeff Becker","47518":"GOP|McKinley|David McKinley","51735":"GOP|Raese|John Raese"},
