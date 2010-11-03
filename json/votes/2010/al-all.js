@@ -1,10 +1,10 @@
-votesReady( {"dttime":"Nov 03,2010 12:08 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 12:10 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":119580,"id":"1004"},
-{"votes":24165,"id":"61158"}],
+{"votes":122690,"id":"1004"},
+{"votes":24847,"id":"61158"}],
 "final":"1004"},
 "3":
 {"votes":[
@@ -26,8 +26,8 @@ votesReady( {"dttime":"Nov 03,2010 12:08 AM","totals":
 "final":"523"},
 "7":
 {"votes":[
-{"votes":130823,"id":"60639"},
-{"votes":50254,"id":"3198"}],
+{"votes":132950,"id":"60639"},
+{"votes":51059,"id":"3198"}],
 "final":"60639"},
 "6":
 {"votes":[
@@ -36,17 +36,17 @@ votesReady( {"dttime":"Nov 03,2010 12:08 AM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":902176,"id":"1702"},
-{"votes":493770,"id":"60557"}],
+{"votes":913905,"id":"1702"},
+{"votes":499399,"id":"60557"}],
 "final":"1702"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":800838,"id":"52867"},
-{"votes":595721,"id":"4080"}],
+{"votes":810137,"id":"52867"},
+{"votes":604124,"id":"4080"}],
 "final":"52867"}}},
 "precincts":
-{"total":398,"reporting":365},
+{"total":398,"reporting":370},
 "abbr":"AL","name":"Alabama"},
 "state":"AL","candidates":
 {"4080":"Dem|Sparks|Ron Sparks","59445":"Dem|Bright|Bobby Bright","60637":"Dem|Raby|Steve Raby","1161":"GOP|Rogers|Mike Rogers","60557":"Dem|Barnes|William Barnes","3198":"GOP|Chamberlain|Don Chamberlain","60629":"GOP|Brooks|Mo Brooks","60628":"GOP|Roby|Martha Roby","4019":"Dem|Segrest|Steve Segrest","526":"GOP|Bachus|Spencer Bachus","52867":"GOP|Bentley|Robert Bentley","523":"GOP|Aderholt|Robert Aderholt","61158":"CST|Walter|David Walter","1004":"GOP|Bonner|Jo Bonner","1702":"GOP|Shelby|Richard Shelby","60639":"Dem|Sewell|Terri Sewell"},
