@@ -1,4 +1,4 @@
-{"dttime":"Nov 02, 2010 09:37 PM","totals":
+{"dttime":"Nov 02, 2010 09:38 PM","totals":
 {"name":"Missouri","fix":
 {"LaClede":"Laclede"},
 "precincts":
@@ -49,18 +49,18 @@
 "final":"55466"},
 "8":
 {"votes":[
-{"votes":25797,"id":"951"},
-{"votes":9916,"id":"60812"},
-{"votes":1534,"id":"61159"},
-{"votes":650,"id":"60813"}],
+{"votes":29873,"id":"951"},
+{"votes":12733,"id":"60812"},
+{"votes":1680,"id":"61159"},
+{"votes":798,"id":"60813"}],
 "final":"951"}},
 "U.S. Senate":
 {"2010":
 {"votes":[
-{"votes":123633,"id":"1343"},
-{"votes":73321,"id":"60800"},
-{"votes":6632,"id":"61086"},
-{"votes":4490,"id":"61087"}]}}},
+{"votes":127193,"id":"1343"},
+{"votes":80450,"id":"60800"},
+{"votes":6965,"id":"61086"},
+{"votes":4715,"id":"61087"}]}}},
 "abbr":"MO"},
 "state":"MO","candidates":
 {"1342":"GOP|Graves|Sam Graves","1343":"GOP|Blunt|Roy Blunt","61088":"Dem|Eckersley|Scott Eckersley","61089":"GOP|Long|Billy Long","61086":"Lib|Dine|Jonathan Dine","61087":"CST|Beck|Jerry Beck","60810":"Dem|Hylton|Clint Hylton","60812":"Dem|Sowers|Tommy Sowers","60813":"Lib|Vandeven|Rick Vandeven","951":"GOP|Emerson|Jo Ann Emerson","1852":"Dem|Carnahan|Russ Carnahan","29019":"GOP|Hartzler|Vicky Hartzler","51618":"Lib|Hedrick|Steven Hedrick","50436":"Lib|Craig|Kevin Craig","50040":"Dem|Cleaver|Emanuel Cleaver","50430":"Lib|Langkraehr|Randy Langkraehr","51614":"GOP|Turk|Jacob Turk","61118":"Lib|Braun|Jason Braun","61117":"Lib|Stone|Julie Stone","1337":"Dem|Clay|Lacy Clay","55466":"GOP|Luetkemeyer|Blaine Luetkemeyer","61033":"GOP|Hamlin|Robyn Hamlin","61090":"Lib|Dwyer|Christopher Dwyer","61159":"Ind|Bill|Larry Bill","937":"GOP|Akin|Todd Akin","942":"Dem|Skelton|Ike Skelton","60809":"CST|Lay|Dave Lay","60808":"CST|Cowan|Greg Cowan","60803":"Dem|Lieber|Arthur Lieber","60800":"Dem|Carnahan|Robin Carnahan","60806":"GOP|Martin|Ed Martin","60805":"CST|Ivanovich|Nick Ivanovich","60804":"Lib|Mosbacher|Steve Mosbacher"},
