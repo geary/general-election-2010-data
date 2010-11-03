@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 09:07 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 09:13 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -36,11 +36,11 @@ votesReady( {"dttime":"Nov 03,2010 09:07 AM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":694456,"id":"1750"},
-{"votes":497854,"id":"60190"},
-{"votes":15788,"id":"38806"},
-{"votes":13096,"id":"61142"},
-{"votes":11580,"id":"61143"}],
+{"votes":700987,"id":"1750"},
+{"votes":503318,"id":"60190"},
+{"votes":15928,"id":"38806"},
+{"votes":13247,"id":"61142"},
+{"votes":11677,"id":"61143"}],
 "final":"1750"}},
 "Governor":
 {"":
@@ -52,13 +52,13 @@ votesReady( {"dttime":"Nov 03,2010 09:07 AM","totals":
 "Measure":
 {"75 - Multnomah Casino":
 {"votes":[
-{"votes":795622,"id":"3"},
-{"votes":374463,"id":"2"}],
+{"votes":819578,"id":"3"},
+{"votes":384403,"id":"2"}],
 "final":"3"},
 "74 - Medical Marijuana":
 {"votes":[
-{"votes":676650,"id":"3"},
-{"votes":501721,"id":"2"}],
+{"votes":695158,"id":"3"},
+{"votes":517153,"id":"2"}],
 "final":"3"}}},
 "precincts":
 {"total":1000,"reporting":882},
