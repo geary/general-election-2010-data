@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 10:03 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 10:09 AM","totals":
 {"races":
 {"President":
 {"":
@@ -1089,11 +1089,11 @@ votesReady( {"dttime":"Nov 03,2010 10:03 AM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":1879937,"id":"61073"},
-{"votes":1287866,"id":"55135"},
-{"votes":22482,"id":"790"},
-{"votes":21301,"id":"786"},
-{"votes":21014,"id":"61189"}],
+{"votes":1880438,"id":"61073"},
+{"votes":1289928,"id":"55135"},
+{"votes":22491,"id":"790"},
+{"votes":21312,"id":"786"},
+{"votes":21033,"id":"61189"}],
 "final":"61073"}}},
 "precincts":
 {"total":505,"reporting":505},
@@ -3141,13 +3141,13 @@ votesReady( {"dttime":"Nov 03,2010 10:03 AM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":778261,"id":"59911"},
-{"votes":771274,"id":"61077"},
-{"votes":35537,"id":"59783"},
-{"votes":20458,"id":"61078"},
-{"votes":17909,"id":"60998"},
-{"votes":10483,"id":"60578"},
-{"votes":5281,"id":"60579"}]}},
+{"votes":779436,"id":"59911"},
+{"votes":771791,"id":"61077"},
+{"votes":35586,"id":"59783"},
+{"votes":20484,"id":"61078"},
+{"votes":17914,"id":"60998"},
+{"votes":10489,"id":"60578"},
+{"votes":5282,"id":"60579"}]}},
 "Governor":
 {"":
 {"votes":[
@@ -3679,7 +3679,7 @@ votesReady( {"dttime":"Nov 03,2010 10:03 AM","totals":
 {"1 - Oxford County Casino":
 {"votes":[
 {"votes":254114,"id":"2"},
-{"votes":250734,"id":"3"}]}},
+{"votes":250744,"id":"3"}]}},
 "Governor":
 {"":
 {"votes":[
