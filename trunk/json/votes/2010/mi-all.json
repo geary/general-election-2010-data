@@ -1,4 +1,4 @@
-{"dttime":"Nov 03,2010 01:54 AM","totals":
+{"dttime":"Nov 03,2010 01:56 AM","totals":
 {"races":
 {"U.S. House":
 {"11":
@@ -118,17 +118,17 @@
 "Proposal":
 {"10-2 - Felon Politician Ban":
 {"votes":[
-{"votes":2160117,"id":"2"},
-{"votes":717967,"id":"3"}],
+{"votes":2161778,"id":"2"},
+{"votes":718572,"id":"3"}],
 "final":"2"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":1826053,"id":"61073"},
-{"votes":1204330,"id":"55135"},
-{"votes":21725,"id":"790"},
-{"votes":20548,"id":"786"},
-{"votes":20286,"id":"61189"}],
+{"votes":1826184,"id":"61073"},
+{"votes":1206551,"id":"55135"},
+{"votes":21732,"id":"790"},
+{"votes":20562,"id":"786"},
+{"votes":20298,"id":"61189"}],
 "final":"61073"}}},
 "precincts":
 {"total":505,"reporting":501},
