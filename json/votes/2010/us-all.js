@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 11:51 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 11:58 AM","totals":
 {"races":
 {"President":
 {"":
@@ -1387,7 +1387,7 @@ votesReady( {"dttime":"Nov 03,2010 11:51 AM","totals":
 {"":
 {"votes":[
 {"votes":536421,"id":"60571"},
-{"votes":534218,"id":"9881"},
+{"votes":534214,"id":"9881"},
 {"votes":16821,"id":"61100"}]}}},
 "abbr":"CT","votesby":"town"},
 "Montana":
@@ -1932,14 +1932,14 @@ votesReady( {"dttime":"Nov 03,2010 11:51 AM","totals":
 {"name":"New Hampshire","fix":
 {"":"Atkinson and Gilmanton Academy"},
 "precincts":
-{"total":301,"reporting":278},
+{"total":301,"reporting":279},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":113320,"id":"61212"},
-{"votes":89425,"id":"53539"},
-{"votes":7414,"id":"61220"}],
+{"votes":113700,"id":"61212"},
+{"votes":89798,"id":"53539"},
+{"votes":7449,"id":"61220"}],
 "final":"61212"},
 "2":
 {"votes":[
@@ -1951,17 +1951,17 @@ votesReady( {"dttime":"Nov 03,2010 11:51 AM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":258713,"id":"61040"},
-{"votes":156170,"id":"50448"},
-{"votes":8681,"id":"61219"},
-{"votes":4464,"id":"1075"}],
+{"votes":259179,"id":"61040"},
+{"votes":156470,"id":"50448"},
+{"votes":8698,"id":"61219"},
+{"votes":4476,"id":"1075"}],
 "final":"61040"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":224720,"id":"7722"},
-{"votes":195387,"id":"59860"},
-{"votes":9681,"id":"1072"}],
+{"votes":225168,"id":"7722"},
+{"votes":195711,"id":"59860"},
+{"votes":9700,"id":"1072"}],
 "final":"7722"}}},
 "abbr":"NH","votesby":"town"},
 "Wisconsin":
@@ -1992,7 +1992,7 @@ votesReady( {"dttime":"Nov 03,2010 11:51 AM","totals":
 "final":"1099"},
 "4":
 {"votes":[
-{"votes":142531,"id":"48730"},
+{"votes":143531,"id":"48730"},
 {"votes":61531,"id":"61200"},
 {"votes":2802,"id":"60732"}],
 "final":"48730"},
@@ -2057,12 +2057,12 @@ votesReady( {"dttime":"Nov 03,2010 11:51 AM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":103537,"id":"45461"},
-{"votes":100406,"id":"45222"},
-{"votes":1704,"id":"60895"},
-{"votes":1615,"id":"1158"},
-{"votes":1146,"id":"60893"},
-{"votes":797,"id":"60894"},
+{"votes":104652,"id":"45461"},
+{"votes":101240,"id":"45222"},
+{"votes":1717,"id":"60895"},
+{"votes":1621,"id":"1158"},
+{"votes":1160,"id":"60893"},
+{"votes":798,"id":"60894"},
 {"votes":373,"id":"50649"}]}}},
 "abbr":"VT","votesby":"town"},
 "Georgia":
@@ -2503,13 +2503,13 @@ votesReady( {"dttime":"Nov 03,2010 11:51 AM","totals":
 "final":"51522"},
 "2":
 {"votes":[
-{"votes":155927,"id":"54282"},
-{"votes":73771,"id":"60703"}],
+{"votes":155970,"id":"54282"},
+{"votes":73795,"id":"60703"}],
 "final":"54282"},
 "5":
 {"votes":[
-{"votes":149935,"id":"208"},
-{"votes":43902,"id":"59743"}],
+{"votes":150630,"id":"208"},
+{"votes":44004,"id":"59743"}],
 "final":"208"},
 "4":
 {"votes":[
@@ -2523,8 +2523,8 @@ votesReady( {"dttime":"Nov 03,2010 11:51 AM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":759032,"id":"60208"},
-{"votes":598405,"id":"204"}],
+{"votes":759949,"id":"60208"},
+{"votes":599032,"id":"204"}],
 "final":"60208"}}},
 "abbr":"KY"},
 "Hawaii":
