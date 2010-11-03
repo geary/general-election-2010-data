@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 12:12 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 12:15 AM","totals":
 {"name":"Mississippi","fix":
 {"Jeff Davis":"Jefferson Davis"},
 "precincts":
@@ -25,9 +25,9 @@ votesReady( {"dttime":"Nov 03,2010 12:12 AM","totals":
 "final":"57825"},
 "2":
 {"votes":[
-{"votes":93116,"id":"1335"},
-{"votes":57598,"id":"57828"},
-{"votes":1316,"id":"60613"}],
+{"votes":93246,"id":"1335"},
+{"votes":57729,"id":"57828"},
+{"votes":1323,"id":"60613"}],
 "final":"1335"},
 "4":
 {"votes":[
