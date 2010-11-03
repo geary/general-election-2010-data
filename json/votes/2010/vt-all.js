@@ -1,6 +1,6 @@
-votesReady( {"dttime":"Nov 03,2010 01:51 PM","totals":
+votesReady( {"dttime":"Nov 03,2010 01:58 PM","totals":
 {"name":"Vermont","precincts":
-{"total":260,"reporting":249},
+{"total":260,"reporting":250},
 "races":
 {"U.S. House":
 {"1":

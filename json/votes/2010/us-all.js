@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 01:51 PM","totals":
+votesReady( {"dttime":"Nov 03,2010 01:58 PM","totals":
 {"races":
 {"President":
 {"":
@@ -516,9 +516,9 @@ votesReady( {"dttime":"Nov 03,2010 01:51 PM","totals":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":146200,"id":"54777"},
-{"votes":111129,"id":"57792"},
-{"votes":10207,"id":"58655"}],
+{"votes":146251,"id":"54777"},
+{"votes":111227,"id":"57792"},
+{"votes":10209,"id":"58655"}],
 "final":"54777"},
 "3":
 {"votes":[
@@ -567,22 +567,22 @@ votesReady( {"dttime":"Nov 03,2010 01:51 PM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":1052911,"id":"1726"},
-{"votes":616579,"id":"61051"},
+{"votes":1053017,"id":"1726"},
+{"votes":616626,"id":"61051"},
 {"votes":19238,"id":"61263"},
 {"votes":13723,"id":"61261"}],
 "final":"1726"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":964482,"id":"22603"},
-{"votes":730256,"id":"1051"},
-{"votes":13226,"id":"61264"},
+{"votes":964576,"id":"22603"},
+{"votes":730318,"id":"1051"},
+{"votes":13227,"id":"61264"},
 {"votes":10981,"id":"51155"},
 {"votes":8076,"id":"61265"}],
 "final":"22603"}}},
 "precincts":
-{"total":1833,"reporting":1813},
+{"total":1833,"reporting":1814},
 "abbr":"MD","name":"Maryland"},
 "Louisiana":
 {"name":"Louisiana","fix":
@@ -2034,7 +2034,7 @@ votesReady( {"dttime":"Nov 03,2010 01:51 PM","totals":
 "abbr":"WI","name":"Wisconsin"},
 "Vermont":
 {"name":"Vermont","precincts":
-{"total":260,"reporting":249},
+{"total":260,"reporting":250},
 "races":
 {"U.S. House":
 {"1":
@@ -2439,8 +2439,8 @@ votesReady( {"dttime":"Nov 03,2010 01:51 PM","totals":
 "Referendum":
 {"1 - Balanced Budget":
 {"votes":[
-{"votes":3343874,"id":"2"},
-{"votes":1308372,"id":"3"}],
+{"votes":3346186,"id":"2"},
+{"votes":1309482,"id":"3"}],
 "final":"2"}},
 "Governor":
 {"":
@@ -3665,13 +3665,13 @@ votesReady( {"dttime":"Nov 03,2010 01:51 PM","totals":
 {"name":"Maine","fix":
 {},
 "precincts":
-{"total":184,"reporting":178},
+{"total":184,"reporting":179},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":165401,"id":"59613"},
-{"votes":125317,"id":"60618"}],
+{"votes":165932,"id":"59613"},
+{"votes":125872,"id":"60618"}],
 "final":"59613"},
 "2":
 {"votes":[
@@ -3681,17 +3681,17 @@ votesReady( {"dttime":"Nov 03,2010 01:51 PM","totals":
 "Question":
 {"1 - Oxford County Casino":
 {"votes":[
-{"votes":274480,"id":"2"},
-{"votes":268330,"id":"3"}],
+{"votes":275090,"id":"2"},
+{"votes":268823,"id":"3"}],
 "final":"2"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":211879,"id":"60414"},
-{"votes":203085,"id":"60614"},
-{"votes":105648,"id":"60416"},
-{"votes":28173,"id":"60615"},
-{"votes":5558,"id":"60616"}],
+{"votes":212333,"id":"60414"},
+{"votes":203425,"id":"60614"},
+{"votes":105845,"id":"60416"},
+{"votes":28280,"id":"60615"},
+{"votes":5570,"id":"60616"}],
 "final":"60414"}}},
 "abbr":"ME"},
 "Rhode Island":
