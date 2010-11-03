@@ -1,11 +1,11 @@
-votesReady( {"dttime":"Nov 03,2010 01:15 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 01:17 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":152544,"id":"60394"},
-{"votes":144284,"id":"581"},
-{"votes":18970,"id":"60708"}],
+{"votes":152699,"id":"60394"},
+{"votes":144408,"id":"581"},
+{"votes":18996,"id":"60708"}],
 "final":"60394"}},
 "Amendment":
 {"K - Secret Ballot":
@@ -22,8 +22,8 @@ votesReady( {"dttime":"Nov 03,2010 01:15 AM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":193457,"id":"40715"},
-{"votes":120004,"id":"60690"}],
+{"votes":193649,"id":"40715"},
+{"votes":120113,"id":"60690"}],
 "final":"40715"}},
 "U.S. Senate":
 {"":
@@ -37,7 +37,7 @@ votesReady( {"dttime":"Nov 03,2010 01:15 AM","totals":
 {"votes":113670,"id":"2"}],
 "final":"3"}}},
 "precincts":
-{"total":791,"reporting":779},
+{"total":791,"reporting":780},
 "abbr":"SD","name":"South Dakota"},
 "state":"SD","candidates":
 {"579":"GOP|Thune|John Thune","60708":"Ind|Marking|Thomas Marking","581":"Dem|Herseth Sandlin|Stephanie Herseth Sandlin","40715":"GOP|Daugaard|Dennis Daugaard","3":"|No| No","2":"|Yes| Yes","60394":"GOP|Noem|Kristi Noem","60690":"Dem|Heidepriem|Scott Heidepriem"},
