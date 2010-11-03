@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 12:27 PM","totals":
+votesReady( {"dttime":"Nov 03,2010 12:33 PM","totals":
 {"name":"New York","fix":
 {"Brooklyn":"Kings","Staten Island":"Richmond","Saint Lawrence":"St. Lawrence","Manhattan":"New York"},
 "precincts":
@@ -173,21 +173,21 @@ votesReady( {"dttime":"Nov 03,2010 12:27 PM","totals":
 "final":"51916"},
 "Full Term":
 {"votes":[
-{"votes":2639354,"id":"1745"},
-{"votes":1324412,"id":"61165"},
-{"votes":39058,"id":"61253"},
-{"votes":25411,"id":"61254"}],
+{"votes":2640127,"id":"1745"},
+{"votes":1324855,"id":"61165"},
+{"votes":39076,"id":"61253"},
+{"votes":25421,"id":"61254"}],
 "final":"1745"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":2532447,"id":"1506"},
-{"votes":1399235,"id":"61208"},
-{"votes":56868,"id":"32916"},
-{"votes":44696,"id":"1926"},
-{"votes":39850,"id":"33338"},
-{"votes":22775,"id":"61252"},
-{"votes":20717,"id":"32276"}],
+{"votes":2533131,"id":"1506"},
+{"votes":1399718,"id":"61208"},
+{"votes":56924,"id":"32916"},
+{"votes":44716,"id":"1926"},
+{"votes":39856,"id":"33338"},
+{"votes":22783,"id":"61252"},
+{"votes":20718,"id":"32276"}],
 "final":"1506"}}},
 "abbr":"NY"},
 "state":"NY","candidates":
