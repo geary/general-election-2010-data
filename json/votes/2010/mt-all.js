@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 04:25 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 04:28 AM","totals":
 {"name":"Montana","fix":
 {"Lewis & Clark":"Lewis and Clark"},
 "precincts":
@@ -14,8 +14,8 @@ votesReady( {"dttime":"Nov 03,2010 04:25 AM","totals":
 "Initiative":
 {"I - 164 Payday Loans":
 {"votes":[
-{"votes":253007,"id":"2"},
-{"votes":99348,"id":"3"}],
+{"votes":253644,"id":"2"},
+{"votes":99568,"id":"3"}],
 "final":"2"}}},
 "abbr":"MT"},
 "state":"MT","candidates":
