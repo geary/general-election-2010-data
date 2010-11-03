@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 02:08 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 02:10 AM","totals":
 {"races":
 {"President":
 {"":
@@ -12,9 +12,9 @@ votesReady( {"dttime":"Nov 03,2010 02:08 AM","totals":
 {"Others":
 {"Winning Trend":0,"Leading":0,"Holdovers":0,"Current":0,"Net Change":0,"Won":0},
 "Dem":
-{"Winning Trend":191,"Leading":21,"Holdovers":0,"Current":256,"Net Change":-65,"Won":170},
+{"Winning Trend":192,"Leading":19,"Holdovers":0,"Current":256,"Net Change":-64,"Won":173},
 "GOP":
-{"Winning Trend":244,"Leading":12,"Holdovers":0,"Current":179,"Net Change":65,"Won":232}},
+{"Winning Trend":243,"Leading":11,"Holdovers":0,"Current":179,"Net Change":64,"Won":232}},
 "U.S. Senate":
 {"Others":
 {"Winning Trend":3,"Leading":1,"Holdovers":2,"Current":2,"Net Change":1,"Won":0},
