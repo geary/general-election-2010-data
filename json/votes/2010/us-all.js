@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 07:36 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 07:38 AM","totals":
 {"races":
 {"President":
 {"":
@@ -1338,7 +1338,7 @@ votesReady( {"dttime":"Nov 03,2010 07:36 AM","totals":
 {"votes":492196,"id":"2"}],
 "final":"3"}}},
 "precincts":
-{"total":1000,"reporting":852},
+{"total":1000,"reporting":846},
 "abbr":"OR","name":"Oregon"},
 "Connecticut":
 {"name":"Connecticut","precincts":
