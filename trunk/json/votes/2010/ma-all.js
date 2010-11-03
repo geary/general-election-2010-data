@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 01:02 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 01:05 AM","totals":
 {"name":"Massachusetts","fix":
 {"Barnstable":"Barnstable Town","Manchester":"Manchester-by-the-Sea"},
 "precincts":
@@ -7,11 +7,11 @@ votesReady( {"dttime":"Nov 03,2010 01:02 AM","totals":
 {"U.S. House":
 {"10":
 {"votes":[
-{"votes":128402,"id":"22757"},
-{"votes":116905,"id":"54436"},
-{"votes":16398,"id":"22780"},
-{"votes":10376,"id":"61238"},
-{"votes":2963,"id":"61239"}],
+{"votes":131024,"id":"22757"},
+{"votes":119191,"id":"54436"},
+{"votes":16591,"id":"22780"},
+{"votes":10422,"id":"61238"},
+{"votes":3010,"id":"61239"}],
 "final":"22757"},
 "1":
 {"votes":[
