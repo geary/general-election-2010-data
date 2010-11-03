@@ -1,4 +1,4 @@
-{"dttime":"Nov 03,2010 01:20 AM","totals":
+{"dttime":"Nov 03,2010 01:22 AM","totals":
 {"name":"Mississippi","fix":
 {"Jeff Davis":"Jefferson Davis"},
 "precincts":
@@ -25,16 +25,16 @@
 "final":"57825"},
 "2":
 {"votes":[
-{"votes":93555,"id":"1335"},
-{"votes":57939,"id":"57828"},
-{"votes":1328,"id":"60613"}],
+{"votes":93681,"id":"1335"},
+{"votes":58027,"id":"57828"},
+{"votes":1329,"id":"60613"}],
 "final":"1335"},
 "4":
 {"votes":[
-{"votes":101029,"id":"60439"},
-{"votes":91672,"id":"220"},
+{"votes":101318,"id":"60439"},
+{"votes":91838,"id":"220"},
 {"votes":1686,"id":"60440"},
-{"votes":751,"id":"61199"}],
+{"votes":752,"id":"61199"}],
 "final":"60439"}}},
 "abbr":"MS"},
 "state":"MS","candidates":
