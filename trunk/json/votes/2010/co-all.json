@@ -1,4 +1,4 @@
-{"dttime":"Nov 02, 2010 09:21 PM","totals":
+{"dttime":"Nov 02, 2010 09:23 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -45,12 +45,12 @@
 "Amendment":
 {"62 - Definition of Person":
 {"votes":[
-{"votes":997,"id":"3"},
-{"votes":288,"id":"2"}]},
+{"votes":72588,"id":"3"},
+{"votes":22395,"id":"2"}]},
 "63 - Health Care":
 {"votes":[
-{"votes":695,"id":"3"},
-{"votes":583,"id":"2"}]}},
+{"votes":56520,"id":"3"},
+{"votes":37518,"id":"2"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
@@ -64,12 +64,12 @@
 "Governor":
 {"":
 {"votes":[
-{"votes":55744,"id":"60601"},
-{"votes":30480,"id":"751"},
-{"votes":9373,"id":"61076"},
-{"votes":750,"id":"60604"},
-{"votes":513,"id":"60607"},
-{"votes":197,"id":"53523"}]}}},
+{"votes":56634,"id":"60601"},
+{"votes":30796,"id":"751"},
+{"votes":9670,"id":"61076"},
+{"votes":756,"id":"60604"},
+{"votes":520,"id":"60607"},
+{"votes":260,"id":"53523"}]}}},
 "precincts":
 {"total":462,"reporting":70},
 "abbr":"CO","name":"Colorado"},
