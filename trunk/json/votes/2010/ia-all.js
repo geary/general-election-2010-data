@@ -1,12 +1,12 @@
-votesReady( {"dttime":"Nov 03,2010 02:01 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 02:03 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":101738,"id":"51431"},
-{"votes":97601,"id":"60385"},
-{"votes":4020,"id":"61107"},
-{"votes":2054,"id":"61108"}],
+{"votes":103931,"id":"51431"},
+{"votes":99976,"id":"60385"},
+{"votes":4072,"id":"61107"},
+{"votes":2085,"id":"61108"}],
 "final":"51431"},
 "3":
 {"votes":[
@@ -36,22 +36,22 @@ votesReady( {"dttime":"Nov 03,2010 02:01 AM","totals":
 "U.S. Senate":
 {"2010":
 {"votes":[
-{"votes":688153,"id":"1717"},
-{"votes":355609,"id":"60379"},
-{"votes":24058,"id":"61106"}],
+{"votes":691263,"id":"1717"},
+{"votes":357111,"id":"60379"},
+{"votes":24131,"id":"61106"}],
 "final":"1717"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":567155,"id":"60381"},
-{"votes":464687,"id":"19289"},
-{"votes":19647,"id":"61114"},
-{"votes":13730,"id":"19282"},
-{"votes":3669,"id":"61116"},
-{"votes":2706,"id":"61115"}],
+{"votes":569698,"id":"60381"},
+{"votes":466746,"id":"19289"},
+{"votes":19696,"id":"61114"},
+{"votes":13763,"id":"19282"},
+{"votes":3686,"id":"61116"},
+{"votes":2707,"id":"61115"}],
 "final":"60381"}}},
 "precincts":
-{"total":1873,"reporting":1786},
+{"total":1873,"reporting":1792},
 "abbr":"IA","name":"Iowa"},
 "state":"IA","candidates":
 {"59745":"GOP|Miller-Meeks|Mariannette Miller-Meeks","61109":"CST|Tack|Jon Tack","61108":"Ind|Faulkner|Jason Faulkner","61107":"Lib|Petsche|Rob Petsche","61106":"Lib|Heiderscheit|John Heiderscheit","60381":"GOP|Branstad|Terry Branstad","60403":"GOP|Zaun|Brad Zaun","60385":"GOP|Lange|Benjamin Lange","51537":"Dem|Loebsack|Dave Loebsack","1717":"GOP|Grassley|Chuck Grassley","51431":"Dem|Braley|Bruce Braley","61116":"Ind|Hughes|Gregory Hughes","60559":"Dem|Maske|Bill Maske","60558":"Dem|Campbell|Matthew Campbell","61114":"Oth|Narcisse|Jonathan Narcisse","61115":"SWP|Rosenfeld|David Rosenfeld","61112":"Ind|Lensing|Dan Lensing","61113":"Ind|Monroe|Martin Monroe","61110":"Lib|Sicard|Gary Sicard","61111":"SWP|Williamson|Rebecca Williamson","60379":"Dem|Conlin|Roxanne Conlin","19282":"Lib|Cooper|Eric Cooper","19289":"Dem|Culver|Chet Culver","537":"GOP|Latham|Tom Latham","535":"Dem|Boswell|Leonard Boswell","539":"GOP|King|Steve King"},
