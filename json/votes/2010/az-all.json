@@ -1,4 +1,4 @@
-{"dttime":"Nov 03,2010 02:01 AM","totals":
+{"dttime":"Nov 03,2010 02:03 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -35,10 +35,10 @@
 "final":"1124"},
 "7":
 {"votes":[
-{"votes":51798,"id":"1131"},
-{"votes":41061,"id":"61007"},
-{"votes":2807,"id":"61153"},
-{"votes":2707,"id":"61195"}]},
+{"votes":60000,"id":"1131"},
+{"votes":56971,"id":"61007"},
+{"votes":3520,"id":"61153"},
+{"votes":3303,"id":"61195"}]},
 "6":
 {"votes":[
 {"votes":114208,"id":"1129"},
@@ -70,8 +70,8 @@
 "Proposition":
 {"107 - Preferential Treatment":
 {"votes":[
-{"votes":702101,"id":"2"},
-{"votes":476073,"id":"3"}],
+{"votes":717866,"id":"2"},
+{"votes":484310,"id":"3"}],
 "final":"2"},
 "109 - Hunting and Fishing":
 {"votes":[

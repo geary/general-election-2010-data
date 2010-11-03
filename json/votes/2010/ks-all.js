@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 02:01 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 02:03 AM","totals":
 {"name":"Kansas","precincts":
 {"total":1321,"reporting":1315},
 "races":
@@ -31,7 +31,7 @@ votesReady( {"dttime":"Nov 03,2010 02:01 AM","totals":
 "Amendment":
 {"1 - Right to Bear Arms":
 {"votes":[
-{"votes":687584,"id":"2"},
+{"votes":690484,"id":"2"},
 {"votes":90968,"id":"3"}],
 "final":"2"}},
 "U.S. Senate":

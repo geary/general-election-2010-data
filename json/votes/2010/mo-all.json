@@ -1,4 +1,4 @@
-{"dttime":"Nov 03,2010 02:01 AM","totals":
+{"dttime":"Nov 03,2010 02:03 AM","totals":
 {"name":"Missouri","fix":
 {"LaClede":"Laclede"},
 "precincts":
@@ -16,7 +16,8 @@
 {"votes":99011,"id":"1852"},
 {"votes":94593,"id":"60806"},
 {"votes":5757,"id":"51618"},
-{"votes":3151,"id":"60805"}]},
+{"votes":3151,"id":"60805"}],
+"final":"1852"},
 "2":
 {"votes":[
 {"votes":178909,"id":"937"},
