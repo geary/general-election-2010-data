@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 12:15 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 12:17 AM","totals":
 {"races":
 {"U.S. House":
 {"24":
@@ -14,10 +14,10 @@ votesReady( {"dttime":"Nov 03,2010 12:15 AM","totals":
 {"votes":2568,"id":"60517"}]},
 "20":
 {"votes":[
-{"votes":92112,"id":"11357"},
-{"votes":58533,"id":"61036"},
-{"votes":1485,"id":"60514"},
-{"votes":1130,"id":"879"}],
+{"votes":93791,"id":"11357"},
+{"votes":59701,"id":"61036"},
+{"votes":1514,"id":"60514"},
+{"votes":1156,"id":"879"}],
 "final":"11357"},
 "21":
 {"votes":[
@@ -25,12 +25,12 @@ votesReady( {"dttime":"Nov 03,2010 12:15 AM","totals":
 "final":"878"},
 "22":
 {"votes":[
-{"votes":101461,"id":"58634"},
-{"votes":84505,"id":"53083"}]},
+{"votes":102123,"id":"58634"},
+{"votes":85009,"id":"53083"}]},
 "23":
 {"votes":[
-{"votes":89769,"id":"874"},
-{"votes":23348,"id":"60515"}],
+{"votes":90767,"id":"874"},
+{"votes":23527,"id":"60515"}],
 "final":"874"},
 "1":
 {"votes":[
@@ -158,13 +158,13 @@ votesReady( {"dttime":"Nov 03,2010 12:15 AM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":1700552,"id":"61149"},
-{"votes":1522264,"id":"60518"},
-{"votes":81302,"id":"60520"},
-{"votes":12485,"id":"60523"},
-{"votes":12188,"id":"60519"},
-{"votes":9041,"id":"60556"},
-{"votes":4626,"id":"60555"}]}}},
+{"votes":2490844,"id":"61149"},
+{"votes":2387516,"id":"60518"},
+{"votes":118525,"id":"60520"},
+{"votes":18073,"id":"60523"},
+{"votes":17705,"id":"60519"},
+{"votes":13005,"id":"60556"},
+{"votes":7023,"id":"60555"}]}}},
 "precincts":
 {"total":372,"reporting":354},
 "abbr":"FL","name":"Florida"},
