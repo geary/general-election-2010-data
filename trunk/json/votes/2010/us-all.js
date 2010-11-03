@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 06:14 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 06:17 AM","totals":
 {"races":
 {"President":
 {"":
@@ -1743,8 +1743,8 @@ votesReady( {"dttime":"Nov 03,2010 06:14 AM","totals":
 "final":"3"},
 "25 - Budget Vote":
 {"votes":[
-{"votes":3610877,"id":"2"},
-{"votes":2962779,"id":"3"}],
+{"votes":3612710,"id":"2"},
+{"votes":2964314,"id":"3"}],
 "final":"2"}}},
 "precincts":
 {"total":565,"reporting":516},
