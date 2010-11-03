@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 01:12 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 01:15 AM","totals":
 {"name":"New Hampshire","fix":
 {"":"Atkinson and Gilmanton Academy"},
 "precincts":
