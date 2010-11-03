@@ -1,11 +1,11 @@
-votesReady( {"dttime":"Nov 03,2010 01:58 PM","totals":
+votesReady( {"dttime":"Nov 03,2010 02:04 PM","totals":
 {"races":
 {"U.S. House":
 {"11":
 {"votes":[
-{"votes":122036,"id":"384"},
-{"votes":55421,"id":"60462"},
-{"votes":4163,"id":"60463"}],
+{"votes":122076,"id":"384"},
+{"votes":55441,"id":"60462"},
+{"votes":4166,"id":"60463"}],
 "final":"384"},
 "10":
 {"votes":[
@@ -23,8 +23,8 @@ votesReady( {"dttime":"Nov 03,2010 01:58 PM","totals":
 "final":"56705"},
 "12":
 {"votes":[
-{"votes":107093,"id":"385"},
-{"votes":93283,"id":"60464"},
+{"votes":107147,"id":"385"},
+{"votes":93311,"id":"60464"},
 {"votes":2145,"id":"60465"}],
 "final":"385"},
 "1":
@@ -69,13 +69,13 @@ votesReady( {"dttime":"Nov 03,2010 01:58 PM","totals":
 "final":"1352"},
 "7":
 {"votes":[
-{"votes":102752,"id":"56743"},
-{"votes":69964,"id":"60455"}],
+{"votes":102840,"id":"56743"},
+{"votes":70066,"id":"60455"}],
 "final":"56743"},
 "6":
 {"votes":[
-{"votes":81048,"id":"375"},
-{"votes":65060,"id":"60453"},
+{"votes":81053,"id":"375"},
+{"votes":65065,"id":"60453"},
 {"votes":1152,"id":"60454"},
 {"votes":1135,"id":"569"}],
 "final":"375"},

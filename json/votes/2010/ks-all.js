@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 01:58 PM","totals":
+votesReady( {"dttime":"Nov 03,2010 02:03 PM","totals":
 {"name":"Kansas","precincts":
 {"total":1321,"reporting":1321},
 "races":
@@ -17,8 +17,8 @@ votesReady( {"dttime":"Nov 03,2010 01:58 PM","totals":
 "final":"54005"},
 "2":
 {"votes":[
-{"votes":128032,"id":"19867"},
-{"votes":65434,"id":"61084"},
+{"votes":128035,"id":"19867"},
+{"votes":65435,"id":"61084"},
 {"votes":9161,"id":"59786"}],
 "final":"19867"},
 "4":
@@ -37,8 +37,8 @@ votesReady( {"dttime":"Nov 03,2010 01:58 PM","totals":
 "U.S. Senate":
 {"2010":
 {"votes":[
-{"votes":578720,"id":"692"},
-{"votes":215251,"id":"61083"},
+{"votes":578722,"id":"692"},
+{"votes":215253,"id":"61083"},
 {"votes":17432,"id":"61102"},
 {"votes":11354,"id":"51224"}],
 "final":"692"}},

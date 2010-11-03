@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 01:58 PM","totals":
+votesReady( {"dttime":"Nov 03,2010 02:04 PM","totals":
 {"races":
 {"President":
 {"":
@@ -347,10 +347,10 @@ votesReady( {"dttime":"Nov 03,2010 01:58 PM","totals":
 "U.S. Senate":
 {"2010":
 {"votes":[
-{"votes":1751861,"id":"1277"},
-{"votes":1670969,"id":"60136"},
-{"votes":115720,"id":"60769"},
-{"votes":85649,"id":"60771"}],
+{"votes":1752362,"id":"1277"},
+{"votes":1671266,"id":"60136"},
+{"votes":115773,"id":"60769"},
+{"votes":85681,"id":"60771"}],
 "final":"1277"}},
 "Governor":
 {"":
@@ -1117,8 +1117,8 @@ votesReady( {"dttime":"Nov 03,2010 01:58 PM","totals":
 "final":"54005"},
 "2":
 {"votes":[
-{"votes":128032,"id":"19867"},
-{"votes":65434,"id":"61084"},
+{"votes":128035,"id":"19867"},
+{"votes":65435,"id":"61084"},
 {"votes":9161,"id":"59786"}],
 "final":"19867"},
 "4":
@@ -1137,8 +1137,8 @@ votesReady( {"dttime":"Nov 03,2010 01:58 PM","totals":
 "U.S. Senate":
 {"2010":
 {"votes":[
-{"votes":578720,"id":"692"},
-{"votes":215251,"id":"61083"},
+{"votes":578722,"id":"692"},
+{"votes":215253,"id":"61083"},
 {"votes":17432,"id":"61102"},
 {"votes":11354,"id":"51224"}],
 "final":"692"}},
@@ -2034,7 +2034,7 @@ votesReady( {"dttime":"Nov 03,2010 01:58 PM","totals":
 "abbr":"WI","name":"Wisconsin"},
 "Vermont":
 {"name":"Vermont","precincts":
-{"total":260,"reporting":250},
+{"total":260,"reporting":251},
 "races":
 {"U.S. House":
 {"1":
@@ -2047,13 +2047,13 @@ votesReady( {"dttime":"Nov 03,2010 01:58 PM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":144146,"id":"1760"},
-{"votes":68907,"id":"60885"},
-{"votes":3372,"id":"60888"},
-{"votes":2579,"id":"1158"},
-{"votes":2210,"id":"60887"},
-{"votes":1373,"id":"1157"},
-{"votes":960,"id":"60889"}],
+{"votes":145486,"id":"1760"},
+{"votes":69710,"id":"60885"},
+{"votes":3390,"id":"60888"},
+{"votes":2594,"id":"1158"},
+{"votes":2237,"id":"60887"},
+{"votes":1386,"id":"1157"},
+{"votes":975,"id":"60889"}],
 "final":"1760"}},
 "Governor":
 {"":
@@ -2271,8 +2271,8 @@ votesReady( {"dttime":"Nov 03,2010 01:58 PM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":1994768,"id":"257"},
-{"votes":1915581,"id":"51545"}],
+{"votes":1994803,"id":"257"},
+{"votes":1915633,"id":"51545"}],
 "final":"257"}},
 "Governor":
 {"":
@@ -3169,9 +3169,9 @@ votesReady( {"dttime":"Nov 03,2010 01:58 PM","totals":
 {"U.S. House":
 {"11":
 {"votes":[
-{"votes":122036,"id":"384"},
-{"votes":55421,"id":"60462"},
-{"votes":4163,"id":"60463"}],
+{"votes":122076,"id":"384"},
+{"votes":55441,"id":"60462"},
+{"votes":4166,"id":"60463"}],
 "final":"384"},
 "10":
 {"votes":[
@@ -3189,8 +3189,8 @@ votesReady( {"dttime":"Nov 03,2010 01:58 PM","totals":
 "final":"56705"},
 "12":
 {"votes":[
-{"votes":107093,"id":"385"},
-{"votes":93283,"id":"60464"},
+{"votes":107147,"id":"385"},
+{"votes":93311,"id":"60464"},
 {"votes":2145,"id":"60465"}],
 "final":"385"},
 "1":
@@ -3235,13 +3235,13 @@ votesReady( {"dttime":"Nov 03,2010 01:58 PM","totals":
 "final":"1352"},
 "7":
 {"votes":[
-{"votes":102752,"id":"56743"},
-{"votes":69964,"id":"60455"}],
+{"votes":102840,"id":"56743"},
+{"votes":70066,"id":"60455"}],
 "final":"56743"},
 "6":
 {"votes":[
-{"votes":81048,"id":"375"},
-{"votes":65060,"id":"60453"},
+{"votes":81053,"id":"375"},
+{"votes":65065,"id":"60453"},
 {"votes":1152,"id":"60454"},
 {"votes":1135,"id":"569"}],
 "final":"375"},
@@ -3675,23 +3675,23 @@ votesReady( {"dttime":"Nov 03,2010 01:58 PM","totals":
 "final":"59613"},
 "2":
 {"votes":[
-{"votes":142031,"id":"585"},
-{"votes":117119,"id":"60617"}],
+{"votes":142418,"id":"585"},
+{"votes":117372,"id":"60617"}],
 "final":"585"}},
 "Question":
 {"1 - Oxford County Casino":
 {"votes":[
-{"votes":275090,"id":"2"},
-{"votes":268823,"id":"3"}],
+{"votes":275388,"id":"2"},
+{"votes":269136,"id":"3"}],
 "final":"2"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":212333,"id":"60414"},
-{"votes":203425,"id":"60614"},
-{"votes":105845,"id":"60416"},
-{"votes":28280,"id":"60615"},
-{"votes":5570,"id":"60616"}],
+{"votes":212560,"id":"60414"},
+{"votes":203666,"id":"60614"},
+{"votes":105989,"id":"60416"},
+{"votes":28299,"id":"60615"},
+{"votes":5573,"id":"60616"}],
 "final":"60414"}}},
 "abbr":"ME"},
 "Rhode Island":
