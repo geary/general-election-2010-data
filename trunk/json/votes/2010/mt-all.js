@@ -1,21 +1,21 @@
-votesReady( {"dttime":"Nov 03,2010 01:59 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 02:01 AM","totals":
 {"name":"Montana","fix":
 {"Lewis & Clark":"Lewis and Clark"},
 "precincts":
-{"total":793,"reporting":747},
+{"total":793,"reporting":753},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":205171,"id":"1162"},
-{"votes":114650,"id":"60401"},
-{"votes":19246,"id":"540"}],
+{"votes":205441,"id":"1162"},
+{"votes":114809,"id":"60401"},
+{"votes":19262,"id":"540"}],
 "final":"1162"}},
 "Initiative":
 {"I - 164 Payday Loans":
 {"votes":[
-{"votes":239041,"id":"2"},
-{"votes":93554,"id":"3"}],
+{"votes":239321,"id":"2"},
+{"votes":93698,"id":"3"}],
 "final":"2"}}},
 "abbr":"MT"},
 "state":"MT","candidates":
