@@ -1,4 +1,4 @@
-{"dttime":"Nov 03,2010 04:54 AM","totals":
+{"dttime":"Nov 03,2010 04:57 AM","totals":
 {"name":"New York","fix":
 {"Brooklyn":"Kings","Staten Island":"Richmond","Saint Lawrence":"St. Lawrence","Manhattan":"New York"},
 "precincts":
@@ -52,7 +52,7 @@
 "final":"1581"},
 "29":
 {"votes":[
-{"votes":96881,"id":"60935"},
+{"votes":97018,"id":"60935"},
 {"votes":76124,"id":"60934"}],
 "final":"60935"},
 "1":
@@ -163,11 +163,11 @@
 "U.S. Senate":
 {"Unexpired Term":
 {"votes":[
-{"votes":2454897,"id":"51916"},
-{"votes":1460023,"id":"60919"},
+{"votes":2455017,"id":"51916"},
+{"votes":1460160,"id":"60919"},
 {"votes":33335,"id":"61256"},
-{"votes":19423,"id":"61255"},
-{"votes":17435,"id":"50530"},
+{"votes":19432,"id":"61255"},
+{"votes":17438,"id":"50530"},
 {"votes":12812,"id":"61257"},
 {"votes":7308,"id":"61145"}],
 "final":"51916"},
