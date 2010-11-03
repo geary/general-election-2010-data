@@ -1,4 +1,4 @@
-{"dttime":"Nov 02, 2010 08:58 PM","totals":
+{"dttime":"Nov 02, 2010 08:59 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -23,8 +23,8 @@
 "final":"523"},
 "7":
 {"votes":[
-{"votes":261,"id":"60639"},
-{"votes":12,"id":"3198"}]},
+{"votes":302,"id":"60639"},
+{"votes":64,"id":"3198"}]},
 "6":
 {"votes":[
 {"votes":0,"id":"526"}],
@@ -32,14 +32,14 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":1964,"id":"1702"},
-{"votes":1009,"id":"60557"}],
+{"votes":2568,"id":"1702"},
+{"votes":1308,"id":"60557"}],
 "final":"1702"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":1831,"id":"52867"},
-{"votes":1226,"id":"4080"}]}}},
+{"votes":2396,"id":"52867"},
+{"votes":1575,"id":"4080"}]}}},
 "precincts":
 {"total":398,"reporting":0},
 "abbr":"AL","name":"Alabama"},
