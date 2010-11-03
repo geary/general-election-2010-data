@@ -1,4 +1,4 @@
-{"dttime":"Nov 03,2010 07:13 AM","totals":
+{"dttime":"Nov 03,2010 07:16 AM","totals":
 {"races":
 {"President":
 {"":
@@ -672,11 +672,11 @@
 "Governor":
 {"":
 {"votes":[
-{"votes":240635,"id":"501"},
-{"votes":134362,"id":"60528"},
-{"votes":23575,"id":"60570"},
-{"votes":5341,"id":"15109"},
-{"votes":3429,"id":"56769"}],
+{"votes":243453,"id":"501"},
+{"votes":135352,"id":"60528"},
+{"votes":23909,"id":"60570"},
+{"votes":5379,"id":"15109"},
+{"votes":3473,"id":"56769"}],
 "final":"501"}}},
 "precincts":
 {"total":472,"reporting":426},
@@ -1322,10 +1322,10 @@
 "Governor":
 {"":
 {"votes":[
-{"votes":585003,"id":"60200"},
-{"votes":565306,"id":"39053"},
-{"votes":16782,"id":"61133"},
-{"votes":15395,"id":"61134"}]}},
+{"votes":587519,"id":"60200"},
+{"votes":567139,"id":"39053"},
+{"votes":16874,"id":"61133"},
+{"votes":15469,"id":"61134"}]}},
 "Measure":
 {"75 - Multnomah Casino":
 {"votes":[
@@ -1338,7 +1338,7 @@
 {"votes":490376,"id":"2"}],
 "final":"3"}}},
 "precincts":
-{"total":1000,"reporting":841},
+{"total":1000,"reporting":845},
 "abbr":"OR","name":"Oregon"},
 "Connecticut":
 {"name":"Connecticut","precincts":
@@ -1743,8 +1743,8 @@
 "final":"3"},
 "25 - Budget Vote":
 {"votes":[
-{"votes":3684397,"id":"2"},
-{"votes":3016445,"id":"3"}],
+{"votes":3696663,"id":"2"},
+{"votes":3024407,"id":"3"}],
 "final":"2"}}},
 "precincts":
 {"total":565,"reporting":516},
