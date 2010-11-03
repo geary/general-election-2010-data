@@ -1,23 +1,23 @@
-{"dttime":"Nov 02, 2010 09:40 PM","totals":
+{"dttime":"Nov 02, 2010 09:41 PM","totals":
 {"name":"Kansas","precincts":
-{"total":1321,"reporting":73},
+{"total":1321,"reporting":79},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":15165,"id":"54149"},
-{"votes":5755,"id":"60764"},
-{"votes":717,"id":"693"}]},
+{"votes":15663,"id":"54149"},
+{"votes":5821,"id":"60764"},
+{"votes":735,"id":"693"}]},
 "3":
 {"votes":[
-{"votes":43931,"id":"54005"},
-{"votes":21927,"id":"60766"},
-{"votes":1397,"id":"61105"}]},
+{"votes":45003,"id":"54005"},
+{"votes":23904,"id":"60766"},
+{"votes":1540,"id":"61105"}]},
 "2":
 {"votes":[
-{"votes":16272,"id":"19867"},
-{"votes":9215,"id":"61084"},
-{"votes":1022,"id":"59786"}]},
+{"votes":19307,"id":"19867"},
+{"votes":11038,"id":"61084"},
+{"votes":1231,"id":"59786"}]},
 "4":
 {"votes":[
 {"votes":6237,"id":"60768"},
@@ -27,23 +27,23 @@
 "Amendment":
 {"1 - Right to Bear Arms":
 {"votes":[
-{"votes":88433,"id":"2"},
-{"votes":13970,"id":"3"}]}},
+{"votes":111138,"id":"2"},
+{"votes":16858,"id":"3"}]}},
 "U.S. Senate":
 {"2010":
 {"votes":[
-{"votes":87295,"id":"692"},
-{"votes":32061,"id":"61083"},
-{"votes":2081,"id":"61102"},
-{"votes":1605,"id":"51224"}],
+{"votes":92196,"id":"692"},
+{"votes":35640,"id":"61083"},
+{"votes":2347,"id":"61102"},
+{"votes":1719,"id":"51224"}],
 "final":"692"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":78663,"id":"1720"},
-{"votes":41287,"id":"53995"},
-{"votes":2615,"id":"61104"},
-{"votes":1977,"id":"61103"}],
+{"votes":82706,"id":"1720"},
+{"votes":45419,"id":"53995"},
+{"votes":2848,"id":"61104"},
+{"votes":2085,"id":"61103"}],
 "final":"1720"}}},
 "abbr":"KS","votesby":"district"},
 "state":"KS","candidates":

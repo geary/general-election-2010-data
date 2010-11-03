@@ -1,4 +1,4 @@
-{"dttime":"Nov 02, 2010 09:40 PM","totals":
+{"dttime":"Nov 02, 2010 09:41 PM","totals":
 {"name":"Louisiana","fix":
 {"DeSoto":"De Soto","Jeff Davis":"Jefferson Davis","LaSalle":"La Salle"},
 "precincts":
@@ -26,9 +26,9 @@
 {"votes":0,"id":"1313"}]},
 "4":
 {"votes":[
-{"votes":0,"id":"60652"},
-{"votes":0,"id":"51907"},
-{"votes":0,"id":"59669"}]},
+{"votes":2940,"id":"59669"},
+{"votes":1600,"id":"60652"},
+{"votes":319,"id":"51907"}]},
 "7":
 {"votes":[
 {"votes":0,"id":"50418"}],
