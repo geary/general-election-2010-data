@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 02,2010 11:13 PM","totals":
+votesReady( {"dttime":"Nov 02,2010 11:15 PM","totals":
 {"name":"Connecticut","precincts":
 {"total":156,"reporting":74},
 "races":
@@ -18,9 +18,9 @@ votesReady( {"dttime":"Nov 02,2010 11:13 PM","totals":
 "final":"1141"},
 "2":
 {"votes":[
-{"votes":100653,"id":"1231"},
-{"votes":66625,"id":"61080"},
-{"votes":2148,"id":"59878"}],
+{"votes":106138,"id":"1231"},
+{"votes":69783,"id":"61080"},
+{"votes":2329,"id":"59878"}],
 "final":"1231"},
 "5":
 {"votes":[
@@ -34,17 +34,17 @@ votesReady( {"dttime":"Nov 02,2010 11:13 PM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":295215,"id":"9548"},
-{"votes":252663,"id":"60572"},
-{"votes":5822,"id":"61101"},
-{"votes":3401,"id":"61081"}],
+{"votes":302028,"id":"9548"},
+{"votes":258519,"id":"60572"},
+{"votes":5976,"id":"61101"},
+{"votes":3494,"id":"61081"}],
 "final":"9548"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":285829,"id":"60571"},
-{"votes":261179,"id":"9881"},
-{"votes":10614,"id":"61100"}]}}},
+{"votes":292550,"id":"60571"},
+{"votes":266981,"id":"9881"},
+{"votes":10858,"id":"61100"}]}}},
 "abbr":"CT","votesby":"town"},
 "state":"CT","candidates":
 {"1143":"Grn|Pillsbury|Charles Pillsbury","1139":"Dem|Larson|John Larson","1141":"Dem|DeLauro|Rosa DeLauro","61202":"Grn|Krayeske|Ken Krayeske","1231":"Dem|Courtney|Joe Courtney","59878":"Grn|Deshefy|Scott Deshefy","61081":"CTL|Mertens|John Mertens","60576":"GOP|Caligiuri|Sam Caligiuri","61037":"GOP|Labriola|Jerry Labriola","60573":"GOP|Brickley|Ann Brickley","60572":"GOP|McMahon|Linda McMahon","61101":"Ind|Mosler|Warren Mosler","60575":"GOP|Debicella|Dan Debicella","52147":"Dem|Murphy|Chris Murphy","59590":"Dem|Himes|Jim Himes","60571":"GOP|Foley|Tom Foley","9548":"Dem|Blumenthal|Richard Blumenthal","9881":"Dem|Malloy|Dan Malloy","61080":"GOP|Peckinpaugh|Janet Peckinpaugh","61162":"Ind|Hutchinson|Christopher Hutchinson","61100":"Ind|Marsh|Thomas Marsh"},
