@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 10:27 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 10:33 AM","totals":
 {"races":
 {"U.S. House":
 {"11":
@@ -119,8 +119,8 @@ votesReady( {"dttime":"Nov 03,2010 10:27 AM","totals":
 "Proposal":
 {"10-2 - Felon Politician Ban":
 {"votes":[
-{"votes":2257251,"id":"2"},
-{"votes":757876,"id":"3"}],
+{"votes":2274703,"id":"2"},
+{"votes":762164,"id":"3"}],
 "final":"2"}},
 "Governor":
 {"":
