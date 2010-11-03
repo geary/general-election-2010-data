@@ -1,24 +1,25 @@
-votesReady( {"dttime":"Nov 02,2010 11:22 PM","totals":
+votesReady( {"dttime":"Nov 02,2010 11:25 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":0,"id":"30396"},
-{"votes":0,"id":"51987"},
-{"votes":0,"id":"489"},
-{"votes":0,"id":"60751"}]},
+{"votes":63500,"id":"489"},
+{"votes":37087,"id":"51987"},
+{"votes":1540,"id":"30396"},
+{"votes":1111,"id":"60751"}],
+"final":"489"},
 "3":
 {"votes":[
-{"votes":0,"id":"60689"},
-{"votes":0,"id":"30878"},
-{"votes":0,"id":"60753"},
-{"votes":0,"id":"51349"},
-{"votes":0,"id":"59549"}]},
+{"votes":80665,"id":"60689"},
+{"votes":80266,"id":"30878"},
+{"votes":3480,"id":"59549"},
+{"votes":2088,"id":"51349"},
+{"votes":709,"id":"60753"}]},
 "2":
 {"votes":[
-{"votes":7779,"id":"30423"},
-{"votes":3964,"id":"30718"},
-{"votes":366,"id":"60752"}]}},
+{"votes":15957,"id":"30423"},
+{"votes":9560,"id":"30718"},
+{"votes":716,"id":"60752"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
@@ -34,19 +35,19 @@ votesReady( {"dttime":"Nov 02,2010 11:22 PM","totals":
 "Question":
 {"4 - Eminent Domain":
 {"votes":[
-{"votes":0,"id":"3"},
-{"votes":0,"id":"2"}]}},
+{"votes":8404,"id":"3"},
+{"votes":3320,"id":"2"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":7337,"id":"30767"},
-{"votes":4281,"id":"30739"},
-{"votes":307,"id":"100013"},
-{"votes":120,"id":"59554"},
-{"votes":107,"id":"60755"},
-{"votes":70,"id":"60754"},
-{"votes":63,"id":"60757"},
-{"votes":41,"id":"60756"}]}}},
+{"votes":148994,"id":"30767"},
+{"votes":140283,"id":"30739"},
+{"votes":4550,"id":"100013"},
+{"votes":2110,"id":"60755"},
+{"votes":1547,"id":"60757"},
+{"votes":1481,"id":"60754"},
+{"votes":1443,"id":"59554"},
+{"votes":1388,"id":"60756"}]}}},
 "precincts":
 {"total":492,"reporting":0},
 "abbr":"NV","name":"Nevada"},

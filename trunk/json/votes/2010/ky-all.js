@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 02,2010 11:22 PM","totals":
+votesReady( {"dttime":"Nov 02,2010 11:25 PM","totals":
 {"name":"Kentucky","fix":
 {"LaRue":"Larue"},
 "precincts":
@@ -19,13 +19,13 @@ votesReady( {"dttime":"Nov 02,2010 11:22 PM","totals":
 "final":"51522"},
 "2":
 {"votes":[
-{"votes":151604,"id":"54282"},
-{"votes":71812,"id":"60703"}],
+{"votes":155927,"id":"54282"},
+{"votes":73771,"id":"60703"}],
 "final":"54282"},
 "5":
 {"votes":[
-{"votes":143395,"id":"208"},
-{"votes":41267,"id":"59743"}],
+{"votes":146137,"id":"208"},
+{"votes":41886,"id":"59743"}],
 "final":"208"},
 "4":
 {"votes":[
@@ -39,8 +39,8 @@ votesReady( {"dttime":"Nov 02,2010 11:22 PM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":742619,"id":"60208"},
-{"votes":588089,"id":"204"}],
+{"votes":748717,"id":"60208"},
+{"votes":592173,"id":"204"}],
 "final":"60208"}}},
 "abbr":"KY"},
 "state":"KY","candidates":
