@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 02,2010 10:34 PM","totals":
+votesReady( {"dttime":"Nov 02,2010 10:36 PM","totals":
 {"races":
 {"U.S. House":
 {"11":
@@ -8,8 +8,8 @@ votesReady( {"dttime":"Nov 02,2010 10:34 PM","totals":
 "final":"252"},
 "10":
 {"votes":[
-{"votes":86702,"id":"60542"},
-{"votes":72446,"id":"51547"}],
+{"votes":88789,"id":"60542"},
+{"votes":73817,"id":"51547"}],
 "final":"60542"},
 "13":
 {"votes":[
@@ -22,9 +22,9 @@ votesReady( {"dttime":"Nov 02,2010 10:34 PM","totals":
 {"votes":72097,"id":"60309"}]},
 "15":
 {"votes":[
-{"votes":65561,"id":"1865"},
-{"votes":53596,"id":"60537"},
-{"votes":10519,"id":"61207"}]},
+{"votes":81290,"id":"1865"},
+{"votes":62852,"id":"60537"},
+{"votes":12236,"id":"61207"}]},
 "14":
 {"votes":[
 {"votes":116809,"id":"255"},
@@ -33,12 +33,12 @@ votesReady( {"dttime":"Nov 02,2010 10:34 PM","totals":
 "final":"255"},
 "17":
 {"votes":[
-{"votes":90519,"id":"259"},
-{"votes":69539,"id":"39490"}]},
+{"votes":95459,"id":"259"},
+{"votes":74544,"id":"39490"}]},
 "16":
 {"votes":[
-{"votes":50989,"id":"258"},
-{"votes":27035,"id":"49963"}]},
+{"votes":52118,"id":"258"},
+{"votes":28412,"id":"49963"}]},
 "19":
 {"votes":[
 {"votes":108769,"id":"262"},
@@ -56,8 +56,8 @@ votesReady( {"dttime":"Nov 02,2010 10:34 PM","totals":
 "final":"237"},
 "3":
 {"votes":[
-{"votes":101977,"id":"60917"},
-{"votes":81781,"id":"58298"}],
+{"votes":105813,"id":"60917"},
+{"votes":83884,"id":"58298"}],
 "final":"60917"},
 "2":
 {"votes":[
@@ -66,9 +66,9 @@ votesReady( {"dttime":"Nov 02,2010 10:34 PM","totals":
 "final":"239"},
 "5":
 {"votes":[
-{"votes":105586,"id":"58283"},
-{"votes":43894,"id":"60543"},
-{"votes":4815,"id":"61204"}],
+{"votes":108317,"id":"58283"},
+{"votes":44556,"id":"60543"},
+{"votes":4908,"id":"61204"}],
 "final":"58283"},
 "4":
 {"votes":[
@@ -76,9 +76,9 @@ votesReady( {"dttime":"Nov 02,2010 10:34 PM","totals":
 {"votes":92121,"id":"60544"}]},
 "7":
 {"votes":[
-{"votes":87717,"id":"60432"},
-{"votes":71683,"id":"60429"},
-{"votes":1728,"id":"61205"}]},
+{"votes":113550,"id":"60432"},
+{"votes":91383,"id":"60429"},
+{"votes":2184,"id":"61205"}]},
 "6":
 {"votes":[
 {"votes":61769,"id":"244"},
@@ -95,16 +95,16 @@ votesReady( {"dttime":"Nov 02,2010 10:34 PM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":1523887,"id":"51545"},
-{"votes":1495087,"id":"257"}]}},
+{"votes":1559952,"id":"51545"},
+{"votes":1533421,"id":"257"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":1611617,"id":"60204"},
-{"votes":1417086,"id":"39698"}],
+{"votes":1646287,"id":"60204"},
+{"votes":1447695,"id":"39698"}],
 "final":"60204"}}},
 "precincts":
-{"total":9241,"reporting":7798},
+{"total":9241,"reporting":7941},
 "abbr":"PA","name":"Pennsylvania"},
 "state":"PA","candidates":
 {"60542":"GOP|Marino|Thomas Marino","60309":"GOP|Burns|Tim Burns","60540":"GOP|Hellberg|Rick Hellberg","60204":"GOP|Corbett|Tom Corbett","60544":"GOP|Rothfus|Keith Rothfus","60543":"Dem|Pipe|Michael Pipe","39698":"Dem|Onorato|Dan Onorato","60307":"Dem|Critz|Mark Critz","258":"GOP|Pitts|Joseph Pitts","259":"Dem|Holden|Tim Holden","239":"Dem|Fattah|Chaka Fattah","252":"GOP|Barletta|Lou Barletta","251":"Dem|Kanjorski|Paul Kanjorski","257":"GOP|Toomey|Pat Toomey","255":"Dem|Doyle|Mike Doyle","60429":"Dem|Lentz|Bryan Lentz","237":"Dem|Brady|Robert Brady","60917":"GOP|Kelly|Mike Kelly","249":"GOP|Shuster|Bill Shuster","51178":"GOP|Fitzpatrick|Michael Fitzpatrick","51546":"Dem|Murphy|Patrick Murphy","58298":"Dem|Dahlkemper|Kathy Dahlkemper","61206":"Grn|Bortz|Ed Bortz","61207":"Ind|Towne|Jake Towne","61204":"Lib|Etzel|Vernon Etzel","61205":"Ind|Schneller|James Schneller","61203":"Ind|Monighan|Joshua Monighan","51543":"Dem|Altmire|Jason Altmire","262":"GOP|Platts|Todd Platts","60539":"GOP|Haluszczak|Melissa Haluszczak","60538":"Dem|Connolly|Dan Connolly","1865":"GOP|Dent|Charles Dent","60537":"Dem|Callahan|John Callahan","60536":"GOP|Adcock|Dee Adcock","60795":"Dem|Conners|Tom Conners","39744":"Dem|Schwartz|Allyson Schwartz","244":"GOP|Gerlach|Jim Gerlach","60432":"GOP|Meehan|Patrick Meehan","51547":"Dem|Carney|Christopher Carney","49963":"Dem|Herr|Lois Herr","51545":"Dem|Sestak|Joe Sestak","261":"GOP|Murphy|Tim Murphy","60434":"Dem|Trivedi|Manan Trivedi","58283":"GOP|Thompson|Glenn Thompson","60433":"Dem|Sanders|Ryan Sanders","39490":"GOP|Argall|Dave Argall"},

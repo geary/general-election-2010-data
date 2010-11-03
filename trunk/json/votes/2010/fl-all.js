@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 02,2010 10:34 PM","totals":
+votesReady( {"dttime":"Nov 02,2010 10:36 PM","totals":
 {"races":
 {"U.S. House":
 {"24":
@@ -106,8 +106,8 @@ votesReady( {"dttime":"Nov 02,2010 10:34 PM","totals":
 "final":"52996"},
 "15":
 {"votes":[
-{"votes":147883,"id":"53077"},
-{"votes":80156,"id":"60511"}],
+{"votes":148242,"id":"53077"},
+{"votes":80821,"id":"60511"}],
 "final":"53077"},
 "14":
 {"votes":[
@@ -151,19 +151,19 @@ votesReady( {"dttime":"Nov 02,2010 10:34 PM","totals":
 "Referendum":
 {"1 - Balanced Budget":
 {"votes":[
-{"votes":2860116,"id":"2"},
-{"votes":1097901,"id":"3"}],
+{"votes":2941019,"id":"2"},
+{"votes":1130412,"id":"3"}],
 "final":"2"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":2306600,"id":"61149"},
-{"votes":2133305,"id":"60518"},
-{"votes":109868,"id":"60520"},
-{"votes":16864,"id":"60523"},
+{"votes":2306918,"id":"61149"},
+{"votes":2134074,"id":"60518"},
+{"votes":109882,"id":"60520"},
+{"votes":16868,"id":"60523"},
 {"votes":16406,"id":"60519"},
-{"votes":12047,"id":"60556"},
-{"votes":6422,"id":"60555"}]}}},
+{"votes":12056,"id":"60556"},
+{"votes":6426,"id":"60555"}]}}},
 "precincts":
 {"total":372,"reporting":345},
 "abbr":"FL","name":"Florida"},
