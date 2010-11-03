@@ -1,17 +1,17 @@
-{"dttime":"Nov 02, 2010 09:21 PM","totals":
+{"dttime":"Nov 02, 2010 09:23 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":0,"id":"61197"},
-{"votes":0,"id":"60548"},
-{"votes":0,"id":"49396"}]}},
+{"votes":2832,"id":"49396"},
+{"votes":974,"id":"60548"},
+{"votes":124,"id":"61197"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":0,"id":"60550"},
-{"votes":0,"id":"61082"},
-{"votes":0,"id":"61198"}]}}},
+{"votes":2715,"id":"61082"},
+{"votes":962,"id":"60550"},
+{"votes":99,"id":"61198"}]}}},
 "precincts":
 {"total":486,"reporting":0},
 "abbr":"WY","name":"Wyoming"},
