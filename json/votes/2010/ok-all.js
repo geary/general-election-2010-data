@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 12:31 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 12:33 AM","totals":
 {"name":"Oklahoma","fix":
 {"LeFlore":"Le Flore"},
 "precincts":
@@ -63,7 +63,7 @@ votesReady( {"dttime":"Nov 03,2010 12:31 AM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":569665,"id":"37501"},
+{"votes":569672,"id":"37501"},
 {"votes":385361,"id":"57325"}],
 "final":"37501"}}},
 "abbr":"OK"},
