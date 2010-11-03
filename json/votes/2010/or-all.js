@@ -1,13 +1,13 @@
-votesReady( {"dttime":"Nov 03,2010 02:05 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 02:08 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":109479,"id":"478"},
-{"votes":84779,"id":"60610"},
-{"votes":2339,"id":"61132"},
-{"votes":1904,"id":"59846"},
-{"votes":1473,"id":"39371"}],
+{"votes":110147,"id":"478"},
+{"votes":85354,"id":"60610"},
+{"votes":2372,"id":"61132"},
+{"votes":1918,"id":"59846"},
+{"votes":1483,"id":"39371"}],
 "final":"478"},
 "3":
 {"votes":[
@@ -18,8 +18,8 @@ votesReady( {"dttime":"Nov 03,2010 02:05 AM","totals":
 "final":"482"},
 "2":
 {"votes":[
-{"votes":164584,"id":"481"},
-{"votes":55201,"id":"60611"}],
+{"votes":165633,"id":"481"},
+{"votes":55551,"id":"60611"}],
 "final":"481"},
 "5":
 {"votes":[
@@ -28,26 +28,26 @@ votesReady( {"dttime":"Nov 03,2010 02:05 AM","totals":
 {"votes":5711,"id":"51866"}]},
 "4":
 {"votes":[
-{"votes":124868,"id":"484"},
-{"votes":104390,"id":"60612"},
-{"votes":3872,"id":"59807"}],
+{"votes":124933,"id":"484"},
+{"votes":104430,"id":"60612"},
+{"votes":3875,"id":"59807"}],
 "final":"484"}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":594698,"id":"1750"},
-{"votes":430074,"id":"60190"},
-{"votes":13151,"id":"38806"},
-{"votes":10748,"id":"61142"},
-{"votes":9641,"id":"61143"}],
+{"votes":598475,"id":"1750"},
+{"votes":433005,"id":"60190"},
+{"votes":13245,"id":"38806"},
+{"votes":10837,"id":"61142"},
+{"votes":9696,"id":"61143"}],
 "final":"1750"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":526168,"id":"60200"},
-{"votes":508118,"id":"39053"},
-{"votes":14568,"id":"61133"},
-{"votes":13741,"id":"61134"}]}},
+{"votes":527583,"id":"60200"},
+{"votes":509223,"id":"39053"},
+{"votes":14652,"id":"61133"},
+{"votes":13777,"id":"61134"}]}},
 "Measure":
 {"75 - Multnomah Casino":
 {"votes":[
@@ -59,7 +59,7 @@ votesReady( {"dttime":"Nov 03,2010 02:05 AM","totals":
 {"votes":583965,"id":"3"},
 {"votes":422083,"id":"2"}]}}},
 "precincts":
-{"total":1000,"reporting":742},
+{"total":1000,"reporting":749},
 "abbr":"OR","name":"Oregon"},
 "state":"OR","candidates":
 {"60200":"GOP|Dudley|Chris Dudley","51866":"PAG|Lugo|Chris Lugo","38736":"GOP|Bruun|Scott Bruun","60190":"GOP|Huffman|Jim Huffman","61134":"Lib|Wagner|Wes Wagner","3":"|No| No","2":"|Yes| Yes","39371":"Lib|Tabor|Joe Tabor","61132":"CST|LaMunyon|Don LaMunyon","61133":"CST|Kord|Greg Kord","59807":"PAG|Beilstein|Mike Beilstein","1750":"Dem|Wyden|Ron Wyden","59846":"PAG|Henry|Chris Henry","59797":"PAG|Meo|Michael Meo","58449":"GOP|Lopez|Delia Lopez","484":"Dem|DeFazio|Peter DeFazio","482":"Dem|Blumenauer|Earl Blumenauer","481":"GOP|Walden|Greg Walden","38806":"WF|Cronk|Bruce Cronk","60612":"GOP|Robinson|Art Robinson","60610":"GOP|Cornilles|Rob Cornilles","60611":"Dem|Segers|Joyce Segers","61141":"Lib|Lawrence|Jeff Lawrence","57501":"Dem|Schrader|Kurt Schrader","61143":"Prg|Staggenborg|Rick Staggenborg","61142":"Lib|Delphine|Marc Delphine","39053":"Dem|Kitzhaber|John Kitzhaber","478":"Dem|Wu|David Wu"},

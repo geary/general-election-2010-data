@@ -1,4 +1,4 @@
-{"dttime":"Nov 03,2010 02:05 AM","totals":
+{"dttime":"Nov 03,2010 02:08 AM","totals":
 {"name":"Arkansas","fix":
 {"Saint Francis":"St. Francis"},
 "precincts":
@@ -7,9 +7,9 @@
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":86610,"id":"60226"},
-{"votes":71673,"id":"60223"},
-{"votes":7619,"id":"61138"}],
+{"votes":86763,"id":"60226"},
+{"votes":72649,"id":"60223"},
+{"votes":7656,"id":"61138"}],
 "final":"60226"},
 "3":
 {"votes":[
@@ -46,9 +46,9 @@
 "Governor":
 {"":
 {"votes":[
-{"votes":449969,"id":"5647"},
-{"votes":228358,"id":"60197"},
-{"votes":12823,"id":"52723"}],
+{"votes":451052,"id":"5647"},
+{"votes":228454,"id":"60197"},
+{"votes":12846,"id":"52723"}],
 "final":"5647"}}},
 "abbr":"AR"},
 "state":"AR","candidates":
