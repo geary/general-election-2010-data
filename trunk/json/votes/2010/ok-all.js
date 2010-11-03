@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 02,2010 11:32 PM","totals":
+votesReady( {"dttime":"Nov 02,2010 11:35 PM","totals":
 {"name":"Oklahoma","fix":
 {"LeFlore":"Le Flore"},
 "precincts":
@@ -34,10 +34,10 @@ votesReady( {"dttime":"Nov 02,2010 11:32 PM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":567302,"id":"37351"},
-{"votes":207739,"id":"38273"},
-{"votes":19635,"id":"59449"},
-{"votes":7163,"id":"61099"}],
+{"votes":568646,"id":"37351"},
+{"votes":208098,"id":"38273"},
+{"votes":19682,"id":"59449"},
+{"votes":7171,"id":"61099"}],
 "final":"37351"}},
 "Question":
 {"751 - English Official Language":
@@ -63,8 +63,8 @@ votesReady( {"dttime":"Nov 02,2010 11:32 PM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":488338,"id":"37501"},
-{"votes":328224,"id":"57325"}],
+{"votes":554951,"id":"37501"},
+{"votes":370920,"id":"57325"}],
 "final":"37501"}}},
 "abbr":"OK"},
 "state":"OK","candidates":
