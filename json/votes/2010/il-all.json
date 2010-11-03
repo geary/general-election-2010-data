@@ -1,8 +1,8 @@
-{"dttime":"Nov 03,2010 02:26 AM","totals":
+{"dttime":"Nov 03,2010 02:28 AM","totals":
 {"name":"Illinois","fix":
 {"JoDaviess":"Jo Daviess","DeWitt":"De Witt","LaSalle":"La Salle"},
 "precincts":
-{"total":11209,"reporting":11126},
+{"total":11209,"reporting":11127},
 "races":
 {"U.S. House":
 {"11":
@@ -45,9 +45,9 @@
 "final":"60791"},
 "16":
 {"votes":[
-{"votes":133874,"id":"1283"},
-{"votes":63786,"id":"60170"},
-{"votes":8206,"id":"60790"}],
+{"votes":138100,"id":"1283"},
+{"votes":65835,"id":"60170"},
+{"votes":8414,"id":"60790"}],
 "final":"1283"},
 "19":
 {"votes":[
@@ -115,8 +115,8 @@
 "Amendment":
 {"Recall of Governor":
 {"votes":[
-{"votes":2103634,"id":"2"},
-{"votes":1098038,"id":"3"}],
+{"votes":2107071,"id":"2"},
+{"votes":1100411,"id":"3"}],
 "final":"2"}},
 "U.S. Senate":
 {"2010":
