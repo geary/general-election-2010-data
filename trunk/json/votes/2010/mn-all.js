@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 02,2010 10:49 PM","totals":
+votesReady( {"dttime":"Nov 02,2010 10:52 PM","totals":
 {"name":"Minnesota","fix":
 {"Lac Qui Parle":"Lac qui Parle"},
 "precincts":
@@ -38,10 +38,10 @@ votesReady( {"dttime":"Nov 02,2010 10:49 PM","totals":
 "final":"989"},
 "7":
 {"votes":[
-{"votes":7721,"id":"1333"},
-{"votes":5884,"id":"60717"},
-{"votes":472,"id":"26560"},
-{"votes":406,"id":"60718"}]},
+{"votes":8459,"id":"1333"},
+{"votes":6352,"id":"60717"},
+{"votes":494,"id":"26560"},
+{"votes":429,"id":"60718"}]},
 "6":
 {"votes":[
 {"votes":43141,"id":"55336"},
@@ -50,20 +50,20 @@ votesReady( {"dttime":"Nov 02,2010 10:49 PM","totals":
 {"votes":1522,"id":"59874"}]},
 "8":
 {"votes":[
-{"votes":10063,"id":"996"},
-{"votes":6640,"id":"60719"},
-{"votes":559,"id":"60726"},
-{"votes":127,"id":"60720"}]}},
+{"votes":16035,"id":"996"},
+{"votes":10330,"id":"60719"},
+{"votes":769,"id":"60726"},
+{"votes":173,"id":"60720"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":671699,"id":"1730"},
-{"votes":529920,"id":"60721"},
-{"votes":168622,"id":"60723"},
-{"votes":4378,"id":"60722"},
-{"votes":3847,"id":"26995"},
-{"votes":3632,"id":"980"},
-{"votes":1654,"id":"60724"}]}}},
+{"votes":672205,"id":"1730"},
+{"votes":530553,"id":"60721"},
+{"votes":168724,"id":"60723"},
+{"votes":4380,"id":"60722"},
+{"votes":3854,"id":"26995"},
+{"votes":3641,"id":"980"},
+{"votes":1655,"id":"60724"}]}}},
 "abbr":"MN"},
 "state":"MN","candidates":
 {"55208":"GOP|Demmer|Randy Demmer","989":"Dem|McCollum|Betty McCollum","55265":"Dem|Ellison|Keith Ellison","59874":"Ind|Immelman|Aubrey Immelman","985":"GOP|Kline|John Kline","60743":"Inp|Schrunk|Tom Schrunk","51531":"Dem|Walz|Tim Walz","60726":"Inp|Olson|Timothy Olson","60724":"Ind|Eno|Linda Eno","60725":"Inp|Wilson|Steven Wilson","60722":"Grn|Hakeem|Farheen Hakeem","60709":"Ind|Johnson|Lars Johnson","60720":"CST|Burton|George Burton","60721":"GOP|Emmer|Tom Emmer","1730":"Dem|Dayton|Mark Dayton","55233":"GOP|Paulsen|Erik Paulsen","61074":"Dem|Madore|Shelley Madore","26037":"Ind|Cavlan|Michael Cavlan","980":"Ind|Pentel|Ken Pentel","59610":"Inp|Anderson|Bob Anderson","996":"Dem|Oberstar|James Oberstar","1333":"Dem|Peterson|Collin Peterson","55336":"GOP|Bachmann|Michele Bachmann","26995":"GRP|Wright|Chris Wright","60723":"Inp|Horner|Tom Horner","60713":"Inp|Carlson|Steve Carlson","60712":"Dem|Meffert|Jim Meffert","60711":"Inp|Oleson|Jon Oleson","60717":"GOP|Byberg|Lee Byberg","60716":"GOP|Demos|Joel Demos","60715":"Ind|Torgerson|Lynne Torgerson","60714":"GOP|Collett|Teresa Collett","60719":"GOP|Cravaack|Chip Cravaack","60718":"Ind|Waldorf|Gene Waldorf","26560":"Inp|Menze|Glen Menze","26048":"Dem|Clark|Tarryl Clark"},
