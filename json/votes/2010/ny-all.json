@@ -1,4 +1,4 @@
-{"dttime":"Nov 03,2010 04:11 AM","totals":
+{"dttime":"Nov 03,2010 04:13 AM","totals":
 {"name":"New York","fix":
 {"Brooklyn":"Kings","Staten Island":"Richmond","Saint Lawrence":"St. Lawrence","Manhattan":"New York"},
 "precincts":
@@ -173,10 +173,10 @@
 "final":"51916"},
 "Full Term":
 {"votes":[
-{"votes":2628865,"id":"1745"},
-{"votes":1316669,"id":"61165"},
-{"votes":38873,"id":"61253"},
-{"votes":25314,"id":"61254"}],
+{"votes":2639086,"id":"1745"},
+{"votes":1324118,"id":"61165"},
+{"votes":39054,"id":"61253"},
+{"votes":25408,"id":"61254"}],
 "final":"1745"}},
 "Governor":
 {"":
