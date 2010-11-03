@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 01:09 PM","totals":
+votesReady( {"dttime":"Nov 03,2010 01:15 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -8,10 +8,10 @@ votesReady( {"dttime":"Nov 03,2010 01:09 PM","totals":
 "final":"53401"},
 "2":
 {"votes":[
-{"votes":129746,"id":"1594"},
-{"votes":45621,"id":"61240"},
-{"votes":3188,"id":"60882"},
-{"votes":1277,"id":"60883"}],
+{"votes":132267,"id":"1594"},
+{"votes":46394,"id":"61240"},
+{"votes":3254,"id":"60882"},
+{"votes":1310,"id":"60883"}],
 "final":"1594"}},
 "U.S. Senate":
 {"":
@@ -25,10 +25,10 @@ votesReady( {"dttime":"Nov 03,2010 01:09 PM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":220320,"id":"1587"},
-{"votes":155743,"id":"13472"},
-{"votes":1256,"id":"1597"},
-{"votes":1248,"id":"61241"}],
+{"votes":222510,"id":"1587"},
+{"votes":157098,"id":"13472"},
+{"votes":1263,"id":"1597"},
+{"votes":1263,"id":"61241"}],
 "final":"1587"}}},
 "precincts":
 {"total":144,"reporting":143},
