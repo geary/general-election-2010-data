@@ -1,4 +1,4 @@
-{"dttime":"Nov 02,2010 11:04 PM","totals":
+{"dttime":"Nov 02,2010 11:08 PM","totals":
 {"races":
 {"U.S. House":
 {"24":
@@ -151,8 +151,8 @@
 "Referendum":
 {"1 - Balanced Budget":
 {"votes":[
-{"votes":2970124,"id":"2"},
-{"votes":1140000,"id":"3"}],
+{"votes":3020018,"id":"2"},
+{"votes":1162694,"id":"3"}],
 "final":"2"}},
 "Governor":
 {"":
@@ -162,7 +162,7 @@
 {"votes":113226,"id":"60520"},
 {"votes":17397,"id":"60523"},
 {"votes":16866,"id":"60519"},
-{"votes":12375,"id":"60556"},
+{"votes":12400,"id":"60556"},
 {"votes":6654,"id":"60555"}]}}},
 "precincts":
 {"total":372,"reporting":351},
