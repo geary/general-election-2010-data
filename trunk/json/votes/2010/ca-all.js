@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 04:42 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 04:45 AM","totals":
 {"races":
 {"U.S. House":
 {"30":
@@ -68,10 +68,10 @@ votesReady( {"dttime":"Nov 03,2010 04:42 AM","totals":
 "final":"52471"},
 "49":
 {"votes":[
-{"votes":65397,"id":"146"},
-{"votes":31975,"id":"60863"},
-{"votes":3534,"id":"60864"},
-{"votes":2162,"id":"60865"}],
+{"votes":68678,"id":"146"},
+{"votes":33897,"id":"60863"},
+{"votes":3695,"id":"60864"},
+{"votes":2302,"id":"60865"}],
 "final":"146"},
 "46":
 {"votes":[
@@ -260,8 +260,8 @@ votesReady( {"dttime":"Nov 03,2010 04:42 AM","totals":
 "final":"72"},
 "51":
 {"votes":[
-{"votes":45827,"id":"151"},
-{"votes":30698,"id":"60866"}],
+{"votes":48280,"id":"151"},
+{"votes":32684,"id":"60866"}],
 "final":"151"},
 "36":
 {"votes":[
@@ -299,20 +299,20 @@ votesReady( {"dttime":"Nov 03,2010 04:42 AM","totals":
 "final":"52450"},
 "50":
 {"votes":[
-{"votes":89735,"id":"6540"},
-{"votes":60956,"id":"6650"},
-{"votes":3324,"id":"7247"},
-{"votes":3251,"id":"6757"}],
+{"votes":96190,"id":"6540"},
+{"votes":65275,"id":"6650"},
+{"votes":3578,"id":"6757"},
+{"votes":3565,"id":"7247"}],
 "final":"6540"}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":3214272,"id":"1705"},
-{"votes":2713872,"id":"60339"},
-{"votes":108813,"id":"7691"},
-{"votes":83352,"id":"7042"},
-{"votes":79851,"id":"8004"},
-{"votes":77671,"id":"60825"}],
+{"votes":3237035,"id":"1705"},
+{"votes":2735626,"id":"60339"},
+{"votes":109637,"id":"7691"},
+{"votes":84119,"id":"7042"},
+{"votes":80460,"id":"8004"},
+{"votes":78417,"id":"60825"}],
 "final":"1705"}},
 "Governor":
 {"":
@@ -327,13 +327,13 @@ votesReady( {"dttime":"Nov 03,2010 04:42 AM","totals":
 "Proposition":
 {"19 - Legalize Marijuana":
 {"votes":[
-{"votes":3276183,"id":"3"},
-{"votes":2758957,"id":"2"}],
+{"votes":3293593,"id":"3"},
+{"votes":2770468,"id":"2"}],
 "final":"3"},
 "25 - Budget Vote":
 {"votes":[
-{"votes":3166160,"id":"2"},
-{"votes":2639967,"id":"3"}],
+{"votes":3179684,"id":"2"},
+{"votes":2654231,"id":"3"}],
 "final":"2"}}},
 "precincts":
 {"total":565,"reporting":516},

@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 04:42 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 04:45 AM","totals":
 {"name":"Virginia","fix":
 {},
 "precincts":

@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 04:42 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 04:45 AM","totals":
 {"races":
 {"President":
 {"":
@@ -14,7 +14,7 @@ votesReady( {"dttime":"Nov 03,2010 04:42 AM","totals":
 "Dem":
 {"Winning Trend":192,"Leading":9,"Holdovers":0,"Current":256,"Net Change":-64,"Won":183},
 "GOP":
-{"Winning Trend":243,"Leading":5,"Holdovers":0,"Current":179,"Net Change":64,"Won":238}},
+{"Winning Trend":243,"Leading":4,"Holdovers":0,"Current":179,"Net Change":64,"Won":239}},
 "U.S. Senate":
 {"Others":
 {"Winning Trend":3,"Leading":1,"Holdovers":2,"Current":2,"Net Change":1,"Won":0},
@@ -432,8 +432,8 @@ votesReady( {"dttime":"Nov 03,2010 04:42 AM","totals":
 "final":"56805"},
 "2":
 {"votes":[
-{"votes":87021,"id":"31918"},
-{"votes":68887,"id":"59494"}],
+{"votes":88974,"id":"31918"},
+{"votes":71679,"id":"59494"}],
 "final":"31918"}},
 "Governor":
 {"":
@@ -846,10 +846,10 @@ votesReady( {"dttime":"Nov 03,2010 04:42 AM","totals":
 "final":"1124"},
 "7":
 {"votes":[
-{"votes":61536,"id":"1131"},
-{"votes":57963,"id":"61007"},
-{"votes":3621,"id":"61153"},
-{"votes":3407,"id":"61195"}]},
+{"votes":61598,"id":"1131"},
+{"votes":58012,"id":"61007"},
+{"votes":3628,"id":"61153"},
+{"votes":3412,"id":"61195"}]},
 "6":
 {"votes":[
 {"votes":122707,"id":"1129"},
@@ -865,46 +865,46 @@ votesReady( {"dttime":"Nov 03,2010 04:42 AM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":792290,"id":"1701"},
-{"votes":464352,"id":"61000"},
-{"votes":63008,"id":"56827"},
-{"votes":19110,"id":"61001"}],
+{"votes":792334,"id":"1701"},
+{"votes":464413,"id":"61000"},
+{"votes":63018,"id":"56827"},
+{"votes":19118,"id":"61001"}],
 "final":"1701"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":748132,"id":"4627"},
-{"votes":568747,"id":"4875"},
-{"votes":29442,"id":"1137"},
-{"votes":12045,"id":"61009"}],
+{"votes":748179,"id":"4627"},
+{"votes":568815,"id":"4875"},
+{"votes":29448,"id":"1137"},
+{"votes":12047,"id":"61009"}],
 "final":"4627"}},
 "Proposition":
 {"107 - Preferential Treatment":
 {"votes":[
-{"votes":748883,"id":"2"},
-{"votes":508437,"id":"3"}],
+{"votes":748938,"id":"2"},
+{"votes":508497,"id":"3"}],
 "final":"2"},
 "109 - Hunting and Fishing":
 {"votes":[
-{"votes":721936,"id":"3"},
-{"votes":566205,"id":"2"}],
+{"votes":721998,"id":"3"},
+{"votes":566259,"id":"2"}],
 "final":"3"},
 "106 - Health Care":
 {"votes":[
-{"votes":703223,"id":"2"},
-{"votes":566855,"id":"3"}],
+{"votes":703280,"id":"2"},
+{"votes":566914,"id":"3"}],
 "final":"2"},
 "113 - Secret Ballot":
 {"votes":[
-{"votes":771988,"id":"2"},
-{"votes":499652,"id":"3"}],
+{"votes":772041,"id":"2"},
+{"votes":499711,"id":"3"}],
 "final":"2"},
 "203 - Medical Marijuana":
 {"votes":[
-{"votes":661953,"id":"3"},
-{"votes":655202,"id":"2"}]}}},
+{"votes":661988,"id":"3"},
+{"votes":655285,"id":"2"}]}}},
 "precincts":
-{"total":2239,"reporting":2232},
+{"total":2239,"reporting":2233},
 "abbr":"AZ","name":"Arizona"},
 "Iowa":
 {"races":
@@ -1478,10 +1478,10 @@ votesReady( {"dttime":"Nov 03,2010 04:42 AM","totals":
 "final":"52471"},
 "49":
 {"votes":[
-{"votes":65397,"id":"146"},
-{"votes":31975,"id":"60863"},
-{"votes":3534,"id":"60864"},
-{"votes":2162,"id":"60865"}],
+{"votes":68678,"id":"146"},
+{"votes":33897,"id":"60863"},
+{"votes":3695,"id":"60864"},
+{"votes":2302,"id":"60865"}],
 "final":"146"},
 "46":
 {"votes":[
@@ -1670,8 +1670,8 @@ votesReady( {"dttime":"Nov 03,2010 04:42 AM","totals":
 "final":"72"},
 "51":
 {"votes":[
-{"votes":45827,"id":"151"},
-{"votes":30698,"id":"60866"}],
+{"votes":48280,"id":"151"},
+{"votes":32684,"id":"60866"}],
 "final":"151"},
 "36":
 {"votes":[
@@ -1709,20 +1709,20 @@ votesReady( {"dttime":"Nov 03,2010 04:42 AM","totals":
 "final":"52450"},
 "50":
 {"votes":[
-{"votes":89735,"id":"6540"},
-{"votes":60956,"id":"6650"},
-{"votes":3324,"id":"7247"},
-{"votes":3251,"id":"6757"}],
+{"votes":96190,"id":"6540"},
+{"votes":65275,"id":"6650"},
+{"votes":3578,"id":"6757"},
+{"votes":3565,"id":"7247"}],
 "final":"6540"}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":3214272,"id":"1705"},
-{"votes":2713872,"id":"60339"},
-{"votes":108813,"id":"7691"},
-{"votes":83352,"id":"7042"},
-{"votes":79851,"id":"8004"},
-{"votes":77671,"id":"60825"}],
+{"votes":3237035,"id":"1705"},
+{"votes":2735626,"id":"60339"},
+{"votes":109637,"id":"7691"},
+{"votes":84119,"id":"7042"},
+{"votes":80460,"id":"8004"},
+{"votes":78417,"id":"60825"}],
 "final":"1705"}},
 "Governor":
 {"":
@@ -1737,13 +1737,13 @@ votesReady( {"dttime":"Nov 03,2010 04:42 AM","totals":
 "Proposition":
 {"19 - Legalize Marijuana":
 {"votes":[
-{"votes":3276183,"id":"3"},
-{"votes":2758957,"id":"2"}],
+{"votes":3293593,"id":"3"},
+{"votes":2770468,"id":"2"}],
 "final":"3"},
 "25 - Budget Vote":
 {"votes":[
-{"votes":3166160,"id":"2"},
-{"votes":2639967,"id":"3"}],
+{"votes":3179684,"id":"2"},
+{"votes":2654231,"id":"3"}],
 "final":"2"}}},
 "precincts":
 {"total":565,"reporting":516},
@@ -1996,9 +1996,9 @@ votesReady( {"dttime":"Nov 03,2010 04:42 AM","totals":
 "final":"48730"},
 "7":
 {"votes":[
-{"votes":130411,"id":"60735"},
-{"votes":111594,"id":"59151"},
-{"votes":8847,"id":"60737"}],
+{"votes":130696,"id":"60735"},
+{"votes":111846,"id":"59151"},
+{"votes":8882,"id":"60737"}],
 "final":"60735"},
 "6":
 {"votes":[
@@ -2013,21 +2013,21 @@ votesReady( {"dttime":"Nov 03,2010 04:42 AM","totals":
 "U.S. Senate":
 {"2010":
 {"votes":[
-{"votes":1117601,"id":"60740"},
-{"votes":1014639,"id":"1765"},
-{"votes":23146,"id":"60742"}],
+{"votes":1117904,"id":"60740"},
+{"votes":1014895,"id":"1765"},
+{"votes":23165,"id":"60742"}],
 "final":"60740"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":1120069,"id":"48976"},
-{"votes":998933,"id":"48317"},
-{"votes":10441,"id":"60798"},
-{"votes":8221,"id":"60799"},
-{"votes":6691,"id":"61275"}],
+{"votes":1120381,"id":"48976"},
+{"votes":999161,"id":"48317"},
+{"votes":10453,"id":"60798"},
+{"votes":8227,"id":"60799"},
+{"votes":6695,"id":"61275"}],
 "final":"48976"}}},
 "precincts":
-{"total":3609,"reporting":3587},
+{"total":3609,"reporting":3588},
 "abbr":"WI","name":"Wisconsin"},
 "Vermont":
 {"name":"Vermont","precincts":
