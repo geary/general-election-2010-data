@@ -1,4 +1,4 @@
-{"dttime":"Nov 02, 2010 08:22 PM","totals":
+{"dttime":"Nov 02, 2010 08:24 PM","totals":
 {"races":
 {"U.S. House":
 {"11":
@@ -7,8 +7,8 @@
 {"votes":31786,"id":"51655"}]},
 "10":
 {"votes":[
-{"votes":26104,"id":"35265"},
-{"votes":9189,"id":"60664"}]},
+{"votes":27481,"id":"35265"},
+{"votes":9514,"id":"60664"}]},
 "13":
 {"votes":[
 {"votes":61676,"id":"1372"},
@@ -20,13 +20,13 @@
 {"votes":593,"id":"60666"}]},
 "1":
 {"votes":[
-{"votes":18582,"id":"34352"},
-{"votes":13935,"id":"60534"}]},
+{"votes":27031,"id":"34352"},
+{"votes":20214,"id":"60534"}]},
 "3":
 {"votes":[
-{"votes":35911,"id":"1362"},
-{"votes":11720,"id":"35602"},
-{"votes":1220,"id":"60657"}],
+{"votes":43492,"id":"1362"},
+{"votes":14036,"id":"35602"},
+{"votes":1323,"id":"60657"}],
 "final":"1362"},
 "2":
 {"votes":[
@@ -63,11 +63,11 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":454170,"id":"452"},
-{"votes":362828,"id":"35216"},
-{"votes":15286,"id":"60655"}]}}},
+{"votes":472063,"id":"452"},
+{"votes":373937,"id":"35216"},
+{"votes":15747,"id":"60655"}]}}},
 "precincts":
-{"total":224,"reporting":5},
+{"total":224,"reporting":6},
 "abbr":"NC","name":"North Carolina"},
 "state":"NC","candidates":
 {"458":"Dem|Watt|Mel Watt","35602":"Dem|Rouse|Johnny Rouse","450":"Dem|Price|David Price","452":"GOP|Burr|Richard Burr","453":"GOP|Coble|Howard Coble","34352":"Dem|Butterfield|G.K. Butterfield","60667":"GOP|Randall|William Randall","1877":"GOP|Foxx|Virginia Foxx","60665":"GOP|Miller|Jeff Miller","60664":"Dem|Gregory|Jeff Gregory","60663":"Dem|Doctor|Jeff Doctor","60662":"Lib|Hill|Thomas Hill","59430":"GOP|Lawson|William Lawson","60660":"GOP|Pantano|Ilario Pantano","60661":"GOP|Johnson|Harold Johnson","51655":"Dem|Shuler|Heath Shuler","51652":"Dem|Kissell|Larry Kissell","35216":"Dem|Marshall|Elaine Marshall","448":"Dem|Etheridge|Bob Etheridge","454":"GOP|Myrick|Sue Myrick","35265":"GOP|McHenry|Patrick McHenry","447":"GOP|Dority|Greg Dority","1372":"Dem|Miller|Brad Miller","60533":"GOP|Ellmers|Renee Ellmers","60534":"GOP|Woolard|Ashley Woolard","1025":"Dem|McIntyre|Mike McIntyre","60658":"Dem|Kennedy|Billy Kennedy","60659":"Dem|Turner|Sam Turner","60666":"Lib|Cecil|Lon Cecil","60656":"Lib|Rose|Tom Rose","60657":"Lib|Holloman|Darryl Holloman","60655":"Lib|Beitler|Michael Beitler","1362":"GOP|Jones|Walter Jones"},

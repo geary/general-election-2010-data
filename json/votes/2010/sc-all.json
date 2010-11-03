@@ -1,4 +1,4 @@
-{"dttime":"Nov 02, 2010 08:22 PM","totals":
+{"dttime":"Nov 02, 2010 08:24 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -23,42 +23,42 @@
 {"votes":147,"id":"60679"}]},
 "5":
 {"votes":[
-{"votes":4967,"id":"60619"},
-{"votes":3076,"id":"612"}]},
+{"votes":5729,"id":"60619"},
+{"votes":3609,"id":"612"}]},
 "4":
 {"votes":[
-{"votes":13,"id":"59677"},
-{"votes":10,"id":"60681"},
-{"votes":1,"id":"60683"},
-{"votes":0,"id":"611"},
-{"votes":0,"id":"60682"}]},
+{"votes":325,"id":"60681"},
+{"votes":196,"id":"59677"},
+{"votes":11,"id":"60683"},
+{"votes":3,"id":"611"},
+{"votes":2,"id":"60682"}]},
 "6":
 {"votes":[
-{"votes":4318,"id":"1414"},
-{"votes":854,"id":"60684"},
-{"votes":25,"id":"60685"}]}},
+{"votes":4977,"id":"1414"},
+{"votes":928,"id":"60684"},
+{"votes":30,"id":"60685"}]}},
 "Amendment":
 {"1 - Hunting and Fishing":
 {"votes":[
-{"votes":26538,"id":"2"},
-{"votes":2316,"id":"3"}]},
+{"votes":31069,"id":"2"},
+{"votes":2835,"id":"3"}]},
 "2 - Secret Ballot":
 {"votes":[
-{"votes":16604,"id":"2"},
-{"votes":2102,"id":"3"}]}},
+{"votes":31465,"id":"2"},
+{"votes":7210,"id":"3"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":26360,"id":"610"},
-{"votes":13504,"id":"60335"},
-{"votes":2936,"id":"60671"}],
+{"votes":48972,"id":"610"},
+{"votes":21649,"id":"60335"},
+{"votes":5465,"id":"60671"}],
 "final":"610"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":20968,"id":"58026"},
-{"votes":20686,"id":"60420"},
-{"votes":624,"id":"60672"}]}}},
+{"votes":28979,"id":"60420"},
+{"votes":28153,"id":"58026"},
+{"votes":865,"id":"60672"}]}}},
 "precincts":
 {"total":398,"reporting":1},
 "abbr":"SC","name":"South Carolina"},
