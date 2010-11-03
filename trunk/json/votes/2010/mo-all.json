@@ -1,4 +1,4 @@
-{"dttime":"Nov 02, 2010 08:07 PM","totals":
+{"dttime":"Nov 02, 2010 08:08 PM","totals":
 {"name":"Missouri","fix":
 {"LaClede":"Laclede"},
 "precincts":
@@ -48,10 +48,10 @@
 {"votes":0,"id":"61090"}]},
 "8":
 {"votes":[
-{"votes":0,"id":"951"},
-{"votes":0,"id":"61159"},
-{"votes":0,"id":"60812"},
-{"votes":0,"id":"60813"}]}},
+{"votes":392,"id":"951"},
+{"votes":176,"id":"60812"},
+{"votes":21,"id":"60813"},
+{"votes":15,"id":"61159"}]}},
 "U.S. Senate":
 {"2010":
 {"votes":[
