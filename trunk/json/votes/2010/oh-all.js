@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 02,2010 11:51 PM","totals":
+votesReady( {"dttime":"Nov 02,2010 11:54 PM","totals":
 {"races":
 {"U.S. House":
 {"11":
@@ -100,8 +100,8 @@ votesReady( {"dttime":"Nov 02,2010 11:51 PM","totals":
 "final":"60428"},
 "9":
 {"votes":[
-{"votes":85149,"id":"405"},
-{"votes":61419,"id":"60313"}],
+{"votes":105188,"id":"405"},
+{"votes":73523,"id":"60313"}],
 "final":"405"},
 "8":
 {"votes":[
@@ -127,7 +127,7 @@ votesReady( {"dttime":"Nov 02,2010 11:51 PM","totals":
 {"votes":85184,"id":"60762"},
 {"votes":53824,"id":"59905"}]}}},
 "precincts":
-{"total":9910,"reporting":9510},
+{"total":9910,"reporting":9518},
 "abbr":"OH","name":"Ohio"},
 "state":"OH","candidates":
 {"59905":"Grn|Spisak|Dennis Spisak","57251":"GOP|Austria|Steve Austria","60564":"Dem|Brooks|Paula Brooks","393":"GOP|Portman|Rob Portman","391":"GOP|Chabot|Steve Chabot","399":"Dem|Strickland|Ted Strickland","60911":"Lib|Blevins|Jeffrey Blevins","60910":"Lib|Jelenic|John Jelenic","60913":"CST|Sutton|Lindsey Sutton","60915":"Lib|Anderson|John Anderson","60914":"Lib|Smith|Brian Smith","60762":"Lib|Matesz|Ken Matesz","60761":"Dem|Finkenbiner|Caleb Finkenbiner","60425":"Dem|Fisher|Lee Fisher","405":"Dem|Kaptur|Marcy Kaptur","60427":"GOP|Graham|Jim Graham","60426":"GOP|Ganley|Tom Ganley","57148":"GOP|Latta|Bob Latta","60430":"Dem|Litt|Doug Litt","61274":"NPA|Pryce|Michael Pryce","51498":"Dem|Conner|Bill Conner","1376":"GOP|Turner|Mike Turner","1379":"GOP|Boehner|John Boehner","57203":"Dem|Boccieri|John Boccieri","60315":"Dem|Yalamanchili|Surya Yalamanchili","1389":"Ind|Traficant|James Traficant","59885":"Dem|Fudge|Marcia Fudge","60899":"Lib|Berns|Jim Berns","60428":"GOP|Johnson|Bill Johnson","58359":"GOP|Pekarek|Thomas Pekarek","61034":"Dem|Roberts|Joe Roberts","60314":"GOP|Renacci|Jim Renacci","60313":"GOP|Iott|Rich Iott","60311":"Dem|Coussoule|Justin Coussoule","60310":"GOP|Corrigan|Peter Corrigan","51506":"Dem|Kilroy|Mary Jo Kilroy","51508":"Dem|Space|Zack Space","60008":"CST|Ryon|David Ryon","36985":"Dem|Sutton|Betty Sutton","60759":"Soc|LaBotz|Daniel LaBotz","60758":"CST|Deaton|Eric Deaton","60902":"CST|Cadle|Richard Cadle","60903":"Lib|Elsass|Martin Elsass","60900":"Lib|Johnston|Marc Johnston","60901":"Lib|Kissick|Donald Kissick","60906":"Lib|Harlow|David Harlow","60904":"CST|Easton|David Easton","60905":"CST|Condit|James Condit","60908":"Lib|Goggins|Jeff Goggins","60909":"Lib|Irvine|Travis Irvine","36679":"GOP|Kasich|John Kasich","36678":"Lib|Kammerer|William Kammerer","36974":"Grn|Stevenson|Rich Stevenson","57173":"Dem|Driehaus|Steve Driehaus","57257":"GOP|Stivers|Steve Stivers","1388":"Dem|Ryan|Timothy Ryan","411":"GOP|Tiberi|Pat Tiberi","57253":"GOP|Jordan|Jim Jordan","36817":"Dem|O'Neill|Bill O'Neill","1385":"GOP|LaTourette|Steve LaTourette","57238":"Dem|Wilson|Charlie Wilson","57239":"GOP|Gibbs|Bob Gibbs","1380":"Dem|Kucinich|Dennis Kucinich","57208":"GOP|Schmidt|Jean Schmidt"},
