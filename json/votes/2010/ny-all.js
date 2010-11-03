@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 03:04 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 03:07 AM","totals":
 {"name":"New York","fix":
 {"Brooklyn":"Kings","Staten Island":"Richmond","Saint Lawrence":"St. Lawrence","Manhattan":"New York"},
 "precincts":
@@ -73,9 +73,9 @@ votesReady( {"dttime":"Nov 03,2010 03:04 AM","totals":
 "final":"1510"},
 "5":
 {"votes":[
-{"votes":56578,"id":"1519"},
-{"votes":30919,"id":"60922"},
-{"votes":637,"id":"59702"}],
+{"votes":64568,"id":"1519"},
+{"votes":38186,"id":"60922"},
+{"votes":676,"id":"59702"}],
 "final":"1519"},
 "4":
 {"votes":[
