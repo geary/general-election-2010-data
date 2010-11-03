@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 02,2010 10:28 PM","totals":
+votesReady( {"dttime":"Nov 02,2010 10:31 PM","totals":
 {"races":
 {"U.S. House":
 {"11":
@@ -7,32 +7,33 @@ votesReady( {"dttime":"Nov 02,2010 10:28 PM","totals":
 "final":"843"},
 "10":
 {"votes":[
-{"votes":115203,"id":"11651"},
-{"votes":51352,"id":"61022"}],
+{"votes":115534,"id":"11651"},
+{"votes":51471,"id":"61022"}],
 "final":"11651"},
 "13":
 {"votes":[
-{"votes":45502,"id":"1257"},
-{"votes":21334,"id":"61023"}],
+{"votes":57009,"id":"1257"},
+{"votes":31633,"id":"61023"}],
 "final":"1257"},
 "12":
 {"votes":[
 {"votes":74402,"id":"1837"},
-{"votes":55241,"id":"59408"}]},
+{"votes":55241,"id":"59408"}],
+"final":"1837"},
 "1":
 {"votes":[
-{"votes":92882,"id":"828"},
-{"votes":35640,"id":"61028"}],
+{"votes":93460,"id":"828"},
+{"votes":35885,"id":"61028"}],
 "final":"828"},
 "3":
 {"votes":[
-{"votes":94331,"id":"13348"},
-{"votes":43935,"id":"61017"}],
+{"votes":95243,"id":"13348"},
+{"votes":46805,"id":"61017"}],
 "final":"13348"},
 "2":
 {"votes":[
-{"votes":60898,"id":"61016"},
-{"votes":50823,"id":"1253"}]},
+{"votes":60945,"id":"61016"},
+{"votes":51968,"id":"1253"}]},
 "5":
 {"votes":[
 {"votes":71860,"id":"833"},
@@ -45,8 +46,8 @@ votesReady( {"dttime":"Nov 02,2010 10:28 PM","totals":
 "final":"59400"},
 "7":
 {"votes":[
-{"votes":56536,"id":"61021"},
-{"votes":32403,"id":"59402"}],
+{"votes":80731,"id":"61021"},
+{"votes":43158,"id":"59402"}],
 "final":"61021"},
 "6":
 {"votes":[
@@ -64,18 +65,18 @@ votesReady( {"dttime":"Nov 02,2010 10:28 PM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":891070,"id":"835"},
-{"votes":564765,"id":"13241"},
-{"votes":41663,"id":"61027"}],
+{"votes":905500,"id":"835"},
+{"votes":582842,"id":"13241"},
+{"votes":42479,"id":"61027"}],
 "final":"835"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":824512,"id":"841"},
-{"votes":646688,"id":"824"},
-{"votes":60593,"id":"61029"}]}}},
+{"votes":826211,"id":"841"},
+{"votes":649074,"id":"824"},
+{"votes":60704,"id":"61029"}]}}},
 "precincts":
-{"total":2902,"reporting":1962},
+{"total":2902,"reporting":2016},
 "abbr":"GA","name":"Georgia"},
 "state":"GA","candidates":
 {"12873":"GOP|Price|Tom Price","61028":"Dem|Harris|Oscar Harris","61029":"Lib|Monds|John Monds","61027":"Lib|Donovan|Chuck Donovan","61022":"Dem|Edwards|Russell Edwards","61023":"GOP|Crane|Mike Crane","61021":"GOP|Woodall|Rob Woodall","13348":"GOP|Westmoreland|Lynn Westmoreland","833":"Dem|Lewis|John Lewis","1837":"Dem|Barrow|John Barrow","835":"GOP|Isakson|Johnny Isakson","1257":"Dem|Scott|David Scott","13241":"Dem|Thurmond|Michael Thurmond","1253":"Dem|Bishop|Sanford Bishop","61019":"GOP|Little|Fenn Little","61018":"GOP|Carter|Lisbeth Carter","61017":"Dem|Saunders|Frank Saunders","61016":"GOP|Keown|Mike Keown","59402":"Dem|Heckman|Doug Heckman","59400":"Dem|Johnson|Hank Johnson","59408":"GOP|McKinney|Ray McKinney","843":"GOP|Gingrey|Phil Gingrey","841":"GOP|Deal|Nathan Deal","829":"Dem|Marshall|Jim Marshall","828":"GOP|Kingston|Jack Kingston","824":"Dem|Barnes|Roy Barnes","11651":"GOP|Broun|Paul Broun","53104":"GOP|Graves|Tom Graves","13031":"GOP|Scott|Austin Scott"},
