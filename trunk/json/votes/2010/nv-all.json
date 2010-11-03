@@ -1,4 +1,4 @@
-{"dttime":"Nov 03,2010 12:03 AM","totals":
+{"dttime":"Nov 03,2010 12:05 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -36,20 +36,20 @@
 "Question":
 {"4 - Eminent Domain":
 {"votes":[
-{"votes":244265,"id":"3"},
-{"votes":119751,"id":"2"}],
+{"votes":252342,"id":"3"},
+{"votes":124610,"id":"2"}],
 "final":"3"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":222822,"id":"30767"},
-{"votes":186787,"id":"30739"},
-{"votes":6772,"id":"100013"},
-{"votes":3251,"id":"60755"},
-{"votes":2297,"id":"60754"},
-{"votes":2211,"id":"60757"},
-{"votes":2199,"id":"59554"},
-{"votes":1832,"id":"60756"}]}}},
+{"votes":229408,"id":"30767"},
+{"votes":188484,"id":"30739"},
+{"votes":6939,"id":"100013"},
+{"votes":3368,"id":"60755"},
+{"votes":2354,"id":"60754"},
+{"votes":2344,"id":"59554"},
+{"votes":2271,"id":"60757"},
+{"votes":1880,"id":"60756"}]}}},
 "precincts":
 {"total":492,"reporting":56},
 "abbr":"NV","name":"Nevada"},

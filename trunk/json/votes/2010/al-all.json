@@ -1,4 +1,4 @@
-{"dttime":"Nov 03,2010 12:03 AM","totals":
+{"dttime":"Nov 03,2010 12:05 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -46,7 +46,7 @@
 {"votes":595721,"id":"4080"}],
 "final":"52867"}}},
 "precincts":
-{"total":398,"reporting":305},
+{"total":398,"reporting":365},
 "abbr":"AL","name":"Alabama"},
 "state":"AL","candidates":
 {"4080":"Dem|Sparks|Ron Sparks","59445":"Dem|Bright|Bobby Bright","60637":"Dem|Raby|Steve Raby","1161":"GOP|Rogers|Mike Rogers","60557":"Dem|Barnes|William Barnes","3198":"GOP|Chamberlain|Don Chamberlain","60629":"GOP|Brooks|Mo Brooks","60628":"GOP|Roby|Martha Roby","4019":"Dem|Segrest|Steve Segrest","526":"GOP|Bachus|Spencer Bachus","52867":"GOP|Bentley|Robert Bentley","523":"GOP|Aderholt|Robert Aderholt","61158":"CST|Walter|David Walter","1004":"GOP|Bonner|Jo Bonner","1702":"GOP|Shelby|Richard Shelby","60639":"Dem|Sewell|Terri Sewell"},
