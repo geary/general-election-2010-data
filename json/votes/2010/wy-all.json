@@ -1,4 +1,4 @@
-{"dttime":"Nov 02, 2010 09:24 PM","totals":
+{"dttime":"Nov 02, 2010 09:26 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -13,7 +13,7 @@
 {"votes":962,"id":"60550"},
 {"votes":99,"id":"61198"}]}}},
 "precincts":
-{"total":486,"reporting":0},
+{"total":486,"reporting":5},
 "abbr":"WY","name":"Wyoming"},
 "state":"WY","candidates":
 {"60550":"Dem|Petersen|Leslie Petersen","60548":"Dem|Wendt|David Wendt","61197":"Lib|Love|John Love","49396":"GOP|Lummis|Cynthia Lummis","61082":"GOP|Mead|Matt Mead","61198":"Lib|Wheeler|Mike Wheeler"},
