@@ -1,14 +1,14 @@
-votesReady( {"dttime":"Nov 02,2010 10:26 PM","totals":
+votesReady( {"dttime":"Nov 02,2010 10:28 PM","totals":
 {"name":"New Mexico","fix":
 {"DeBaca":"De Baca"},
 "precincts":
-{"total":462,"reporting":8},
+{"total":462,"reporting":9},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":57170,"id":"60546"},
-{"votes":57010,"id":"59492"}]},
+{"votes":58123,"id":"60546"},
+{"votes":57437,"id":"59492"}]},
 "3":
 {"votes":[
 {"votes":21596,"id":"60547"},
