@@ -1,4 +1,4 @@
-{"dttime":"Nov 03,2010 01:54 AM","totals":
+{"dttime":"Nov 03,2010 01:56 AM","totals":
 {"name":"New Mexico","fix":
 {"DeBaca":"De Baca"},
 "precincts":
@@ -12,8 +12,8 @@
 "final":"59492"},
 "3":
 {"votes":[
-{"votes":108551,"id":"56805"},
-{"votes":81780,"id":"60547"}],
+{"votes":108616,"id":"56805"},
+{"votes":81930,"id":"60547"}],
 "final":"56805"},
 "2":
 {"votes":[

@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 01:54 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 01:56 AM","totals":
 {"races":
 {"U.S. House":
 {"30":
@@ -96,7 +96,8 @@ votesReady( {"dttime":"Nov 03,2010 01:54 AM","totals":
 "43":
 {"votes":[
 {"votes":18158,"id":"128"},
-{"votes":12645,"id":"51830"}]},
+{"votes":12645,"id":"51830"}],
+"final":"128"},
 "40":
 {"votes":[
 {"votes":38445,"id":"1215"},
@@ -145,10 +146,10 @@ votesReady( {"dttime":"Nov 03,2010 01:54 AM","totals":
 "final":"21"},
 "6":
 {"votes":[
-{"votes":79836,"id":"17"},
-{"votes":40188,"id":"60831"},
-{"votes":2815,"id":"58720"},
-{"votes":2755,"id":"8486"}],
+{"votes":93619,"id":"17"},
+{"votes":44612,"id":"60831"},
+{"votes":3134,"id":"58720"},
+{"votes":3070,"id":"8486"}],
 "final":"17"},
 "9":
 {"votes":[
@@ -291,33 +292,33 @@ votesReady( {"dttime":"Nov 03,2010 01:54 AM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":1649508,"id":"1705"},
-{"votes":1613609,"id":"60339"},
-{"votes":62856,"id":"7691"},
-{"votes":49047,"id":"8004"},
-{"votes":44896,"id":"7042"},
-{"votes":41031,"id":"60825"}],
+{"votes":1651784,"id":"1705"},
+{"votes":1615021,"id":"60339"},
+{"votes":62963,"id":"7691"},
+{"votes":49079,"id":"8004"},
+{"votes":44943,"id":"7042"},
+{"votes":41145,"id":"60825"}],
 "final":"1705"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":1716256,"id":"6622"},
-{"votes":1561276,"id":"60373"},
-{"votes":56903,"id":"60869"},
-{"votes":51505,"id":"8029"},
-{"votes":42438,"id":"8762"},
-{"votes":24940,"id":"60870"}],
+{"votes":1737770,"id":"6622"},
+{"votes":1570133,"id":"60373"},
+{"votes":57162,"id":"60869"},
+{"votes":51849,"id":"8029"},
+{"votes":42851,"id":"8762"},
+{"votes":25151,"id":"60870"}],
 "final":"6622"}},
 "Proposition":
 {"19 - Legalize Marijuana":
 {"votes":[
-{"votes":1824791,"id":"3"},
-{"votes":1465448,"id":"2"}],
+{"votes":1889906,"id":"3"},
+{"votes":1518211,"id":"2"}],
 "final":"3"},
 "25 - Budget Vote":
 {"votes":[
-{"votes":1712209,"id":"2"},
-{"votes":1463154,"id":"3"}]}}},
+{"votes":1736751,"id":"2"},
+{"votes":1485249,"id":"3"}]}}},
 "precincts":
 {"total":565,"reporting":181},
 "abbr":"CA","name":"California"},
