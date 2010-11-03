@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 01:34 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 01:36 AM","totals":
 {"name":"Illinois","fix":
 {"JoDaviess":"Jo Daviess","DeWitt":"De Witt","LaSalle":"La Salle"},
 "precincts":
@@ -115,8 +115,8 @@ votesReady( {"dttime":"Nov 03,2010 01:34 AM","totals":
 "Amendment":
 {"Recall of Governor":
 {"votes":[
-{"votes":2092547,"id":"2"},
-{"votes":1091962,"id":"3"}],
+{"votes":2092824,"id":"2"},
+{"votes":1092204,"id":"3"}],
 "final":"2"}},
 "U.S. Senate":
 {"2010":
