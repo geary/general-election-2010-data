@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 02:10 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 02:12 AM","totals":
 {"name":"Virginia","fix":
 {},
 "precincts":
@@ -39,8 +39,8 @@ votesReady( {"dttime":"Nov 03,2010 02:10 AM","totals":
 "final":"60318"},
 "5":
 {"votes":[
-{"votes":119513,"id":"45695"},
-{"votes":110565,"id":"59015"},
+{"votes":119240,"id":"45695"},
+{"votes":110564,"id":"59015"},
 {"votes":4981,"id":"61123"}],
 "final":"45695"},
 "4":
