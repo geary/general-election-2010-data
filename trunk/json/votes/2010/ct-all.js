@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 11:51 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 11:58 AM","totals":
 {"name":"Connecticut","precincts":
 {"total":156,"reporting":154},
 "races":
@@ -44,7 +44,7 @@ votesReady( {"dttime":"Nov 03,2010 11:51 AM","totals":
 {"":
 {"votes":[
 {"votes":536421,"id":"60571"},
-{"votes":534218,"id":"9881"},
+{"votes":534214,"id":"9881"},
 {"votes":16821,"id":"61100"}]}}},
 "abbr":"CT","votesby":"town"},
 "state":"CT","candidates":
