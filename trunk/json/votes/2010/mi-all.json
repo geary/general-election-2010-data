@@ -1,4 +1,4 @@
-{"dttime":"Nov 02, 2010 08:30 PM","totals":
+{"dttime":"Nov 02, 2010 08:32 PM","totals":
 {"races":
 {"U.S. House":
 {"11":
@@ -104,16 +104,16 @@
 "Proposal":
 {"10-2 - Felon Politician Ban":
 {"votes":[
-{"votes":0,"id":"3"},
-{"votes":0,"id":"2"}]}},
+{"votes":1611,"id":"2"},
+{"votes":546,"id":"3"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":1051,"id":"61073"},
-{"votes":573,"id":"55135"},
-{"votes":19,"id":"61189"},
-{"votes":17,"id":"790"},
-{"votes":12,"id":"786"}]}}},
+{"votes":2112,"id":"61073"},
+{"votes":1161,"id":"55135"},
+{"votes":36,"id":"790"},
+{"votes":34,"id":"61189"},
+{"votes":24,"id":"786"}]}}},
 "precincts":
 {"total":505,"reporting":0},
 "abbr":"MI","name":"Michigan"},
