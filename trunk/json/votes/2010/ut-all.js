@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 02:38 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 02:41 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -35,7 +35,8 @@ votesReady( {"dttime":"Nov 03,2010 02:38 AM","totals":
 {"A - Secret Ballot":
 {"votes":[
 {"votes":328899,"id":"2"},
-{"votes":219834,"id":"3"}]}},
+{"votes":219834,"id":"3"}],
+"final":"2"}},
 "Governor":
 {"":
 {"votes":[

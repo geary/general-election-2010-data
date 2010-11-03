@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 02:38 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 02:41 AM","totals":
 {"name":"Oklahoma","fix":
 {"LeFlore":"Le Flore"},
 "precincts":
@@ -43,7 +43,7 @@ votesReady( {"dttime":"Nov 03,2010 02:38 AM","totals":
 {"751 - English Official Language":
 {"votes":[
 {"votes":740172,"id":"2"},
-{"votes":239608,"id":"3"}],
+{"votes":239603,"id":"3"}],
 "final":"2"},
 "756 - Health Care":
 {"votes":[
