@@ -1,14 +1,14 @@
-votesReady( {"dttime":"Nov 03,2010 01:27 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 01:29 AM","totals":
 {"name":"Oklahoma","fix":
 {"LeFlore":"Le Flore"},
 "precincts":
-{"total":349,"reporting":337},
+{"total":349,"reporting":349},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":143665,"id":"1394"},
-{"votes":43928,"id":"60943"}],
+{"votes":151155,"id":"1394"},
+{"votes":45646,"id":"60943"}],
 "final":"1394"},
 "3":
 {"votes":[
@@ -34,10 +34,10 @@ votesReady( {"dttime":"Nov 03,2010 01:27 AM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":709540,"id":"37351"},
-{"votes":263616,"id":"38273"},
-{"votes":24862,"id":"59449"},
-{"votes":8733,"id":"61099"}],
+{"votes":717147,"id":"37351"},
+{"votes":265519,"id":"38273"},
+{"votes":25047,"id":"59449"},
+{"votes":8790,"id":"61099"}],
 "final":"37351"}},
 "Question":
 {"751 - English Official Language":
