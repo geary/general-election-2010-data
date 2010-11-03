@@ -1,14 +1,14 @@
-votesReady( {"dttime":"Nov 03,2010 12:38 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 12:41 AM","totals":
 {"name":"Texas","fix":
 {"De Witt":"DeWitt","La Vaca":"Lavaca"},
 "precincts":
-{"total":314,"reporting":299},
+{"total":314,"reporting":306},
 "races":
 {"U.S. House":
 {"24":
 {"votes":[
-{"votes":91455,"id":"42752"},
-{"votes":19898,"id":"60287"}],
+{"votes":93305,"id":"42752"},
+{"votes":20531,"id":"60287"}],
 "final":"42752"},
 "25":
 {"votes":[
@@ -24,9 +24,9 @@ votesReady( {"dttime":"Nov 03,2010 12:38 AM","totals":
 "final":"1017"},
 "27":
 {"votes":[
-{"votes":50039,"id":"60295"},
-{"votes":48956,"id":"342"},
-{"votes":5259,"id":"60296"}]},
+{"votes":50480,"id":"60295"},
+{"votes":49195,"id":"342"},
+{"votes":5304,"id":"60296"}]},
 "20":
 {"votes":[
 {"votes":57738,"id":"319"},
@@ -66,14 +66,14 @@ votesReady( {"dttime":"Nov 03,2010 12:38 AM","totals":
 "final":"348"},
 "1":
 {"votes":[
-{"votes":120265,"id":"1883"},
-{"votes":13222,"id":"60245"}],
+{"votes":122709,"id":"1883"},
+{"votes":13496,"id":"60245"}],
 "final":"1883"},
 "3":
 {"votes":[
-{"votes":86474,"id":"270"},
-{"votes":40335,"id":"60221"},
-{"votes":2911,"id":"344"}],
+{"votes":86775,"id":"270"},
+{"votes":40925,"id":"60221"},
+{"votes":2930,"id":"344"}],
 "final":"270"},
 "2":
 {"votes":[
@@ -82,9 +82,9 @@ votesReady( {"dttime":"Nov 03,2010 12:38 AM","totals":
 "final":"39046"},
 "5":
 {"votes":[
-{"votes":105024,"id":"277"},
-{"votes":40508,"id":"60250"},
-{"votes":2893,"id":"333"}],
+{"votes":106028,"id":"277"},
+{"votes":41123,"id":"60250"},
+{"votes":2930,"id":"333"}],
 "final":"277"},
 "4":
 {"votes":[
@@ -166,9 +166,9 @@ votesReady( {"dttime":"Nov 03,2010 12:38 AM","totals":
 "final":"306"},
 "19":
 {"votes":[
-{"votes":101267,"id":"1796"},
-{"votes":25113,"id":"60216"},
-{"votes":4233,"id":"58017"}],
+{"votes":101932,"id":"1796"},
+{"votes":25238,"id":"60216"},
+{"votes":4244,"id":"58017"}],
 "final":"1796"},
 "18":
 {"votes":[
@@ -183,9 +183,9 @@ votesReady( {"dttime":"Nov 03,2010 12:38 AM","totals":
 "final":"1441"},
 "30":
 {"votes":[
-{"votes":83066,"id":"350"},
-{"votes":23347,"id":"60219"},
-{"votes":2794,"id":"60301"}],
+{"votes":85921,"id":"350"},
+{"votes":24551,"id":"60219"},
+{"votes":2968,"id":"60301"}],
 "final":"350"},
 "32":
 {"votes":[
@@ -196,10 +196,10 @@ votesReady( {"dttime":"Nov 03,2010 12:38 AM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":2572641,"id":"362"},
-{"votes":1961982,"id":"60210"},
-{"votes":102341,"id":"60554"},
-{"votes":18219,"id":"61024"}],
+{"votes":2580595,"id":"362"},
+{"votes":1961738,"id":"60210"},
+{"votes":102807,"id":"60554"},
+{"votes":18290,"id":"61024"}],
 "final":"362"}}},
 "abbr":"TX"},
 "state":"TX","candidates":
