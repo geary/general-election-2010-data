@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 12:12 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 12:15 AM","totals":
 {"name":"Oklahoma","fix":
 {"LeFlore":"Le Flore"},
 "precincts":
@@ -42,8 +42,8 @@ votesReady( {"dttime":"Nov 03,2010 12:12 AM","totals":
 "Question":
 {"751 - English Official Language":
 {"votes":[
-{"votes":673247,"id":"2"},
-{"votes":218293,"id":"3"}],
+{"votes":674629,"id":"2"},
+{"votes":219101,"id":"3"}],
 "final":"2"},
 "756 - Health Care":
 {"votes":[
@@ -57,14 +57,14 @@ votesReady( {"dttime":"Nov 03,2010 12:12 AM","totals":
 "final":"2"},
 "746 - Voter ID":
 {"votes":[
-{"votes":677745,"id":"2"},
-{"votes":233355,"id":"3"}],
+{"votes":679464,"id":"2"},
+{"votes":234433,"id":"3"}],
 "final":"2"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":558667,"id":"37501"},
-{"votes":376717,"id":"57325"}],
+{"votes":564984,"id":"37501"},
+{"votes":382086,"id":"57325"}],
 "final":"37501"}}},
 "abbr":"OK"},
 "state":"OK","candidates":

@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 12:12 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 12:15 AM","totals":
 {"races":
 {"U.S. House":
 {"11":
@@ -18,9 +18,9 @@ votesReady( {"dttime":"Nov 03,2010 12:12 AM","totals":
 "final":"1372"},
 "12":
 {"votes":[
-{"votes":99601,"id":"458"},
-{"votes":54288,"id":"447"},
-{"votes":3115,"id":"60666"}],
+{"votes":100169,"id":"458"},
+{"votes":54699,"id":"447"},
+{"votes":3141,"id":"60666"}],
 "final":"458"},
 "1":
 {"votes":[
