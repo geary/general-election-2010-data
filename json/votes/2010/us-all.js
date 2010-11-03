@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 09:32 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 09:38 AM","totals":
 {"races":
 {"President":
 {"":
@@ -12,7 +12,7 @@ votesReady( {"dttime":"Nov 03,2010 09:32 AM","totals":
 {"Others":
 {"Winning Trend":0,"Leading":0,"Holdovers":0,"Current":0,"Net Change":0,"Won":0},
 "Dem":
-{"Winning Trend":191,"Leading":8,"Holdovers":0,"Current":256,"Net Change":-65,"Won":183},
+{"Winning Trend":191,"Leading":7,"Holdovers":0,"Current":256,"Net Change":-65,"Won":184},
 "GOP":
 {"Winning Trend":244,"Leading":5,"Holdovers":0,"Current":179,"Net Change":65,"Won":239}},
 "U.S. Senate":
@@ -1072,7 +1072,8 @@ votesReady( {"dttime":"Nov 03,2010 09:32 AM","totals":
 {"votes":2591,"id":"51970"},
 {"votes":2469,"id":"1321"},
 {"votes":1844,"id":"61180"},
-{"votes":637,"id":"61181"}]},
+{"votes":637,"id":"61181"}],
+"final":"24973"},
 "8":
 {"votes":[
 {"votes":157412,"id":"1169"},
@@ -1783,10 +1784,10 @@ votesReady( {"dttime":"Nov 03,2010 09:32 AM","totals":
 "final":"882"},
 "5":
 {"votes":[
-{"votes":118698,"id":"59617"},
-{"votes":92178,"id":"61039"},
-{"votes":4283,"id":"61233"},
-{"votes":1935,"id":"61234"}],
+{"votes":121204,"id":"59617"},
+{"votes":93323,"id":"61039"},
+{"votes":4364,"id":"61233"},
+{"votes":1977,"id":"61234"}],
 "final":"59617"},
 "4":
 {"votes":[
@@ -2150,15 +2151,15 @@ votesReady( {"dttime":"Nov 03,2010 09:32 AM","totals":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":127809,"id":"56129"},
-{"votes":104748,"id":"591"}],
+{"votes":129586,"id":"56129"},
+{"votes":106371,"id":"591"}],
 "final":"56129"}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":178906,"id":"1780"},
-{"votes":51947,"id":"60744"},
-{"votes":3850,"id":"60745"}],
+{"votes":181409,"id":"1780"},
+{"votes":52854,"id":"60744"},
+{"votes":3882,"id":"60745"}],
 "final":"1780"}}},
 "precincts":
 {"total":505,"reporting":505},
@@ -3661,13 +3662,13 @@ votesReady( {"dttime":"Nov 03,2010 09:32 AM","totals":
 {"name":"Maine","fix":
 {},
 "precincts":
-{"total":184,"reporting":164},
+{"total":184,"reporting":165},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":147637,"id":"59613"},
-{"votes":110571,"id":"60618"}],
+{"votes":150165,"id":"59613"},
+{"votes":112122,"id":"60618"}],
 "final":"59613"},
 "2":
 {"votes":[
@@ -3677,16 +3678,16 @@ votesReady( {"dttime":"Nov 03,2010 09:32 AM","totals":
 "Question":
 {"1 - Oxford County Casino":
 {"votes":[
-{"votes":250100,"id":"2"},
-{"votes":246300,"id":"3"}]}},
+{"votes":251774,"id":"2"},
+{"votes":248687,"id":"3"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":194257,"id":"60414"},
-{"votes":186687,"id":"60614"},
-{"votes":97770,"id":"60416"},
-{"votes":25602,"id":"60615"},
-{"votes":5174,"id":"60616"}]}}},
+{"votes":195391,"id":"60414"},
+{"votes":188693,"id":"60614"},
+{"votes":98578,"id":"60416"},
+{"votes":25750,"id":"60615"},
+{"votes":5196,"id":"60616"}]}}},
 "abbr":"ME"},
 "Rhode Island":
 {"races":
