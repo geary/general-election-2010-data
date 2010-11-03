@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 02,2010 11:22 PM","totals":
+votesReady( {"dttime":"Nov 02,2010 11:25 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -11,16 +11,16 @@ votesReady( {"dttime":"Nov 02,2010 11:22 PM","totals":
 "final":"734"},
 "3":
 {"votes":[
-{"votes":61722,"id":"51753"},
-{"votes":54498,"id":"9344"},
-{"votes":2644,"id":"60586"},
-{"votes":2386,"id":"60999"}]},
+{"votes":62951,"id":"51753"},
+{"votes":55957,"id":"9344"},
+{"votes":2690,"id":"60586"},
+{"votes":2429,"id":"60999"}]},
 "2":
 {"votes":[
-{"votes":86711,"id":"9302"},
-{"votes":62922,"id":"60691"},
-{"votes":4418,"id":"60584"},
-{"votes":2724,"id":"60585"}],
+{"votes":87101,"id":"9302"},
+{"votes":63303,"id":"60691"},
+{"votes":4441,"id":"60584"},
+{"votes":2737,"id":"60585"}],
 "final":"9302"},
 "5":
 {"votes":[
@@ -57,25 +57,25 @@ votesReady( {"dttime":"Nov 02,2010 11:22 PM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":412228,"id":"59911"},
-{"votes":371974,"id":"61077"},
-{"votes":17202,"id":"59783"},
-{"votes":9298,"id":"61078"},
-{"votes":8595,"id":"60998"},
-{"votes":5389,"id":"60578"},
-{"votes":2545,"id":"60579"}]}},
+{"votes":420868,"id":"59911"},
+{"votes":379757,"id":"61077"},
+{"votes":17550,"id":"59783"},
+{"votes":9511,"id":"61078"},
+{"votes":8752,"id":"60998"},
+{"votes":5486,"id":"60578"},
+{"votes":2596,"id":"60579"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":442960,"id":"60601"},
-{"votes":304646,"id":"751"},
-{"votes":78757,"id":"61076"},
-{"votes":5103,"id":"60604"},
-{"votes":3512,"id":"60607"},
-{"votes":1433,"id":"53523"}],
+{"votes":444497,"id":"60601"},
+{"votes":305562,"id":"751"},
+{"votes":79037,"id":"61076"},
+{"votes":5118,"id":"60604"},
+{"votes":3529,"id":"60607"},
+{"votes":1445,"id":"53523"}],
 "final":"60601"}}},
 "precincts":
-{"total":462,"reporting":169},
+{"total":462,"reporting":140},
 "abbr":"CO","name":"Colorado"},
 "state":"CO","candidates":
 {"744":"Grn|Swing|Gary Swing","59783":"Grn|Kinsey|Bob Kinsey","53523":"Una|Fiorino|Paul Fiorino","59348":"Dem|Markey|Betsy Markey","9344":"Dem|Salazar|John Salazar","60600":"Lib|Bailey|Buck Bailey","9302":"Dem|Polis|Jared Polis","60586":"Lib|Gilman|Gregory Gilman","60604":"Lib|Brown|Jaimes Brown","60584":"AmC|Goss|Jenna Goss","60585":"Lib|Harris|Curtis Harris","60582":"GOP|Fallon|Mike Fallon","60583":"AmC|Styskal|Chris Styskal","60588":"GOP|Gardner|Cory Gardner","60589":"AmC|Aden|Doug Aden","51753":"GOP|Tipton|Scott Tipton","3":"|No| No","2":"|Yes| Yes","734":"Dem|DeGette|Diana DeGette","61077":"GOP|Buck|Ken Buck","61076":"GOP|Maes|Dan Maes","61079":"Lib|Jones|Clint Jones","61078":"Lib|Stringer|Maclyn Stringer","60999":"Una|Segrest|Jake Segrest","60998":"INR|Napolitano|Jason Napolitano","751":"AmC|Tancredo|Tom Tancredo","59911":"Dem|Bennet|Michael Bennet","60579":"Una|Moromisato|J. Moromisato","60578":"Una|Miller|Charley Miller","60607":"Una|Clark|Jason Clark","60596":"Dem|Flerlage|John Flerlage","59791":"AmC|Scott|Brian Scott","60601":"Dem|Hickenlooper|John Hickenlooper","9174":"GOP|Lamborn|Doug Lamborn","60691":"GOP|Bailey|Stephen Bailey","60595":"Lib|Klaver|Jerell Klaver","60594":"Dem|Bradley|Kevin Bradley","9291":"Dem|Perlmutter|Ed Perlmutter","60593":"Una|Waszkiewicz|Ken Waszkiewicz","8993":"GOP|Coffman|Mike Coffman","60599":"GOP|Frazier|Ryan Frazier","60598":"Lib|McNealy|Rob McNealy"},
