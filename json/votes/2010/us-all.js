@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 09:38 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 09:44 AM","totals":
 {"races":
 {"President":
 {"":
@@ -1330,13 +1330,13 @@ votesReady( {"dttime":"Nov 03,2010 09:38 AM","totals":
 "Measure":
 {"75 - Multnomah Casino":
 {"votes":[
-{"votes":819578,"id":"3"},
-{"votes":384403,"id":"2"}],
+{"votes":828079,"id":"3"},
+{"votes":388085,"id":"2"}],
 "final":"3"},
 "74 - Medical Marijuana":
 {"votes":[
-{"votes":695158,"id":"3"},
-{"votes":517153,"id":"2"}],
+{"votes":702095,"id":"3"},
+{"votes":522309,"id":"2"}],
 "final":"3"}}},
 "precincts":
 {"total":1000,"reporting":888},
@@ -1372,22 +1372,22 @@ votesReady( {"dttime":"Nov 03,2010 09:38 AM","totals":
 "final":"52147"},
 "4":
 {"votes":[
-{"votes":86851,"id":"59590"},
-{"votes":86361,"id":"60575"}],
+{"votes":86864,"id":"59590"},
+{"votes":86376,"id":"60575"}],
 "final":"59590"}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":557376,"id":"9548"},
-{"votes":453089,"id":"60572"},
-{"votes":10151,"id":"61101"},
-{"votes":6136,"id":"61081"}],
+{"votes":557388,"id":"9548"},
+{"votes":453104,"id":"60572"},
+{"votes":10152,"id":"61101"},
+{"votes":6140,"id":"61081"}],
 "final":"9548"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":508658,"id":"60571"},
-{"votes":497575,"id":"9881"},
+{"votes":508673,"id":"60571"},
+{"votes":497586,"id":"9881"},
 {"votes":16323,"id":"61100"}]}}},
 "abbr":"CT","votesby":"town"},
 "Montana":
@@ -3672,21 +3672,21 @@ votesReady( {"dttime":"Nov 03,2010 09:38 AM","totals":
 "final":"59613"},
 "2":
 {"votes":[
-{"votes":135012,"id":"585"},
-{"votes":111271,"id":"60617"}],
+{"votes":135098,"id":"585"},
+{"votes":111414,"id":"60617"}],
 "final":"585"}},
 "Question":
 {"1 - Oxford County Casino":
 {"votes":[
-{"votes":251774,"id":"2"},
-{"votes":248687,"id":"3"}]}},
+{"votes":252409,"id":"2"},
+{"votes":249390,"id":"3"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":195391,"id":"60414"},
-{"votes":188693,"id":"60614"},
-{"votes":98578,"id":"60416"},
-{"votes":25750,"id":"60615"},
+{"votes":195537,"id":"60414"},
+{"votes":188758,"id":"60614"},
+{"votes":98592,"id":"60416"},
+{"votes":25757,"id":"60615"},
 {"votes":5196,"id":"60616"}]}}},
 "abbr":"ME"},
 "Rhode Island":
