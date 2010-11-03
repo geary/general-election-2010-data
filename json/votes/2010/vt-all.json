@@ -1,36 +1,36 @@
-{"dttime":"Nov 02, 2010 08:35 PM","totals":
+{"dttime":"Nov 02, 2010 08:36 PM","totals":
 {"name":"Vermont","precincts":
-{"total":260,"reporting":16},
+{"total":260,"reporting":17},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":5159,"id":"58883"},
-{"votes":3252,"id":"61151"},
-{"votes":215,"id":"60891"},
-{"votes":140,"id":"1152"}],
+{"votes":6186,"id":"58883"},
+{"votes":4168,"id":"61151"},
+{"votes":236,"id":"60891"},
+{"votes":147,"id":"1152"}],
 "final":"58883"}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":6720,"id":"1760"},
-{"votes":4228,"id":"60885"},
-{"votes":186,"id":"1158"},
-{"votes":134,"id":"60888"},
-{"votes":122,"id":"60887"},
-{"votes":68,"id":"60889"},
-{"votes":57,"id":"1157"}],
+{"votes":7624,"id":"1760"},
+{"votes":4894,"id":"60885"},
+{"votes":201,"id":"1158"},
+{"votes":177,"id":"60888"},
+{"votes":138,"id":"60887"},
+{"votes":75,"id":"60889"},
+{"votes":64,"id":"1157"}],
 "final":"1760"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":4704,"id":"45222"},
-{"votes":3866,"id":"45461"},
-{"votes":90,"id":"1158"},
-{"votes":72,"id":"60895"},
-{"votes":57,"id":"60893"},
-{"votes":33,"id":"60894"},
-{"votes":11,"id":"50649"}]}}},
+{"votes":6469,"id":"45222"},
+{"votes":4922,"id":"45461"},
+{"votes":116,"id":"1158"},
+{"votes":92,"id":"60895"},
+{"votes":73,"id":"60893"},
+{"votes":35,"id":"60894"},
+{"votes":16,"id":"50649"}]}}},
 "abbr":"VT","votesby":"town"},
 "state":"VT","candidates":
 {"50649":"LUn|Mitchell|Ben Mitchell","60888":"Ind|Freilich|Daniel Freilich","60887":"Ind|Cain|Stephen Cain","1158":"Oth|Ericson|Cris Ericson","60885":"GOP|Britton|Len Britton","60894":"Ind|Peyton|Em Peyton","60895":"Ind|Steele|Dennis Steele","60889":"Ind|Nunes|Johenry Nunes","58883":"Dem|Welch|Peter Welch","45222":"GOP|Dubie|Brian Dubie","60891":"Ind|Jaccaci|Gus Jaccaci","1152":"Soc|Newton|Jane Newton","61151":"GOP|Beaudry|Paul Beaudry","1760":"Dem|Leahy|Patrick Leahy","60893":"Ind|Feliciano|Dan Feliciano","1157":"Soc|Diamondstone|Peter Diamondstone","45461":"Dem|Shumlin|Peter Shumlin"},

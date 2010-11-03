@@ -1,24 +1,24 @@
-{"dttime":"Nov 02, 2010 08:35 PM","totals":
+{"dttime":"Nov 02, 2010 08:36 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":7701,"id":"10206"},
-{"votes":4117,"id":"61140"},
-{"votes":152,"id":"61244"},
-{"votes":88,"id":"61245"},
-{"votes":33,"id":"59889"}],
+{"votes":19255,"id":"10206"},
+{"votes":10500,"id":"61140"},
+{"votes":354,"id":"61244"},
+{"votes":193,"id":"61245"},
+{"votes":118,"id":"59889"}],
 "final":"10206"}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":7877,"id":"60997"},
-{"votes":3886,"id":"57577"},
-{"votes":317,"id":"61246"},
-{"votes":96,"id":"61247"}],
+{"votes":19573,"id":"60997"},
+{"votes":9981,"id":"57577"},
+{"votes":805,"id":"61246"},
+{"votes":222,"id":"61247"}],
 "final":"60997"}}},
 "precincts":
-{"total":436,"reporting":26},
+{"total":436,"reporting":59},
 "abbr":"DE","name":"Delaware"},
 "state":"DE","candidates":
 {"57577":"GOP|O'Donnell|Christine O'Donnell","61246":"IPD|Miller|Glenn Miller","61247":"Lib|Rash|James Rash","60997":"Dem|Coons|Christopher Coons","61245":"Lib|Wangen|Brent Wangen","10206":"Dem|Carney|John Carney","61140":"GOP|Urquhart|Glen Urquhart","61244":"IPD|Lofland|Earl Lofland","59889":"BEP|Brown|Jeffrey Brown"},
