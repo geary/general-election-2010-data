@@ -1,14 +1,14 @@
-votesReady( {"dttime":"Nov 02,2010 11:15 PM","totals":
+votesReady( {"dttime":"Nov 02,2010 11:22 PM","totals":
 {"name":"Connecticut","precincts":
-{"total":156,"reporting":74},
+{"total":156,"reporting":75},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":68673,"id":"1139"},
-{"votes":48632,"id":"60573"},
-{"votes":1274,"id":"61202"},
-{"votes":437,"id":"61162"}],
+{"votes":68989,"id":"1139"},
+{"votes":48986,"id":"60573"},
+{"votes":1282,"id":"61202"},
+{"votes":439,"id":"61162"}],
 "final":"1139"},
 "3":
 {"votes":[
@@ -18,9 +18,9 @@ votesReady( {"dttime":"Nov 02,2010 11:15 PM","totals":
 "final":"1141"},
 "2":
 {"votes":[
-{"votes":106138,"id":"1231"},
-{"votes":69783,"id":"61080"},
-{"votes":2329,"id":"59878"}],
+{"votes":111587,"id":"1231"},
+{"votes":73293,"id":"61080"},
+{"votes":2442,"id":"59878"}],
 "final":"1231"},
 "5":
 {"votes":[
@@ -34,17 +34,17 @@ votesReady( {"dttime":"Nov 02,2010 11:15 PM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":302028,"id":"9548"},
-{"votes":258519,"id":"60572"},
-{"votes":5976,"id":"61101"},
-{"votes":3494,"id":"61081"}],
+{"votes":304449,"id":"9548"},
+{"votes":260837,"id":"60572"},
+{"votes":6060,"id":"61101"},
+{"votes":3545,"id":"61081"}],
 "final":"9548"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":292550,"id":"60571"},
-{"votes":266981,"id":"9881"},
-{"votes":10858,"id":"61100"}]}}},
+{"votes":300305,"id":"60571"},
+{"votes":274799,"id":"9881"},
+{"votes":11144,"id":"61100"}]}}},
 "abbr":"CT","votesby":"town"},
 "state":"CT","candidates":
 {"1143":"Grn|Pillsbury|Charles Pillsbury","1139":"Dem|Larson|John Larson","1141":"Dem|DeLauro|Rosa DeLauro","61202":"Grn|Krayeske|Ken Krayeske","1231":"Dem|Courtney|Joe Courtney","59878":"Grn|Deshefy|Scott Deshefy","61081":"CTL|Mertens|John Mertens","60576":"GOP|Caligiuri|Sam Caligiuri","61037":"GOP|Labriola|Jerry Labriola","60573":"GOP|Brickley|Ann Brickley","60572":"GOP|McMahon|Linda McMahon","61101":"Ind|Mosler|Warren Mosler","60575":"GOP|Debicella|Dan Debicella","52147":"Dem|Murphy|Chris Murphy","59590":"Dem|Himes|Jim Himes","60571":"GOP|Foley|Tom Foley","9548":"Dem|Blumenthal|Richard Blumenthal","9881":"Dem|Malloy|Dan Malloy","61080":"GOP|Peckinpaugh|Janet Peckinpaugh","61162":"Ind|Hutchinson|Christopher Hutchinson","61100":"Ind|Marsh|Thomas Marsh"},
