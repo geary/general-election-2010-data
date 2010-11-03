@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 07:04 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 07:06 AM","totals":
 {"races":
 {"President":
 {"":
@@ -1738,8 +1738,8 @@ votesReady( {"dttime":"Nov 03,2010 07:04 AM","totals":
 "Proposition":
 {"19 - Legalize Marijuana":
 {"votes":[
-{"votes":3751438,"id":"3"},
-{"votes":3224673,"id":"2"}],
+{"votes":3761943,"id":"3"},
+{"votes":3235805,"id":"2"}],
 "final":"3"},
 "25 - Budget Vote":
 {"votes":[
@@ -3130,13 +3130,13 @@ votesReady( {"dttime":"Nov 03,2010 07:04 AM","totals":
 "Amendment":
 {"62 - Definition of Person":
 {"votes":[
-{"votes":1098623,"id":"3"},
-{"votes":462010,"id":"2"}],
+{"votes":1114091,"id":"3"},
+{"votes":469239,"id":"2"}],
 "final":"3"},
 "63 - Health Care":
 {"votes":[
-{"votes":815457,"id":"3"},
-{"votes":727677,"id":"2"}]}},
+{"votes":821289,"id":"3"},
+{"votes":736189,"id":"2"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
@@ -3150,12 +3150,12 @@ votesReady( {"dttime":"Nov 03,2010 07:04 AM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":821473,"id":"60601"},
-{"votes":604990,"id":"751"},
-{"votes":183441,"id":"61076"},
-{"votes":11800,"id":"60604"},
-{"votes":7827,"id":"60607"},
-{"votes":3110,"id":"53523"}],
+{"votes":827802,"id":"60601"},
+{"votes":606559,"id":"751"},
+{"votes":183880,"id":"61076"},
+{"votes":11906,"id":"60604"},
+{"votes":7853,"id":"60607"},
+{"votes":3119,"id":"53523"}],
 "final":"60601"}}},
 "precincts":
 {"total":462,"reporting":402},
