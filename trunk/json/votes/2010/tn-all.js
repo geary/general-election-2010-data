@@ -1,11 +1,11 @@
-votesReady( {"dttime":"Nov 02,2010 10:41 PM","totals":
+votesReady( {"dttime":"Nov 02,2010 10:44 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":117756,"id":"59572"},
-{"votes":24702,"id":"60957"},
-{"votes":2990,"id":"60958"}],
+{"votes":122671,"id":"59572"},
+{"votes":25974,"id":"60957"},
+{"votes":3095,"id":"60958"}],
 "final":"59572"},
 "3":
 {"votes":[
@@ -42,12 +42,12 @@ votesReady( {"dttime":"Nov 02,2010 10:41 PM","totals":
 "final":"676"},
 "4":
 {"votes":[
-{"votes":100508,"id":"61091"},
-{"votes":66759,"id":"1428"},
-{"votes":2968,"id":"60970"},
-{"votes":2059,"id":"60971"},
-{"votes":1634,"id":"59775"},
-{"votes":880,"id":"60992"}],
+{"votes":102835,"id":"61091"},
+{"votes":69107,"id":"1428"},
+{"votes":3137,"id":"60970"},
+{"votes":2123,"id":"60971"},
+{"votes":1701,"id":"59775"},
+{"votes":911,"id":"60992"}],
 "final":"61091"},
 "7":
 {"votes":[
@@ -82,30 +82,30 @@ votesReady( {"dttime":"Nov 02,2010 10:41 PM","totals":
 "Amendment":
 {"Hunting and Fishing":
 {"votes":[
-{"votes":1132105,"id":"2"},
-{"votes":123463,"id":"3"}]}},
+{"votes":1137576,"id":"2"},
+{"votes":123932,"id":"3"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":937044,"id":"60948"},
-{"votes":438539,"id":"60947"},
-{"votes":5792,"id":"655"},
-{"votes":4172,"id":"60950"},
-{"votes":4078,"id":"60949"},
-{"votes":2270,"id":"50460"},
-{"votes":1698,"id":"51872"},
-{"votes":1672,"id":"60955"},
-{"votes":1517,"id":"60951"},
-{"votes":1074,"id":"60989"},
-{"votes":827,"id":"60946"},
-{"votes":740,"id":"648"},
-{"votes":720,"id":"60956"},
-{"votes":680,"id":"60953"},
-{"votes":507,"id":"60952"},
-{"votes":490,"id":"60954"}],
+{"votes":941944,"id":"60948"},
+{"votes":441473,"id":"60947"},
+{"votes":5819,"id":"655"},
+{"votes":4198,"id":"60950"},
+{"votes":4111,"id":"60949"},
+{"votes":2281,"id":"50460"},
+{"votes":1705,"id":"51872"},
+{"votes":1680,"id":"60955"},
+{"votes":1525,"id":"60951"},
+{"votes":1079,"id":"60989"},
+{"votes":833,"id":"60946"},
+{"votes":745,"id":"648"},
+{"votes":724,"id":"60956"},
+{"votes":681,"id":"60953"},
+{"votes":509,"id":"60952"},
+{"votes":491,"id":"60954"}],
 "final":"60948"}}},
 "precincts":
-{"total":247,"reporting":235},
+{"total":247,"reporting":245},
 "abbr":"TN","name":"Tennessee"},
 "state":"TN","candidates":
 {"60988":"Ind|Sullivan|Sandra Sullivan","60989":"Ind|Smith|Thomas Smith","50460":"Ind|Griffin|June Griffin","60982":"Dem|Rabidoux|Greg Rabidoux","60983":"GOP|Fincher|Stephen Fincher","665":"GOP|Duncan|John Duncan","60981":"Ind|Sprague|Stephen Sprague","60986":"GOP|Bergmann|Charlotte Bergmann","60987":"Ind|Steele|Perry Steele","60984":"Ind|Janes|Donn Janes","60985":"Ind|Rawles|Mark Rawles","59573":"Dem|Hancock|David Hancock","59572":"GOP|Roe|Phil Roe","60956":"Ind|Reesor|James Reesor","1426":"Dem|Wolfe|John Wolfe","1428":"Dem|Davis|Lincoln Davis","60979":"Ind|Hay|Tommy Hay","58195":"GOP|Black|Diane Black","41288":"Dem|Cohen|Steve Cohen","60980":"Ind|Purcell|David Purcell","60978":"Ind|Gore|Brandon Gore","60959":"Ind|Andrew|D.H. Andrew","60958":"Ind|Steck|Kermit Steck","60973":"Ind|Collings|Stephen Collings","60954":"Ind|McFolin|Donald McFolin","60957":"Dem|Clark|Michael Clark","60970":"Ind|Curtis|Paul Curtis","60977":"Ind|Whitfield|James Whitfield","60993":"Ind|Moore|Joe Moore","60975":"Ind|Miller|Jackie Miller","60974":"Ind|Crook|Bill Crook","3":"|No| No","60990":"Ind|Goodwin|Gregory Goodwin","676":"Dem|Cooper|Jim Cooper","60992":"Ind|Johnson|Richard Johnson","60995":"Ind|Boyd|Jim Boyd","60994":"Ind|Smith|John Smith","60996":"Ind|Stone|J.W. Stone","61093":"Dem|Carter|Brett Carter","61092":"GOP|Hall|David Hall","61091":"GOP|DesJarlais|Scott DesJarlais","51872":"Ind|Switzer|Howard Switzer","59778":"Ind|Miglietta|John Miglietta","648":"Ind|Gatchell|David Gatchell","59775":"Ind|Gray|James Gray","2":"|Yes| Yes","655":"Ind|Whitaker|Carl Whitaker","60971":"Ind|York|Gerald York","60964":"GOP|Fleischmann|Chuck Fleischmann","60965":"Ind|Barkman|Don Barkman","60966":"Ind|DeVol|Mark DeVol","60967":"Ind|Humphries|Robert Humphries","60960":"Ind|Headings|James Headings","60961":"Ind|Leinweber|Joseph Leinweber","60962":"Ind|Samples|Greg Samples","60950":"Ind|Dodds|Brandon Dodds","60951":"Ind|Duck|Samuel Duck","60968":"Ind|Kiah|Mo Kiah","60969":"Ind|Kyriakidis|Savas Kyriakidis","60976":"Ind|Taylor|Clark Taylor","60955":"Ind|Perry|Linda Perry","60948":"GOP|Haslam|Bill Haslam","60949":"Ind|Binkley|Bayron Binkley","60946":"Ind|Hall|Toni Hall","60947":"Dem|McWherter|Mike McWherter","60952":"Ind|Knois|Mike Knois","58273":"Dem|Herron|Roy Herron","60953":"Ind|McCall|Boyce McCall","682":"GOP|Blackburn|Marsha Blackburn"},

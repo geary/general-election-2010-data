@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 02,2010 10:41 PM","totals":
+votesReady( {"dttime":"Nov 02,2010 10:44 PM","totals":
 {"name":"Missouri","fix":
 {"LaClede":"Laclede"},
 "precincts":
@@ -7,15 +7,15 @@ votesReady( {"dttime":"Nov 02,2010 10:41 PM","totals":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":11504,"id":"1337"},
-{"votes":3150,"id":"61033"},
-{"votes":308,"id":"61117"}]},
+{"votes":20574,"id":"1337"},
+{"votes":4470,"id":"61033"},
+{"votes":587,"id":"61117"}]},
 "3":
 {"votes":[
-{"votes":22953,"id":"1852"},
-{"votes":20353,"id":"60806"},
-{"votes":970,"id":"51618"},
-{"votes":462,"id":"60805"}]},
+{"votes":28984,"id":"1852"},
+{"votes":23727,"id":"60806"},
+{"votes":1177,"id":"51618"},
+{"votes":567,"id":"60805"}]},
 "2":
 {"votes":[
 {"votes":49914,"id":"937"},
@@ -30,10 +30,10 @@ votesReady( {"dttime":"Nov 02,2010 10:41 PM","totals":
 {"votes":215,"id":"60809"}]},
 "4":
 {"votes":[
-{"votes":76827,"id":"29019"},
-{"votes":68602,"id":"942"},
-{"votes":4293,"id":"61118"},
-{"votes":2884,"id":"60808"}]},
+{"votes":83132,"id":"29019"},
+{"votes":74522,"id":"942"},
+{"votes":4568,"id":"61118"},
+{"votes":3069,"id":"60808"}]},
 "7":
 {"votes":[
 {"votes":70177,"id":"61089"},
@@ -42,8 +42,8 @@ votesReady( {"dttime":"Nov 02,2010 10:41 PM","totals":
 "final":"61089"},
 "6":
 {"votes":[
-{"votes":100583,"id":"1342"},
-{"votes":42388,"id":"60810"}],
+{"votes":102664,"id":"1342"},
+{"votes":43324,"id":"60810"}],
 "final":"1342"},
 "9":
 {"votes":[
@@ -52,18 +52,18 @@ votesReady( {"dttime":"Nov 02,2010 10:41 PM","totals":
 "final":"55466"},
 "8":
 {"votes":[
-{"votes":100459,"id":"951"},
-{"votes":44100,"id":"60812"},
-{"votes":6052,"id":"61159"},
-{"votes":3037,"id":"60813"}],
+{"votes":103900,"id":"951"},
+{"votes":45459,"id":"60812"},
+{"votes":6256,"id":"61159"},
+{"votes":3222,"id":"60813"}],
 "final":"951"}},
 "U.S. Senate":
 {"2010":
 {"votes":[
-{"votes":498948,"id":"1343"},
-{"votes":280864,"id":"60800"},
-{"votes":27039,"id":"61086"},
-{"votes":19632,"id":"61087"}],
+{"votes":516726,"id":"1343"},
+{"votes":302497,"id":"60800"},
+{"votes":28144,"id":"61086"},
+{"votes":20582,"id":"61087"}],
 "final":"1343"}}},
 "abbr":"MO"},
 "state":"MO","candidates":
