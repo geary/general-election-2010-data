@@ -1,4 +1,4 @@
-{"dttime":"Nov 03,2010 04:35 AM","totals":
+{"dttime":"Nov 03,2010 04:38 AM","totals":
 {"name":"New York","fix":
 {"Brooklyn":"Kings","Staten Island":"Richmond","Saint Lawrence":"St. Lawrence","Manhattan":"New York"},
 "precincts":
@@ -163,20 +163,20 @@
 "U.S. Senate":
 {"Unexpired Term":
 {"votes":[
-{"votes":2454623,"id":"51916"},
-{"votes":1459734,"id":"60919"},
-{"votes":33332,"id":"61256"},
-{"votes":19421,"id":"61255"},
-{"votes":17432,"id":"50530"},
+{"votes":2454897,"id":"51916"},
+{"votes":1460023,"id":"60919"},
+{"votes":33335,"id":"61256"},
+{"votes":19423,"id":"61255"},
+{"votes":17435,"id":"50530"},
 {"votes":12812,"id":"61257"},
-{"votes":7307,"id":"61145"}],
+{"votes":7308,"id":"61145"}],
 "final":"51916"},
 "Full Term":
 {"votes":[
-{"votes":2639086,"id":"1745"},
-{"votes":1324118,"id":"61165"},
-{"votes":39054,"id":"61253"},
-{"votes":25408,"id":"61254"}],
+{"votes":2639354,"id":"1745"},
+{"votes":1324412,"id":"61165"},
+{"votes":39058,"id":"61253"},
+{"votes":25411,"id":"61254"}],
 "final":"1745"}},
 "Governor":
 {"":
