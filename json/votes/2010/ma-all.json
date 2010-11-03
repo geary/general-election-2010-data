@@ -1,4 +1,4 @@
-{"dttime":"Nov 02, 2010 08:03 PM","totals":
+{"dttime":"Nov 02, 2010 08:04 PM","totals":
 {"name":"Massachusetts","fix":
 {"Barnstable":"Barnstable Town","Manchester":"Manchester-by-the-Sea"},
 "precincts":
@@ -53,7 +53,8 @@
 {"votes":0,"id":"61236"}]},
 "8":
 {"votes":[
-{"votes":0,"id":"889"}]}},
+{"votes":0,"id":"889"}],
+"final":"889"}},
 "Governor":
 {"":
 {"votes":[
