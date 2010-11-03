@@ -1,8 +1,8 @@
-votesReady( {"dttime":"Nov 03,2010 12:33 PM","totals":
+votesReady( {"dttime":"Nov 03,2010 12:39 PM","totals":
 {"name":"Arkansas","fix":
 {"Saint Francis":"St. Francis"},
 "precincts":
-{"total":2406,"reporting":2283},
+{"total":2406,"reporting":2285},
 "races":
 {"U.S. House":
 {"1":
