@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 03:11 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 03:14 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -27,9 +27,9 @@ votesReady( {"dttime":"Nov 03,2010 03:11 AM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":351956,"id":"60693"},
-{"votes":189911,"id":"60694"},
-{"votes":32557,"id":"51684"}],
+{"votes":360050,"id":"60693"},
+{"votes":191642,"id":"60694"},
+{"votes":33045,"id":"51684"}],
 "final":"60693"}},
 "Constitutional Amendment":
 {"A - Secret Ballot":
