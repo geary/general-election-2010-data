@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 12:41 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 12:43 AM","totals":
 {"races":
 {"President":
 {"":
@@ -12,16 +12,16 @@ votesReady( {"dttime":"Nov 03,2010 12:41 AM","totals":
 {"Others":
 {"Winning Trend":0,"Leading":0,"Holdovers":0,"Current":0,"Net Change":0,"Won":0},
 "Dem":
-{"Winning Trend":189,"Leading":43,"Holdovers":0,"Current":256,"Net Change":-66,"Won":146},
+{"Winning Trend":189,"Leading":42,"Holdovers":0,"Current":256,"Net Change":-66,"Won":147},
 "GOP":
-{"Winning Trend":242,"Leading":22,"Holdovers":0,"Current":179,"Net Change":66,"Won":220}},
+{"Winning Trend":242,"Leading":20,"Holdovers":0,"Current":179,"Net Change":66,"Won":222}},
 "U.S. Senate":
 {"Others":
 {"Winning Trend":2,"Leading":0,"Holdovers":2,"Current":2,"Net Change":0,"Won":0},
 "Dem":
-{"Winning Trend":51,"Leading":2,"Holdovers":38,"Current":57,"Net Change":-6,"Won":11},
+{"Winning Trend":50,"Leading":1,"Holdovers":38,"Current":57,"Net Change":-7,"Won":11},
 "GOP":
-{"Winning Trend":46,"Leading":0,"Holdovers":23,"Current":41,"Net Change":6,"Won":23}}},
+{"Winning Trend":47,"Leading":1,"Holdovers":23,"Current":41,"Net Change":7,"Won":23}}},
 "total":0,"locals":
 {"Mississippi":
 {"name":"Mississippi","fix":
