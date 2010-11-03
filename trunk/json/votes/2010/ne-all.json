@@ -1,4 +1,4 @@
-{"dttime":"Nov 03,2010 01:31 AM","totals":
+{"dttime":"Nov 03,2010 01:34 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -14,17 +14,17 @@
 "final":"30010"},
 "2":
 {"votes":[
-{"votes":84452,"id":"231"},
-{"votes":52848,"id":"60707"}],
+{"votes":88293,"id":"231"},
+{"votes":55409,"id":"60707"}],
 "final":"231"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":328598,"id":"29894"},
-{"votes":115102,"id":"29957"}],
+{"votes":333006,"id":"29894"},
+{"votes":117124,"id":"29957"}],
 "final":"29894"}}},
 "precincts":
-{"total":1636,"reporting":1500},
+{"total":1636,"reporting":1517},
 "abbr":"NE","name":"Nebraska"},
 "state":"NE","candidates":
 {"60620":"Dem|Davis|Rebekah Davis","30010":"GOP|Smith|Adrian Smith","29957":"Dem|Meister|Mike Meister","60706":"Dem|Harper|Ivy Harper","60707":"Dem|White|Tom White","49989":"GOP|Fortenberry|Jeff Fortenberry","29894":"GOP|Heineman|Dave Heineman","61191":"Oth|Hill|Dan Hill","231":"GOP|Terry|Lee Terry"},

@@ -1,4 +1,4 @@
-{"dttime":"Nov 03,2010 01:31 AM","totals":
+{"dttime":"Nov 03,2010 01:34 AM","totals":
 {"name":"Texas","fix":
 {"De Witt":"DeWitt","La Vaca":"Lavaca"},
 "precincts":
@@ -118,10 +118,10 @@
 "final":"287"},
 "11":
 {"votes":[
-{"votes":114966,"id":"1860"},
-{"votes":21706,"id":"60213"},
-{"votes":3970,"id":"60262"},
-{"votes":1324,"id":"61026"}],
+{"votes":115252,"id":"1860"},
+{"votes":21768,"id":"60213"},
+{"votes":3979,"id":"60262"},
+{"votes":1325,"id":"61026"}],
 "final":"1860"},
 "10":
 {"votes":[
@@ -196,10 +196,10 @@
 "Governor":
 {"":
 {"votes":[
-{"votes":2633631,"id":"362"},
-{"votes":1996960,"id":"60210"},
-{"votes":105159,"id":"60554"},
-{"votes":18677,"id":"61024"}],
+{"votes":2633877,"id":"362"},
+{"votes":1997079,"id":"60210"},
+{"votes":105170,"id":"60554"},
+{"votes":18679,"id":"61024"}],
 "final":"362"}}},
 "abbr":"TX"},
 "state":"TX","candidates":
