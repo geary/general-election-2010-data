@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 01:33 PM","totals":
+votesReady( {"dttime":"Nov 03,2010 01:39 PM","totals":
 {"races":
 {"U.S. House":
 {"24":
@@ -154,8 +154,8 @@ votesReady( {"dttime":"Nov 03,2010 01:33 PM","totals":
 "Referendum":
 {"1 - Balanced Budget":
 {"votes":[
-{"votes":3343144,"id":"2"},
-{"votes":1308063,"id":"3"}],
+{"votes":3343874,"id":"2"},
+{"votes":1308372,"id":"3"}],
 "final":"2"}},
 "Governor":
 {"":
