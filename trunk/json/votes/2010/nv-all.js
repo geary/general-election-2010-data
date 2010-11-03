@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 02,2010 11:25 PM","totals":
+votesReady( {"dttime":"Nov 02,2010 11:29 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -17,21 +17,21 @@ votesReady( {"dttime":"Nov 02,2010 11:25 PM","totals":
 {"votes":709,"id":"60753"}]},
 "2":
 {"votes":[
-{"votes":15957,"id":"30423"},
-{"votes":9560,"id":"30718"},
-{"votes":716,"id":"60752"}]}},
+{"votes":54083,"id":"30423"},
+{"votes":35992,"id":"30718"},
+{"votes":2286,"id":"60752"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":162259,"id":"1741"},
-{"votes":128891,"id":"56895"},
-{"votes":5487,"id":"100013"},
-{"votes":1762,"id":"60746"},
-{"votes":1566,"id":"60748"},
-{"votes":904,"id":"60749"},
-{"votes":888,"id":"59552"},
-{"votes":878,"id":"60747"},
-{"votes":689,"id":"60750"}]}},
+{"votes":197135,"id":"1741"},
+{"votes":159895,"id":"56895"},
+{"votes":7002,"id":"100013"},
+{"votes":2079,"id":"60746"},
+{"votes":1843,"id":"60748"},
+{"votes":1143,"id":"60749"},
+{"votes":1055,"id":"59552"},
+{"votes":1047,"id":"60747"},
+{"votes":840,"id":"60750"}]}},
 "Question":
 {"4 - Eminent Domain":
 {"votes":[
