@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 01:07 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 01:09 AM","totals":
 {"name":"Texas","fix":
 {"De Witt":"DeWitt","La Vaca":"Lavaca"},
 "precincts":
@@ -7,8 +7,8 @@ votesReady( {"dttime":"Nov 03,2010 01:07 AM","totals":
 {"U.S. House":
 {"24":
 {"votes":[
-{"votes":93305,"id":"42752"},
-{"votes":20531,"id":"60287"}],
+{"votes":99433,"id":"42752"},
+{"votes":22295,"id":"60287"}],
 "final":"42752"},
 "25":
 {"votes":[
@@ -18,9 +18,9 @@ votesReady( {"dttime":"Nov 03,2010 01:07 AM","totals":
 "final":"292"},
 "26":
 {"votes":[
-{"votes":99983,"id":"1017"},
-{"votes":47478,"id":"60218"},
-{"votes":3321,"id":"60291"}],
+{"votes":119932,"id":"1017"},
+{"votes":54031,"id":"60218"},
+{"votes":4005,"id":"60291"}],
 "final":"1017"},
 "27":
 {"votes":[
@@ -54,9 +54,9 @@ votesReady( {"dttime":"Nov 03,2010 01:07 AM","totals":
 {"votes":1327,"id":"330"}]},
 "28":
 {"votes":[
-{"votes":49208,"id":"327"},
-{"votes":43250,"id":"60298"},
-{"votes":1626,"id":"60299"}],
+{"votes":51084,"id":"327"},
+{"votes":43490,"id":"60298"},
+{"votes":1660,"id":"60299"}],
 "final":"327"},
 "29":
 {"votes":[
@@ -82,16 +82,16 @@ votesReady( {"dttime":"Nov 03,2010 01:07 AM","totals":
 "final":"39046"},
 "5":
 {"votes":[
-{"votes":106028,"id":"277"},
-{"votes":41123,"id":"60250"},
-{"votes":2930,"id":"333"}],
+{"votes":106164,"id":"277"},
+{"votes":41198,"id":"60250"},
+{"votes":2936,"id":"333"}],
 "final":"277"},
 "4":
 {"votes":[
-{"votes":124364,"id":"273"},
-{"votes":37524,"id":"42348"},
-{"votes":4286,"id":"60247"},
-{"votes":3959,"id":"60249"}],
+{"votes":125920,"id":"273"},
+{"votes":38001,"id":"42348"},
+{"votes":4352,"id":"60247"},
+{"votes":3990,"id":"60249"}],
 "final":"273"},
 "7":
 {"votes":[
@@ -196,10 +196,10 @@ votesReady( {"dttime":"Nov 03,2010 01:07 AM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":2605597,"id":"362"},
-{"votes":1980088,"id":"60210"},
-{"votes":103888,"id":"60554"},
-{"votes":18463,"id":"61024"}],
+{"votes":2629298,"id":"362"},
+{"votes":1994380,"id":"60210"},
+{"votes":105003,"id":"60554"},
+{"votes":18652,"id":"61024"}],
 "final":"362"}}},
 "abbr":"TX"},
 "state":"TX","candidates":

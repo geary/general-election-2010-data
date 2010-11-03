@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 01:07 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 01:09 AM","totals":
 {"name":"Illinois","fix":
 {"JoDaviess":"Jo Daviess","DeWitt":"De Witt","LaSalle":"La Salle"},
 "precincts":
@@ -121,10 +121,10 @@ votesReady( {"dttime":"Nov 03,2010 01:07 AM","totals":
 "U.S. Senate":
 {"2010":
 {"votes":[
-{"votes":1725613,"id":"1277"},
-{"votes":1644367,"id":"60136"},
-{"votes":114187,"id":"60769"},
-{"votes":84449,"id":"60771"}],
+{"votes":1726975,"id":"1277"},
+{"votes":1645173,"id":"60136"},
+{"votes":114307,"id":"60769"},
+{"votes":84502,"id":"60771"}],
 "final":"1277"}},
 "Governor":
 {"":
