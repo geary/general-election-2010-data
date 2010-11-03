@@ -1,15 +1,15 @@
-{"dttime":"Nov 02, 2010 09:13 PM","totals":
+{"dttime":"Nov 02, 2010 09:15 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":3522,"id":"49989"},
-{"votes":881,"id":"60706"}]},
+{"votes":24780,"id":"49989"},
+{"votes":14328,"id":"60706"}]},
 "3":
 {"votes":[
-{"votes":180,"id":"61191"},
-{"votes":159,"id":"30010"},
-{"votes":31,"id":"60620"}]},
+{"votes":288,"id":"30010"},
+{"votes":187,"id":"61191"},
+{"votes":61,"id":"60620"}]},
 "2":
 {"votes":[
 {"votes":7505,"id":"231"},
@@ -17,8 +17,8 @@
 "Governor":
 {"":
 {"votes":[
-{"votes":12094,"id":"29894"},
-{"votes":3080,"id":"29957"}]}}},
+{"votes":33167,"id":"29894"},
+{"votes":16690,"id":"29957"}]}}},
 "precincts":
 {"total":1636,"reporting":33},
 "abbr":"NE","name":"Nebraska"},
