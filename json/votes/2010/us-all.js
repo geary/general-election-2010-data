@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 06:54 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 06:56 AM","totals":
 {"races":
 {"President":
 {"":
@@ -1599,9 +1599,9 @@ votesReady( {"dttime":"Nov 03,2010 06:54 AM","totals":
 "final":"52489"},
 "14":
 {"votes":[
-{"votes":97885,"id":"43"},
-{"votes":41225,"id":"60837"},
-{"votes":4339,"id":"60838"}],
+{"votes":101187,"id":"43"},
+{"votes":42449,"id":"60837"},
+{"votes":4505,"id":"60838"}],
 "final":"43"},
 "11":
 {"votes":[
@@ -1627,8 +1627,8 @@ votesReady( {"dttime":"Nov 03,2010 06:54 AM","totals":
 "final":"113"},
 "15":
 {"votes":[
-{"votes":74575,"id":"1206"},
-{"votes":37384,"id":"60839"}],
+{"votes":79814,"id":"1206"},
+{"votes":40176,"id":"60839"}],
 "final":"1206"},
 "22":
 {"votes":[
@@ -1643,9 +1643,9 @@ votesReady( {"dttime":"Nov 03,2010 06:54 AM","totals":
 "final":"52"},
 "16":
 {"votes":[
-{"votes":61622,"id":"49"},
-{"votes":23511,"id":"60841"},
-{"votes":6754,"id":"60840"}],
+{"votes":65376,"id":"49"},
+{"votes":24820,"id":"60841"},
+{"votes":7305,"id":"60840"}],
 "final":"49"},
 "19":
 {"votes":[
