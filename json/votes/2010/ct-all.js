@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 07:24 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 07:27 AM","totals":
 {"name":"Connecticut","precincts":
 {"total":156,"reporting":154},
 "races":
