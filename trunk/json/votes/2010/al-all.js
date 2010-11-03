@@ -1,30 +1,32 @@
-votesReady( {"dttime":"Nov 02,2010 09:26 PM","totals":
+votesReady( {"dttime":"Nov 02,2010 10:21 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":1671,"id":"1004"},
-{"votes":263,"id":"61158"}]},
+{"votes":17613,"id":"1004"},
+{"votes":2746,"id":"61158"}],
+"final":"1004"},
 "3":
 {"votes":[
-{"votes":845,"id":"1161"},
-{"votes":371,"id":"4019"}]},
+{"votes":33526,"id":"1161"},
+{"votes":33330,"id":"4019"}]},
 "2":
 {"votes":[
-{"votes":3050,"id":"60628"},
-{"votes":3027,"id":"59445"}]},
+{"votes":56552,"id":"59445"},
+{"votes":51233,"id":"60628"}]},
 "5":
 {"votes":[
-{"votes":1149,"id":"60629"},
-{"votes":1079,"id":"60637"}]},
+{"votes":60403,"id":"60629"},
+{"votes":43748,"id":"60637"}]},
 "4":
 {"votes":[
 {"votes":0,"id":"523"}],
 "final":"523"},
 "7":
 {"votes":[
-{"votes":3391,"id":"60639"},
-{"votes":2111,"id":"3198"}]},
+{"votes":53407,"id":"60639"},
+{"votes":18781,"id":"3198"}],
+"final":"60639"},
 "6":
 {"votes":[
 {"votes":0,"id":"526"}],
@@ -32,17 +34,17 @@ votesReady( {"dttime":"Nov 02,2010 09:26 PM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":17651,"id":"1702"},
-{"votes":8817,"id":"60557"}],
+{"votes":342160,"id":"1702"},
+{"votes":230188,"id":"60557"}],
 "final":"1702"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":14657,"id":"52867"},
-{"votes":9724,"id":"4080"}],
+{"votes":302237,"id":"52867"},
+{"votes":267751,"id":"4080"}],
 "final":"52867"}}},
 "precincts":
-{"total":398,"reporting":0},
+{"total":398,"reporting":98},
 "abbr":"AL","name":"Alabama"},
 "state":"AL","candidates":
 {"4080":"Dem|Sparks|Ron Sparks","59445":"Dem|Bright|Bobby Bright","60637":"Dem|Raby|Steve Raby","1161":"GOP|Rogers|Mike Rogers","60557":"Dem|Barnes|William Barnes","3198":"GOP|Chamberlain|Don Chamberlain","60629":"GOP|Brooks|Mo Brooks","60628":"GOP|Roby|Martha Roby","4019":"Dem|Segrest|Steve Segrest","526":"GOP|Bachus|Spencer Bachus","52867":"GOP|Bentley|Robert Bentley","523":"GOP|Aderholt|Robert Aderholt","61158":"CST|Walter|David Walter","1004":"GOP|Bonner|Jo Bonner","1702":"GOP|Shelby|Richard Shelby","60639":"Dem|Sewell|Terri Sewell"},
