@@ -1,8 +1,8 @@
-{"dttime":"Nov 03,2010 02:41 AM","totals":
+{"dttime":"Nov 03,2010 02:43 AM","totals":
 {"name":"Texas","fix":
 {"De Witt":"DeWitt","La Vaca":"Lavaca"},
 "precincts":
-{"total":314,"reporting":306},
+{"total":314,"reporting":314},
 "races":
 {"U.S. House":
 {"24":
@@ -67,8 +67,8 @@
 "final":"348"},
 "1":
 {"votes":[
-{"votes":122709,"id":"1883"},
-{"votes":13496,"id":"60245"}],
+{"votes":124398,"id":"1883"},
+{"votes":13839,"id":"60245"}],
 "final":"1883"},
 "3":
 {"votes":[
