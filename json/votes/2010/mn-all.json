@@ -1,4 +1,4 @@
-{"dttime":"Nov 02,2010 10:11 PM","totals":
+{"dttime":"Nov 02,2010 10:12 PM","totals":
 {"name":"Minnesota","fix":
 {"Lac Qui Parle":"Lac qui Parle"},
 "precincts":
@@ -37,10 +37,10 @@
 "final":"989"},
 "7":
 {"votes":[
-{"votes":476,"id":"1333"},
-{"votes":324,"id":"60717"},
-{"votes":36,"id":"60718"},
-{"votes":26,"id":"26560"}]},
+{"votes":538,"id":"1333"},
+{"votes":339,"id":"60717"},
+{"votes":38,"id":"60718"},
+{"votes":27,"id":"26560"}]},
 "6":
 {"votes":[
 {"votes":26074,"id":"55336"},
@@ -56,12 +56,12 @@
 "Governor":
 {"":
 {"votes":[
-{"votes":300015,"id":"1730"},
-{"votes":207725,"id":"60721"},
-{"votes":70597,"id":"60723"},
+{"votes":300054,"id":"1730"},
+{"votes":207761,"id":"60721"},
+{"votes":70599,"id":"60723"},
 {"votes":1978,"id":"60722"},
 {"votes":1627,"id":"980"},
-{"votes":1584,"id":"26995"},
+{"votes":1586,"id":"26995"},
 {"votes":696,"id":"60724"}]}}},
 "abbr":"MN"},
 "state":"MN","candidates":

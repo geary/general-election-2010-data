@@ -1,4 +1,4 @@
-{"dttime":"Nov 02,2010 10:11 PM","totals":
+{"dttime":"Nov 02,2010 10:12 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -38,12 +38,12 @@
 "Governor":
 {"":
 {"votes":[
-{"votes":2225,"id":"60381"},
-{"votes":2100,"id":"19289"},
-{"votes":73,"id":"61114"},
-{"votes":53,"id":"19282"},
-{"votes":18,"id":"61116"},
-{"votes":10,"id":"61115"}]}}},
+{"votes":18011,"id":"19289"},
+{"votes":8278,"id":"60381"},
+{"votes":398,"id":"19282"},
+{"votes":291,"id":"61114"},
+{"votes":128,"id":"61115"},
+{"votes":97,"id":"61116"}]}}},
 "precincts":
 {"total":1873,"reporting":2},
 "abbr":"IA","name":"Iowa"},
