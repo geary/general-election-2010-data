@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 02,2010 10:28 PM","totals":
+votesReady( {"dttime":"Nov 02,2010 10:31 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -16,8 +16,8 @@ votesReady( {"dttime":"Nov 02,2010 10:28 PM","totals":
 "Question":
 {"1 - State Name Change":
 {"votes":[
-{"votes":133855,"id":"3"},
-{"votes":36379,"id":"2"}],
+{"votes":217251,"id":"3"},
+{"votes":60779,"id":"2"}],
 "final":"3"}},
 "Governor":
 {"":
