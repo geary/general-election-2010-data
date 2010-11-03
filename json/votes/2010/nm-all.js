@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 01:27 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 01:29 AM","totals":
 {"name":"New Mexico","fix":
 {"DeBaca":"De Baca"},
 "precincts":
@@ -16,8 +16,8 @@ votesReady( {"dttime":"Nov 03,2010 01:27 AM","totals":
 "final":"56805"},
 "2":
 {"votes":[
-{"votes":81942,"id":"31918"},
-{"votes":62106,"id":"59494"}],
+{"votes":84218,"id":"31918"},
+{"votes":64361,"id":"59494"}],
 "final":"31918"}},
 "Governor":
 {"":

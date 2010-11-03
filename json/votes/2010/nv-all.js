@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 01:27 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 01:29 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -37,8 +37,8 @@ votesReady( {"dttime":"Nov 03,2010 01:27 AM","totals":
 "Question":
 {"4 - Eminent Domain":
 {"votes":[
-{"votes":334850,"id":"3"},
-{"votes":161277,"id":"2"}],
+{"votes":338508,"id":"3"},
+{"votes":162470,"id":"2"}],
 "final":"3"}},
 "Governor":
 {"":
