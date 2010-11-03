@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 09:44 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 09:50 AM","totals":
 {"races":
 {"President":
 {"":
@@ -403,8 +403,8 @@ votesReady( {"dttime":"Nov 03,2010 09:44 AM","totals":
 "Issue":
 {"1 - Hunting and Fishing":
 {"votes":[
-{"votes":556771,"id":"2"},
-{"votes":117643,"id":"3"}],
+{"votes":557636,"id":"2"},
+{"votes":117770,"id":"3"}],
 "final":"2"}},
 "Governor":
 {"":
@@ -3672,22 +3672,22 @@ votesReady( {"dttime":"Nov 03,2010 09:44 AM","totals":
 "final":"59613"},
 "2":
 {"votes":[
-{"votes":135098,"id":"585"},
-{"votes":111414,"id":"60617"}],
+{"votes":135831,"id":"585"},
+{"votes":112254,"id":"60617"}],
 "final":"585"}},
 "Question":
 {"1 - Oxford County Casino":
 {"votes":[
-{"votes":252409,"id":"2"},
-{"votes":249390,"id":"3"}]}},
+{"votes":253175,"id":"2"},
+{"votes":250066,"id":"3"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":195537,"id":"60414"},
-{"votes":188758,"id":"60614"},
-{"votes":98592,"id":"60416"},
-{"votes":25757,"id":"60615"},
-{"votes":5196,"id":"60616"}]}}},
+{"votes":196317,"id":"60414"},
+{"votes":189353,"id":"60614"},
+{"votes":98772,"id":"60416"},
+{"votes":25801,"id":"60615"},
+{"votes":5215,"id":"60616"}]}}},
 "abbr":"ME"},
 "Rhode Island":
 {"races":
