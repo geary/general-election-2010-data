@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 01:39 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 01:41 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -18,8 +18,8 @@ votesReady( {"dttime":"Nov 03,2010 01:39 AM","totals":
 "final":"482"},
 "2":
 {"votes":[
-{"votes":162000,"id":"481"},
-{"votes":53565,"id":"60611"}],
+{"votes":162175,"id":"481"},
+{"votes":53583,"id":"60611"}],
 "final":"481"},
 "5":
 {"votes":[
@@ -35,31 +35,31 @@ votesReady( {"dttime":"Nov 03,2010 01:39 AM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":577510,"id":"1750"},
-{"votes":419879,"id":"60190"},
-{"votes":12763,"id":"38806"},
-{"votes":10415,"id":"61142"},
-{"votes":9347,"id":"61143"}],
+{"votes":577593,"id":"1750"},
+{"votes":419969,"id":"60190"},
+{"votes":12770,"id":"38806"},
+{"votes":10423,"id":"61142"},
+{"votes":9348,"id":"61143"}],
 "final":"1750"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":512031,"id":"60200"},
-{"votes":491963,"id":"39053"},
-{"votes":14119,"id":"61133"},
-{"votes":13312,"id":"61134"}]}},
+{"votes":513376,"id":"60200"},
+{"votes":493052,"id":"39053"},
+{"votes":14179,"id":"61133"},
+{"votes":13360,"id":"61134"}]}},
 "Measure":
 {"75 - Multnomah Casino":
 {"votes":[
-{"votes":660202,"id":"3"},
-{"votes":313012,"id":"2"}],
+{"votes":664868,"id":"3"},
+{"votes":315256,"id":"2"}],
 "final":"3"},
 "74 - Medical Marijuana":
 {"votes":[
-{"votes":573561,"id":"3"},
-{"votes":411491,"id":"2"}]}}},
+{"votes":574918,"id":"3"},
+{"votes":412648,"id":"2"}]}}},
 "precincts":
-{"total":1000,"reporting":695},
+{"total":1000,"reporting":698},
 "abbr":"OR","name":"Oregon"},
 "state":"OR","candidates":
 {"60200":"GOP|Dudley|Chris Dudley","51866":"PAG|Lugo|Chris Lugo","38736":"GOP|Bruun|Scott Bruun","60190":"GOP|Huffman|Jim Huffman","61134":"Lib|Wagner|Wes Wagner","3":"|No| No","2":"|Yes| Yes","39371":"Lib|Tabor|Joe Tabor","61132":"CST|LaMunyon|Don LaMunyon","61133":"CST|Kord|Greg Kord","59807":"PAG|Beilstein|Mike Beilstein","1750":"Dem|Wyden|Ron Wyden","59846":"PAG|Henry|Chris Henry","59797":"PAG|Meo|Michael Meo","58449":"GOP|Lopez|Delia Lopez","484":"Dem|DeFazio|Peter DeFazio","482":"Dem|Blumenauer|Earl Blumenauer","481":"GOP|Walden|Greg Walden","38806":"WF|Cronk|Bruce Cronk","60612":"GOP|Robinson|Art Robinson","60610":"GOP|Cornilles|Rob Cornilles","60611":"Dem|Segers|Joyce Segers","61141":"Lib|Lawrence|Jeff Lawrence","57501":"Dem|Schrader|Kurt Schrader","61143":"Prg|Staggenborg|Rick Staggenborg","61142":"Lib|Delphine|Marc Delphine","39053":"Dem|Kitzhaber|John Kitzhaber","478":"Dem|Wu|David Wu"},
