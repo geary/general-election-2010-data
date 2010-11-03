@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 02,2010 11:15 PM","totals":
+votesReady( {"dttime":"Nov 02,2010 11:22 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -23,13 +23,13 @@ votesReady( {"dttime":"Nov 02,2010 11:15 PM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":119234,"id":"1753"},
-{"votes":111796,"id":"61041"},
-{"votes":77219,"id":"57844"},
-{"votes":21291,"id":"61223"},
-{"votes":1066,"id":"61226"},
-{"votes":864,"id":"61225"},
-{"votes":781,"id":"61224"}]}}},
+{"votes":119965,"id":"1753"},
+{"votes":111964,"id":"61041"},
+{"votes":77560,"id":"57844"},
+{"votes":21343,"id":"61223"},
+{"votes":1071,"id":"61226"},
+{"votes":866,"id":"61225"},
+{"votes":783,"id":"61224"}]}}},
 "precincts":
 {"total":537,"reporting":536},
 "abbr":"RI","name":"Rhode Island"},

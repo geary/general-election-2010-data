@@ -1,11 +1,11 @@
-votesReady( {"dttime":"Nov 02,2010 11:15 PM","totals":
+votesReady( {"dttime":"Nov 02,2010 11:22 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":60334,"id":"61002"},
-{"votes":45028,"id":"59526"},
-{"votes":7411,"id":"61192"}]},
+{"votes":79593,"id":"61002"},
+{"votes":61219,"id":"59526"},
+{"votes":10001,"id":"61192"}]},
 "3":
 {"votes":[
 {"votes":0,"id":"61004"},
@@ -14,9 +14,9 @@ votesReady( {"dttime":"Nov 02,2010 11:15 PM","totals":
 {"votes":0,"id":"59897"}]},
 "2":
 {"votes":[
-{"votes":29487,"id":"1121"},
-{"votes":10545,"id":"51674"},
-{"votes":2103,"id":"51356"}]},
+{"votes":29514,"id":"1121"},
+{"votes":10638,"id":"51674"},
+{"votes":2104,"id":"51356"}]},
 "5":
 {"votes":[
 {"votes":0,"id":"61006"},
@@ -30,10 +30,10 @@ votesReady( {"dttime":"Nov 02,2010 11:15 PM","totals":
 {"votes":0,"id":"57149"}]},
 "7":
 {"votes":[
-{"votes":3339,"id":"61007"},
-{"votes":2271,"id":"1131"},
-{"votes":185,"id":"61153"},
-{"votes":181,"id":"61195"}]},
+{"votes":14568,"id":"61007"},
+{"votes":7715,"id":"1131"},
+{"votes":690,"id":"61153"},
+{"votes":582,"id":"61195"}]},
 "6":
 {"votes":[
 {"votes":11790,"id":"1129"},
@@ -42,47 +42,47 @@ votesReady( {"dttime":"Nov 02,2010 11:15 PM","totals":
 {"votes":330,"id":"61194"}]},
 "8":
 {"votes":[
-{"votes":2777,"id":"61136"},
-{"votes":1972,"id":"52527"},
-{"votes":85,"id":"61008"}]}},
+{"votes":13396,"id":"61136"},
+{"votes":12034,"id":"52527"},
+{"votes":1072,"id":"61008"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":116366,"id":"1701"},
-{"votes":55699,"id":"61000"},
-{"votes":9961,"id":"56827"},
-{"votes":2817,"id":"61001"}],
+{"votes":161298,"id":"1701"},
+{"votes":82415,"id":"61000"},
+{"votes":14142,"id":"56827"},
+{"votes":3950,"id":"61001"}],
 "final":"1701"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":118069,"id":"4627"},
-{"votes":63973,"id":"4875"},
-{"votes":4113,"id":"1137"},
-{"votes":1823,"id":"61009"}]}},
+{"votes":163731,"id":"4627"},
+{"votes":94192,"id":"4875"},
+{"votes":5627,"id":"1137"},
+{"votes":2603,"id":"61009"}]}},
 "Proposition":
 {"107 - Preferential Treatment":
 {"votes":[
-{"votes":108385,"id":"2"},
-{"votes":68523,"id":"3"}]},
+{"votes":153111,"id":"2"},
+{"votes":98056,"id":"3"}]},
 "109 - Hunting and Fishing":
 {"votes":[
-{"votes":90638,"id":"3"},
-{"votes":88736,"id":"2"}]},
+{"votes":128808,"id":"2"},
+{"votes":125499,"id":"3"}]},
 "106 - Health Care":
 {"votes":[
-{"votes":107979,"id":"2"},
-{"votes":70896,"id":"3"}]},
+{"votes":151914,"id":"2"},
+{"votes":101842,"id":"3"}]},
 "113 - Secret Ballot":
 {"votes":[
-{"votes":111126,"id":"2"},
-{"votes":65703,"id":"3"}]},
+{"votes":155988,"id":"2"},
+{"votes":94665,"id":"3"}]},
 "203 - Medical Marijuana":
 {"votes":[
-{"votes":98478,"id":"3"},
-{"votes":83931,"id":"2"}]}}},
+{"votes":141222,"id":"3"},
+{"votes":117027,"id":"2"}]}}},
 "precincts":
-{"total":2239,"reporting":216},
+{"total":2239,"reporting":301},
 "abbr":"AZ","name":"Arizona"},
 "state":"AZ","candidates":
 {"59537":"Dem|Schneider|Rebecca Schneider","1129":"GOP|Flake|Jeff Flake","59893":"Grn|DeWitt|Rebecca DeWitt","5397":"GOP|Schweikert|David Schweikert","52516":"Dem|Mitchell|Harry Mitchell","59897":"Lib|Shoen|Michael Shoen","1121":"GOP|Franks|Trent Franks","1124":"Dem|Pastor|Ed Pastor","57784":"Grn|Grayson|Richard Grayson","4703":"Grn|Clark|Leonard Clark","57149":"Lib|Cobb|Joe Cobb","3":"|No| No","61153":"Ind|Meyer|Harley Meyer","61136":"GOP|Kelly|Jesse Kelly","2":"|Yes| Yes","51674":"Dem|Thrasher|John Thrasher","56827":"Lib|Nolan|David Nolan","59526":"Dem|Kirkpatrick|Ann Kirkpatrick","1131":"Dem|Grijalva|Raul Grijalva","1137":"Lib|Hess|Barry Hess","61194":"Lib|Tapp|Darell Tapp","61195":"Lib|Keane|George Keane","61192":"Lib|Patti|Nicole Patti","4627":"GOP|Brewer|Jan Brewer","52527":"Dem|Giffords|Gabrielle Giffords","4875":"Dem|Goddard|Terry Goddard","1701":"GOP|McCain|John McCain","51356":"Lib|Gammill|Powell Gammill","61004":"GOP|Quayle|Ben Quayle","61005":"GOP|Contreras|Janet Contreras","61006":"Lib|Coons|Nick Coons","61007":"GOP|McClung|Ruth McClung","61000":"Dem|Glassman|Rodney Glassman","61001":"Grn|Joslyn|Jerry Joslyn","61002":"GOP|Gosar|Paul Gosar","61003":"Dem|Hulburd|Jon Hulburd","61008":"Lib|Stoltz|Steven Stoltz","61009":"Grn|Gist|Larry Gist"},

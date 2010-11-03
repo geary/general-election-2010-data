@@ -1,4 +1,4 @@
-{"dttime":"Nov 02,2010 11:15 PM","totals":
+{"dttime":"Nov 02,2010 11:22 PM","totals":
 {"races":
 {"U.S. House":
 {"11":
@@ -24,14 +24,14 @@
 "final":"458"},
 "1":
 {"votes":[
-{"votes":99559,"id":"34352"},
-{"votes":67736,"id":"60534"}],
+{"votes":102025,"id":"34352"},
+{"votes":70434,"id":"60534"}],
 "final":"34352"},
 "3":
 {"votes":[
-{"votes":120875,"id":"1362"},
-{"votes":43465,"id":"35602"},
-{"votes":3649,"id":"60657"}],
+{"votes":129877,"id":"1362"},
+{"votes":46405,"id":"35602"},
+{"votes":4019,"id":"60657"}],
 "final":"1362"},
 "2":
 {"votes":[
@@ -72,12 +72,12 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":1393414,"id":"452"},
-{"votes":1092531,"id":"35216"},
-{"votes":52900,"id":"60655"}],
+{"votes":1404224,"id":"452"},
+{"votes":1098640,"id":"35216"},
+{"votes":53268,"id":"60655"}],
 "final":"452"}}},
 "precincts":
-{"total":224,"reporting":184},
+{"total":224,"reporting":200},
 "abbr":"NC","name":"North Carolina"},
 "state":"NC","candidates":
 {"458":"Dem|Watt|Mel Watt","35602":"Dem|Rouse|Johnny Rouse","450":"Dem|Price|David Price","452":"GOP|Burr|Richard Burr","453":"GOP|Coble|Howard Coble","34352":"Dem|Butterfield|G.K. Butterfield","60667":"GOP|Randall|William Randall","1877":"GOP|Foxx|Virginia Foxx","60665":"GOP|Miller|Jeff Miller","60664":"Dem|Gregory|Jeff Gregory","60663":"Dem|Doctor|Jeff Doctor","60662":"Lib|Hill|Thomas Hill","59430":"GOP|Lawson|William Lawson","60660":"GOP|Pantano|Ilario Pantano","60661":"GOP|Johnson|Harold Johnson","51655":"Dem|Shuler|Heath Shuler","51652":"Dem|Kissell|Larry Kissell","35216":"Dem|Marshall|Elaine Marshall","448":"Dem|Etheridge|Bob Etheridge","454":"GOP|Myrick|Sue Myrick","35265":"GOP|McHenry|Patrick McHenry","447":"GOP|Dority|Greg Dority","1372":"Dem|Miller|Brad Miller","60533":"GOP|Ellmers|Renee Ellmers","60534":"GOP|Woolard|Ashley Woolard","1025":"Dem|McIntyre|Mike McIntyre","60658":"Dem|Kennedy|Billy Kennedy","60659":"Dem|Turner|Sam Turner","60666":"Lib|Cecil|Lon Cecil","60656":"Lib|Rose|Tom Rose","60657":"Lib|Holloman|Darryl Holloman","60655":"Lib|Beitler|Michael Beitler","1362":"GOP|Jones|Walter Jones"},
