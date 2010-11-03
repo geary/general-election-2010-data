@@ -1,8 +1,8 @@
-{"dttime":"Nov 03,2010 03:09 AM","totals":
+{"dttime":"Nov 03,2010 03:11 AM","totals":
 {"name":"New Hampshire","fix":
 {"":"Atkinson and Gilmanton Academy"},
 "precincts":
-{"total":301,"reporting":277},
+{"total":301,"reporting":278},
 "races":
 {"U.S. House":
 {"1":
@@ -13,10 +13,10 @@
 "final":"61212"},
 "2":
 {"votes":[
-{"votes":104272,"id":"1080"},
-{"votes":98380,"id":"61213"},
-{"votes":5849,"id":"61221"},
-{"votes":4708,"id":"61222"}],
+{"votes":104466,"id":"1080"},
+{"votes":98525,"id":"61213"},
+{"votes":5867,"id":"61221"},
+{"votes":4719,"id":"61222"}],
 "final":"1080"}},
 "U.S. Senate":
 {"":
