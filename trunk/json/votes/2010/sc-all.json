@@ -1,15 +1,15 @@
-{"dttime":"Nov 02,2010 10:04 PM","totals":
+{"dttime":"Nov 02,2010 10:05 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":64825,"id":"60345"},
-{"votes":26080,"id":"40244"},
-{"votes":1432,"id":"61075"},
-{"votes":1332,"id":"60673"},
-{"votes":1170,"id":"60677"},
-{"votes":984,"id":"60674"},
-{"votes":416,"id":"60676"}]},
+{"votes":82213,"id":"60345"},
+{"votes":32958,"id":"40244"},
+{"votes":1866,"id":"61075"},
+{"votes":1640,"id":"60673"},
+{"votes":1548,"id":"60677"},
+{"votes":1295,"id":"60674"},
+{"votes":529,"id":"60676"}]},
 "3":
 {"votes":[
 {"votes":78514,"id":"57891"},
@@ -36,35 +36,35 @@
 "final":"60681"},
 "6":
 {"votes":[
-{"votes":71673,"id":"1414"},
-{"votes":40122,"id":"60684"},
-{"votes":767,"id":"60685"}],
+{"votes":73823,"id":"1414"},
+{"votes":41862,"id":"60684"},
+{"votes":798,"id":"60685"}],
 "final":"1414"}},
 "Amendment":
 {"1 - Hunting and Fishing":
 {"votes":[
-{"votes":600317,"id":"2"},
-{"votes":77282,"id":"3"}],
+{"votes":625932,"id":"2"},
+{"votes":80332,"id":"3"}],
 "final":"2"},
 "2 - Secret Ballot":
 {"votes":[
-{"votes":528600,"id":"2"},
-{"votes":90334,"id":"3"}]}},
+{"votes":553445,"id":"2"},
+{"votes":94294,"id":"3"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":451203,"id":"610"},
-{"votes":216428,"id":"60335"},
-{"votes":72294,"id":"60671"}],
+{"votes":455287,"id":"610"},
+{"votes":218021,"id":"60335"},
+{"votes":73047,"id":"60671"}],
 "final":"610"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":366979,"id":"60420"},
-{"votes":364322,"id":"58026"},
-{"votes":11226,"id":"60672"}]}}},
+{"votes":381148,"id":"60420"},
+{"votes":374442,"id":"58026"},
+{"votes":11675,"id":"60672"}]}}},
 "precincts":
-{"total":398,"reporting":163},
+{"total":398,"reporting":220},
 "abbr":"SC","name":"South Carolina"},
 "state":"SC","candidates":
 {"60345":"GOP|Scott|Tim Scott","60685":"Grn|Muhammad|Nammu Muhammad","60684":"GOP|Pratt|Jim Pratt","60681":"GOP|Gowdy|Trey Gowdy","60680":"CST|Dalen|John Dalen","60683":"CST|Edwards|Dave Edwards","60682":"Lib|Mahler|Rick Mahler","60420":"GOP|Haley|Nikki Haley","3":"|No| No","2":"|Yes| Yes","61075":"WF|Groce|Rob Groce","59675":"Dem|Miller|Rob Miller","59676":"Dem|Dyer|Jane Dyer","59677":"Dem|Corden|Paul Corden","60335":"Dem|Greene|Alvin Greene","612":"Dem|Spratt|John Spratt","610":"GOP|DeMint|Jim DeMint","611":"Grn|Walters|C. Faye Walters","60671":"Grn|Clements|Tom Clements","60672":"Grn|Reeves|Morgan Reeves","60673":"Grn|Dobbs|Robert Dobbs","60674":"Lib|Blandford|Keith Blandford","60676":"UCz|McCullough|Mac McCullough","60677":"Inp|Wood|Jimmy Wood","60678":"Lib|McCain|Eddie McCain","60679":"CST|Beaman|Marc Beaman","57891":"GOP|Duncan|Jeff Duncan","58026":"Dem|Sheheen|Vincent Sheheen","60619":"GOP|Mulvaney|Mick Mulvaney","40244":"Dem|Frasier|Ben Frasier","1410":"GOP|Wilson|Joe Wilson","1414":"Dem|Clyburn|Jim Clyburn"},

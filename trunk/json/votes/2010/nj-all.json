@@ -1,4 +1,4 @@
-{"dttime":"Nov 02,2010 10:04 PM","totals":
+{"dttime":"Nov 02,2010 10:05 PM","totals":
 {"races":
 {"U.S. House":
 {"11":
@@ -16,23 +16,23 @@
 "final":"382"},
 "13":
 {"votes":[
-{"votes":39729,"id":"56705"},
-{"votes":11142,"id":"60466"},
-{"votes":947,"id":"60468"},
-{"votes":649,"id":"60467"}],
+{"votes":43022,"id":"56705"},
+{"votes":12788,"id":"60466"},
+{"votes":991,"id":"60468"},
+{"votes":658,"id":"60467"}],
 "final":"56705"},
 "12":
 {"votes":[
-{"votes":50015,"id":"60464"},
-{"votes":46264,"id":"385"},
-{"votes":1089,"id":"60465"}]},
+{"votes":69686,"id":"385"},
+{"votes":68700,"id":"60464"},
+{"votes":1534,"id":"60465"}]},
 "1":
 {"votes":[
-{"votes":49254,"id":"369"},
-{"votes":31615,"id":"58834"},
-{"votes":899,"id":"60442"},
-{"votes":806,"id":"58835"},
-{"votes":279,"id":"60443"}],
+{"votes":50096,"id":"369"},
+{"votes":32151,"id":"58834"},
+{"votes":910,"id":"60442"},
+{"votes":831,"id":"58835"},
+{"votes":289,"id":"60443"}],
 "final":"369"},
 "3":
 {"votes":[
@@ -43,11 +43,11 @@
 {"votes":619,"id":"60545"}]},
 "2":
 {"votes":[
-{"votes":65090,"id":"371"},
-{"votes":30100,"id":"58845"},
-{"votes":1898,"id":"58841"},
-{"votes":997,"id":"60444"},
-{"votes":394,"id":"60445"}],
+{"votes":83769,"id":"371"},
+{"votes":37950,"id":"58845"},
+{"votes":2992,"id":"58841"},
+{"votes":1111,"id":"60444"},
+{"votes":510,"id":"60445"}],
 "final":"371"},
 "5":
 {"votes":[
@@ -89,7 +89,7 @@
 {"votes":948,"id":"60457"}],
 "final":"378"}}},
 "precincts":
-{"total":483,"reporting":250},
+{"total":483,"reporting":256},
 "abbr":"NJ","name":"New Jersey"},
 "state":"NJ","candidates":
 {"58874":"Grn|Welzer|Steven Welzer","60457":"Ind|Giangrasso|Raymond Giangrasso","60055":"Ind|Meiswinkle|David Meiswinkle","60545":"Ind|Donahue|Lawrence Donahue","556":"GOP|Garrett|Scott Garrett","58835":"Ind|Chapman|Margaret Chapman","58834":"GOP|Glading|Dale Glading","375":"Dem|Pallone|Frank Pallone","569":"Ind|Zaletel|Karen Zaletel","60465":"Ind|Cody|Kenneth Cody","60464":"GOP|Sipprelle|Scott Sipprelle","60467":"Ind|Nacer|Maximo Nacer","60466":"GOP|Dwyer|Henrietta Dwyer","60461":"Ind|Toussaint|Robert Toussaint","60460":"GOP|Alonso|Michael Alonso","60463":"Lib|Gawron|Jim Gawron","60462":"Dem|Herbert|Douglas Herbert","60449":"Dem|Kleinhendler|Howard Kleinhendler","60448":"Ind|DeStefano|Peter DeStefano","60468":"Ind|Zanowic|Anthony Zanowic","56726":"Dem|Adler|John Adler","58879":"Grn|Fanning|Ed Fanning","31001":"Grn|Alessandrini|Patricia Alessandrini","369":"Dem|Andrews|Robert Andrews","60443":"Ind|Petrutz|Nicky Petrutz","58911":"GOP|Straten|Roland Straten","56743":"GOP|Lance|Leonard Lance","60442":"Grn|Heacock|Mark Heacock","58845":"Dem|Stein|Gary Stein","60445":"Ind|Valdes-Munoz|Vitov Valdes-Munoz","56705":"Dem|Sires|Albio Sires","58841":"CST|Boyce|Peter Boyce","380":"Dem|Rothman|Steve Rothman","382":"Dem|Payne|Donald Payne","384":"GOP|Frelinghuysen|Rodney Frelinghuysen","385":"Dem|Holt|Rush Holt","60447":"Lib|Conger|Russ Conger","60351":"GOP|Runyan|Jon Runyan","60458":"GOP|Agosta|Michael Agosta","60459":"Ind|Miller|Joanne Miller","60454":"Ind|Freudenheim|Jack Freudenheim","60455":"Dem|Potosnak|Ed Potosnak","60444":"Ind|Lovett|Mark Lovett","60450":"Lib|Siano|Joe Siano","60451":"Ind|Quick|Mark Quick","60452":"Ind|Radigan|James Radigan","60453":"GOP|Little|Anna Little","378":"Dem|Pascrell|Bill Pascrell","371":"GOP|LoBiondo|Frank LoBiondo","31301":"Dem|Theise|Tod Theise","1352":"GOP|Smith|Chris Smith"},
