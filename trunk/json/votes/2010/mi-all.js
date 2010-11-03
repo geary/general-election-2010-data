@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 02,2010 11:13 PM","totals":
+votesReady( {"dttime":"Nov 02,2010 11:15 PM","totals":
 {"races":
 {"U.S. House":
 {"11":
@@ -38,27 +38,27 @@ votesReady( {"dttime":"Nov 02,2010 11:13 PM","totals":
 {"votes":994,"id":"61187"}]},
 "14":
 {"votes":[
-{"votes":83379,"id":"806"},
-{"votes":25022,"id":"61072"},
-{"votes":2617,"id":"61186"},
-{"votes":1529,"id":"25268"}],
+{"votes":86102,"id":"806"},
+{"votes":25107,"id":"61072"},
+{"votes":2650,"id":"61186"},
+{"votes":1543,"id":"25268"}],
 "final":"806"},
 "1":
 {"votes":[
-{"votes":87395,"id":"61069"},
-{"votes":71271,"id":"24649"},
-{"votes":6057,"id":"61169"},
-{"votes":3089,"id":"61167"},
-{"votes":1872,"id":"61168"},
-{"votes":1471,"id":"61166"}],
+{"votes":89569,"id":"61069"},
+{"votes":72602,"id":"24649"},
+{"votes":6146,"id":"61169"},
+{"votes":3138,"id":"61167"},
+{"votes":1894,"id":"61168"},
+{"votes":1486,"id":"61166"}],
 "final":"61069"},
 "3":
 {"votes":[
-{"votes":104121,"id":"61070"},
-{"votes":52419,"id":"61031"},
-{"votes":1994,"id":"61173"},
-{"votes":1715,"id":"61172"},
-{"votes":1024,"id":"61171"}],
+{"votes":104331,"id":"61070"},
+{"votes":52586,"id":"61031"},
+{"votes":2002,"id":"61173"},
+{"votes":1721,"id":"61172"},
+{"votes":1032,"id":"61171"}],
 "final":"61070"},
 "2":
 {"votes":[
@@ -112,20 +112,20 @@ votesReady( {"dttime":"Nov 02,2010 11:13 PM","totals":
 "Proposal":
 {"10-2 - Felon Politician Ban":
 {"votes":[
-{"votes":1125406,"id":"2"},
-{"votes":393207,"id":"3"}],
+{"votes":1147374,"id":"2"},
+{"votes":401252,"id":"3"}],
 "final":"2"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":1229398,"id":"61073"},
-{"votes":810431,"id":"55135"},
-{"votes":14938,"id":"790"},
-{"votes":14045,"id":"61189"},
-{"votes":14020,"id":"786"}],
+{"votes":1242865,"id":"61073"},
+{"votes":818696,"id":"55135"},
+{"votes":15097,"id":"790"},
+{"votes":14236,"id":"61189"},
+{"votes":14142,"id":"786"}],
 "final":"61073"}}},
 "precincts":
-{"total":505,"reporting":400},
+{"total":505,"reporting":405},
 "abbr":"MI","name":"Michigan"},
 "state":"MI","candidates":
 {"1087":"GOP|Camp|Dave Camp","769":"GOP|Raczkowski|Rocky Raczkowski","1326":"GOP|Miller|Candice Miller","59455":"Dem|Johnson|Fred Johnson","25268":"Lib|Secula|Richard Secula","23469":"Lib|Dashairya|Bhagwan Dashairya","61073":"GOP|Snyder|Rick Snyder","1169":"GOP|Rogers|Mike Rogers","51970":"Lib|Goodman|Adam Goodman","61185":"Lib|Peterson|Heidi Peterson","61184":"NLP|Jacquemotte|Alan Jacquemotte","61187":"Lib|Morgan|Kerry Morgan","61186":"UST|Sosnowski|Marc Sosnowski","1321":"Grn|Campbell|Douglas Campbell","55131":"Dem|Schauer|Mark Schauer","61183":"Grn|Williams|Julia Williams","61182":"Lib|Beavers|Claude Beavers","61181":"NPA|Kuofie|Matthew Kuofie","61189":"UST|Mathia|Stacey Mathia","61188":"UST|Furman|Matthew Furman","25443":"Lib|Strand|Fred Strand","61178":"Grn|Wunsch|Richard Wunsch","55113":"Dem|Clarke|Hansen Clarke","60939":"GOP|Volaric|Don Volaric","60938":"Dem|Yanez|Henry Yanez","60937":"Dem|Campbell|Jerry Campbell","55135":"Dem|Bernero|Virg Bernero","3":"|No| No","799":"GOP|McCotter|Thaddeus McCotter","61071":"GOP|Kupiec|John Kupiec","61070":"GOP|Amash|Justin Amash","59823":"Grn|Corsetti|George Corsetti","61072":"GOP|Ukrainec|Don Ukrainec","25498":"Lib|Tatar|John Tatar","61170":"Lib|Gillotte|Joseph Gillotte","61171":"Grn|Shick|Charlie Shick","61172":"UST|Gerrard|Ted Gerrard","51974":"Grn|Smith|Aimee Smith","51973":"UST|Townsend|Les Townsend","61175":"Lib|Moon|Michael Moon","51971":"Grn|Caveny|Candace Caveny","61177":"UST|Valkner|Melvin Valkner","23663":"Dem|Enderle|Lance Enderle","24973":"Dem|Peters|Gary Peters","25659":"GOP|Walberg|Tim Walberg","61179":"UST|Aughney|Scott Aughney","779":"UST|Graeser|Ronald Graeser","61031":"Dem|Miles|Pat Miles","55092":"GOP|Huizenga|Bill Huizenga","61032":"GOP|Steele|Rob Steele","61167":"UST|Lambert|Patrick Lambert","23657":"UST|Emerick|John Emerick","61190":"NPA|Montgomery|Duane Montgomery","61166":"Grn|Boal|Ellis Boal","2":"|Yes| Yes","59458":"Dem|Cooney|Don Cooney","784":"Dem|Kildee|Dale Kildee","785":"Lib|Foster|Clint Foster","786":"Grn|Mikkelson|Harley Mikkelson","61173":"Lib|Rogers|James Rogers","61174":"Grn|de Heus|Matthew de Heus","790":"Lib|Proctor|Ken Proctor","788":"GOP|Upton|Fred Upton","23361":"Grn|Clarke|Lloyd Clarke","61180":"NPA|Gray|Bob Gray","59815":"Lib|Merle|Greg Merle","24649":"Dem|McDowell|Gary McDowell","809":"Dem|Dingell|John Dingell","61176":"Grn|Foster|Pat Foster","61169":"NPA|Wilson|Glenn Wilson","61168":"Lib|Shelton|Keith Shelton","51960":"Lib|Schwartz|Leonard Schwartz","802":"Dem|Levin|Sander Levin","61069":"GOP|Benishek|Dan Benishek","806":"Dem|Conyers|John Conyers","60940":"GOP|Hauler|John Hauler","36788":"Dem|Mosher|Natalie Mosher"},
