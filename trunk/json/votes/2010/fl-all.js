@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 04:37 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 04:40 AM","totals":
 {"races":
 {"U.S. House":
 {"24":
@@ -75,8 +75,8 @@ votesReady( {"dttime":"Nov 03,2010 04:37 AM","totals":
 "final":"854"},
 "9":
 {"votes":[
-{"votes":161478,"id":"52981"},
-{"votes":64579,"id":"59134"}],
+{"votes":162887,"id":"52981"},
+{"votes":65295,"id":"59134"}],
 "final":"52981"},
 "8":
 {"votes":[
@@ -87,8 +87,8 @@ votesReady( {"dttime":"Nov 03,2010 04:37 AM","totals":
 "final":"53062"},
 "11":
 {"votes":[
-{"votes":88229,"id":"10546"},
-{"votes":59450,"id":"61147"}],
+{"votes":89211,"id":"10546"},
+{"votes":60033,"id":"61147"}],
 "final":"10546"},
 "10":
 {"votes":[
@@ -102,9 +102,9 @@ votesReady( {"dttime":"Nov 03,2010 04:37 AM","totals":
 "final":"53213"},
 "12":
 {"votes":[
-{"votes":100873,"id":"52996"},
-{"votes":86053,"id":"10676"},
-{"votes":22616,"id":"60508"}],
+{"votes":101245,"id":"52996"},
+{"votes":86515,"id":"10676"},
+{"votes":22668,"id":"60508"}],
 "final":"52996"},
 "15":
 {"votes":[
@@ -140,16 +140,16 @@ votesReady( {"dttime":"Nov 03,2010 04:37 AM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":2578042,"id":"53044"},
-{"votes":1570074,"id":"10601"},
-{"votes":1066453,"id":"865"},
-{"votes":24264,"id":"60497"},
-{"votes":14895,"id":"60494"},
-{"votes":7221,"id":"60498"},
-{"votes":4680,"id":"60492"},
-{"votes":4285,"id":"60493"},
-{"votes":4189,"id":"60495"},
-{"votes":3557,"id":"60496"}],
+{"votes":2579974,"id":"53044"},
+{"votes":1571845,"id":"10601"},
+{"votes":1067453,"id":"865"},
+{"votes":24276,"id":"60497"},
+{"votes":14905,"id":"60494"},
+{"votes":7226,"id":"60498"},
+{"votes":4681,"id":"60492"},
+{"votes":4290,"id":"60493"},
+{"votes":4190,"id":"60495"},
+{"votes":3559,"id":"60496"}],
 "final":"53044"}},
 "Referendum":
 {"1 - Balanced Budget":
@@ -160,13 +160,13 @@ votesReady( {"dttime":"Nov 03,2010 04:37 AM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":2551531,"id":"61149"},
-{"votes":2497828,"id":"60518"},
-{"votes":120438,"id":"60520"},
-{"votes":18419,"id":"60523"},
-{"votes":18146,"id":"60519"},
-{"votes":13349,"id":"60556"},
-{"votes":7276,"id":"60555"}]}}},
+{"votes":2553434,"id":"61149"},
+{"votes":2500510,"id":"60518"},
+{"votes":120515,"id":"60520"},
+{"votes":18428,"id":"60523"},
+{"votes":18152,"id":"60519"},
+{"votes":13358,"id":"60556"},
+{"votes":7289,"id":"60555"}]}}},
 "precincts":
 {"total":372,"reporting":368},
 "abbr":"FL","name":"Florida"},
