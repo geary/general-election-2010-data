@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 02,2010 11:04 PM","totals":
+votesReady( {"dttime":"Nov 02,2010 11:08 PM","totals":
 {"name":"Missouri","fix":
 {"LaClede":"Laclede"},
 "precincts":
@@ -44,28 +44,28 @@ votesReady( {"dttime":"Nov 02,2010 11:04 PM","totals":
 "final":"61089"},
 "6":
 {"votes":[
-{"votes":111234,"id":"1342"},
-{"votes":46981,"id":"60810"}],
+{"votes":115671,"id":"1342"},
+{"votes":48418,"id":"60810"}],
 "final":"1342"},
 "9":
 {"votes":[
-{"votes":103394,"id":"55466"},
-{"votes":26411,"id":"61090"}],
+{"votes":108799,"id":"55466"},
+{"votes":27741,"id":"61090"}],
 "final":"55466"},
 "8":
 {"votes":[
-{"votes":112638,"id":"951"},
-{"votes":48767,"id":"60812"},
-{"votes":6565,"id":"61159"},
-{"votes":3432,"id":"60813"}],
+{"votes":112837,"id":"951"},
+{"votes":48852,"id":"60812"},
+{"votes":6583,"id":"61159"},
+{"votes":3442,"id":"60813"}],
 "final":"951"}},
 "U.S. Senate":
 {"2010":
 {"votes":[
-{"votes":703553,"id":"1343"},
-{"votes":451980,"id":"60800"},
-{"votes":37770,"id":"61086"},
-{"votes":27108,"id":"61087"}],
+{"votes":712669,"id":"1343"},
+{"votes":456269,"id":"60800"},
+{"votes":38229,"id":"61086"},
+{"votes":27456,"id":"61087"}],
 "final":"1343"}}},
 "abbr":"MO"},
 "state":"MO","candidates":
