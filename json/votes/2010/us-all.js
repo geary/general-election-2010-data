@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 10:33 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 10:39 AM","totals":
 {"races":
 {"President":
 {"":
@@ -12,7 +12,7 @@ votesReady( {"dttime":"Nov 03,2010 10:33 AM","totals":
 {"Others":
 {"Winning Trend":0,"Leading":0,"Holdovers":0,"Current":0,"Net Change":0,"Won":0},
 "Dem":
-{"Winning Trend":191,"Leading":7,"Holdovers":0,"Current":256,"Net Change":-65,"Won":184},
+{"Winning Trend":191,"Leading":6,"Holdovers":0,"Current":256,"Net Change":-65,"Won":185},
 "GOP":
 {"Winning Trend":244,"Leading":5,"Holdovers":0,"Current":179,"Net Change":65,"Won":239}},
 "U.S. Senate":
@@ -658,25 +658,25 @@ votesReady( {"dttime":"Nov 03,2010 10:33 AM","totals":
 "final":"60527"},
 "2":
 {"votes":[
-{"votes":134698,"id":"504"},
-{"votes":48177,"id":"60568"},
-{"votes":13276,"id":"60569"}],
+{"votes":136640,"id":"504"},
+{"votes":48540,"id":"60568"},
+{"votes":13421,"id":"60569"}],
 "final":"504"}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":316247,"id":"81"},
-{"votes":111224,"id":"60565"},
-{"votes":17261,"id":"60566"}],
+{"votes":318231,"id":"81"},
+{"votes":111626,"id":"60565"},
+{"votes":17342,"id":"60566"}],
 "final":"81"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":264655,"id":"501"},
-{"votes":147415,"id":"60528"},
-{"votes":26368,"id":"60570"},
-{"votes":5823,"id":"15109"},
-{"votes":3820,"id":"56769"}],
+{"votes":266328,"id":"501"},
+{"votes":148018,"id":"60528"},
+{"votes":26524,"id":"60570"},
+{"votes":5850,"id":"15109"},
+{"votes":3834,"id":"56769"}],
 "final":"501"}}},
 "precincts":
 {"total":472,"reporting":471},
@@ -3172,17 +3172,17 @@ votesReady( {"dttime":"Nov 03,2010 10:33 AM","totals":
 "final":"384"},
 "10":
 {"votes":[
-{"votes":87118,"id":"382"},
-{"votes":12663,"id":"60460"},
-{"votes":1006,"id":"60461"},
-{"votes":893,"id":"60459"}],
+{"votes":91605,"id":"382"},
+{"votes":13500,"id":"60460"},
+{"votes":1101,"id":"60461"},
+{"votes":1022,"id":"60459"}],
 "final":"382"},
 "13":
 {"votes":[
-{"votes":44182,"id":"56705"},
-{"votes":13569,"id":"60466"},
-{"votes":1036,"id":"60468"},
-{"votes":666,"id":"60467"}],
+{"votes":60243,"id":"56705"},
+{"votes":18827,"id":"60466"},
+{"votes":1408,"id":"60468"},
+{"votes":883,"id":"60467"}],
 "final":"56705"},
 "12":
 {"votes":[
