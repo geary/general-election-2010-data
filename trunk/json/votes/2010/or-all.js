@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 12:50 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 12:53 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -30,7 +30,8 @@ votesReady( {"dttime":"Nov 03,2010 12:50 AM","totals":
 {"votes":[
 {"votes":118241,"id":"484"},
 {"votes":99455,"id":"60612"},
-{"votes":3649,"id":"59807"}]}},
+{"votes":3649,"id":"59807"}],
+"final":"484"}},
 "U.S. Senate":
 {"":
 {"votes":[
@@ -50,13 +51,13 @@ votesReady( {"dttime":"Nov 03,2010 12:50 AM","totals":
 "Measure":
 {"75 - Multnomah Casino":
 {"votes":[
-{"votes":594313,"id":"3"},
-{"votes":279653,"id":"2"}],
+{"votes":594956,"id":"3"},
+{"votes":279939,"id":"2"}],
 "final":"3"},
 "74 - Medical Marijuana":
 {"votes":[
-{"votes":509340,"id":"3"},
-{"votes":369287,"id":"2"}]}}},
+{"votes":509886,"id":"3"},
+{"votes":369662,"id":"2"}]}}},
 "precincts":
 {"total":1000,"reporting":617},
 "abbr":"OR","name":"Oregon"},
