@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 02:19 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 02:21 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -51,8 +51,8 @@ votesReady( {"dttime":"Nov 03,2010 02:19 AM","totals":
 "final":"2"},
 "2 - Secret Ballot":
 {"votes":[
-{"votes":1035721,"id":"2"},
-{"votes":166950,"id":"3"}],
+{"votes":1040446,"id":"2"},
+{"votes":167598,"id":"3"}],
 "final":"2"}},
 "U.S. Senate":
 {"":
