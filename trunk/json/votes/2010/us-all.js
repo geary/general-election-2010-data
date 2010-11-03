@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 11:04 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 11:10 AM","totals":
 {"races":
 {"President":
 {"":
@@ -799,7 +799,7 @@ votesReady( {"dttime":"Nov 03,2010 11:04 AM","totals":
 {"votes":2058,"id":"60955"},
 {"votes":1884,"id":"51872"},
 {"votes":1746,"id":"60951"},
-{"votes":1212,"id":"60989"},
+{"votes":1205,"id":"60989"},
 {"votes":995,"id":"60946"},
 {"votes":865,"id":"648"},
 {"votes":827,"id":"60953"},
@@ -1210,11 +1210,11 @@ votesReady( {"dttime":"Nov 03,2010 11:04 AM","totals":
 {"U.S. House":
 {"11":
 {"votes":[
-{"votes":110401,"id":"59040"},
-{"votes":109914,"id":"59052"},
-{"votes":1833,"id":"61130"},
-{"votes":1363,"id":"61129"},
-{"votes":953,"id":"61128"}]},
+{"votes":111513,"id":"59040"},
+{"votes":110695,"id":"59052"},
+{"votes":1838,"id":"61130"},
+{"votes":1379,"id":"61129"},
+{"votes":959,"id":"61128"}]},
 "10":
 {"votes":[
 {"votes":136703,"id":"719"},
@@ -1330,13 +1330,13 @@ votesReady( {"dttime":"Nov 03,2010 11:04 AM","totals":
 "Measure":
 {"75 - Multnomah Casino":
 {"votes":[
-{"votes":829123,"id":"3"},
-{"votes":388645,"id":"2"}],
+{"votes":837345,"id":"3"},
+{"votes":391688,"id":"2"}],
 "final":"3"},
 "74 - Medical Marijuana":
 {"votes":[
-{"votes":702998,"id":"3"},
-{"votes":523022,"id":"2"}],
+{"votes":709726,"id":"3"},
+{"votes":527639,"id":"2"}],
 "final":"3"}}},
 "precincts":
 {"total":1000,"reporting":931},
@@ -2009,13 +2009,13 @@ votesReady( {"dttime":"Nov 03,2010 11:04 AM","totals":
 "final":"1101"},
 "8":
 {"votes":[
-{"votes":144288,"id":"61201"},
+{"votes":144050,"id":"61201"},
 {"votes":118617,"id":"53709"}],
 "final":"61201"}},
 "U.S. Senate":
 {"2010":
 {"votes":[
-{"votes":1121995,"id":"60740"},
+{"votes":1121975,"id":"60740"},
 {"votes":1017683,"id":"1765"},
 {"votes":23226,"id":"60742"}],
 "final":"60740"}},
@@ -2023,7 +2023,7 @@ votesReady( {"dttime":"Nov 03,2010 11:04 AM","totals":
 {"":
 {"votes":[
 {"votes":1124456,"id":"48976"},
-{"votes":1001882,"id":"48317"},
+{"votes":1001879,"id":"48317"},
 {"votes":10492,"id":"60798"},
 {"votes":8254,"id":"60799"},
 {"votes":6717,"id":"61275"}],
@@ -2339,8 +2339,8 @@ votesReady( {"dttime":"Nov 03,2010 11:04 AM","totals":
 "final":"60472"},
 "5":
 {"votes":[
-{"votes":207590,"id":"60481"},
-{"votes":101298,"id":"60482"}],
+{"votes":207695,"id":"60481"},
+{"votes":101347,"id":"60482"}],
 "final":"60481"},
 "4":
 {"votes":[
@@ -2354,8 +2354,8 @@ votesReady( {"dttime":"Nov 03,2010 11:04 AM","totals":
 "final":"856"},
 "6":
 {"votes":[
-{"votes":178435,"id":"854"},
-{"votes":71280,"id":"60505"}],
+{"votes":178478,"id":"854"},
+{"votes":71291,"id":"60505"}],
 "final":"854"},
 "9":
 {"votes":[
@@ -2364,10 +2364,10 @@ votesReady( {"dttime":"Nov 03,2010 11:04 AM","totals":
 "final":"52981"},
 "8":
 {"votes":[
-{"votes":122691,"id":"53062"},
-{"votes":83386,"id":"59898"},
-{"votes":8288,"id":"60506"},
-{"votes":4114,"id":"60507"}],
+{"votes":122765,"id":"53062"},
+{"votes":83424,"id":"59898"},
+{"votes":8296,"id":"60506"},
+{"votes":4118,"id":"60507"}],
 "final":"53062"},
 "11":
 {"votes":[
@@ -2438,18 +2438,18 @@ votesReady( {"dttime":"Nov 03,2010 11:04 AM","totals":
 "Referendum":
 {"1 - Balanced Budget":
 {"votes":[
-{"votes":3342657,"id":"2"},
-{"votes":1307924,"id":"3"}],
+{"votes":3342942,"id":"2"},
+{"votes":1307997,"id":"3"}],
 "final":"2"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":2553434,"id":"61149"},
-{"votes":2500510,"id":"60518"},
-{"votes":120515,"id":"60520"},
-{"votes":18428,"id":"60523"},
-{"votes":18152,"id":"60519"},
-{"votes":13358,"id":"60556"},
+{"votes":2553634,"id":"61149"},
+{"votes":2500645,"id":"60518"},
+{"votes":120535,"id":"60520"},
+{"votes":18432,"id":"60523"},
+{"votes":18155,"id":"60519"},
+{"votes":13361,"id":"60556"},
 {"votes":7289,"id":"60555"}]}}},
 "precincts":
 {"total":372,"reporting":368},
@@ -2492,7 +2492,7 @@ votesReady( {"dttime":"Nov 03,2010 11:04 AM","totals":
 {"1":
 {"votes":[
 {"votes":153111,"id":"202"},
-{"votes":62059,"id":"60530"}],
+{"votes":62053,"id":"60530"}],
 "final":"202"},
 "3":
 {"votes":[
@@ -3447,7 +3447,7 @@ votesReady( {"dttime":"Nov 03,2010 11:04 AM","totals":
 {"votes":[
 {"votes":74671,"id":"40801"},
 {"votes":67212,"id":"345"},
-{"votes":5418,"id":"52950"},
+{"votes":5441,"id":"52950"},
 {"votes":2473,"id":"60284"},
 {"votes":1416,"id":"330"}],
 "final":"40801"},

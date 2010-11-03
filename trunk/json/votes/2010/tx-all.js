@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 11:04 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 11:10 AM","totals":
 {"name":"Texas","fix":
 {"De Witt":"DeWitt","La Vaca":"Lavaca"},
 "precincts":
@@ -49,7 +49,7 @@ votesReady( {"dttime":"Nov 03,2010 11:04 AM","totals":
 {"votes":[
 {"votes":74671,"id":"40801"},
 {"votes":67212,"id":"345"},
-{"votes":5418,"id":"52950"},
+{"votes":5441,"id":"52950"},
 {"votes":2473,"id":"60284"},
 {"votes":1416,"id":"330"}],
 "final":"40801"},
