@@ -1,36 +1,36 @@
-{"dttime":"Nov 02,2010 11:00 PM","totals":
+{"dttime":"Nov 02,2010 11:04 PM","totals":
 {"name":"Vermont","precincts":
-{"total":260,"reporting":92},
+{"total":260,"reporting":94},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":44298,"id":"58883"},
-{"votes":24562,"id":"61151"},
-{"votes":1563,"id":"1152"},
-{"votes":1467,"id":"60891"}],
+{"votes":44961,"id":"58883"},
+{"votes":25069,"id":"61151"},
+{"votes":1579,"id":"1152"},
+{"votes":1505,"id":"60891"}],
 "final":"58883"}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":44159,"id":"1760"},
-{"votes":24004,"id":"60885"},
-{"votes":1181,"id":"60888"},
-{"votes":953,"id":"1158"},
-{"votes":675,"id":"60887"},
-{"votes":442,"id":"1157"},
-{"votes":342,"id":"60889"}],
+{"votes":44814,"id":"1760"},
+{"votes":24505,"id":"60885"},
+{"votes":1185,"id":"60888"},
+{"votes":968,"id":"1158"},
+{"votes":686,"id":"60887"},
+{"votes":450,"id":"1157"},
+{"votes":349,"id":"60889"}],
 "final":"1760"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":36652,"id":"45222"},
-{"votes":33493,"id":"45461"},
-{"votes":651,"id":"60895"},
-{"votes":611,"id":"1158"},
-{"votes":389,"id":"60893"},
-{"votes":232,"id":"60894"},
-{"votes":147,"id":"50649"}]}}},
+{"votes":37328,"id":"45222"},
+{"votes":33947,"id":"45461"},
+{"votes":662,"id":"60895"},
+{"votes":623,"id":"1158"},
+{"votes":395,"id":"60893"},
+{"votes":235,"id":"60894"},
+{"votes":151,"id":"50649"}]}}},
 "abbr":"VT","votesby":"town"},
 "state":"VT","candidates":
 {"50649":"LUn|Mitchell|Ben Mitchell","60888":"Ind|Freilich|Daniel Freilich","60887":"Ind|Cain|Stephen Cain","1158":"Oth|Ericson|Cris Ericson","60885":"GOP|Britton|Len Britton","60894":"Ind|Peyton|Em Peyton","60895":"Ind|Steele|Dennis Steele","1157":"Soc|Diamondstone|Peter Diamondstone","58883":"Dem|Welch|Peter Welch","45222":"GOP|Dubie|Brian Dubie","60891":"Ind|Jaccaci|Gus Jaccaci","1152":"Soc|Newton|Jane Newton","61151":"GOP|Beaudry|Paul Beaudry","1760":"Dem|Leahy|Patrick Leahy","60893":"Ind|Feliciano|Dan Feliciano","60889":"Ind|Nunes|Johenry Nunes","45461":"Dem|Shumlin|Peter Shumlin"},

@@ -1,14 +1,14 @@
-{"dttime":"Nov 02,2010 11:00 PM","totals":
+{"dttime":"Nov 02,2010 11:04 PM","totals":
 {"name":"Connecticut","precincts":
-{"total":156,"reporting":68},
+{"total":156,"reporting":71},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":62352,"id":"1139"},
-{"votes":45794,"id":"60573"},
-{"votes":1165,"id":"61202"},
-{"votes":401,"id":"61162"}],
+{"votes":64620,"id":"1139"},
+{"votes":46844,"id":"60573"},
+{"votes":1202,"id":"61202"},
+{"votes":410,"id":"61162"}],
 "final":"1139"},
 "3":
 {"votes":[
@@ -18,9 +18,9 @@
 "final":"1141"},
 "2":
 {"votes":[
-{"votes":84842,"id":"1231"},
-{"votes":57660,"id":"61080"},
-{"votes":1801,"id":"59878"}],
+{"votes":88845,"id":"1231"},
+{"votes":60634,"id":"61080"},
+{"votes":1896,"id":"59878"}],
 "final":"1231"},
 "5":
 {"votes":[
@@ -34,17 +34,17 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":272238,"id":"9548"},
-{"votes":237126,"id":"60572"},
-{"votes":5372,"id":"61101"},
-{"votes":3162,"id":"61081"}],
+{"votes":273797,"id":"9548"},
+{"votes":239346,"id":"60572"},
+{"votes":5426,"id":"61101"},
+{"votes":3185,"id":"61081"}],
 "final":"9548"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":267756,"id":"60571"},
-{"votes":241120,"id":"9881"},
-{"votes":10024,"id":"61100"}]}}},
+{"votes":270243,"id":"60571"},
+{"votes":242422,"id":"9881"},
+{"votes":10088,"id":"61100"}]}}},
 "abbr":"CT","votesby":"town"},
 "state":"CT","candidates":
 {"1143":"Grn|Pillsbury|Charles Pillsbury","1139":"Dem|Larson|John Larson","1141":"Dem|DeLauro|Rosa DeLauro","61202":"Grn|Krayeske|Ken Krayeske","1231":"Dem|Courtney|Joe Courtney","59878":"Grn|Deshefy|Scott Deshefy","61081":"CTL|Mertens|John Mertens","60576":"GOP|Caligiuri|Sam Caligiuri","61037":"GOP|Labriola|Jerry Labriola","60573":"GOP|Brickley|Ann Brickley","60572":"GOP|McMahon|Linda McMahon","61101":"Ind|Mosler|Warren Mosler","60575":"GOP|Debicella|Dan Debicella","52147":"Dem|Murphy|Chris Murphy","59590":"Dem|Himes|Jim Himes","60571":"GOP|Foley|Tom Foley","9548":"Dem|Blumenthal|Richard Blumenthal","9881":"Dem|Malloy|Dan Malloy","61080":"GOP|Peckinpaugh|Janet Peckinpaugh","61162":"Ind|Hutchinson|Christopher Hutchinson","61100":"Ind|Marsh|Thomas Marsh"},
