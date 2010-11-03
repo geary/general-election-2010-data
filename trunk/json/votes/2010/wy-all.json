@@ -1,21 +1,21 @@
-{"dttime":"Nov 03,2010 01:09 AM","totals":
+{"dttime":"Nov 03,2010 01:12 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":128295,"id":"49396"},
-{"votes":44908,"id":"60548"},
-{"votes":9027,"id":"61197"}],
+{"votes":128416,"id":"49396"},
+{"votes":44927,"id":"60548"},
+{"votes":9040,"id":"61197"}],
 "final":"49396"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":120706,"id":"61082"},
-{"votes":42546,"id":"60550"},
-{"votes":5477,"id":"61198"}],
+{"votes":120786,"id":"61082"},
+{"votes":42570,"id":"60550"},
+{"votes":5480,"id":"61198"}],
 "final":"61082"}}},
 "precincts":
-{"total":486,"reporting":482},
+{"total":486,"reporting":483},
 "abbr":"WY","name":"Wyoming"},
 "state":"WY","candidates":
 {"60550":"Dem|Petersen|Leslie Petersen","60548":"Dem|Wendt|David Wendt","61197":"Lib|Love|John Love","49396":"GOP|Lummis|Cynthia Lummis","61082":"GOP|Mead|Matt Mead","61198":"Lib|Wheeler|Mike Wheeler"},
