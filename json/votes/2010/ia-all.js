@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 12:33 PM","totals":
+votesReady( {"dttime":"Nov 03,2010 12:39 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -48,7 +48,7 @@ votesReady( {"dttime":"Nov 03,2010 12:33 PM","totals":
 {"votes":20486,"id":"61114"},
 {"votes":14194,"id":"19282"},
 {"votes":3832,"id":"61116"},
-{"votes":2827,"id":"61115"}],
+{"votes":2718,"id":"61115"}],
 "final":"60381"}}},
 "precincts":
 {"total":1873,"reporting":1873},
