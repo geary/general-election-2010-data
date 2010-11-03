@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 03:25 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 03:27 AM","totals":
 {"name":"Arkansas","fix":
 {"Saint Francis":"St. Francis"},
 "precincts":
@@ -46,9 +46,9 @@ votesReady( {"dttime":"Nov 03,2010 03:25 AM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":478496,"id":"5647"},
-{"votes":248139,"id":"60197"},
-{"votes":13730,"id":"52723"}],
+{"votes":478627,"id":"5647"},
+{"votes":248229,"id":"60197"},
+{"votes":13740,"id":"52723"}],
 "final":"5647"}}},
 "abbr":"AR"},
 "state":"AR","candidates":

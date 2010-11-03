@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 03:25 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 03:27 AM","totals":
 {"races":
 {"U.S. House":
 {"30":
@@ -140,9 +140,9 @@ votesReady( {"dttime":"Nov 03,2010 03:25 AM","totals":
 "final":"51416"},
 "4":
 {"votes":[
-{"votes":121125,"id":"52499"},
-{"votes":62068,"id":"51853"},
-{"votes":14017,"id":"60829"}],
+{"votes":128531,"id":"52499"},
+{"votes":65751,"id":"51853"},
+{"votes":14548,"id":"60829"}],
 "final":"52499"},
 "7":
 {"votes":[
@@ -190,9 +190,9 @@ votesReady( {"dttime":"Nov 03,2010 03:25 AM","totals":
 "final":"43"},
 "11":
 {"votes":[
-{"votes":66456,"id":"60105"},
-{"votes":64358,"id":"50403"},
-{"votes":7019,"id":"60875"}]},
+{"votes":75697,"id":"60105"},
+{"votes":74006,"id":"50403"},
+{"votes":8399,"id":"60875"}]},
 "10":
 {"votes":[
 {"votes":84974,"id":"7136"},
@@ -221,10 +221,10 @@ votesReady( {"dttime":"Nov 03,2010 03:25 AM","totals":
 "final":"52561"},
 "17":
 {"votes":[
-{"votes":61205,"id":"52"},
-{"votes":28300,"id":"58749"},
-{"votes":1727,"id":"60842"},
-{"votes":1407,"id":"60843"}],
+{"votes":62755,"id":"52"},
+{"votes":29170,"id":"58749"},
+{"votes":1761,"id":"60842"},
+{"votes":1438,"id":"60843"}],
 "final":"52"},
 "16":
 {"votes":[
@@ -239,8 +239,8 @@ votesReady( {"dttime":"Nov 03,2010 03:25 AM","totals":
 "final":"52493"},
 "18":
 {"votes":[
-{"votes":50313,"id":"56"},
-{"votes":38249,"id":"60794"}],
+{"votes":53490,"id":"56"},
+{"votes":39370,"id":"60794"}],
 "final":"56"},
 "31":
 {"votes":[
@@ -303,33 +303,33 @@ votesReady( {"dttime":"Nov 03,2010 03:25 AM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":2503154,"id":"1705"},
-{"votes":2203410,"id":"60339"},
-{"votes":88210,"id":"7691"},
-{"votes":65726,"id":"8004"},
-{"votes":65099,"id":"7042"},
-{"votes":61100,"id":"60825"}],
+{"votes":2521727,"id":"1705"},
+{"votes":2224731,"id":"60339"},
+{"votes":89099,"id":"7691"},
+{"votes":66332,"id":"8004"},
+{"votes":65798,"id":"7042"},
+{"votes":61618,"id":"60825"}],
 "final":"1705"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":2612738,"id":"6622"},
-{"votes":2137458,"id":"60373"},
-{"votes":80390,"id":"60869"},
-{"votes":72700,"id":"8029"},
-{"votes":61498,"id":"8762"},
-{"votes":40883,"id":"60870"}],
+{"votes":2634507,"id":"6622"},
+{"votes":2161072,"id":"60373"},
+{"votes":81431,"id":"60869"},
+{"votes":73327,"id":"8029"},
+{"votes":62028,"id":"8762"},
+{"votes":41346,"id":"60870"}],
 "final":"6622"}},
 "Proposition":
 {"19 - Legalize Marijuana":
 {"votes":[
-{"votes":2699399,"id":"3"},
-{"votes":2230531,"id":"2"}],
+{"votes":2706080,"id":"3"},
+{"votes":2235369,"id":"2"}],
 "final":"3"},
 "25 - Budget Vote":
 {"votes":[
-{"votes":2592920,"id":"2"},
-{"votes":2160637,"id":"3"}]}}},
+{"votes":2598422,"id":"2"},
+{"votes":2166093,"id":"3"}]}}},
 "precincts":
 {"total":565,"reporting":464},
 "abbr":"CA","name":"California"},
