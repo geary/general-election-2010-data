@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 12:31 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 12:33 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -51,12 +51,12 @@ votesReady( {"dttime":"Nov 03,2010 12:31 AM","totals":
 "Amendment":
 {"62 - Definition of Person":
 {"votes":[
-{"votes":863387,"id":"3"},
-{"votes":352388,"id":"2"}]},
+{"votes":865406,"id":"3"},
+{"votes":353141,"id":"2"}]},
 "63 - Health Care":
 {"votes":[
-{"votes":640954,"id":"3"},
-{"votes":562315,"id":"2"}]}},
+{"votes":642369,"id":"3"},
+{"votes":563638,"id":"2"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
@@ -70,12 +70,12 @@ votesReady( {"dttime":"Nov 03,2010 12:31 AM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":642099,"id":"60601"},
-{"votes":469782,"id":"751"},
-{"votes":133931,"id":"61076"},
-{"votes":8357,"id":"60604"},
-{"votes":5727,"id":"60607"},
-{"votes":2223,"id":"53523"}],
+{"votes":642565,"id":"60601"},
+{"votes":470214,"id":"751"},
+{"votes":134130,"id":"61076"},
+{"votes":8366,"id":"60604"},
+{"votes":5735,"id":"60607"},
+{"votes":2228,"id":"53523"}],
 "final":"60601"}}},
 "precincts":
 {"total":462,"reporting":310},
