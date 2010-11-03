@@ -1,28 +1,28 @@
-votesReady( {"dttime":"Nov 02,2010 10:47 PM","totals":
+votesReady( {"dttime":"Nov 02,2010 10:49 PM","totals":
 {"name":"Massachusetts","fix":
 {"Barnstable":"Barnstable Town","Manchester":"Manchester-by-the-Sea"},
 "precincts":
-{"total":255,"reporting":182},
+{"total":255,"reporting":184},
 "races":
 {"U.S. House":
 {"10":
 {"votes":[
-{"votes":119729,"id":"22757"},
-{"votes":110189,"id":"54436"},
-{"votes":15367,"id":"22780"},
-{"votes":10074,"id":"61238"},
-{"votes":2690,"id":"61239"}]},
+{"votes":121700,"id":"22757"},
+{"votes":112354,"id":"54436"},
+{"votes":15564,"id":"22780"},
+{"votes":10118,"id":"61238"},
+{"votes":2725,"id":"61239"}]},
 "1":
 {"votes":[
-{"votes":98459,"id":"880"},
-{"votes":53991,"id":"60669"},
-{"votes":8236,"id":"61227"}],
+{"votes":99139,"id":"880"},
+{"votes":54367,"id":"60669"},
+{"votes":8320,"id":"61227"}],
 "final":"880"},
 "3":
 {"votes":[
-{"votes":105883,"id":"883"},
-{"votes":72319,"id":"61229"},
-{"votes":8100,"id":"61230"}],
+{"votes":112087,"id":"883"},
+{"votes":78040,"id":"61229"},
+{"votes":8578,"id":"61230"}],
 "final":"883"},
 "2":
 {"votes":[
@@ -38,10 +38,10 @@ votesReady( {"dttime":"Nov 02,2010 10:47 PM","totals":
 "final":"59617"},
 "4":
 {"votes":[
-{"votes":114930,"id":"884"},
-{"votes":85448,"id":"61231"},
-{"votes":3006,"id":"59899"},
-{"votes":2427,"id":"61232"}],
+{"votes":116890,"id":"884"},
+{"votes":88732,"id":"61231"},
+{"votes":3085,"id":"59899"},
+{"votes":2493,"id":"61232"}],
 "final":"884"},
 "7":
 {"votes":[
@@ -56,7 +56,7 @@ votesReady( {"dttime":"Nov 02,2010 10:47 PM","totals":
 "9":
 {"votes":[
 {"votes":127260,"id":"890"},
-{"votes":47772,"id":"61236"},
+{"votes":47775,"id":"61236"},
 {"votes":10619,"id":"61237"}],
 "final":"890"},
 "8":
@@ -66,10 +66,10 @@ votesReady( {"dttime":"Nov 02,2010 10:47 PM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":937984,"id":"51516"},
-{"votes":812017,"id":"60668"},
-{"votes":157165,"id":"22674"},
-{"votes":26906,"id":"895"}],
+{"votes":943163,"id":"51516"},
+{"votes":817658,"id":"60668"},
+{"votes":158611,"id":"22674"},
+{"votes":27256,"id":"895"}],
 "final":"51516"}}},
 "abbr":"MA","votesby":"town"},
 "state":"MA","candidates":
