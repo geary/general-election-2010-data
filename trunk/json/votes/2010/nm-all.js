@@ -1,14 +1,14 @@
-votesReady( {"dttime":"Nov 03,2010 07:43 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 08:36 AM","totals":
 {"name":"New Mexico","fix":
 {"DeBaca":"De Baca"},
 "precincts":
-{"total":462,"reporting":461},
+{"total":462,"reporting":462},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":109379,"id":"59492"},
-{"votes":102338,"id":"60546"}],
+{"votes":110046,"id":"59492"},
+{"votes":103207,"id":"60546"}],
 "final":"59492"},
 "3":
 {"votes":[
@@ -17,14 +17,14 @@ votesReady( {"dttime":"Nov 03,2010 07:43 AM","totals":
 "final":"56805"},
 "2":
 {"votes":[
-{"votes":88974,"id":"31918"},
-{"votes":71679,"id":"59494"}],
+{"votes":91919,"id":"31918"},
+{"votes":73989,"id":"59494"}],
 "final":"31918"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":313163,"id":"31807"},
-{"votes":272429,"id":"31522"}],
+{"votes":317647,"id":"31807"},
+{"votes":274886,"id":"31522"}],
 "final":"31807"}}},
 "abbr":"NM"},
 "state":"NM","candidates":
