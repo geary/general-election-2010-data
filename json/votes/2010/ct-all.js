@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 12:57 PM","totals":
+votesReady( {"dttime":"Nov 03,2010 01:03 PM","totals":
 {"name":"Connecticut","precincts":
 {"total":156,"reporting":155},
 "races":
@@ -29,8 +29,8 @@ votesReady( {"dttime":"Nov 03,2010 12:57 PM","totals":
 "final":"52147"},
 "4":
 {"votes":[
-{"votes":89037,"id":"59590"},
-{"votes":88397,"id":"60575"}],
+{"votes":93973,"id":"60575"},
+{"votes":93804,"id":"59590"}],
 "final":"59590"}},
 "U.S. Senate":
 {"":
