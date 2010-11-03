@@ -1,24 +1,24 @@
-votesReady( {"dttime":"Nov 03,2010 02:59 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 03:02 AM","totals":
 {"name":"New Mexico","fix":
 {"DeBaca":"De Baca"},
 "precincts":
-{"total":462,"reporting":438},
+{"total":462,"reporting":460},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":105336,"id":"59492"},
-{"votes":99352,"id":"60546"}],
+{"votes":109379,"id":"59492"},
+{"votes":102338,"id":"60546"}],
 "final":"59492"},
 "3":
 {"votes":[
-{"votes":114199,"id":"56805"},
-{"votes":87285,"id":"60547"}],
+{"votes":115152,"id":"56805"},
+{"votes":88678,"id":"60547"}],
 "final":"56805"},
 "2":
 {"votes":[
-{"votes":87020,"id":"31918"},
-{"votes":68883,"id":"59494"}],
+{"votes":87021,"id":"31918"},
+{"votes":68887,"id":"59494"}],
 "final":"31918"}},
 "Governor":
 {"":

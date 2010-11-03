@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 02:59 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 03:02 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -57,8 +57,8 @@ votesReady( {"dttime":"Nov 03,2010 02:59 AM","totals":
 "final":"3"},
 "63 - Health Care":
 {"votes":[
-{"votes":764770,"id":"3"},
-{"votes":695215,"id":"2"}]}},
+{"votes":765098,"id":"3"},
+{"votes":695688,"id":"2"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
