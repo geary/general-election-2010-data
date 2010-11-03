@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 02:59 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 03:02 AM","totals":
 {"races":
 {"U.S. House":
 {"11":
@@ -33,11 +33,11 @@ votesReady( {"dttime":"Nov 03,2010 02:59 AM","totals":
 "final":"802"},
 "15":
 {"votes":[
-{"votes":106003,"id":"809"},
-{"votes":77116,"id":"61032"},
-{"votes":2438,"id":"51974"},
-{"votes":1839,"id":"61187"},
-{"votes":1707,"id":"61188"}],
+{"votes":112179,"id":"809"},
+{"votes":80663,"id":"61032"},
+{"votes":2543,"id":"51974"},
+{"votes":1913,"id":"61187"},
+{"votes":1752,"id":"61188"}],
 "final":"809"},
 "14":
 {"votes":[
@@ -73,10 +73,10 @@ votesReady( {"dttime":"Nov 03,2010 02:59 AM","totals":
 "final":"55092"},
 "5":
 {"votes":[
-{"votes":103645,"id":"784"},
-{"votes":88219,"id":"61071"},
-{"votes":2604,"id":"61175"},
-{"votes":2596,"id":"61174"}],
+{"votes":107212,"id":"784"},
+{"votes":89671,"id":"61071"},
+{"votes":2648,"id":"61174"},
+{"votes":2647,"id":"61175"}],
 "final":"784"},
 "4":
 {"votes":[
@@ -118,17 +118,17 @@ votesReady( {"dttime":"Nov 03,2010 02:59 AM","totals":
 "Proposal":
 {"10-2 - Felon Politician Ban":
 {"votes":[
-{"votes":2205269,"id":"2"},
-{"votes":736241,"id":"3"}],
+{"votes":2205828,"id":"2"},
+{"votes":736600,"id":"3"}],
 "final":"2"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":1852147,"id":"61073"},
-{"votes":1238434,"id":"55135"},
-{"votes":22126,"id":"790"},
-{"votes":20902,"id":"786"},
-{"votes":20622,"id":"61189"}],
+{"votes":1853836,"id":"61073"},
+{"votes":1241790,"id":"55135"},
+{"votes":22147,"id":"790"},
+{"votes":20922,"id":"786"},
+{"votes":20649,"id":"61189"}],
 "final":"61073"}}},
 "precincts":
 {"total":505,"reporting":504},
