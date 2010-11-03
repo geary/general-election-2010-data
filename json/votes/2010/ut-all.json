@@ -1,4 +1,4 @@
-{"dttime":"Nov 02,2010 10:08 PM","totals":
+{"dttime":"Nov 02,2010 10:10 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -24,9 +24,9 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":0,"id":"60694"},
-{"votes":0,"id":"60693"},
-{"votes":0,"id":"51684"}]}},
+{"votes":36308,"id":"60694"},
+{"votes":34877,"id":"60693"},
+{"votes":2326,"id":"51684"}]}},
 "Constitutional Amendment":
 {"A - Secret Ballot":
 {"votes":[

@@ -1,4 +1,4 @@
-{"dttime":"Nov 02,2010 10:08 PM","totals":
+{"dttime":"Nov 02,2010 10:09 PM","totals":
 {"name":"Missouri","fix":
 {"LaClede":"Laclede"},
 "precincts":
@@ -7,15 +7,15 @@
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":6419,"id":"1337"},
-{"votes":2992,"id":"61033"},
-{"votes":258,"id":"61117"}]},
+{"votes":11504,"id":"1337"},
+{"votes":3150,"id":"61033"},
+{"votes":308,"id":"61117"}]},
 "3":
 {"votes":[
-{"votes":3923,"id":"1852"},
-{"votes":3648,"id":"60806"},
-{"votes":111,"id":"51618"},
-{"votes":57,"id":"60805"}]},
+{"votes":7081,"id":"1852"},
+{"votes":4311,"id":"60806"},
+{"votes":203,"id":"51618"},
+{"votes":85,"id":"60805"}]},
 "2":
 {"votes":[
 {"votes":7429,"id":"937"},
@@ -29,20 +29,20 @@
 {"votes":215,"id":"60809"}]},
 "4":
 {"votes":[
-{"votes":45527,"id":"29019"},
-{"votes":38079,"id":"942"},
-{"votes":2424,"id":"61118"},
-{"votes":1593,"id":"60808"}]},
+{"votes":49110,"id":"29019"},
+{"votes":41077,"id":"942"},
+{"votes":2568,"id":"61118"},
+{"votes":1688,"id":"60808"}]},
 "7":
 {"votes":[
-{"votes":52305,"id":"61089"},
-{"votes":32137,"id":"61088"},
-{"votes":6174,"id":"50436"}],
+{"votes":59752,"id":"61089"},
+{"votes":35570,"id":"61088"},
+{"votes":7078,"id":"50436"}],
 "final":"61089"},
 "6":
 {"votes":[
-{"votes":68134,"id":"1342"},
-{"votes":29061,"id":"60810"}],
+{"votes":70045,"id":"1342"},
+{"votes":29512,"id":"60810"}],
 "final":"1342"},
 "9":
 {"votes":[
@@ -51,18 +51,18 @@
 "final":"55466"},
 "8":
 {"votes":[
-{"votes":63077,"id":"951"},
-{"votes":26354,"id":"60812"},
-{"votes":3652,"id":"61159"},
-{"votes":1860,"id":"60813"}],
+{"votes":64673,"id":"951"},
+{"votes":27074,"id":"60812"},
+{"votes":3737,"id":"61159"},
+{"votes":1931,"id":"60813"}],
 "final":"951"}},
 "U.S. Senate":
 {"2010":
 {"votes":[
-{"votes":281732,"id":"1343"},
-{"votes":152378,"id":"60800"},
-{"votes":14983,"id":"61086"},
-{"votes":10668,"id":"61087"}]}}},
+{"votes":299027,"id":"1343"},
+{"votes":166563,"id":"60800"},
+{"votes":15850,"id":"61086"},
+{"votes":11290,"id":"61087"}]}}},
 "abbr":"MO"},
 "state":"MO","candidates":
 {"1342":"GOP|Graves|Sam Graves","1343":"GOP|Blunt|Roy Blunt","61088":"Dem|Eckersley|Scott Eckersley","61089":"GOP|Long|Billy Long","61086":"Lib|Dine|Jonathan Dine","61087":"CST|Beck|Jerry Beck","60810":"Dem|Hylton|Clint Hylton","60812":"Dem|Sowers|Tommy Sowers","60813":"Lib|Vandeven|Rick Vandeven","951":"GOP|Emerson|Jo Ann Emerson","1852":"Dem|Carnahan|Russ Carnahan","29019":"GOP|Hartzler|Vicky Hartzler","51618":"Lib|Hedrick|Steven Hedrick","50436":"Lib|Craig|Kevin Craig","50040":"Dem|Cleaver|Emanuel Cleaver","50430":"Lib|Langkraehr|Randy Langkraehr","51614":"GOP|Turk|Jacob Turk","61118":"Lib|Braun|Jason Braun","61117":"Lib|Stone|Julie Stone","1337":"Dem|Clay|Lacy Clay","55466":"GOP|Luetkemeyer|Blaine Luetkemeyer","61033":"GOP|Hamlin|Robyn Hamlin","61090":"Lib|Dwyer|Christopher Dwyer","61159":"Ind|Bill|Larry Bill","937":"GOP|Akin|Todd Akin","942":"Dem|Skelton|Ike Skelton","60809":"CST|Lay|Dave Lay","60808":"CST|Cowan|Greg Cowan","60803":"Dem|Lieber|Arthur Lieber","60800":"Dem|Carnahan|Robin Carnahan","60806":"GOP|Martin|Ed Martin","60805":"CST|Ivanovich|Nick Ivanovich","60804":"Lib|Mosbacher|Steve Mosbacher"},
