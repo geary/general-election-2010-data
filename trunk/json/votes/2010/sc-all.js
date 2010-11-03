@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 10:39 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 10:45 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -26,8 +26,8 @@ votesReady( {"dttime":"Nov 03,2010 10:39 AM","totals":
 "final":"1410"},
 "5":
 {"votes":[
-{"votes":119698,"id":"60619"},
-{"votes":98875,"id":"612"}],
+{"votes":119776,"id":"60619"},
+{"votes":99034,"id":"612"}],
 "final":"60619"},
 "4":
 {"votes":[
@@ -39,9 +39,9 @@ votesReady( {"dttime":"Nov 03,2010 10:39 AM","totals":
 "final":"60681"},
 "6":
 {"votes":[
-{"votes":121454,"id":"1414"},
-{"votes":68495,"id":"60684"},
-{"votes":1353,"id":"60685"}],
+{"votes":122709,"id":"1414"},
+{"votes":69390,"id":"60684"},
+{"votes":1364,"id":"60685"}],
 "final":"1414"}},
 "Amendment":
 {"1 - Hunting and Fishing":
@@ -57,16 +57,16 @@ votesReady( {"dttime":"Nov 03,2010 10:39 AM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":790570,"id":"610"},
-{"votes":356969,"id":"60335"},
-{"votes":118619,"id":"60671"}],
+{"votes":791627,"id":"610"},
+{"votes":358069,"id":"60335"},
+{"votes":118891,"id":"60671"}],
 "final":"610"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":673203,"id":"60420"},
-{"votes":615922,"id":"58026"},
-{"votes":19778,"id":"60672"}],
+{"votes":674103,"id":"60420"},
+{"votes":617427,"id":"58026"},
+{"votes":19791,"id":"60672"}],
 "final":"60420"}}},
 "precincts":
 {"total":398,"reporting":398},
