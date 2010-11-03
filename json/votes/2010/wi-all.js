@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 02,2010 11:49 PM","totals":
+votesReady( {"dttime":"Nov 02,2010 11:51 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -9,9 +9,9 @@ votesReady( {"dttime":"Nov 02,2010 11:49 PM","totals":
 "final":"1461"},
 "3":
 {"votes":[
-{"votes":64376,"id":"1094"},
-{"votes":61556,"id":"48599"},
-{"votes":4127,"id":"60730"}]},
+{"votes":64999,"id":"1094"},
+{"votes":62150,"id":"48599"},
+{"votes":4208,"id":"60730"}]},
 "2":
 {"votes":[
 {"votes":145665,"id":"1092"},
@@ -31,9 +31,9 @@ votesReady( {"dttime":"Nov 02,2010 11:49 PM","totals":
 "final":"48730"},
 "7":
 {"votes":[
-{"votes":88751,"id":"60735"},
-{"votes":74796,"id":"59151"},
-{"votes":6125,"id":"60737"}]},
+{"votes":88964,"id":"60735"},
+{"votes":74943,"id":"59151"},
+{"votes":6143,"id":"60737"}]},
 "6":
 {"votes":[
 {"votes":135170,"id":"1101"},
@@ -41,27 +41,27 @@ votesReady( {"dttime":"Nov 02,2010 11:49 PM","totals":
 "final":"1101"},
 "8":
 {"votes":[
-{"votes":113314,"id":"61201"},
-{"votes":94681,"id":"53709"}],
+{"votes":117447,"id":"61201"},
+{"votes":97992,"id":"53709"}],
 "final":"61201"}},
 "U.S. Senate":
 {"2010":
 {"votes":[
-{"votes":750948,"id":"60740"},
-{"votes":696257,"id":"1765"},
-{"votes":16470,"id":"60742"}],
+{"votes":758386,"id":"60740"},
+{"votes":701666,"id":"1765"},
+{"votes":16638,"id":"60742"}],
 "final":"60740"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":751721,"id":"48976"},
-{"votes":685418,"id":"48317"},
-{"votes":7391,"id":"60798"},
-{"votes":5858,"id":"60799"},
-{"votes":4733,"id":"61275"}],
+{"votes":757108,"id":"48976"},
+{"votes":688982,"id":"48317"},
+{"votes":7457,"id":"60798"},
+{"votes":5905,"id":"60799"},
+{"votes":4769,"id":"61275"}],
 "final":"48976"}}},
 "precincts":
-{"total":3609,"reporting":2480},
+{"total":3609,"reporting":2504},
 "abbr":"WI","name":"Wisconsin"},
 "state":"WI","candidates":
 {"59151":"Dem|Lassa|Julie Lassa","53709":"Dem|Kagen|Steven Kagen","60740":"GOP|Johnson|Ron Johnson","60742":"CST|Taylor|Rob Taylor","48730":"Dem|Moore|Gwen Moore","61200":"GOP|Sebring|Dan Sebring","60936":"Dem|Heckenlively|John Heckenlively","48976":"GOP|Walker|Scott Walker","60728":"GOP|Lee|Chad Lee","1461":"GOP|Ryan|Paul Ryan","1094":"Dem|Kind|Ron Kind","48317":"Dem|Barrett|Tom Barrett","1092":"Dem|Baldwin|Tammy Baldwin","61201":"GOP|Ribble|Reid Ribble","1099":"GOP|Sensenbrenner|Jim Sensenbrenner","60799":"Ind|James|James James","60798":"Ind|Langer|Jim Langer","60797":"Dem|Kallas|Joseph Kallas","60735":"GOP|Duffy|Sean Duffy","60734":"Dem|Kolosso|Todd Kolosso","60737":"Ind|Kauther|Gary Kauther","60730":"Ind|Krsiean|Michael Krsiean","60732":"Ind|Ayyash|Eddie Ayyash","48599":"GOP|Kapanke|Dan Kapanke","61275":"Lib|No Candidate/Virgil| No Candidate/Virgil","59594":"Lib|Kexel|Joseph Kexel","1100":"Ind|Raymond|Robert Raymond","1101":"GOP|Petri|Tom Petri","1765":"Dem|Feingold|Russ Feingold"},
