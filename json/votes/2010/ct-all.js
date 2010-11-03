@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 12:45 PM","totals":
+votesReady( {"dttime":"Nov 03,2010 12:51 PM","totals":
 {"name":"Connecticut","precincts":
 {"total":156,"reporting":155},
 "races":
@@ -43,9 +43,9 @@ votesReady( {"dttime":"Nov 03,2010 12:45 PM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":539200,"id":"60571"},
-{"votes":536043,"id":"9881"},
-{"votes":16932,"id":"61100"}],
+{"votes":545302,"id":"60571"},
+{"votes":540208,"id":"9881"},
+{"votes":17010,"id":"61100"}],
 "final":"9881"}}},
 "abbr":"CT","votesby":"town"},
 "state":"CT","candidates":
