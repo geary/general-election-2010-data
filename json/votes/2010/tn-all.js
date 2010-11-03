@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 11:28 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 11:34 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -82,7 +82,7 @@ votesReady( {"dttime":"Nov 03,2010 11:28 AM","totals":
 "Amendment":
 {"Hunting and Fishing":
 {"votes":[
-{"votes":1287778,"id":"2"},
+{"votes":1287418,"id":"2"},
 {"votes":147332,"id":"3"}],
 "final":"2"}},
 "Governor":
@@ -99,7 +99,7 @@ votesReady( {"dttime":"Nov 03,2010 11:28 AM","totals":
 {"votes":1746,"id":"60951"},
 {"votes":1205,"id":"60989"},
 {"votes":995,"id":"60946"},
-{"votes":865,"id":"648"},
+{"votes":862,"id":"648"},
 {"votes":827,"id":"60953"},
 {"votes":809,"id":"60956"},
 {"votes":597,"id":"60952"},
