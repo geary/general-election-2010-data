@@ -1,16 +1,16 @@
-{"dttime":"Nov 02, 2010 09:47 PM","totals":
+{"dttime":"Nov 02, 2010 09:49 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":32394,"id":"422"},
-{"votes":29726,"id":"1287"},
-{"votes":2259,"id":"60815"}]},
+{"votes":56137,"id":"422"},
+{"votes":39524,"id":"1287"},
+{"votes":2988,"id":"60815"}]},
 "3":
 {"votes":[
-{"votes":114046,"id":"53887"},
-{"votes":60343,"id":"51509"},
-{"votes":7496,"id":"59369"}],
+{"votes":116035,"id":"53887"},
+{"votes":61181,"id":"51509"},
+{"votes":7622,"id":"59369"}],
 "final":"53887"},
 "2":
 {"votes":[
@@ -45,9 +45,9 @@
 "final":"431"},
 "9":
 {"votes":[
-{"votes":104262,"id":"60424"},
-{"votes":83050,"id":"1295"},
-{"votes":10251,"id":"60823"}],
+{"votes":108659,"id":"60424"},
+{"votes":85451,"id":"1295"},
+{"votes":10588,"id":"60823"}],
 "final":"60424"},
 "8":
 {"votes":[
@@ -58,12 +58,12 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":816777,"id":"18782"},
-{"votes":575987,"id":"51513"},
-{"votes":80384,"id":"19108"}],
+{"votes":827961,"id":"18782"},
+{"votes":597978,"id":"51513"},
+{"votes":81124,"id":"19108"}],
 "final":"18782"}}},
 "precincts":
-{"total":740,"reporting":172},
+{"total":740,"reporting":370},
 "abbr":"IN","name":"Indiana"},
 "state":"IN","candidates":
 {"19081":"GOP|Rokita|Todd Rokita","60424":"GOP|Young|Todd Young","51511":"Dem|Welsh|Barry Welsh","51513":"Dem|Ellsworth|Brad Ellsworth","50000":"Dem|Donnelly|Joe Donnelly","60815":"Lib|Morris|Jon Morris","59369":"Lib|Wise|Scott Wise","53911":"Dem|Van Haaften|Trent Van Haaften","60421":"GOP|Bucshon|Larry Bucshon","60423":"GOP|Walorski|Jackie Walorski","60422":"Dem|Crawford|Tim Crawford","60818":"Lib|Reid|Chard Reid","60819":"Lib|Thompson|T.J. Thompson","429":"GOP|Burton|Dan Burton","422":"Dem|Visclosky|Peter Visclosky","1295":"Dem|Hill|Baron Hill","57849":"Dem|Carson|Andre Carson","19092":"Dem|Sanders|David Sanders","60817":"Lib|Duncan|John Duncan","1936":"GOP|Scott|Marvin Scott","53887":"GOP|Stutzman|Marlin Stutzman","59422":"Lib|Vogel|Mark Vogel","51509":"Dem|Hayhurst|Thomas Hayhurst","1287":"GOP|Leyva|Mark Leyva","19108":"Lib|Sink-Burris|Rebecca Sink-Burris","18782":"GOP|Coats|Dan Coats","61068":"Ind|Trueblood|Jesse Trueblood","60822":"Lib|Cunningham|John Cunningham","60820":"Lib|Wilson|Dav Wilson","60823":"Lib|Knott|Greg Knott","431":"GOP|Pence|Mike Pence"},
