@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 03:20 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 03:23 AM","totals":
 {"name":"New Mexico","fix":
 {"DeBaca":"De Baca"},
 "precincts":
