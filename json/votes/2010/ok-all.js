@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 12:48 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 12:50 AM","totals":
 {"name":"Oklahoma","fix":
 {"LeFlore":"Le Flore"},
 "precincts":
@@ -57,14 +57,14 @@ votesReady( {"dttime":"Nov 03,2010 12:48 AM","totals":
 "final":"2"},
 "746 - Voter ID":
 {"votes":[
-{"votes":692596,"id":"2"},
-{"votes":239340,"id":"3"}],
+{"votes":738039,"id":"2"},
+{"votes":255426,"id":"3"}],
 "final":"2"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":607421,"id":"37501"},
-{"votes":407962,"id":"57325"}],
+{"votes":614000,"id":"37501"},
+{"votes":410576,"id":"57325"}],
 "final":"37501"}}},
 "abbr":"OK"},
 "state":"OK","candidates":

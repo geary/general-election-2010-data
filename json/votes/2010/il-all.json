@@ -1,8 +1,8 @@
-{"dttime":"Nov 03,2010 12:48 AM","totals":
+{"dttime":"Nov 03,2010 12:50 AM","totals":
 {"name":"Illinois","fix":
 {"JoDaviess":"Jo Daviess","DeWitt":"De Witt","LaSalle":"La Salle"},
 "precincts":
-{"total":11209,"reporting":10948},
+{"total":11209,"reporting":10955},
 "races":
 {"U.S. House":
 {"11":
@@ -121,10 +121,10 @@
 "U.S. Senate":
 {"2010":
 {"votes":[
-{"votes":1719121,"id":"1277"},
-{"votes":1640434,"id":"60136"},
-{"votes":113740,"id":"60769"},
-{"votes":84143,"id":"60771"}],
+{"votes":1722866,"id":"1277"},
+{"votes":1643287,"id":"60136"},
+{"votes":113971,"id":"60769"},
+{"votes":84322,"id":"60771"}],
 "final":"1277"}},
 "Governor":
 {"":
