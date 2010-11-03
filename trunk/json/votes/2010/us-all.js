@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 09:20 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 09:26 AM","totals":
 {"races":
 {"President":
 {"":
@@ -3671,22 +3671,22 @@ votesReady( {"dttime":"Nov 03,2010 09:20 AM","totals":
 "final":"59613"},
 "2":
 {"votes":[
-{"votes":132844,"id":"585"},
-{"votes":109112,"id":"60617"}],
+{"votes":133985,"id":"585"},
+{"votes":110362,"id":"60617"}],
 "final":"585"}},
 "Question":
 {"1 - Oxford County Casino":
 {"votes":[
-{"votes":247892,"id":"2"},
-{"votes":244173,"id":"3"}]}},
+{"votes":249223,"id":"2"},
+{"votes":245231,"id":"3"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":192151,"id":"60414"},
-{"votes":185196,"id":"60614"},
-{"votes":97183,"id":"60416"},
-{"votes":25453,"id":"60615"},
-{"votes":5145,"id":"60616"}]}}},
+{"votes":193395,"id":"60414"},
+{"votes":185966,"id":"60614"},
+{"votes":97498,"id":"60416"},
+{"votes":25530,"id":"60615"},
+{"votes":5157,"id":"60616"}]}}},
 "abbr":"ME"},
 "Rhode Island":
 {"races":
