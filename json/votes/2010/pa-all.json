@@ -1,4 +1,4 @@
-{"dttime":"Nov 02,2010 10:41 PM","totals":
+{"dttime":"Nov 02,2010 10:44 PM","totals":
 {"races":
 {"U.S. House":
 {"11":
@@ -8,8 +8,8 @@
 "final":"252"},
 "10":
 {"votes":[
-{"votes":93216,"id":"60542"},
-{"votes":76622,"id":"51547"}],
+{"votes":97723,"id":"60542"},
+{"votes":80033,"id":"51547"}],
 "final":"60542"},
 "13":
 {"votes":[
@@ -18,8 +18,8 @@
 "final":"39744"},
 "12":
 {"votes":[
-{"votes":74892,"id":"60307"},
-{"votes":72513,"id":"60309"}]},
+{"votes":87287,"id":"60307"},
+{"votes":80194,"id":"60309"}]},
 "15":
 {"votes":[
 {"votes":81290,"id":"1865"},
@@ -37,8 +37,8 @@
 {"votes":85397,"id":"39490"}]},
 "16":
 {"votes":[
-{"votes":56941,"id":"258"},
-{"votes":32350,"id":"49963"}]},
+{"votes":59818,"id":"258"},
+{"votes":34884,"id":"49963"}]},
 "19":
 {"votes":[
 {"votes":117375,"id":"262"},
@@ -47,8 +47,8 @@
 "final":"262"},
 "18":
 {"votes":[
-{"votes":141889,"id":"261"},
-{"votes":70830,"id":"60538"}],
+{"votes":145112,"id":"261"},
+{"votes":71910,"id":"60538"}],
 "final":"261"},
 "1":
 {"votes":[
@@ -72,8 +72,8 @@
 "final":"58283"},
 "4":
 {"votes":[
-{"votes":108197,"id":"51543"},
-{"votes":101942,"id":"60544"}]},
+{"votes":111608,"id":"51543"},
+{"votes":105642,"id":"60544"}]},
 "7":
 {"votes":[
 {"votes":114497,"id":"60432"},
@@ -85,26 +85,26 @@
 {"votes":50837,"id":"60434"}]},
 "9":
 {"votes":[
-{"votes":110133,"id":"249"},
-{"votes":41379,"id":"60795"}],
+{"votes":111833,"id":"249"},
+{"votes":42208,"id":"60795"}],
 "final":"249"},
 "8":
 {"votes":[
-{"votes":93909,"id":"51178"},
-{"votes":83567,"id":"51546"}]}},
+{"votes":118692,"id":"51178"},
+{"votes":101743,"id":"51546"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":1607855,"id":"51545"},
-{"votes":1602189,"id":"257"}]}},
+{"votes":1632855,"id":"257"},
+{"votes":1630684,"id":"51545"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":1715481,"id":"60204"},
-{"votes":1490091,"id":"39698"}],
+{"votes":1754182,"id":"60204"},
+{"votes":1513676,"id":"39698"}],
 "final":"60204"}}},
 "precincts":
-{"total":9241,"reporting":8128},
+{"total":9241,"reporting":8224},
 "abbr":"PA","name":"Pennsylvania"},
 "state":"PA","candidates":
 {"60542":"GOP|Marino|Thomas Marino","60309":"GOP|Burns|Tim Burns","60540":"GOP|Hellberg|Rick Hellberg","60204":"GOP|Corbett|Tom Corbett","60544":"GOP|Rothfus|Keith Rothfus","60543":"Dem|Pipe|Michael Pipe","39698":"Dem|Onorato|Dan Onorato","60307":"Dem|Critz|Mark Critz","258":"GOP|Pitts|Joseph Pitts","259":"Dem|Holden|Tim Holden","239":"Dem|Fattah|Chaka Fattah","252":"GOP|Barletta|Lou Barletta","251":"Dem|Kanjorski|Paul Kanjorski","257":"GOP|Toomey|Pat Toomey","255":"Dem|Doyle|Mike Doyle","60429":"Dem|Lentz|Bryan Lentz","237":"Dem|Brady|Robert Brady","60917":"GOP|Kelly|Mike Kelly","249":"GOP|Shuster|Bill Shuster","51178":"GOP|Fitzpatrick|Michael Fitzpatrick","51546":"Dem|Murphy|Patrick Murphy","58298":"Dem|Dahlkemper|Kathy Dahlkemper","61206":"Grn|Bortz|Ed Bortz","61207":"Ind|Towne|Jake Towne","61204":"Lib|Etzel|Vernon Etzel","61205":"Ind|Schneller|James Schneller","61203":"Ind|Monighan|Joshua Monighan","51543":"Dem|Altmire|Jason Altmire","262":"GOP|Platts|Todd Platts","60539":"GOP|Haluszczak|Melissa Haluszczak","60538":"Dem|Connolly|Dan Connolly","1865":"GOP|Dent|Charles Dent","60537":"Dem|Callahan|John Callahan","60536":"GOP|Adcock|Dee Adcock","60795":"Dem|Conners|Tom Conners","39744":"Dem|Schwartz|Allyson Schwartz","244":"GOP|Gerlach|Jim Gerlach","60432":"GOP|Meehan|Patrick Meehan","51547":"Dem|Carney|Christopher Carney","49963":"Dem|Herr|Lois Herr","51545":"Dem|Sestak|Joe Sestak","261":"GOP|Murphy|Tim Murphy","60434":"Dem|Trivedi|Manan Trivedi","58283":"GOP|Thompson|Glenn Thompson","60433":"Dem|Sanders|Ryan Sanders","39490":"GOP|Argall|Dave Argall"},

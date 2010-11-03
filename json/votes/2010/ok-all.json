@@ -1,4 +1,4 @@
-{"dttime":"Nov 02,2010 10:41 PM","totals":
+{"dttime":"Nov 02,2010 10:44 PM","totals":
 {"name":"Oklahoma","fix":
 {"LeFlore":"Le Flore"},
 "precincts":
@@ -12,8 +12,8 @@
 "final":"1394"},
 "3":
 {"votes":[
-{"votes":131260,"id":"1396"},
-{"votes":37315,"id":"59450"}],
+{"votes":132718,"id":"1396"},
+{"votes":37721,"id":"59450"}],
 "final":"1396"},
 "2":
 {"votes":[
@@ -34,16 +34,16 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":477985,"id":"37351"},
-{"votes":179610,"id":"38273"},
-{"votes":16701,"id":"59449"},
-{"votes":6280,"id":"61099"}],
+{"votes":481993,"id":"37351"},
+{"votes":180784,"id":"38273"},
+{"votes":16831,"id":"59449"},
+{"votes":6312,"id":"61099"}],
 "final":"37351"}},
 "Question":
 {"751 - English Official Language":
 {"votes":[
-{"votes":475091,"id":"2"},
-{"votes":148583,"id":"3"}],
+{"votes":477669,"id":"2"},
+{"votes":149179,"id":"3"}],
 "final":"2"},
 "756 - Health Care":
 {"votes":[
@@ -57,14 +57,14 @@
 "final":"2"},
 "746 - Voter ID":
 {"votes":[
-{"votes":470005,"id":"2"},
-{"votes":167351,"id":"3"}],
+{"votes":472775,"id":"2"},
+{"votes":168186,"id":"3"}],
 "final":"2"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":410613,"id":"37501"},
-{"votes":282978,"id":"57325"}],
+{"votes":413475,"id":"37501"},
+{"votes":284841,"id":"57325"}],
 "final":"37501"}}},
 "abbr":"OK"},
 "state":"OK","candidates":
