@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 06:35 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 06:37 AM","totals":
 {"races":
 {"U.S. House":
 {"30":
@@ -97,9 +97,9 @@ votesReady( {"dttime":"Nov 03,2010 06:35 AM","totals":
 "final":"135"},
 "42":
 {"votes":[
-{"votes":85028,"id":"126"},
-{"votes":42622,"id":"59949"},
-{"votes":8145,"id":"60861"}],
+{"votes":85174,"id":"126"},
+{"votes":42778,"id":"59949"},
+{"votes":8171,"id":"60861"}],
 "final":"126"},
 "43":
 {"votes":[
@@ -317,12 +317,12 @@ votesReady( {"dttime":"Nov 03,2010 06:35 AM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":3701641,"id":"6622"},
-{"votes":2856361,"id":"60373"},
-{"votes":108335,"id":"60869"},
-{"votes":100244,"id":"8029"},
-{"votes":84368,"id":"8762"},
-{"votes":59367,"id":"60870"}],
+{"votes":3804180,"id":"6622"},
+{"votes":2902119,"id":"60373"},
+{"votes":109947,"id":"60869"},
+{"votes":102341,"id":"8029"},
+{"votes":85972,"id":"8762"},
+{"votes":60817,"id":"60870"}],
 "final":"6622"}},
 "Proposition":
 {"19 - Legalize Marijuana":
