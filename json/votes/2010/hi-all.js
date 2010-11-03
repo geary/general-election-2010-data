@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 01:45 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 01:48 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -10,7 +10,8 @@ votesReady( {"dttime":"Nov 03,2010 01:45 AM","totals":
 {"votes":39238,"id":"1594"},
 {"votes":12971,"id":"61240"},
 {"votes":730,"id":"60882"},
-{"votes":287,"id":"60883"}]}},
+{"votes":287,"id":"60883"}],
+"final":"1594"}},
 "U.S. Senate":
 {"":
 {"votes":[
@@ -26,7 +27,8 @@ votesReady( {"dttime":"Nov 03,2010 01:45 AM","totals":
 {"votes":60014,"id":"1587"},
 {"votes":41944,"id":"13472"},
 {"votes":262,"id":"61241"},
-{"votes":253,"id":"1597"}]}}},
+{"votes":253,"id":"1597"}],
+"final":"1587"}}},
 "precincts":
 {"total":144,"reporting":1},
 "abbr":"HI","name":"Hawaii"},

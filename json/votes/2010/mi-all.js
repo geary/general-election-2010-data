@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 01:45 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 01:48 AM","totals":
 {"races":
 {"U.S. House":
 {"11":
@@ -24,11 +24,11 @@ votesReady( {"dttime":"Nov 03,2010 01:45 AM","totals":
 "final":"55113"},
 "12":
 {"votes":[
-{"votes":124430,"id":"802"},
-{"votes":71199,"id":"60939"},
-{"votes":3032,"id":"61183"},
-{"votes":2337,"id":"51960"},
-{"votes":2277,"id":"51973"},
+{"votes":124667,"id":"802"},
+{"votes":71371,"id":"60939"},
+{"votes":3038,"id":"61183"},
+{"votes":2342,"id":"51960"},
+{"votes":2285,"id":"51973"},
 {"votes":409,"id":"61184"}],
 "final":"802"},
 "15":
@@ -65,11 +65,11 @@ votesReady( {"dttime":"Nov 03,2010 01:45 AM","totals":
 "final":"61070"},
 "2":
 {"votes":[
-{"votes":141499,"id":"55092"},
-{"votes":66043,"id":"59455"},
-{"votes":2550,"id":"61170"},
-{"votes":2223,"id":"779"},
-{"votes":1922,"id":"23361"}],
+{"votes":143051,"id":"55092"},
+{"votes":66713,"id":"59455"},
+{"votes":2583,"id":"61170"},
+{"votes":2278,"id":"779"},
+{"votes":1940,"id":"23361"}],
 "final":"55092"},
 "5":
 {"votes":[
@@ -87,11 +87,11 @@ votesReady( {"dttime":"Nov 03,2010 01:45 AM","totals":
 "final":"1087"},
 "7":
 {"votes":[
-{"votes":104316,"id":"25659"},
-{"votes":94806,"id":"55131"},
-{"votes":3425,"id":"61179"},
-{"votes":3048,"id":"59815"},
-{"votes":2883,"id":"61178"}],
+{"votes":105779,"id":"25659"},
+{"votes":95972,"id":"55131"},
+{"votes":3480,"id":"61179"},
+{"votes":3082,"id":"59815"},
+{"votes":2925,"id":"61178"}],
 "final":"25659"},
 "6":
 {"votes":[
@@ -118,17 +118,17 @@ votesReady( {"dttime":"Nov 03,2010 01:45 AM","totals":
 "Proposal":
 {"10-2 - Felon Politician Ban":
 {"votes":[
-{"votes":2145420,"id":"2"},
-{"votes":712691,"id":"3"}],
+{"votes":2146863,"id":"2"},
+{"votes":713200,"id":"3"}],
 "final":"2"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":1823429,"id":"61073"},
-{"votes":1203148,"id":"55135"},
-{"votes":21694,"id":"790"},
-{"votes":20516,"id":"786"},
-{"votes":20258,"id":"61189"}],
+{"votes":1825084,"id":"61073"},
+{"votes":1203791,"id":"55135"},
+{"votes":21716,"id":"790"},
+{"votes":20533,"id":"786"},
+{"votes":20272,"id":"61189"}],
 "final":"61073"}}},
 "precincts":
 {"total":505,"reporting":501},
