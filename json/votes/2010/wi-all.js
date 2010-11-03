@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 03:14 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 03:18 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -56,14 +56,14 @@ votesReady( {"dttime":"Nov 03,2010 03:14 AM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":1119363,"id":"48976"},
-{"votes":998063,"id":"48317"},
-{"votes":10428,"id":"60798"},
-{"votes":8210,"id":"60799"},
-{"votes":6681,"id":"61275"}],
+{"votes":1119644,"id":"48976"},
+{"votes":998287,"id":"48317"},
+{"votes":10433,"id":"60798"},
+{"votes":8214,"id":"60799"},
+{"votes":6685,"id":"61275"}],
 "final":"48976"}}},
 "precincts":
-{"total":3609,"reporting":3582},
+{"total":3609,"reporting":3583},
 "abbr":"WI","name":"Wisconsin"},
 "state":"WI","candidates":
 {"59151":"Dem|Lassa|Julie Lassa","53709":"Dem|Kagen|Steven Kagen","60740":"GOP|Johnson|Ron Johnson","60742":"CST|Taylor|Rob Taylor","48730":"Dem|Moore|Gwen Moore","61200":"GOP|Sebring|Dan Sebring","60936":"Dem|Heckenlively|John Heckenlively","48976":"GOP|Walker|Scott Walker","60728":"GOP|Lee|Chad Lee","1461":"GOP|Ryan|Paul Ryan","1094":"Dem|Kind|Ron Kind","48317":"Dem|Barrett|Tom Barrett","1092":"Dem|Baldwin|Tammy Baldwin","61201":"GOP|Ribble|Reid Ribble","1099":"GOP|Sensenbrenner|Jim Sensenbrenner","60799":"Ind|James|James James","60798":"Ind|Langer|Jim Langer","60797":"Dem|Kallas|Joseph Kallas","60735":"GOP|Duffy|Sean Duffy","60734":"Dem|Kolosso|Todd Kolosso","60737":"Ind|Kauther|Gary Kauther","60730":"Ind|Krsiean|Michael Krsiean","60732":"Ind|Ayyash|Eddie Ayyash","48599":"GOP|Kapanke|Dan Kapanke","61275":"Lib|No Candidate/Virgil| No Candidate/Virgil","59594":"Lib|Kexel|Joseph Kexel","1100":"Ind|Raymond|Robert Raymond","1101":"GOP|Petri|Tom Petri","1765":"Dem|Feingold|Russ Feingold"},
