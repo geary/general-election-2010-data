@@ -1,4 +1,4 @@
-{"dttime":"Nov 02,2010 10:14 PM","totals":
+{"dttime":"Nov 02,2010 10:16 PM","totals":
 {"name":"Louisiana","fix":
 {"DeSoto":"De Soto","Jeff Davis":"Jefferson Davis","LaSalle":"La Salle"},
 "precincts":
@@ -13,18 +13,18 @@
 "final":"54369"},
 "3":
 {"votes":[
-{"votes":71929,"id":"61154"},
-{"votes":40970,"id":"60651"}]},
+{"votes":87293,"id":"61154"},
+{"votes":48446,"id":"60651"}]},
 "2":
 {"votes":[
-{"votes":18141,"id":"54388"},
-{"votes":12468,"id":"59650"},
-{"votes":517,"id":"60649"},
-{"votes":178,"id":"60650"}]},
+{"votes":20395,"id":"54388"},
+{"votes":14618,"id":"59650"},
+{"votes":633,"id":"60649"},
+{"votes":202,"id":"60650"}]},
 "5":
 {"votes":[
-{"votes":85637,"id":"1313"},
-{"votes":23006,"id":"60653"}],
+{"votes":91230,"id":"1313"},
+{"votes":24599,"id":"60653"}],
 "final":"1313"},
 "4":
 {"votes":[
