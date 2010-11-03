@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 02:30 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 02:33 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -46,13 +46,13 @@ votesReady( {"dttime":"Nov 03,2010 02:30 AM","totals":
 "Amendment":
 {"1 - Hunting and Fishing":
 {"votes":[
-{"votes":1075360,"id":"2"},
-{"votes":133976,"id":"3"}],
+{"votes":1094414,"id":"2"},
+{"votes":136174,"id":"3"}],
 "final":"2"},
 "2 - Secret Ballot":
 {"votes":[
-{"votes":1040446,"id":"2"},
-{"votes":167598,"id":"3"}],
+{"votes":1058558,"id":"2"},
+{"votes":170512,"id":"3"}],
 "final":"2"}},
 "U.S. Senate":
 {"":
