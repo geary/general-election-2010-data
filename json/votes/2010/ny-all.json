@@ -1,4 +1,4 @@
-{"dttime":"Nov 02, 2010 09:47 PM","totals":
+{"dttime":"Nov 02, 2010 09:49 PM","totals":
 {"name":"New York","fix":
 {"Brooklyn":"Kings","Staten Island":"Richmond","Saint Lawrence":"St. Lawrence","Manhattan":"New York"},
 "precincts":
@@ -7,8 +7,8 @@
 {"U.S. House":
 {"24":
 {"votes":[
-{"votes":0,"id":"51918"},
-{"votes":0,"id":"59694"}]},
+{"votes":1936,"id":"59694"},
+{"votes":1169,"id":"51918"}]},
 "25":
 {"votes":[
 {"votes":0,"id":"51919"},
@@ -19,8 +19,8 @@
 {"votes":0,"id":"60931"}]},
 "27":
 {"votes":[
-{"votes":0,"id":"32940"},
-{"votes":0,"id":"60932"}]},
+{"votes":642,"id":"60932"},
+{"votes":622,"id":"32940"}]},
 "20":
 {"votes":[
 {"votes":0,"id":"60306"},
@@ -35,9 +35,9 @@
 {"votes":0,"id":"59718"}]},
 "23":
 {"votes":[
-{"votes":382,"id":"60929"},
-{"votes":174,"id":"60118"},
-{"votes":47,"id":"60117"}]},
+{"votes":716,"id":"60118"},
+{"votes":650,"id":"60929"},
+{"votes":79,"id":"60117"}]},
 "28":
 {"votes":[
 {"votes":0,"id":"1581"},
@@ -117,13 +117,13 @@
 {"votes":0,"id":"1541"}]},
 "17":
 {"votes":[
-{"votes":0,"id":"61277"},
-{"votes":0,"id":"1547"},
+{"votes":6,"id":"61277"},
+{"votes":5,"id":"1547"},
 {"votes":0,"id":"60923"}]},
 "16":
 {"votes":[
-{"votes":0,"id":"1546"},
-{"votes":0,"id":"1545"}]},
+{"votes":133,"id":"1545"},
+{"votes":4,"id":"1546"}]},
 "19":
 {"votes":[
 {"votes":0,"id":"60926"},
@@ -135,34 +135,34 @@
 "U.S. Senate":
 {"Unexpired Term":
 {"votes":[
-{"votes":4658,"id":"51916"},
-{"votes":1374,"id":"60919"},
-{"votes":67,"id":"61256"},
-{"votes":35,"id":"50530"},
-{"votes":33,"id":"61257"},
-{"votes":28,"id":"61255"},
+{"votes":5892,"id":"51916"},
+{"votes":2171,"id":"60919"},
+{"votes":87,"id":"61256"},
+{"votes":43,"id":"50530"},
+{"votes":41,"id":"61257"},
+{"votes":35,"id":"61255"},
 {"votes":12,"id":"61145"}],
 "final":"51916"},
 "Full Term":
 {"votes":[
-{"votes":6359,"id":"1745"},
-{"votes":2648,"id":"61165"},
-{"votes":97,"id":"61253"},
-{"votes":68,"id":"61254"}],
+{"votes":7841,"id":"1745"},
+{"votes":3495,"id":"61165"},
+{"votes":117,"id":"61253"},
+{"votes":83,"id":"61254"}],
 "final":"1745"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":7014,"id":"1506"},
-{"votes":3727,"id":"61208"},
-{"votes":126,"id":"32916"},
-{"votes":94,"id":"1926"},
-{"votes":88,"id":"33338"},
-{"votes":81,"id":"32276"},
-{"votes":63,"id":"61252"}],
+{"votes":9532,"id":"1506"},
+{"votes":5685,"id":"61208"},
+{"votes":218,"id":"1926"},
+{"votes":216,"id":"32916"},
+{"votes":133,"id":"33338"},
+{"votes":96,"id":"61252"},
+{"votes":84,"id":"32276"}],
 "final":"1506"}}},
 "abbr":"NY"},
 "state":"NY","candidates":
-{"61215":"GOP|Grimm|Mike Grimm","61214":"GOP|Altschuler|Randy Altschuler","61217":"Inp|LaVerghetta|Dino LaVerghetta","61216":"GOP|Brumberg|Ryan Brumberg","61218":"Con|Healy|Timothy Healy","60118":"Dem|Owens|Bill Owens","60117":"Con|Hoffman|Doug Hoffman","1514":"GOP|King|Peter King","1546":"GOP|Della Valle|Frank Della Valle","1547":"Dem|Engel|Eliot Engel","1545":"Dem|Serrano|Jose E. Serrano","1543":"Dem|Rangel|Charles Rangel","1541":"Dem|Maloney|Carolyn Maloney","60919":"GOP|DioGuardi|Joseph DioGuardi","33030":"Con|Johnson|Ernest Johnson","59718":"GOP|Phillips|George Phillips","61255":"Oth|Huff|Joseph Huff","61208":"GOP|Paladino|Carl Paladino","1551":"Dem|Lowey|Nita Lowey","32940":"Dem|Higgins|Brian Higgins","57037":"Dem|Tonko|Paul Tonko","59702":"Oth|Berney|Elizabeth Berney","1926":"Lib|Redlich|Warren Redlich","60935":"GOP|Reed|Thomas Reed","60934":"Dem|Zeller|Matthew Zeller","60933":"GOP|Rowland|Jill Rowland","60932":"GOP|Roberto|Leonard Roberto","60931":"Dem|Fedele|Philip Fedele","60930":"GOP|Buerkle|Ann Marie Buerkle","1525":"Dem|Nadler|Jerrold Nadler","1521":"Dem|Meeks|Gregory Meeks","1523":"Dem|Crowley|Joseph Crowley","1519":"Dem|Ackerman|Gary Ackerman","1529":"Dem|Weiner|Anthony Weiner","51919":"Dem|Maffei|Daniel Maffei","51918":"Dem|Arcuri|Michael Arcuri","51916":"Dem|Gillibrand|Kirsten Gillibrand","1745":"Dem|Schumer|Charles Schumer","60928":"GOP|Danz|Theodore Danz","60929":"GOP|Doheny|Matthew Doheny","60920":"GOP|Gomez|John Gomez","60921":"Dem|Kudler|Howard Kudler","60922":"GOP|Milano|James Milano","60923":"Con|Kleinhandler|York Kleinhandler","51183":"SWP|Calero|Roger Calero","60926":"GOP|Hayworth|Nan Hayworth","60927":"GOP|Gibson|Christopher Gibson","61048":"GOP|Faulkner|Michel Faulkner","61049":"GOP|Muniz|Diana Muniz","1535":"Dem|Velazquez|Nydia Velazquez","1534":"Con|Gaffney|Alice Gaffney","1531":"Dem|Towns|Edolphus Towns","61044":"GOP|Taub|Asher Taub","61045":"GOP|Reynolds|Ken Reynolds","61046":"GOP|Kone|Susan Kone","61047":"GOP|Turner|Bob Turner","61259":"Lib|Vendittelli|Tom Vendittelli","61258":"CST|Tolda|Anthony Tolda","59904":"Inp|Schley|Craig Schley","61253":"Grn|Clark|Colia Clark","61252":"Oth|Davis|Kristin Davis","32471":"Dem|Clarke|Yvette Clarke","61254":"Lib|Credico|Randy Credico","61257":"Oth|Morgan|Vivia Morgan","61256":"Grn|Lawrence|Cecile Lawrence","32872":"Grn|Gronowicz|Anthony Gronowicz","1581":"Dem|Slaughter|Louise Slaughter","1506":"Dem|Cuomo|Andrew Cuomo","1507":"Dem|Bishop|Timothy Bishop","59697":"GOP|Lee|Christopher Lee","59694":"GOP|Hanna|Richard Hanna","50632":"GOP|Russell|Jim Russell","61145":"Oth|Blakeman|Bruce Blakeman","32276":"Fre|Barron|Charles Barron","1516":"Dem|McCarthy|Carolyn McCarthy","1510":"Dem|Israel|Steve Israel","59741":"GOP|Carr|Hugh Carr","60306":"Dem|Murphy|Scott Murphy","50530":"Lib|Clifton|John Clifton","32916":"Grn|Hawkins|Howie Hawkins","1562":"Dem|Hinchey|Maurice Hinchey","33338":"Oth|McMillan|Jimmy McMillan","33335":"Dem|McMahon|Michael McMahon","32283":"GOP|Becker|Francis Becker","53886":"Dem|Hall|John Hall","61277":"GOP|Mele|Anthony Mele","61165":"GOP|Townsend|Jay Townsend"},
+{"61215":"GOP|Grimm|Mike Grimm","61214":"GOP|Altschuler|Randy Altschuler","61217":"Inp|LaVerghetta|Dino LaVerghetta","61216":"GOP|Brumberg|Ryan Brumberg","61218":"Con|Healy|Timothy Healy","60118":"Dem|Owens|Bill Owens","60117":"Con|Hoffman|Doug Hoffman","1546":"GOP|Della Valle|Frank Della Valle","1547":"Dem|Engel|Eliot Engel","1545":"Dem|Serrano|Jose E. Serrano","1543":"Dem|Rangel|Charles Rangel","1541":"Dem|Maloney|Carolyn Maloney","60919":"GOP|DioGuardi|Joseph DioGuardi","33030":"Con|Johnson|Ernest Johnson","59718":"GOP|Phillips|George Phillips","61255":"Oth|Huff|Joseph Huff","61208":"GOP|Paladino|Carl Paladino","1551":"Dem|Lowey|Nita Lowey","32940":"Dem|Higgins|Brian Higgins","57037":"Dem|Tonko|Paul Tonko","32276":"Fre|Barron|Charles Barron","59702":"Oth|Berney|Elizabeth Berney","1926":"Lib|Redlich|Warren Redlich","60935":"GOP|Reed|Thomas Reed","60934":"Dem|Zeller|Matthew Zeller","60933":"GOP|Rowland|Jill Rowland","60932":"GOP|Roberto|Leonard Roberto","60931":"Dem|Fedele|Philip Fedele","60930":"GOP|Buerkle|Ann Marie Buerkle","1525":"Dem|Nadler|Jerrold Nadler","1521":"Dem|Meeks|Gregory Meeks","1523":"Dem|Crowley|Joseph Crowley","1519":"Dem|Ackerman|Gary Ackerman","1529":"Dem|Weiner|Anthony Weiner","51919":"Dem|Maffei|Daniel Maffei","51918":"Dem|Arcuri|Michael Arcuri","51916":"Dem|Gillibrand|Kirsten Gillibrand","1514":"GOP|King|Peter King","60928":"GOP|Danz|Theodore Danz","60929":"GOP|Doheny|Matthew Doheny","60920":"GOP|Gomez|John Gomez","60921":"Dem|Kudler|Howard Kudler","60922":"GOP|Milano|James Milano","60923":"Con|Kleinhandler|York Kleinhandler","51183":"SWP|Calero|Roger Calero","60926":"GOP|Hayworth|Nan Hayworth","60927":"GOP|Gibson|Christopher Gibson","61048":"GOP|Faulkner|Michel Faulkner","61049":"GOP|Muniz|Diana Muniz","1535":"Dem|Velazquez|Nydia Velazquez","1534":"Con|Gaffney|Alice Gaffney","1531":"Dem|Towns|Edolphus Towns","61044":"GOP|Taub|Asher Taub","61045":"GOP|Reynolds|Ken Reynolds","61046":"GOP|Kone|Susan Kone","61047":"GOP|Turner|Bob Turner","61259":"Lib|Vendittelli|Tom Vendittelli","61258":"CST|Tolda|Anthony Tolda","59904":"Inp|Schley|Craig Schley","61253":"Grn|Clark|Colia Clark","61252":"Oth|Davis|Kristin Davis","32471":"Dem|Clarke|Yvette Clarke","61254":"Lib|Credico|Randy Credico","61257":"Oth|Morgan|Vivia Morgan","61256":"Grn|Lawrence|Cecile Lawrence","32872":"Grn|Gronowicz|Anthony Gronowicz","1581":"Dem|Slaughter|Louise Slaughter","1506":"Dem|Cuomo|Andrew Cuomo","1507":"Dem|Bishop|Timothy Bishop","59697":"GOP|Lee|Christopher Lee","59694":"GOP|Hanna|Richard Hanna","50632":"GOP|Russell|Jim Russell","61145":"Oth|Blakeman|Bruce Blakeman","1745":"Dem|Schumer|Charles Schumer","1516":"Dem|McCarthy|Carolyn McCarthy","1510":"Dem|Israel|Steve Israel","59741":"GOP|Carr|Hugh Carr","60306":"Dem|Murphy|Scott Murphy","50530":"Lib|Clifton|John Clifton","32916":"Grn|Hawkins|Howie Hawkins","1562":"Dem|Hinchey|Maurice Hinchey","33338":"Oth|McMillan|Jimmy McMillan","33335":"Dem|McMahon|Michael McMahon","32283":"GOP|Becker|Francis Becker","53886":"Dem|Hall|John Hall","61277":"GOP|Mele|Anthony Mele","61165":"GOP|Townsend|Jay Townsend"},
 "total":0,"locals":
 {}}
