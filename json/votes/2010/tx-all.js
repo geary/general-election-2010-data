@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 02:16 PM","totals":
+votesReady( {"dttime":"Nov 03,2010 02:22 PM","totals":
 {"name":"Texas","fix":
 {"De Witt":"DeWitt","La Vaca":"Lavaca"},
 "precincts":
