@@ -1,8 +1,8 @@
-{"dttime":"Nov 03,2010 12:50 AM","totals":
+{"dttime":"Nov 03,2010 12:53 AM","totals":
 {"name":"Massachusetts","fix":
 {"Barnstable":"Barnstable Town","Manchester":"Manchester-by-the-Sea"},
 "precincts":
-{"total":255,"reporting":227},
+{"total":255,"reporting":230},
 "races":
 {"U.S. House":
 {"10":
@@ -15,9 +15,9 @@
 "final":"22757"},
 "1":
 {"votes":[
-{"votes":117148,"id":"880"},
-{"votes":65169,"id":"60669"},
-{"votes":9800,"id":"61227"}],
+{"votes":118268,"id":"880"},
+{"votes":65605,"id":"60669"},
+{"votes":9896,"id":"61227"}],
 "final":"880"},
 "3":
 {"votes":[
@@ -67,10 +67,10 @@
 "Governor":
 {"":
 {"votes":[
-{"votes":1056779,"id":"51516"},
-{"votes":902025,"id":"60668"},
-{"votes":173722,"id":"22674"},
-{"votes":30997,"id":"895"}],
+{"votes":1057685,"id":"51516"},
+{"votes":902514,"id":"60668"},
+{"votes":173892,"id":"22674"},
+{"votes":31101,"id":"895"}],
 "final":"51516"}}},
 "abbr":"MA","votesby":"town"},
 "state":"MA","candidates":
