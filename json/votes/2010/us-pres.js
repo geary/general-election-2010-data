@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 01:50 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 01:52 AM","totals":
 {"races":
 {"President":
 {"":
