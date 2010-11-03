@@ -1,10 +1,10 @@
-votesReady( {"dttime":"Nov 02,2010 10:23 PM","totals":
+votesReady( {"dttime":"Nov 02,2010 10:26 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":90546,"id":"60345"},
-{"votes":36036,"id":"40244"},
+{"votes":90547,"id":"60345"},
+{"votes":36052,"id":"40244"},
 {"votes":2001,"id":"61075"},
 {"votes":1772,"id":"60673"},
 {"votes":1693,"id":"60677"},
@@ -25,8 +25,8 @@ votesReady( {"dttime":"Nov 02,2010 10:23 PM","totals":
 {"votes":1471,"id":"60679"}]},
 "5":
 {"votes":[
-{"votes":64167,"id":"60619"},
-{"votes":54271,"id":"612"}]},
+{"votes":65091,"id":"60619"},
+{"votes":55321,"id":"612"}]},
 "4":
 {"votes":[
 {"votes":83256,"id":"60681"},
@@ -49,21 +49,21 @@ votesReady( {"dttime":"Nov 02,2010 10:23 PM","totals":
 "final":"2"},
 "2 - Secret Ballot":
 {"votes":[
-{"votes":629143,"id":"2"},
-{"votes":104521,"id":"3"}]}},
+{"votes":632541,"id":"2"},
+{"votes":105022,"id":"3"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":511374,"id":"610"},
-{"votes":239832,"id":"60335"},
-{"votes":79831,"id":"60671"}],
+{"votes":512800,"id":"610"},
+{"votes":241542,"id":"60335"},
+{"votes":79997,"id":"60671"}],
 "final":"610"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":431087,"id":"60420"},
-{"votes":407806,"id":"58026"},
-{"votes":13077,"id":"60672"}]}}},
+{"votes":432353,"id":"60420"},
+{"votes":409863,"id":"58026"},
+{"votes":13140,"id":"60672"}]}}},
 "precincts":
 {"total":398,"reporting":225},
 "abbr":"SC","name":"South Carolina"},

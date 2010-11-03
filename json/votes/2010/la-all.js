@@ -1,20 +1,20 @@
-votesReady( {"dttime":"Nov 02,2010 10:23 PM","totals":
+votesReady( {"dttime":"Nov 02,2010 10:26 PM","totals":
 {"name":"Louisiana","fix":
 {"DeSoto":"De Soto","Jeff Davis":"Jefferson Davis","LaSalle":"La Salle"},
 "precincts":
-{"total":3877,"reporting":2662},
+{"total":3877,"reporting":2794},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":102482,"id":"54369"},
-{"votes":24777,"id":"60647"},
-{"votes":3311,"id":"22238"}],
+{"votes":106220,"id":"54369"},
+{"votes":25342,"id":"60647"},
+{"votes":3405,"id":"22238"}],
 "final":"54369"},
 "3":
 {"votes":[
-{"votes":90358,"id":"61154"},
-{"votes":50285,"id":"60651"}]},
+{"votes":93102,"id":"61154"},
+{"votes":51262,"id":"60651"}]},
 "2":
 {"votes":[
 {"votes":23089,"id":"54388"},
@@ -23,14 +23,14 @@ votesReady( {"dttime":"Nov 02,2010 10:23 PM","totals":
 {"votes":210,"id":"60650"}]},
 "5":
 {"votes":[
-{"votes":98610,"id":"1313"},
-{"votes":26506,"id":"60653"}],
+{"votes":100531,"id":"1313"},
+{"votes":27786,"id":"60653"}],
 "final":"1313"},
 "4":
 {"votes":[
-{"votes":72091,"id":"59669"},
-{"votes":39134,"id":"60652"},
-{"votes":6498,"id":"51907"}],
+{"votes":77515,"id":"59669"},
+{"votes":40701,"id":"60652"},
+{"votes":6641,"id":"51907"}],
 "final":"59669"},
 "7":
 {"votes":[
@@ -38,24 +38,24 @@ votesReady( {"dttime":"Nov 02,2010 10:23 PM","totals":
 "final":"50418"},
 "6":
 {"votes":[
-{"votes":88363,"id":"59656"},
-{"votes":29811,"id":"60654"}],
+{"votes":89706,"id":"59656"},
+{"votes":30963,"id":"60654"}],
 "final":"59656"}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":502809,"id":"906"},
-{"votes":286504,"id":"21828"},
-{"votes":9234,"id":"21555"},
-{"votes":6831,"id":"21186"},
-{"votes":6020,"id":"60646"},
-{"votes":5727,"id":"54392"},
-{"votes":5148,"id":"21459"},
-{"votes":4186,"id":"60645"},
-{"votes":4102,"id":"60642"},
-{"votes":3337,"id":"60643"},
-{"votes":2804,"id":"60644"},
-{"votes":2660,"id":"1315"}],
+{"votes":532090,"id":"906"},
+{"votes":299846,"id":"21828"},
+{"votes":9712,"id":"21555"},
+{"votes":7189,"id":"21186"},
+{"votes":6488,"id":"60646"},
+{"votes":5914,"id":"54392"},
+{"votes":5352,"id":"21459"},
+{"votes":4398,"id":"60645"},
+{"votes":4306,"id":"60642"},
+{"votes":3494,"id":"60643"},
+{"votes":2954,"id":"60644"},
+{"votes":2785,"id":"1315"}],
 "final":"906"}}},
 "abbr":"LA"},
 "state":"LA","candidates":
