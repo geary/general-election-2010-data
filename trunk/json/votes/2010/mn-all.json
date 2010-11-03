@@ -1,4 +1,4 @@
-{"dttime":"Nov 02, 2010 09:40 PM","totals":
+{"dttime":"Nov 02, 2010 09:41 PM","totals":
 {"name":"Minnesota","fix":
 {"Lac Qui Parle":"Lac qui Parle"},
 "precincts":
@@ -29,9 +29,10 @@
 {"votes":0,"id":"60715"}]},
 "4":
 {"votes":[
-{"votes":0,"id":"60713"},
-{"votes":0,"id":"989"},
-{"votes":0,"id":"60714"}]},
+{"votes":19236,"id":"989"},
+{"votes":5325,"id":"60714"},
+{"votes":1670,"id":"60713"}],
+"final":"989"},
 "7":
 {"votes":[
 {"votes":19,"id":"1333"},
@@ -40,10 +41,10 @@
 {"votes":0,"id":"26560"}]},
 "6":
 {"votes":[
-{"votes":0,"id":"26048"},
-{"votes":0,"id":"59610"},
-{"votes":0,"id":"59874"},
-{"votes":0,"id":"55336"}]},
+{"votes":1968,"id":"55336"},
+{"votes":1238,"id":"26048"},
+{"votes":178,"id":"59610"},
+{"votes":50,"id":"59874"}]},
 "8":
 {"votes":[
 {"votes":0,"id":"60726"},

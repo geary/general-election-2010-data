@@ -1,10 +1,11 @@
-{"dttime":"Nov 02, 2010 09:40 PM","totals":
+{"dttime":"Nov 02, 2010 09:41 PM","totals":
 {"races":
 {"U.S. House":
 {"11":
 {"votes":[
-{"votes":102473,"id":"51655"},
-{"votes":88022,"id":"60665"}]},
+{"votes":104459,"id":"51655"},
+{"votes":89818,"id":"60665"}],
+"final":"51655"},
 "10":
 {"votes":[
 {"votes":83452,"id":"35265"},
@@ -23,14 +24,14 @@
 "final":"458"},
 "1":
 {"votes":[
-{"votes":70580,"id":"34352"},
-{"votes":47267,"id":"60534"}],
+{"votes":73639,"id":"34352"},
+{"votes":49379,"id":"60534"}],
 "final":"34352"},
 "3":
 {"votes":[
-{"votes":100813,"id":"1362"},
-{"votes":35702,"id":"35602"},
-{"votes":2981,"id":"60657"}],
+{"votes":105208,"id":"1362"},
+{"votes":37819,"id":"35602"},
+{"votes":3122,"id":"60657"}],
 "final":"1362"},
 "2":
 {"votes":[
@@ -53,8 +54,8 @@
 {"votes":63448,"id":"60660"}]},
 "6":
 {"votes":[
-{"votes":111129,"id":"453"},
-{"votes":36521,"id":"60659"}],
+{"votes":112002,"id":"453"},
+{"votes":36875,"id":"60659"}],
 "final":"453"},
 "9":
 {"votes":[
@@ -69,12 +70,12 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":1058604,"id":"452"},
-{"votes":809900,"id":"35216"},
-{"votes":39426,"id":"60655"}],
+{"votes":1070175,"id":"452"},
+{"votes":818528,"id":"35216"},
+{"votes":39805,"id":"60655"}],
 "final":"452"}}},
 "precincts":
-{"total":224,"reporting":129},
+{"total":224,"reporting":140},
 "abbr":"NC","name":"North Carolina"},
 "state":"NC","candidates":
 {"458":"Dem|Watt|Mel Watt","35602":"Dem|Rouse|Johnny Rouse","450":"Dem|Price|David Price","452":"GOP|Burr|Richard Burr","453":"GOP|Coble|Howard Coble","34352":"Dem|Butterfield|G.K. Butterfield","60667":"GOP|Randall|William Randall","1877":"GOP|Foxx|Virginia Foxx","60665":"GOP|Miller|Jeff Miller","60664":"Dem|Gregory|Jeff Gregory","60663":"Dem|Doctor|Jeff Doctor","60662":"Lib|Hill|Thomas Hill","59430":"GOP|Lawson|William Lawson","60660":"GOP|Pantano|Ilario Pantano","60661":"GOP|Johnson|Harold Johnson","51655":"Dem|Shuler|Heath Shuler","51652":"Dem|Kissell|Larry Kissell","35216":"Dem|Marshall|Elaine Marshall","448":"Dem|Etheridge|Bob Etheridge","454":"GOP|Myrick|Sue Myrick","35265":"GOP|McHenry|Patrick McHenry","447":"GOP|Dority|Greg Dority","1372":"Dem|Miller|Brad Miller","60533":"GOP|Ellmers|Renee Ellmers","60534":"GOP|Woolard|Ashley Woolard","1025":"Dem|McIntyre|Mike McIntyre","60658":"Dem|Kennedy|Billy Kennedy","60659":"Dem|Turner|Sam Turner","60666":"Lib|Cecil|Lon Cecil","60656":"Lib|Rose|Tom Rose","60657":"Lib|Holloman|Darryl Holloman","60655":"Lib|Beitler|Michael Beitler","1362":"GOP|Jones|Walter Jones"},
