@@ -1,4 +1,4 @@
-{"dttime":"Nov 03,2010 06:37 AM","totals":
+{"dttime":"Nov 03,2010 06:39 AM","totals":
 {"races":
 {"President":
 {"":
@@ -651,10 +651,10 @@
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":105026,"id":"60527"},
-{"votes":87681,"id":"58553"},
-{"votes":12163,"id":"56227"},
-{"votes":3925,"id":"60567"}],
+{"votes":105175,"id":"60527"},
+{"votes":87894,"id":"58553"},
+{"votes":12188,"id":"56227"},
+{"votes":3931,"id":"60567"}],
 "final":"60527"},
 "2":
 {"votes":[
@@ -665,21 +665,21 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":282786,"id":"81"},
-{"votes":99561,"id":"60565"},
-{"votes":15590,"id":"60566"}],
+{"votes":283019,"id":"81"},
+{"votes":99710,"id":"60565"},
+{"votes":15599,"id":"60566"}],
 "final":"81"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":236243,"id":"501"},
-{"votes":132808,"id":"60528"},
-{"votes":23323,"id":"60570"},
-{"votes":5278,"id":"15109"},
-{"votes":3352,"id":"56769"}],
+{"votes":236456,"id":"501"},
+{"votes":132973,"id":"60528"},
+{"votes":23341,"id":"60570"},
+{"votes":5279,"id":"15109"},
+{"votes":3357,"id":"56769"}],
 "final":"501"}}},
 "precincts":
-{"total":472,"reporting":407},
+{"total":472,"reporting":408},
 "abbr":"ID","name":"Idaho"},
 "Wyoming":
 {"races":
@@ -1322,10 +1322,10 @@
 "Governor":
 {"":
 {"votes":[
-{"votes":579253,"id":"60200"},
-{"votes":559012,"id":"39053"},
-{"votes":16593,"id":"61133"},
-{"votes":15260,"id":"61134"}]}},
+{"votes":581167,"id":"60200"},
+{"votes":559770,"id":"39053"},
+{"votes":16665,"id":"61133"},
+{"votes":15304,"id":"61134"}]}},
 "Measure":
 {"75 - Multnomah Casino":
 {"votes":[
@@ -1338,7 +1338,7 @@
 {"votes":483743,"id":"2"}],
 "final":"3"}}},
 "precincts":
-{"total":1000,"reporting":835},
+{"total":1000,"reporting":836},
 "abbr":"OR","name":"Oregon"},
 "Connecticut":
 {"name":"Connecticut","precincts":
@@ -1738,8 +1738,8 @@
 "Proposition":
 {"19 - Legalize Marijuana":
 {"votes":[
-{"votes":3691983,"id":"3"},
-{"votes":3165791,"id":"2"}],
+{"votes":3703083,"id":"3"},
+{"votes":3174652,"id":"2"}],
 "final":"3"},
 "25 - Budget Vote":
 {"votes":[
@@ -3130,13 +3130,13 @@
 "Amendment":
 {"62 - Definition of Person":
 {"votes":[
-{"votes":1086782,"id":"3"},
-{"votes":459203,"id":"2"}],
+{"votes":1098623,"id":"3"},
+{"votes":462010,"id":"2"}],
 "final":"3"},
 "63 - Health Care":
 {"votes":[
-{"votes":805685,"id":"3"},
-{"votes":723198,"id":"2"}]}},
+{"votes":815457,"id":"3"},
+{"votes":727677,"id":"2"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
