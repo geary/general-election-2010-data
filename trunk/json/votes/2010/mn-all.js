@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 09:50 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 09:56 AM","totals":
 {"name":"Minnesota","fix":
 {"Lac Qui Parle":"Lac qui Parle"},
 "precincts":
