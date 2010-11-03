@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 07:31 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 07:36 AM","totals":
 {"races":
 {"President":
 {"":
@@ -1338,7 +1338,7 @@ votesReady( {"dttime":"Nov 03,2010 07:31 AM","totals":
 {"votes":492196,"id":"2"}],
 "final":"3"}}},
 "precincts":
-{"total":1000,"reporting":845},
+{"total":1000,"reporting":852},
 "abbr":"OR","name":"Oregon"},
 "Connecticut":
 {"name":"Connecticut","precincts":
@@ -1744,7 +1744,7 @@ votesReady( {"dttime":"Nov 03,2010 07:31 AM","totals":
 "25 - Budget Vote":
 {"votes":[
 {"votes":3696663,"id":"2"},
-{"votes":3024407,"id":"3"}],
+{"votes":3024409,"id":"3"}],
 "final":"2"}}},
 "precincts":
 {"total":565,"reporting":516},
