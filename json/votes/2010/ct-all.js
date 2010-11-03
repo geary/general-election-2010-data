@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 02,2010 11:25 PM","totals":
+votesReady( {"dttime":"Nov 02,2010 11:29 PM","totals":
 {"name":"Connecticut","precincts":
 {"total":156,"reporting":77},
 "races":
@@ -18,33 +18,32 @@ votesReady( {"dttime":"Nov 02,2010 11:25 PM","totals":
 "final":"1141"},
 "2":
 {"votes":[
-{"votes":113894,"id":"1231"},
-{"votes":75076,"id":"61080"},
+{"votes":113908,"id":"1231"},
+{"votes":74979,"id":"61080"},
 {"votes":2490,"id":"59878"}],
 "final":"1231"},
 "5":
 {"votes":[
-{"votes":59531,"id":"52147"},
-{"votes":53009,"id":"60576"}]},
+{"votes":65773,"id":"52147"},
+{"votes":59087,"id":"60576"}]},
 "4":
 {"votes":[
 {"votes":17686,"id":"60575"},
-{"votes":11938,"id":"59590"}],
-"final":"59590"}},
+{"votes":11938,"id":"59590"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":311829,"id":"9548"},
-{"votes":266040,"id":"60572"},
-{"votes":6168,"id":"61101"},
-{"votes":3620,"id":"61081"}],
+{"votes":317441,"id":"9548"},
+{"votes":272715,"id":"60572"},
+{"votes":6293,"id":"61101"},
+{"votes":3661,"id":"61081"}],
 "final":"9548"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":301255,"id":"60571"},
-{"votes":275490,"id":"9881"},
-{"votes":11146,"id":"61100"}]}}},
+{"votes":308663,"id":"60571"},
+{"votes":280285,"id":"9881"},
+{"votes":11320,"id":"61100"}]}}},
 "abbr":"CT","votesby":"town"},
 "state":"CT","candidates":
 {"1143":"Grn|Pillsbury|Charles Pillsbury","1139":"Dem|Larson|John Larson","1141":"Dem|DeLauro|Rosa DeLauro","61202":"Grn|Krayeske|Ken Krayeske","1231":"Dem|Courtney|Joe Courtney","59878":"Grn|Deshefy|Scott Deshefy","61081":"CTL|Mertens|John Mertens","60576":"GOP|Caligiuri|Sam Caligiuri","61037":"GOP|Labriola|Jerry Labriola","60573":"GOP|Brickley|Ann Brickley","60572":"GOP|McMahon|Linda McMahon","61101":"Ind|Mosler|Warren Mosler","60575":"GOP|Debicella|Dan Debicella","52147":"Dem|Murphy|Chris Murphy","59590":"Dem|Himes|Jim Himes","60571":"GOP|Foley|Tom Foley","9548":"Dem|Blumenthal|Richard Blumenthal","9881":"Dem|Malloy|Dan Malloy","61080":"GOP|Peckinpaugh|Janet Peckinpaugh","61162":"Ind|Hutchinson|Christopher Hutchinson","61100":"Ind|Marsh|Thomas Marsh"},
