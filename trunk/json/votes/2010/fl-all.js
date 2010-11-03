@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 02,2010 11:56 PM","totals":
+votesReady( {"dttime":"Nov 02,2010 11:58 PM","totals":
 {"races":
 {"U.S. House":
 {"24":
@@ -127,8 +127,8 @@ votesReady( {"dttime":"Nov 02,2010 11:56 PM","totals":
 "final":"59163"},
 "19":
 {"votes":[
-{"votes":91807,"id":"60128"},
-{"votes":54738,"id":"60127"}]},
+{"votes":109277,"id":"60128"},
+{"votes":64201,"id":"60127"}]},
 "18":
 {"votes":[
 {"votes":86415,"id":"867"},
@@ -157,13 +157,13 @@ votesReady( {"dttime":"Nov 02,2010 11:56 PM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":2468484,"id":"61149"},
-{"votes":2347156,"id":"60518"},
-{"votes":117406,"id":"60520"},
-{"votes":17953,"id":"60523"},
-{"votes":17509,"id":"60519"},
-{"votes":12885,"id":"60556"},
-{"votes":6937,"id":"60555"}]}}},
+{"votes":2471167,"id":"61149"},
+{"votes":2348965,"id":"60518"},
+{"votes":117596,"id":"60520"},
+{"votes":17969,"id":"60523"},
+{"votes":17532,"id":"60519"},
+{"votes":12898,"id":"60556"},
+{"votes":6944,"id":"60555"}]}}},
 "precincts":
 {"total":372,"reporting":354},
 "abbr":"FL","name":"Florida"},
