@@ -1,4 +1,4 @@
-{"dttime":"Nov 02, 2010 09:29 PM","totals":
+{"dttime":"Nov 02, 2010 09:30 PM","totals":
 {"name":"New Mexico","fix":
 {"DeBaca":"De Baca"},
 "precincts":
@@ -15,8 +15,8 @@
 {"votes":802,"id":"56805"}]},
 "2":
 {"votes":[
-{"votes":0,"id":"59494"},
-{"votes":0,"id":"31918"}]}},
+{"votes":1340,"id":"31918"},
+{"votes":1266,"id":"59494"}]}},
 "Governor":
 {"":
 {"votes":[

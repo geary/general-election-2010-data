@@ -1,4 +1,4 @@
-{"dttime":"Nov 02, 2010 09:29 PM","totals":
+{"dttime":"Nov 02, 2010 09:30 PM","totals":
 {"name":"Kentucky","fix":
 {"LaRue":"Larue"},
 "precincts":
@@ -7,8 +7,8 @@
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":80403,"id":"202"},
-{"votes":36982,"id":"60530"}],
+{"votes":91575,"id":"202"},
+{"votes":42051,"id":"60530"}],
 "final":"202"},
 "3":
 {"votes":[
@@ -19,8 +19,8 @@
 "final":"51522"},
 "2":
 {"votes":[
-{"votes":138685,"id":"54282"},
-{"votes":68002,"id":"60703"}],
+{"votes":140134,"id":"54282"},
+{"votes":68559,"id":"60703"}],
 "final":"54282"},
 "5":
 {"votes":[
@@ -39,8 +39,8 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":646093,"id":"60208"},
-{"votes":518207,"id":"204"}],
+{"votes":656979,"id":"60208"},
+{"votes":525723,"id":"204"}],
 "final":"60208"}}},
 "abbr":"KY"},
 "state":"KY","candidates":
