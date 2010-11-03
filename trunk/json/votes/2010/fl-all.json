@@ -1,4 +1,4 @@
-{"dttime":"Nov 02, 2010 08:15 PM","totals":
+{"dttime":"Nov 02, 2010 08:17 PM","totals":
 {"races":
 {"U.S. House":
 {"24":
@@ -27,8 +27,8 @@
 {"votes":24633,"id":"53083"}]},
 "23":
 {"votes":[
-{"votes":25447,"id":"874"},
-{"votes":6599,"id":"60515"}]},
+{"votes":26287,"id":"874"},
+{"votes":6661,"id":"60515"}]},
 "1":
 {"votes":[
 {"votes":0,"id":"1240"},
@@ -36,19 +36,19 @@
 {"votes":0,"id":"60499"}]},
 "3":
 {"votes":[
-{"votes":34670,"id":"1242"},
-{"votes":25510,"id":"60478"},
-{"votes":1936,"id":"60503"}]},
+{"votes":41594,"id":"1242"},
+{"votes":27579,"id":"60478"},
+{"votes":2311,"id":"60503"}]},
 "2":
 {"votes":[
-{"votes":21862,"id":"1241"},
-{"votes":21522,"id":"60472"},
-{"votes":1347,"id":"60502"},
-{"votes":934,"id":"60501"}]},
+{"votes":23269,"id":"60472"},
+{"votes":22498,"id":"1241"},
+{"votes":1455,"id":"60502"},
+{"votes":976,"id":"60501"}]},
 "5":
 {"votes":[
-{"votes":112039,"id":"60481"},
-{"votes":53940,"id":"60482"}]},
+{"votes":130954,"id":"60481"},
+{"votes":62414,"id":"60482"}]},
 "4":
 {"votes":[
 {"votes":82424,"id":"851"},
@@ -57,7 +57,8 @@
 "7":
 {"votes":[
 {"votes":70669,"id":"856"},
-{"votes":33855,"id":"60484"}]},
+{"votes":33855,"id":"60484"}],
+"final":"856"},
 "6":
 {"votes":[
 {"votes":61434,"id":"854"},
@@ -84,8 +85,8 @@
 "final":"1245"},
 "13":
 {"votes":[
-{"votes":2912,"id":"53213"},
-{"votes":1353,"id":"61148"}]},
+{"votes":5443,"id":"53213"},
+{"votes":2192,"id":"61148"}]},
 "12":
 {"votes":[
 {"votes":64895,"id":"52996"},
@@ -107,8 +108,8 @@
 {"votes":6558,"id":"60512"}]},
 "16":
 {"votes":[
-{"votes":35110,"id":"59163"},
-{"votes":17773,"id":"61150"}]},
+{"votes":38309,"id":"59163"},
+{"votes":20121,"id":"61150"}]},
 "19":
 {"votes":[
 {"votes":34972,"id":"60128"},
@@ -120,34 +121,34 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":1183249,"id":"53044"},
-{"votes":692360,"id":"10601"},
-{"votes":461514,"id":"865"},
-{"votes":10665,"id":"60497"},
-{"votes":6958,"id":"60494"},
-{"votes":6271,"id":"60498"},
-{"votes":1935,"id":"60492"},
-{"votes":1898,"id":"60495"},
-{"votes":1849,"id":"60493"},
-{"votes":1513,"id":"60496"}],
+{"votes":1225008,"id":"53044"},
+{"votes":724884,"id":"10601"},
+{"votes":483964,"id":"865"},
+{"votes":11362,"id":"60497"},
+{"votes":7252,"id":"60494"},
+{"votes":6410,"id":"60498"},
+{"votes":2062,"id":"60492"},
+{"votes":2022,"id":"60495"},
+{"votes":1960,"id":"60493"},
+{"votes":1576,"id":"60496"}],
 "final":"53044"}},
 "Referendum":
 {"1 - Balanced Budget":
 {"votes":[
-{"votes":967068,"id":"2"},
-{"votes":398781,"id":"3"}]}},
+{"votes":1121227,"id":"2"},
+{"votes":460229,"id":"3"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":1032150,"id":"61149"},
-{"votes":946316,"id":"60518"},
-{"votes":48087,"id":"60520"},
-{"votes":7479,"id":"60523"},
-{"votes":7382,"id":"60519"},
-{"votes":5532,"id":"60556"},
-{"votes":2910,"id":"60555"}]}}},
+{"votes":1095060,"id":"61149"},
+{"votes":1006956,"id":"60518"},
+{"votes":50860,"id":"60520"},
+{"votes":7853,"id":"60523"},
+{"votes":7851,"id":"60519"},
+{"votes":5855,"id":"60556"},
+{"votes":3089,"id":"60555"}]}}},
 "precincts":
-{"total":372,"reporting":53},
+{"total":372,"reporting":58},
 "abbr":"FL","name":"Florida"},
 "state":"FL","candidates":
 {"60497":"Lib|Snitker|Alexander Snitker","60520":"Inp|Allen|Peter Allen","60508":"TEA|Wilkinson|Randy Wilkinson","60523":"NPA|Reed|CC Reed","53045":"GOP|Rivera|David Rivera","53062":"GOP|Webster|Daniel Webster","60493":"NPA|Armstrong|Lewis Armstrong","60484":"Dem|Beaven|Heather Beaven","60128":"Dem|Deutch|Ted Deutch","60482":"Dem|Piccillo|Jim Piccillo","60481":"GOP|Nugent|Richard Nugent","53213":"GOP|Buchanan|Vern Buchanan","52961":"Dem|Kosmas|Suzanne Kosmas","867":"GOP|Ros-Lehtinen|Ileana Ros-Lehtinen","60504":"NPA|Stanley|Troy Stanley","52966":"GOP|Adams|Sandra Adams","60506":"TEA|Dunmire|Peg Dunmire","60507":"NPA|Metcalfe|George Metcalfe","53083":"Dem|Klein|Ron Klein","60505":"NPA|Schonberg|Steve Schonberg","60502":"NPA|McKain|Paul McKain","60503":"NPA|Martin-Back|Terry Martin-Back","60500":"NPA|Krause|John Krause","58634":"GOP|West|Allen West","854":"GOP|Stearns|Cliff Stearns","856":"GOP|Mica|John Mica","851":"GOP|Crenshaw|Ander Crenshaw","878":"GOP|Diaz-Balart|Mario Diaz-Balart","879":"NPA|Kunst|Robert Kunst","874":"Dem|Hastings|Alcee Hastings","60556":"NPA|Imperato|Daniel Imperato","61150":"Dem|Horn|Jim Horn","59898":"Dem|Grayson|Alan Grayson","52981":"GOP|Bilirakis|Gus Bilirakis","53077":"GOP|Posey|Bill Posey","52986":"Dem|Justice|Charlie Justice","53044":"GOP|Rubio|Marco Rubio","60501":"NPA|Berryhill|Dianne Berryhill","60509":"Dem|Roach|James Roach","3":"|No| No","60498":"NPA|Tyler|Rick Tyler","60499":"NPA|Cantrell|Joe Cantrell","58641":"Dem|Garcia|Joe Garcia","60555":"NPA|Khavari|Farid Khavari","60127":"GOP|Budd|Joe Budd","59163":"GOP|Rooney|Tom Rooney","865":"Dem|Meek|Kendrick Meek","60492":"CST|DeCastro|Bernie DeCastro","61036":"GOP|Harrington|Karen Harrington","60494":"NPA|Askeland|Sue Askeland","60495":"NPA|Bean|Bobbie Bean","60496":"NPA|Riggs|Bruce Riggs","10676":"Dem|Edwards|Lori Edwards","61149":"GOP|Scott|Rick Scott","10546":"Dem|Castor|Kathy Castor","60519":"NPA|Arth|Michael Arth","60518":"Dem|Sink|Alex Sink","60515":"GOP|Sansaricq|Bernard Sansaricq","60514":"NPA|Blumenthal|Stanley Blumenthal","60517":"Oth|Porter|Craig Porter","60516":"TEA|Arrojo|Roly Arrojo","60511":"Dem|Roberts|Shannon Roberts","60510":"NPA|St. Claire|William St. Claire","60513":"Dem|Banciella|Rolando Banciella","59134":"Dem|de Palma|Anita de Palma","2":"|Yes| Yes","60472":"GOP|Southerland|Steve Southerland","10998":"GOP|Mack|Connie Mack","11357":"Dem|Wasserman Schultz|Debbie Wasserman Schultz","60478":"GOP|Yost|Michael Yost","1241":"Dem|Boyd|Allen Boyd","1240":"GOP|Miller|Jeff Miller","1242":"Dem|Brown|Corrine Brown","1245":"GOP|Young|Bill Young","10601":"Ind|Crist|Charlie Crist","61147":"GOP|Prendergast|Mike Prendergast","53086":"Dem|Wilson|Frederica Wilson","61148":"Dem|Golden|James Golden","52996":"GOP|Ross|Dennis Ross","60512":"NPA|Vereen|Roderick Vereen"},
