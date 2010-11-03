@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 09:26 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 09:32 AM","totals":
 {"races":
 {"President":
 {"":
@@ -1818,10 +1818,10 @@ votesReady( {"dttime":"Nov 03,2010 09:26 AM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":1081714,"id":"51516"},
-{"votes":929573,"id":"60668"},
-{"votes":178500,"id":"22674"},
-{"votes":32074,"id":"895"}],
+{"votes":1083924,"id":"51516"},
+{"votes":930892,"id":"60668"},
+{"votes":178757,"id":"22674"},
+{"votes":32106,"id":"895"}],
 "final":"51516"}}},
 "abbr":"MA","votesby":"town"},
 "West Virginia":
@@ -3671,22 +3671,22 @@ votesReady( {"dttime":"Nov 03,2010 09:26 AM","totals":
 "final":"59613"},
 "2":
 {"votes":[
-{"votes":133985,"id":"585"},
-{"votes":110362,"id":"60617"}],
+{"votes":135012,"id":"585"},
+{"votes":111271,"id":"60617"}],
 "final":"585"}},
 "Question":
 {"1 - Oxford County Casino":
 {"votes":[
-{"votes":249223,"id":"2"},
-{"votes":245231,"id":"3"}]}},
+{"votes":250100,"id":"2"},
+{"votes":246300,"id":"3"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":193395,"id":"60414"},
-{"votes":185966,"id":"60614"},
-{"votes":97498,"id":"60416"},
-{"votes":25530,"id":"60615"},
-{"votes":5157,"id":"60616"}]}}},
+{"votes":194257,"id":"60414"},
+{"votes":186687,"id":"60614"},
+{"votes":97770,"id":"60416"},
+{"votes":25602,"id":"60615"},
+{"votes":5174,"id":"60616"}]}}},
 "abbr":"ME"},
 "Rhode Island":
 {"races":
