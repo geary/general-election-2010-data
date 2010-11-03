@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 02:22 PM","totals":
+votesReady( {"dttime":"Nov 03,2010 02:27 PM","totals":
 {"races":
 {"President":
 {"":
@@ -456,7 +456,7 @@ votesReady( {"dttime":"Nov 03,2010 02:22 PM","totals":
 {"votes":[
 {"votes":116019,"id":"53887"},
 {"votes":61142,"id":"51509"},
-{"votes":7636,"id":"59369"}],
+{"votes":7658,"id":"59369"}],
 "final":"53887"},
 "2":
 {"votes":[
@@ -1735,7 +1735,7 @@ votesReady( {"dttime":"Nov 03,2010 02:22 PM","totals":
 {"votes":117861,"id":"60869"},
 {"votes":108514,"id":"8029"},
 {"votes":90513,"id":"8762"},
-{"votes":65144,"id":"60870"}],
+{"votes":65095,"id":"60870"}],
 "final":"6622"}},
 "Proposition":
 {"19 - Legalize Marijuana":
@@ -2271,17 +2271,17 @@ votesReady( {"dttime":"Nov 03,2010 02:22 PM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":1994803,"id":"257"},
-{"votes":1915633,"id":"51545"}],
+{"votes":1995024,"id":"257"},
+{"votes":1916539,"id":"51545"}],
 "final":"257"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":2137747,"id":"60204"},
-{"votes":1782953,"id":"39698"}],
+{"votes":2137980,"id":"60204"},
+{"votes":1783834,"id":"39698"}],
 "final":"60204"}}},
 "precincts":
-{"total":9241,"reporting":9188},
+{"total":9241,"reporting":9194},
 "abbr":"PA","name":"Pennsylvania"},
 "Florida":
 {"races":
@@ -2327,9 +2327,9 @@ votesReady( {"dttime":"Nov 03,2010 02:22 PM","totals":
 "final":"1240"},
 "3":
 {"votes":[
-{"votes":91842,"id":"1242"},
-{"votes":50064,"id":"60478"},
-{"votes":4528,"id":"60503"}],
+{"votes":92057,"id":"1242"},
+{"votes":50107,"id":"60478"},
+{"votes":4532,"id":"60503"}],
 "final":"1242"},
 "2":
 {"votes":[
@@ -2350,7 +2350,7 @@ votesReady( {"dttime":"Nov 03,2010 02:22 PM","totals":
 "final":"851"},
 "7":
 {"votes":[
-{"votes":184859,"id":"856"},
+{"votes":184869,"id":"856"},
 {"votes":83001,"id":"60484"}],
 "final":"856"},
 "6":
@@ -2365,10 +2365,10 @@ votesReady( {"dttime":"Nov 03,2010 02:22 PM","totals":
 "final":"52981"},
 "8":
 {"votes":[
-{"votes":122765,"id":"53062"},
-{"votes":83424,"id":"59898"},
-{"votes":8296,"id":"60506"},
-{"votes":4118,"id":"60507"}],
+{"votes":123464,"id":"53062"},
+{"votes":84036,"id":"59898"},
+{"votes":8324,"id":"60506"},
+{"votes":4140,"id":"60507"}],
 "final":"53062"},
 "11":
 {"votes":[
@@ -2425,12 +2425,12 @@ votesReady( {"dttime":"Nov 03,2010 02:22 PM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":2582475,"id":"53044"},
-{"votes":1573809,"id":"10601"},
-{"votes":1068563,"id":"865"},
-{"votes":24285,"id":"60497"},
-{"votes":14921,"id":"60494"},
-{"votes":7229,"id":"60498"},
+{"votes":2583335,"id":"53044"},
+{"votes":1574261,"id":"10601"},
+{"votes":1069156,"id":"865"},
+{"votes":24291,"id":"60497"},
+{"votes":14930,"id":"60494"},
+{"votes":7233,"id":"60498"},
 {"votes":4687,"id":"60492"},
 {"votes":4301,"id":"60493"},
 {"votes":4194,"id":"60495"},
@@ -3675,23 +3675,23 @@ votesReady( {"dttime":"Nov 03,2010 02:22 PM","totals":
 "final":"59613"},
 "2":
 {"votes":[
-{"votes":142418,"id":"585"},
-{"votes":117372,"id":"60617"}],
+{"votes":142570,"id":"585"},
+{"votes":117486,"id":"60617"}],
 "final":"585"}},
 "Question":
 {"1 - Oxford County Casino":
 {"votes":[
-{"votes":275388,"id":"2"},
-{"votes":269136,"id":"3"}],
+{"votes":275512,"id":"2"},
+{"votes":269278,"id":"3"}],
 "final":"2"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":212560,"id":"60414"},
-{"votes":203666,"id":"60614"},
-{"votes":105989,"id":"60416"},
-{"votes":28299,"id":"60615"},
-{"votes":5573,"id":"60616"}],
+{"votes":212672,"id":"60414"},
+{"votes":203781,"id":"60614"},
+{"votes":106020,"id":"60416"},
+{"votes":28309,"id":"60615"},
+{"votes":5574,"id":"60616"}],
 "final":"60414"}}},
 "abbr":"ME"},
 "Rhode Island":
