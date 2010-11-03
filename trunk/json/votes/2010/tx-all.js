@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 12:15 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 12:17 AM","totals":
 {"name":"Texas","fix":
 {"De Witt":"DeWitt","La Vaca":"Lavaca"},
 "precincts":
@@ -82,9 +82,9 @@ votesReady( {"dttime":"Nov 03,2010 12:15 AM","totals":
 "final":"39046"},
 "5":
 {"votes":[
-{"votes":101405,"id":"277"},
-{"votes":39523,"id":"60250"},
-{"votes":2811,"id":"333"}],
+{"votes":105024,"id":"277"},
+{"votes":40508,"id":"60250"},
+{"votes":2893,"id":"333"}],
 "final":"277"},
 "4":
 {"votes":[
@@ -100,9 +100,9 @@ votesReady( {"dttime":"Nov 03,2010 12:15 AM","totals":
 "final":"284"},
 "6":
 {"votes":[
-{"votes":92735,"id":"281"},
-{"votes":46045,"id":"60212"},
-{"votes":3938,"id":"60251"}],
+{"votes":105237,"id":"281"},
+{"votes":49782,"id":"60212"},
+{"votes":4608,"id":"60251"}],
 "final":"281"},
 "9":
 {"votes":[
@@ -143,9 +143,9 @@ votesReady( {"dttime":"Nov 03,2010 12:15 AM","totals":
 "final":"296"},
 "15":
 {"votes":[
-{"votes":45247,"id":"304"},
-{"votes":31388,"id":"52889"},
-{"votes":2018,"id":"60273"}],
+{"votes":46234,"id":"304"},
+{"votes":32013,"id":"52889"},
+{"votes":2081,"id":"60273"}],
 "final":"304"},
 "14":
 {"votes":[
@@ -196,10 +196,10 @@ votesReady( {"dttime":"Nov 03,2010 12:15 AM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":2487721,"id":"362"},
-{"votes":1879794,"id":"60210"},
-{"votes":98723,"id":"60554"},
-{"votes":17554,"id":"61024"}],
+{"votes":2504739,"id":"362"},
+{"votes":1888868,"id":"60210"},
+{"votes":99655,"id":"60554"},
+{"votes":17673,"id":"61024"}],
 "final":"362"}}},
 "abbr":"TX"},
 "state":"TX","candidates":
