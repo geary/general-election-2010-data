@@ -1,4 +1,4 @@
-{"dttime":"Nov 02, 2010 09:44 PM","totals":
+{"dttime":"Nov 02, 2010 09:46 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -9,18 +9,18 @@
 "Amendment":
 {"K - Secret Ballot":
 {"votes":[
-{"votes":51806,"id":"2"},
-{"votes":14876,"id":"3"}]}},
+{"votes":51904,"id":"2"},
+{"votes":14905,"id":"3"}]}},
 "Referendum":
 {"12 - Smoking Ban":
 {"votes":[
-{"votes":44904,"id":"2"},
-{"votes":24286,"id":"3"}]}},
+{"votes":45000,"id":"2"},
+{"votes":24323,"id":"3"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":45986,"id":"40715"},
-{"votes":30317,"id":"60690"}],
+{"votes":47871,"id":"40715"},
+{"votes":31605,"id":"60690"}],
 "final":"40715"}},
 "U.S. Senate":
 {"":
@@ -30,8 +30,8 @@
 "Initiative":
 {"13 - Medical Marijuana":
 {"votes":[
-{"votes":44061,"id":"3"},
-{"votes":24649,"id":"2"}]}}},
+{"votes":44122,"id":"3"},
+{"votes":24721,"id":"2"}]}}},
 "precincts":
 {"total":791,"reporting":213},
 "abbr":"SD","name":"South Dakota"},
