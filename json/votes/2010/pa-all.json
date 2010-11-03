@@ -1,4 +1,4 @@
-{"dttime":"Nov 02, 2010 08:30 PM","totals":
+{"dttime":"Nov 02, 2010 08:32 PM","totals":
 {"races":
 {"U.S. House":
 {"11":
@@ -50,17 +50,17 @@
 "final":"237"},
 "3":
 {"votes":[
-{"votes":0,"id":"58298"},
-{"votes":0,"id":"60917"}]},
+{"votes":693,"id":"60917"},
+{"votes":380,"id":"58298"}]},
 "2":
 {"votes":[
 {"votes":944,"id":"239"},
 {"votes":6,"id":"60540"}]},
 "5":
 {"votes":[
-{"votes":0,"id":"60543"},
-{"votes":0,"id":"61204"},
-{"votes":0,"id":"58283"}]},
+{"votes":1271,"id":"58283"},
+{"votes":596,"id":"60543"},
+{"votes":64,"id":"61204"}]},
 "4":
 {"votes":[
 {"votes":0,"id":"51543"},
@@ -85,15 +85,15 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":1720,"id":"51545"},
-{"votes":1441,"id":"257"}]}},
+{"votes":1863,"id":"51545"},
+{"votes":1598,"id":"257"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":936,"id":"39698"},
-{"votes":18,"id":"60204"}]}}},
+{"votes":1731,"id":"60204"},
+{"votes":1712,"id":"39698"}]}}},
 "precincts":
-{"total":9241,"reporting":16},
+{"total":9241,"reporting":18},
 "abbr":"PA","name":"Pennsylvania"},
 "state":"PA","candidates":
 {"60542":"GOP|Marino|Thomas Marino","60309":"GOP|Burns|Tim Burns","60540":"GOP|Hellberg|Rick Hellberg","60204":"GOP|Corbett|Tom Corbett","60544":"GOP|Rothfus|Keith Rothfus","60543":"Dem|Pipe|Michael Pipe","39698":"Dem|Onorato|Dan Onorato","60307":"Dem|Critz|Mark Critz","258":"GOP|Pitts|Joseph Pitts","259":"Dem|Holden|Tim Holden","239":"Dem|Fattah|Chaka Fattah","252":"GOP|Barletta|Lou Barletta","251":"Dem|Kanjorski|Paul Kanjorski","257":"GOP|Toomey|Pat Toomey","255":"Dem|Doyle|Mike Doyle","60429":"Dem|Lentz|Bryan Lentz","237":"Dem|Brady|Robert Brady","60917":"GOP|Kelly|Mike Kelly","249":"GOP|Shuster|Bill Shuster","51178":"GOP|Fitzpatrick|Michael Fitzpatrick","51546":"Dem|Murphy|Patrick Murphy","58298":"Dem|Dahlkemper|Kathy Dahlkemper","61206":"Grn|Bortz|Ed Bortz","61207":"Ind|Towne|Jake Towne","61204":"Lib|Etzel|Vernon Etzel","61205":"Ind|Schneller|James Schneller","61203":"Ind|Monighan|Joshua Monighan","51543":"Dem|Altmire|Jason Altmire","262":"GOP|Platts|Todd Platts","60539":"GOP|Haluszczak|Melissa Haluszczak","60538":"Dem|Connolly|Dan Connolly","1865":"GOP|Dent|Charles Dent","60537":"Dem|Callahan|John Callahan","60536":"GOP|Adcock|Dee Adcock","60795":"Dem|Conners|Tom Conners","39744":"Dem|Schwartz|Allyson Schwartz","244":"GOP|Gerlach|Jim Gerlach","60432":"GOP|Meehan|Patrick Meehan","51547":"Dem|Carney|Christopher Carney","49963":"Dem|Herr|Lois Herr","51545":"Dem|Sestak|Joe Sestak","261":"GOP|Murphy|Tim Murphy","60434":"Dem|Trivedi|Manan Trivedi","58283":"GOP|Thompson|Glenn Thompson","60433":"Dem|Sanders|Ryan Sanders","39490":"GOP|Argall|Dave Argall"},
