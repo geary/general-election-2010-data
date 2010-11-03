@@ -1,4 +1,4 @@
-{"dttime":"Nov 02, 2010 08:39 PM","totals":
+{"dttime":"Nov 02, 2010 08:40 PM","totals":
 {"name":"Kansas","precincts":
 {"total":1321,"reporting":2},
 "races":
@@ -10,9 +10,9 @@
 {"votes":23,"id":"693"}]},
 "3":
 {"votes":[
-{"votes":0,"id":"61105"},
-{"votes":0,"id":"54005"},
-{"votes":0,"id":"60766"}]},
+{"votes":43931,"id":"54005"},
+{"votes":21927,"id":"60766"},
+{"votes":1397,"id":"61105"}]},
 "2":
 {"votes":[
 {"votes":2477,"id":"19867"},
@@ -27,8 +27,8 @@
 "Amendment":
 {"1 - Right to Bear Arms":
 {"votes":[
-{"votes":4179,"id":"2"},
-{"votes":650,"id":"3"}]}},
+{"votes":59304,"id":"2"},
+{"votes":11024,"id":"3"}]}},
 "U.S. Senate":
 {"2010":
 {"votes":[
