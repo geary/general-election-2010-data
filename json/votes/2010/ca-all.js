@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 04:37 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 04:40 AM","totals":
 {"races":
 {"U.S. House":
 {"30":
@@ -144,9 +144,9 @@ votesReady( {"dttime":"Nov 03,2010 04:37 AM","totals":
 "final":"51416"},
 "4":
 {"votes":[
-{"votes":138588,"id":"52499"},
-{"votes":70967,"id":"51853"},
-{"votes":15682,"id":"60829"}],
+{"votes":139363,"id":"52499"},
+{"votes":71940,"id":"51853"},
+{"votes":15858,"id":"60829"}],
 "final":"52499"},
 "7":
 {"votes":[
@@ -307,22 +307,22 @@ votesReady( {"dttime":"Nov 03,2010 04:37 AM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":3213194,"id":"1705"},
-{"votes":2713088,"id":"60339"},
-{"votes":108749,"id":"7691"},
-{"votes":81151,"id":"7042"},
-{"votes":79840,"id":"8004"},
-{"votes":77631,"id":"60825"}],
+{"votes":3214272,"id":"1705"},
+{"votes":2713872,"id":"60339"},
+{"votes":108813,"id":"7691"},
+{"votes":83352,"id":"7042"},
+{"votes":79851,"id":"8004"},
+{"votes":77671,"id":"60825"}],
 "final":"1705"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":3353475,"id":"6622"},
-{"votes":2652165,"id":"60373"},
-{"votes":99639,"id":"60869"},
-{"votes":91798,"id":"8029"},
-{"votes":77455,"id":"8762"},
-{"votes":53480,"id":"60870"}],
+{"votes":3357520,"id":"6622"},
+{"votes":2653874,"id":"60373"},
+{"votes":99729,"id":"60869"},
+{"votes":91875,"id":"8029"},
+{"votes":77651,"id":"8762"},
+{"votes":53534,"id":"60870"}],
 "final":"6622"}},
 "Proposition":
 {"19 - Legalize Marijuana":
