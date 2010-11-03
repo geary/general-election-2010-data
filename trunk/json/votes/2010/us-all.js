@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 09:07 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 09:13 AM","totals":
 {"races":
 {"President":
 {"":
@@ -1313,11 +1313,11 @@ votesReady( {"dttime":"Nov 03,2010 09:07 AM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":694456,"id":"1750"},
-{"votes":497854,"id":"60190"},
-{"votes":15788,"id":"38806"},
-{"votes":13096,"id":"61142"},
-{"votes":11580,"id":"61143"}],
+{"votes":700987,"id":"1750"},
+{"votes":503318,"id":"60190"},
+{"votes":15928,"id":"38806"},
+{"votes":13247,"id":"61142"},
+{"votes":11677,"id":"61143"}],
 "final":"1750"}},
 "Governor":
 {"":
@@ -1329,13 +1329,13 @@ votesReady( {"dttime":"Nov 03,2010 09:07 AM","totals":
 "Measure":
 {"75 - Multnomah Casino":
 {"votes":[
-{"votes":795622,"id":"3"},
-{"votes":374463,"id":"2"}],
+{"votes":819578,"id":"3"},
+{"votes":384403,"id":"2"}],
 "final":"3"},
 "74 - Medical Marijuana":
 {"votes":[
-{"votes":676650,"id":"3"},
-{"votes":501721,"id":"2"}],
+{"votes":695158,"id":"3"},
+{"votes":517153,"id":"2"}],
 "final":"3"}}},
 "precincts":
 {"total":1000,"reporting":882},
@@ -3103,10 +3103,10 @@ votesReady( {"dttime":"Nov 03,2010 09:07 AM","totals":
 "final":"9302"},
 "5":
 {"votes":[
-{"votes":144647,"id":"9174"},
-{"votes":63008,"id":"60594"},
-{"votes":5469,"id":"59791"},
-{"votes":5303,"id":"60595"}],
+{"votes":149187,"id":"9174"},
+{"votes":66243,"id":"60594"},
+{"votes":5676,"id":"59791"},
+{"votes":5492,"id":"60595"}],
 "final":"9174"},
 "4":
 {"votes":[
@@ -3140,22 +3140,22 @@ votesReady( {"dttime":"Nov 03,2010 09:07 AM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":774410,"id":"59911"},
-{"votes":767470,"id":"61077"},
-{"votes":35275,"id":"59783"},
-{"votes":20365,"id":"61078"},
-{"votes":17838,"id":"60998"},
-{"votes":10399,"id":"60578"},
-{"votes":5253,"id":"60579"}]}},
+{"votes":778261,"id":"59911"},
+{"votes":771274,"id":"61077"},
+{"votes":35537,"id":"59783"},
+{"votes":20458,"id":"61078"},
+{"votes":17909,"id":"60998"},
+{"votes":10483,"id":"60578"},
+{"votes":5281,"id":"60579"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":830327,"id":"60601"},
-{"votes":607455,"id":"751"},
-{"votes":184124,"id":"61076"},
-{"votes":11961,"id":"60604"},
-{"votes":7862,"id":"60607"},
-{"votes":3119,"id":"53523"}],
+{"votes":834577,"id":"60601"},
+{"votes":610126,"id":"751"},
+{"votes":185447,"id":"61076"},
+{"votes":12002,"id":"60604"},
+{"votes":7889,"id":"60607"},
+{"votes":3142,"id":"53523"}],
 "final":"60601"}}},
 "precincts":
 {"total":462,"reporting":407},
@@ -3661,32 +3661,32 @@ votesReady( {"dttime":"Nov 03,2010 09:07 AM","totals":
 {"name":"Maine","fix":
 {},
 "precincts":
-{"total":184,"reporting":163},
+{"total":184,"reporting":164},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":146790,"id":"59613"},
-{"votes":109761,"id":"60618"}],
+{"votes":147637,"id":"59613"},
+{"votes":110571,"id":"60618"}],
 "final":"59613"},
 "2":
 {"votes":[
-{"votes":130320,"id":"585"},
-{"votes":106701,"id":"60617"}],
+{"votes":131601,"id":"585"},
+{"votes":108081,"id":"60617"}],
 "final":"585"}},
 "Question":
 {"1 - Oxford County Casino":
 {"votes":[
-{"votes":244418,"id":"2"},
-{"votes":241077,"id":"3"}]}},
+{"votes":246781,"id":"2"},
+{"votes":242996,"id":"3"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":189073,"id":"60414"},
-{"votes":182921,"id":"60614"},
-{"votes":96226,"id":"60416"},
-{"votes":25177,"id":"60615"},
-{"votes":5061,"id":"60616"}]}}},
+{"votes":191212,"id":"60414"},
+{"votes":184354,"id":"60614"},
+{"votes":96803,"id":"60416"},
+{"votes":25326,"id":"60615"},
+{"votes":5120,"id":"60616"}]}}},
 "abbr":"ME"},
 "Rhode Island":
 {"races":
