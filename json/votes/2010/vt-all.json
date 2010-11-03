@@ -1,4 +1,4 @@
-{"dttime":"Nov 03,2010 01:43 AM","totals":
+{"dttime":"Nov 03,2010 01:45 AM","totals":
 {"name":"Vermont","precincts":
 {"total":260,"reporting":227},
 "races":
@@ -24,11 +24,11 @@
 "Governor":
 {"":
 {"votes":[
-{"votes":98937,"id":"45461"},
-{"votes":94676,"id":"45222"},
-{"votes":1646,"id":"60895"},
-{"votes":1553,"id":"1158"},
-{"votes":1095,"id":"60893"},
+{"votes":99252,"id":"45461"},
+{"votes":94966,"id":"45222"},
+{"votes":1654,"id":"60895"},
+{"votes":1559,"id":"1158"},
+{"votes":1101,"id":"60893"},
 {"votes":773,"id":"60894"},
 {"votes":366,"id":"50649"}]}}},
 "abbr":"VT","votesby":"town"},
