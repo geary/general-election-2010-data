@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 07:19 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 07:22 AM","totals":
 {"races":
 {"President":
 {"":
@@ -428,8 +428,8 @@ votesReady( {"dttime":"Nov 03,2010 07:19 AM","totals":
 "final":"59492"},
 "3":
 {"votes":[
-{"votes":115767,"id":"56805"},
-{"votes":88893,"id":"60547"}],
+{"votes":118422,"id":"56805"},
+{"votes":90039,"id":"60547"}],
 "final":"56805"},
 "2":
 {"votes":[
@@ -439,8 +439,8 @@ votesReady( {"dttime":"Nov 03,2010 07:19 AM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":311556,"id":"31807"},
-{"votes":270208,"id":"31522"}],
+{"votes":313163,"id":"31807"},
+{"votes":272429,"id":"31522"}],
 "final":"31807"}}},
 "abbr":"NM"},
 "Indiana":
@@ -1088,11 +1088,11 @@ votesReady( {"dttime":"Nov 03,2010 07:19 AM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":1879626,"id":"61073"},
-{"votes":1279998,"id":"55135"},
-{"votes":22466,"id":"790"},
-{"votes":21283,"id":"786"},
-{"votes":20985,"id":"61189"}],
+{"votes":1879819,"id":"61073"},
+{"votes":1285001,"id":"55135"},
+{"votes":22475,"id":"790"},
+{"votes":21294,"id":"786"},
+{"votes":21001,"id":"61189"}],
 "final":"61073"}}},
 "precincts":
 {"total":505,"reporting":505},
@@ -1721,7 +1721,7 @@ votesReady( {"dttime":"Nov 03,2010 07:19 AM","totals":
 {"votes":3664110,"id":"1705"},
 {"votes":2970875,"id":"60339"},
 {"votes":119873,"id":"7691"},
-{"votes":92711,"id":"7042"},
+{"votes":90529,"id":"7042"},
 {"votes":87636,"id":"8004"},
 {"votes":86775,"id":"60825"}],
 "final":"1705"}},
