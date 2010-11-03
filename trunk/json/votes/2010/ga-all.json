@@ -1,4 +1,4 @@
-{"dttime":"Nov 02,2010 10:08 PM","totals":
+{"dttime":"Nov 02,2010 10:09 PM","totals":
 {"races":
 {"U.S. House":
 {"11":
@@ -7,32 +7,32 @@
 "final":"843"},
 "10":
 {"votes":[
-{"votes":70787,"id":"11651"},
-{"votes":31662,"id":"61022"}],
+{"votes":92958,"id":"11651"},
+{"votes":39282,"id":"61022"}],
 "final":"11651"},
 "13":
 {"votes":[
-{"votes":40429,"id":"1257"},
-{"votes":18123,"id":"61023"}],
+{"votes":45502,"id":"1257"},
+{"votes":21334,"id":"61023"}],
 "final":"1257"},
 "12":
 {"votes":[
-{"votes":44047,"id":"1837"},
-{"votes":41611,"id":"59408"}]},
+{"votes":56613,"id":"1837"},
+{"votes":48473,"id":"59408"}]},
 "1":
 {"votes":[
-{"votes":84330,"id":"828"},
-{"votes":32713,"id":"61028"}],
+{"votes":92882,"id":"828"},
+{"votes":35640,"id":"61028"}],
 "final":"828"},
 "3":
 {"votes":[
-{"votes":82005,"id":"13348"},
-{"votes":37192,"id":"61017"}],
+{"votes":91454,"id":"13348"},
+{"votes":42540,"id":"61017"}],
 "final":"13348"},
 "2":
 {"votes":[
-{"votes":53695,"id":"61016"},
-{"votes":42856,"id":"1253"}]},
+{"votes":56720,"id":"61016"},
+{"votes":45412,"id":"1253"}]},
 "5":
 {"votes":[
 {"votes":71860,"id":"833"},
@@ -58,23 +58,24 @@
 "final":"53104"},
 "8":
 {"votes":[
-{"votes":68039,"id":"13031"},
-{"votes":60124,"id":"829"}]}},
+{"votes":68524,"id":"13031"},
+{"votes":60446,"id":"829"}],
+"final":"13031"}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":731619,"id":"835"},
-{"votes":467772,"id":"13241"},
-{"votes":34255,"id":"61027"}],
+{"votes":798604,"id":"835"},
+{"votes":505761,"id":"13241"},
+{"votes":37246,"id":"61027"}],
 "final":"835"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":672697,"id":"841"},
-{"votes":536718,"id":"824"},
-{"votes":49185,"id":"61029"}]}}},
+{"votes":740693,"id":"841"},
+{"votes":580941,"id":"824"},
+{"votes":54177,"id":"61029"}]}}},
 "precincts":
-{"total":2902,"reporting":1703},
+{"total":2902,"reporting":1803},
 "abbr":"GA","name":"Georgia"},
 "state":"GA","candidates":
 {"12873":"GOP|Price|Tom Price","61028":"Dem|Harris|Oscar Harris","61029":"Lib|Monds|John Monds","61027":"Lib|Donovan|Chuck Donovan","61022":"Dem|Edwards|Russell Edwards","61023":"GOP|Crane|Mike Crane","61021":"GOP|Woodall|Rob Woodall","13348":"GOP|Westmoreland|Lynn Westmoreland","833":"Dem|Lewis|John Lewis","1837":"Dem|Barrow|John Barrow","835":"GOP|Isakson|Johnny Isakson","1257":"Dem|Scott|David Scott","13241":"Dem|Thurmond|Michael Thurmond","1253":"Dem|Bishop|Sanford Bishop","61019":"GOP|Little|Fenn Little","61018":"GOP|Carter|Lisbeth Carter","61017":"Dem|Saunders|Frank Saunders","61016":"GOP|Keown|Mike Keown","59402":"Dem|Heckman|Doug Heckman","59400":"Dem|Johnson|Hank Johnson","59408":"GOP|McKinney|Ray McKinney","843":"GOP|Gingrey|Phil Gingrey","841":"GOP|Deal|Nathan Deal","829":"Dem|Marshall|Jim Marshall","828":"GOP|Kingston|Jack Kingston","824":"Dem|Barnes|Roy Barnes","11651":"GOP|Broun|Paul Broun","53104":"GOP|Graves|Tom Graves","13031":"GOP|Scott|Austin Scott"},
