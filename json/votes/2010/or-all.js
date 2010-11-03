@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 03:58 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 04:01 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -29,26 +29,26 @@ votesReady( {"dttime":"Nov 03,2010 03:58 AM","totals":
 "final":"57501"},
 "4":
 {"votes":[
-{"votes":130488,"id":"484"},
-{"votes":108889,"id":"60612"},
-{"votes":4133,"id":"59807"}],
+{"votes":130771,"id":"484"},
+{"votes":109192,"id":"60612"},
+{"votes":4149,"id":"59807"}],
 "final":"484"}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":625197,"id":"1750"},
-{"votes":452401,"id":"60190"},
-{"votes":14017,"id":"38806"},
-{"votes":11426,"id":"61142"},
-{"votes":10274,"id":"61143"}],
+{"votes":625480,"id":"1750"},
+{"votes":452676,"id":"60190"},
+{"votes":14036,"id":"38806"},
+{"votes":11435,"id":"61142"},
+{"votes":10281,"id":"61143"}],
 "final":"1750"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":553075,"id":"60200"},
-{"votes":534937,"id":"39053"},
-{"votes":15614,"id":"61133"},
-{"votes":14504,"id":"61134"}]}},
+{"votes":553418,"id":"60200"},
+{"votes":535174,"id":"39053"},
+{"votes":15630,"id":"61133"},
+{"votes":14509,"id":"61134"}]}},
 "Measure":
 {"75 - Multnomah Casino":
 {"votes":[
