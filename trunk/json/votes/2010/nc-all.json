@@ -1,18 +1,18 @@
-{"dttime":"Nov 02, 2010 08:19 PM","totals":
+{"dttime":"Nov 02, 2010 08:21 PM","totals":
 {"races":
 {"U.S. House":
 {"11":
 {"votes":[
-{"votes":34226,"id":"60665"},
-{"votes":31394,"id":"51655"}]},
+{"votes":34528,"id":"60665"},
+{"votes":31786,"id":"51655"}]},
 "10":
 {"votes":[
 {"votes":26104,"id":"35265"},
 {"votes":9189,"id":"60664"}]},
 "13":
 {"votes":[
-{"votes":61262,"id":"1372"},
-{"votes":49710,"id":"60667"}]},
+{"votes":61676,"id":"1372"},
+{"votes":50373,"id":"60667"}]},
 "12":
 {"votes":[
 {"votes":30908,"id":"458"},
@@ -20,23 +20,23 @@
 {"votes":593,"id":"60666"}]},
 "1":
 {"votes":[
-{"votes":14686,"id":"34352"},
-{"votes":11600,"id":"60534"}]},
+{"votes":18582,"id":"34352"},
+{"votes":13935,"id":"60534"}]},
 "3":
 {"votes":[
-{"votes":35759,"id":"1362"},
-{"votes":11601,"id":"35602"},
-{"votes":1213,"id":"60657"}],
+{"votes":35911,"id":"1362"},
+{"votes":11720,"id":"35602"},
+{"votes":1220,"id":"60657"}],
 "final":"1362"},
 "2":
 {"votes":[
-{"votes":24984,"id":"448"},
-{"votes":16578,"id":"60533"},
-{"votes":688,"id":"60656"}]},
+{"votes":29908,"id":"448"},
+{"votes":19611,"id":"60533"},
+{"votes":809,"id":"60656"}]},
 "5":
 {"votes":[
-{"votes":51210,"id":"1877"},
-{"votes":29744,"id":"60658"}],
+{"votes":52795,"id":"1877"},
+{"votes":30198,"id":"60658"}],
 "final":"1877"},
 "4":
 {"votes":[
@@ -44,12 +44,12 @@
 {"votes":78341,"id":"59430"}]},
 "7":
 {"votes":[
-{"votes":15666,"id":"1025"},
-{"votes":12842,"id":"60660"}]},
+{"votes":24614,"id":"1025"},
+{"votes":20619,"id":"60660"}]},
 "6":
 {"votes":[
-{"votes":37388,"id":"453"},
-{"votes":14046,"id":"60659"}],
+{"votes":53748,"id":"453"},
+{"votes":17308,"id":"60659"}],
 "final":"453"},
 "9":
 {"votes":[
@@ -63,11 +63,11 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":421209,"id":"452"},
-{"votes":346314,"id":"35216"},
-{"votes":14069,"id":"60655"}]}}},
+{"votes":454170,"id":"452"},
+{"votes":362828,"id":"35216"},
+{"votes":15286,"id":"60655"}]}}},
 "precincts":
-{"total":224,"reporting":2},
+{"total":224,"reporting":5},
 "abbr":"NC","name":"North Carolina"},
 "state":"NC","candidates":
 {"458":"Dem|Watt|Mel Watt","35602":"Dem|Rouse|Johnny Rouse","450":"Dem|Price|David Price","452":"GOP|Burr|Richard Burr","453":"GOP|Coble|Howard Coble","34352":"Dem|Butterfield|G.K. Butterfield","60667":"GOP|Randall|William Randall","1877":"GOP|Foxx|Virginia Foxx","60665":"GOP|Miller|Jeff Miller","60664":"Dem|Gregory|Jeff Gregory","60663":"Dem|Doctor|Jeff Doctor","60662":"Lib|Hill|Thomas Hill","59430":"GOP|Lawson|William Lawson","60660":"GOP|Pantano|Ilario Pantano","60661":"GOP|Johnson|Harold Johnson","51655":"Dem|Shuler|Heath Shuler","51652":"Dem|Kissell|Larry Kissell","35216":"Dem|Marshall|Elaine Marshall","448":"Dem|Etheridge|Bob Etheridge","454":"GOP|Myrick|Sue Myrick","35265":"GOP|McHenry|Patrick McHenry","447":"GOP|Dority|Greg Dority","1372":"Dem|Miller|Brad Miller","60533":"GOP|Ellmers|Renee Ellmers","60534":"GOP|Woolard|Ashley Woolard","1025":"Dem|McIntyre|Mike McIntyre","60658":"Dem|Kennedy|Billy Kennedy","60659":"Dem|Turner|Sam Turner","60666":"Lib|Cecil|Lon Cecil","60656":"Lib|Rose|Tom Rose","60657":"Lib|Holloman|Darryl Holloman","60655":"Lib|Beitler|Michael Beitler","1362":"GOP|Jones|Walter Jones"},
