@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 06:59 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 07:02 AM","totals":
 {"abbr":"DC","name":"District of Columbia"},
 "state":"DC","candidates":
 {},
