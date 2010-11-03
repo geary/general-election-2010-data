@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 02:10 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 02:12 AM","totals":
 {"name":"Kentucky","fix":
 {"LaRue":"Larue"},
 "precincts":
@@ -29,7 +29,7 @@ votesReady( {"dttime":"Nov 03,2010 02:10 AM","totals":
 "final":"208"},
 "4":
 {"votes":[
-{"votes":151748,"id":"1306"},
+{"votes":151749,"id":"1306"},
 {"votes":66711,"id":"60532"}],
 "final":"1306"},
 "6":
@@ -40,7 +40,7 @@ votesReady( {"dttime":"Nov 03,2010 02:10 AM","totals":
 {"":
 {"votes":[
 {"votes":759003,"id":"60208"},
-{"votes":598196,"id":"204"}],
+{"votes":598197,"id":"204"}],
 "final":"60208"}}},
 "abbr":"KY"},
 "state":"KY","candidates":
