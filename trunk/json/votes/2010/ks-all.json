@@ -1,13 +1,13 @@
-{"dttime":"Nov 02, 2010 09:02 PM","totals":
+{"dttime":"Nov 02, 2010 09:03 PM","totals":
 {"name":"Kansas","precincts":
-{"total":1321,"reporting":7},
+{"total":1321,"reporting":8},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":2509,"id":"54149"},
-{"votes":881,"id":"60764"},
-{"votes":91,"id":"693"}]},
+{"votes":2818,"id":"54149"},
+{"votes":933,"id":"60764"},
+{"votes":101,"id":"693"}]},
 "3":
 {"votes":[
 {"votes":43931,"id":"54005"},
@@ -32,17 +32,17 @@
 "U.S. Senate":
 {"2010":
 {"votes":[
-{"votes":52810,"id":"692"},
-{"votes":23767,"id":"61083"},
-{"votes":1109,"id":"61102"},
-{"votes":1006,"id":"51224"}]}},
+{"votes":53148,"id":"692"},
+{"votes":23798,"id":"61083"},
+{"votes":1112,"id":"61102"},
+{"votes":1009,"id":"51224"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":49007,"id":"1720"},
-{"votes":27045,"id":"53995"},
-{"votes":1315,"id":"61104"},
-{"votes":982,"id":"61103"}]}}},
+{"votes":49263,"id":"1720"},
+{"votes":27114,"id":"53995"},
+{"votes":1321,"id":"61104"},
+{"votes":989,"id":"61103"}]}}},
 "abbr":"KS","votesby":"district"},
 "state":"KS","candidates":
 {"61105":"Lib|Talbert|Jasmin Talbert","61104":"Lib|Gray|Andrew Gray","61103":"RP|Cannon|Ken Cannon","61102":"Lib|Dann|Michael Dann","59786":"Lib|Garrard|Robert Garrard","61085":"Dem|Goyle|Raj Goyle","61084":"Dem|Hudspeth|Cheryl Hudspeth","59789":"RP|Ducey|Susan Ducey","53995":"Dem|Holland|Tom Holland","61083":"Dem|Johnston|Lisa Johnston","692":"GOP|Moran|Jerry Moran","693":"Lib|Warner|Jack Warner","60768":"GOP|Pompeo|Mike Pompeo","60766":"Dem|Moore|Stephene Moore","60764":"Dem|Jilka|Alan Jilka","3":"|No| No","2":"|Yes| Yes","51224":"RP|Bellis|Joe Bellis","61243":"Lib|Smith|Shawn Smith","54149":"GOP|Huelskamp|Tim Huelskamp","54005":"GOP|Yoder|Kevin Yoder","19867":"GOP|Jenkins|Lynn Jenkins","1720":"GOP|Brownback|Sam Brownback"},

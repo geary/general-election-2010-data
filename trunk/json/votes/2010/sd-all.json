@@ -1,4 +1,4 @@
-{"dttime":"Nov 02, 2010 09:02 PM","totals":
+{"dttime":"Nov 02, 2010 09:03 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -20,11 +20,13 @@
 {"":
 {"votes":[
 {"votes":0,"id":"40715"},
-{"votes":0,"id":"60690"}]}},
+{"votes":0,"id":"60690"}],
+"final":"40715"}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":0,"id":"579"}]}},
+{"votes":0,"id":"579"}],
+"final":"579"}},
 "Initiative":
 {"13 - Medical Marijuana":
 {"votes":[
