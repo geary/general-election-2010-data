@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 02,2010 11:49 PM","totals":
+votesReady( {"dttime":"Nov 02,2010 11:51 PM","totals":
 {"races":
 {"U.S. House":
 {"11":
@@ -32,8 +32,8 @@ votesReady( {"dttime":"Nov 02,2010 11:49 PM","totals":
 "final":"13348"},
 "2":
 {"votes":[
-{"votes":67634,"id":"61016"},
-{"votes":61631,"id":"1253"}],
+{"votes":69701,"id":"61016"},
+{"votes":63780,"id":"1253"}],
 "final":"61016"},
 "5":
 {"votes":[
@@ -60,24 +60,24 @@ votesReady( {"dttime":"Nov 02,2010 11:49 PM","totals":
 "final":"53104"},
 "8":
 {"votes":[
-{"votes":92721,"id":"13031"},
-{"votes":84860,"id":"829"}],
+{"votes":93124,"id":"13031"},
+{"votes":85133,"id":"829"}],
 "final":"13031"}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":1274179,"id":"835"},
-{"votes":836127,"id":"13241"},
-{"votes":59688,"id":"61027"}],
+{"votes":1276778,"id":"835"},
+{"votes":838355,"id":"13241"},
+{"votes":59777,"id":"61027"}],
 "final":"835"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":1169393,"id":"841"},
-{"votes":929942,"id":"824"},
-{"votes":88378,"id":"61029"}]}}},
+{"votes":1171614,"id":"841"},
+{"votes":932563,"id":"824"},
+{"votes":88531,"id":"61029"}]}}},
 "precincts":
-{"total":2902,"reporting":2608},
+{"total":2902,"reporting":2685},
 "abbr":"GA","name":"Georgia"},
 "state":"GA","candidates":
 {"12873":"GOP|Price|Tom Price","61028":"Dem|Harris|Oscar Harris","61029":"Lib|Monds|John Monds","61027":"Lib|Donovan|Chuck Donovan","61022":"Dem|Edwards|Russell Edwards","61023":"GOP|Crane|Mike Crane","61021":"GOP|Woodall|Rob Woodall","13348":"GOP|Westmoreland|Lynn Westmoreland","833":"Dem|Lewis|John Lewis","1837":"Dem|Barrow|John Barrow","835":"GOP|Isakson|Johnny Isakson","1257":"Dem|Scott|David Scott","13241":"Dem|Thurmond|Michael Thurmond","1253":"Dem|Bishop|Sanford Bishop","61019":"GOP|Little|Fenn Little","61018":"GOP|Carter|Lisbeth Carter","61017":"Dem|Saunders|Frank Saunders","61016":"GOP|Keown|Mike Keown","59402":"Dem|Heckman|Doug Heckman","59400":"Dem|Johnson|Hank Johnson","59408":"GOP|McKinney|Ray McKinney","843":"GOP|Gingrey|Phil Gingrey","841":"GOP|Deal|Nathan Deal","829":"Dem|Marshall|Jim Marshall","828":"GOP|Kingston|Jack Kingston","824":"Dem|Barnes|Roy Barnes","11651":"GOP|Broun|Paul Broun","53104":"GOP|Graves|Tom Graves","13031":"GOP|Scott|Austin Scott"},
