@@ -1,14 +1,14 @@
-votesReady( {"dttime":"Nov 03,2010 03:39 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 03:41 AM","totals":
 {"name":"Connecticut","precincts":
-{"total":156,"reporting":128},
+{"total":156,"reporting":135},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":107941,"id":"1139"},
-{"votes":73368,"id":"60573"},
-{"votes":2014,"id":"61202"},
-{"votes":753,"id":"61162"}],
+{"votes":116133,"id":"1139"},
+{"votes":76852,"id":"60573"},
+{"votes":2120,"id":"61202"},
+{"votes":794,"id":"61162"}],
 "final":"1139"},
 "3":
 {"votes":[
@@ -35,10 +35,10 @@ votesReady( {"dttime":"Nov 03,2010 03:39 AM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":535232,"id":"9548"},
-{"votes":447632,"id":"60572"},
-{"votes":9983,"id":"61101"},
-{"votes":5994,"id":"61081"}],
+{"votes":542182,"id":"9548"},
+{"votes":451541,"id":"60572"},
+{"votes":10086,"id":"61101"},
+{"votes":6055,"id":"61081"}],
 "final":"9548"}},
 "Governor":
 {"":
