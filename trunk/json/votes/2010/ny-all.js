@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 02:22 PM","totals":
+votesReady( {"dttime":"Nov 03,2010 02:28 PM","totals":
 {"name":"New York","fix":
 {"Brooklyn":"Kings","Staten Island":"Richmond","Saint Lawrence":"St. Lawrence","Manhattan":"New York"},
 "precincts":
@@ -181,12 +181,12 @@ votesReady( {"dttime":"Nov 03,2010 02:22 PM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":2535386,"id":"1506"},
-{"votes":1403664,"id":"61208"},
-{"votes":57011,"id":"32916"},
-{"votes":44761,"id":"1926"},
-{"votes":39890,"id":"33338"},
-{"votes":22801,"id":"61252"},
+{"votes":2535660,"id":"1506"},
+{"votes":1403849,"id":"61208"},
+{"votes":57014,"id":"32916"},
+{"votes":44762,"id":"1926"},
+{"votes":39894,"id":"33338"},
+{"votes":22810,"id":"61252"},
 {"votes":20766,"id":"32276"}],
 "final":"1506"}}},
 "abbr":"NY"},

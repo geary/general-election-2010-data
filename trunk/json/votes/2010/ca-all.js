@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 02:22 PM","totals":
+votesReady( {"dttime":"Nov 03,2010 02:27 PM","totals":
 {"races":
 {"U.S. House":
 {"30":
@@ -322,7 +322,7 @@ votesReady( {"dttime":"Nov 03,2010 02:22 PM","totals":
 {"votes":117861,"id":"60869"},
 {"votes":108514,"id":"8029"},
 {"votes":90513,"id":"8762"},
-{"votes":65144,"id":"60870"}],
+{"votes":65095,"id":"60870"}],
 "final":"6622"}},
 "Proposition":
 {"19 - Legalize Marijuana":
