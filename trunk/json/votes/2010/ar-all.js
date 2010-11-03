@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 01:43 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 01:45 AM","totals":
 {"name":"Arkansas","fix":
 {"Saint Francis":"St. Francis"},
 "precincts":
@@ -48,7 +48,7 @@ votesReady( {"dttime":"Nov 03,2010 01:43 AM","totals":
 {"votes":[
 {"votes":440952,"id":"5647"},
 {"votes":223659,"id":"60197"},
-{"votes":12461,"id":"52723"}],
+{"votes":12480,"id":"52723"}],
 "final":"5647"}}},
 "abbr":"AR"},
 "state":"AR","candidates":

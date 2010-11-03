@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 01:43 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 01:45 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -21,7 +21,8 @@ votesReady( {"dttime":"Nov 03,2010 01:43 AM","totals":
 {"votes":49113,"id":"4434"},
 {"votes":33361,"id":"52025"},
 {"votes":1382,"id":"1174"},
-{"votes":844,"id":"931"}]}}},
+{"votes":844,"id":"931"}],
+"final":"4434"}}},
 "precincts":
 {"total":438,"reporting":150},
 "abbr":"AK","name":"Alaska"},

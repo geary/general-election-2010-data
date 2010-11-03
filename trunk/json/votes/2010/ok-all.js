@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 01:43 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 01:45 AM","totals":
 {"name":"Oklahoma","fix":
 {"LeFlore":"Le Flore"},
 "precincts":
@@ -34,7 +34,7 @@ votesReady( {"dttime":"Nov 03,2010 01:43 AM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":717147,"id":"37351"},
+{"votes":716347,"id":"37351"},
 {"votes":265519,"id":"38273"},
 {"votes":25047,"id":"59449"},
 {"votes":8790,"id":"61099"}],
