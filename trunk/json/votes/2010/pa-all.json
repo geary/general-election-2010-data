@@ -1,4 +1,4 @@
-{"dttime":"Nov 02, 2010 09:32 PM","totals":
+{"dttime":"Nov 02, 2010 09:33 PM","totals":
 {"races":
 {"U.S. House":
 {"11":
@@ -7,8 +7,8 @@
 {"votes":44060,"id":"251"}]},
 "10":
 {"votes":[
-{"votes":33071,"id":"60542"},
-{"votes":31386,"id":"51547"}]},
+{"votes":36787,"id":"60542"},
+{"votes":34314,"id":"51547"}]},
 "13":
 {"votes":[
 {"votes":26424,"id":"39744"},
@@ -16,8 +16,8 @@
 "final":"39744"},
 "12":
 {"votes":[
-{"votes":15015,"id":"60307"},
-{"votes":13890,"id":"60309"}]},
+{"votes":15501,"id":"60307"},
+{"votes":14280,"id":"60309"}]},
 "15":
 {"votes":[
 {"votes":6528,"id":"60537"},
@@ -30,8 +30,8 @@
 {"votes":4109,"id":"61206"}]},
 "17":
 {"votes":[
-{"votes":32886,"id":"259"},
-{"votes":23311,"id":"39490"}]},
+{"votes":36432,"id":"259"},
+{"votes":27459,"id":"39490"}]},
 "16":
 {"votes":[
 {"votes":8250,"id":"49963"},
@@ -51,8 +51,8 @@
 "final":"237"},
 "3":
 {"votes":[
-{"votes":25515,"id":"58298"},
-{"votes":25350,"id":"60917"}]},
+{"votes":44815,"id":"58298"},
+{"votes":43783,"id":"60917"}]},
 "2":
 {"votes":[
 {"votes":46193,"id":"239"},
@@ -60,42 +60,42 @@
 "final":"239"},
 "5":
 {"votes":[
-{"votes":27971,"id":"58283"},
-{"votes":11333,"id":"60543"},
-{"votes":1354,"id":"61204"}]},
+{"votes":28375,"id":"58283"},
+{"votes":11442,"id":"60543"},
+{"votes":1360,"id":"61204"}]},
 "4":
 {"votes":[
-{"votes":31315,"id":"51543"},
-{"votes":27109,"id":"60544"}]},
+{"votes":31917,"id":"51543"},
+{"votes":27266,"id":"60544"}]},
 "7":
 {"votes":[
-{"votes":0,"id":"60429"},
-{"votes":0,"id":"60432"},
-{"votes":0,"id":"61205"}]},
+{"votes":29101,"id":"60432"},
+{"votes":20375,"id":"60429"},
+{"votes":508,"id":"61205"}]},
 "6":
 {"votes":[
 {"votes":18230,"id":"244"},
 {"votes":16938,"id":"60434"}]},
 "9":
 {"votes":[
-{"votes":20799,"id":"249"},
-{"votes":9840,"id":"60795"}]},
+{"votes":29450,"id":"249"},
+{"votes":12766,"id":"60795"}]},
 "8":
 {"votes":[
-{"votes":7682,"id":"51546"},
-{"votes":7176,"id":"51178"}]}},
+{"votes":38526,"id":"51178"},
+{"votes":35943,"id":"51546"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":524773,"id":"51545"},
-{"votes":412880,"id":"257"}]}},
+{"votes":647865,"id":"51545"},
+{"votes":548795,"id":"257"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":485195,"id":"39698"},
-{"votes":445256,"id":"60204"}]}}},
+{"votes":584919,"id":"39698"},
+{"votes":577721,"id":"60204"}]}}},
 "precincts":
-{"total":9241,"reporting":2932},
+{"total":9241,"reporting":3425},
 "abbr":"PA","name":"Pennsylvania"},
 "state":"PA","candidates":
 {"60542":"GOP|Marino|Thomas Marino","60309":"GOP|Burns|Tim Burns","60540":"GOP|Hellberg|Rick Hellberg","60204":"GOP|Corbett|Tom Corbett","60544":"GOP|Rothfus|Keith Rothfus","60543":"Dem|Pipe|Michael Pipe","39698":"Dem|Onorato|Dan Onorato","60307":"Dem|Critz|Mark Critz","258":"GOP|Pitts|Joseph Pitts","259":"Dem|Holden|Tim Holden","239":"Dem|Fattah|Chaka Fattah","252":"GOP|Barletta|Lou Barletta","251":"Dem|Kanjorski|Paul Kanjorski","257":"GOP|Toomey|Pat Toomey","255":"Dem|Doyle|Mike Doyle","60429":"Dem|Lentz|Bryan Lentz","237":"Dem|Brady|Robert Brady","60917":"GOP|Kelly|Mike Kelly","249":"GOP|Shuster|Bill Shuster","51178":"GOP|Fitzpatrick|Michael Fitzpatrick","51546":"Dem|Murphy|Patrick Murphy","58298":"Dem|Dahlkemper|Kathy Dahlkemper","61206":"Grn|Bortz|Ed Bortz","61207":"Ind|Towne|Jake Towne","61204":"Lib|Etzel|Vernon Etzel","61205":"Ind|Schneller|James Schneller","61203":"Ind|Monighan|Joshua Monighan","51543":"Dem|Altmire|Jason Altmire","262":"GOP|Platts|Todd Platts","60539":"GOP|Haluszczak|Melissa Haluszczak","60538":"Dem|Connolly|Dan Connolly","1865":"GOP|Dent|Charles Dent","60537":"Dem|Callahan|John Callahan","60536":"GOP|Adcock|Dee Adcock","60795":"Dem|Conners|Tom Conners","39744":"Dem|Schwartz|Allyson Schwartz","244":"GOP|Gerlach|Jim Gerlach","60432":"GOP|Meehan|Patrick Meehan","51547":"Dem|Carney|Christopher Carney","49963":"Dem|Herr|Lois Herr","51545":"Dem|Sestak|Joe Sestak","261":"GOP|Murphy|Tim Murphy","60434":"Dem|Trivedi|Manan Trivedi","58283":"GOP|Thompson|Glenn Thompson","60433":"Dem|Sanders|Ryan Sanders","39490":"GOP|Argall|Dave Argall"},

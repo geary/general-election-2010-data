@@ -1,32 +1,32 @@
-{"dttime":"Nov 02, 2010 09:32 PM","totals":
+{"dttime":"Nov 02, 2010 09:33 PM","totals":
 {"name":"Massachusetts","fix":
 {"Barnstable":"Barnstable Town","Manchester":"Manchester-by-the-Sea"},
 "precincts":
-{"total":255,"reporting":70},
+{"total":255,"reporting":73},
 "races":
 {"U.S. House":
 {"10":
 {"votes":[
-{"votes":33537,"id":"22757"},
-{"votes":28978,"id":"54436"},
-{"votes":4744,"id":"22780"},
-{"votes":3073,"id":"61238"},
-{"votes":670,"id":"61239"}]},
+{"votes":40757,"id":"22757"},
+{"votes":33473,"id":"54436"},
+{"votes":5174,"id":"22780"},
+{"votes":4419,"id":"61238"},
+{"votes":782,"id":"61239"}]},
 "1":
 {"votes":[
-{"votes":31443,"id":"880"},
-{"votes":16982,"id":"60669"},
-{"votes":2486,"id":"61227"}],
+{"votes":33813,"id":"880"},
+{"votes":18916,"id":"60669"},
+{"votes":2712,"id":"61227"}],
 "final":"880"},
 "3":
 {"votes":[
-{"votes":47690,"id":"883"},
-{"votes":29918,"id":"61229"},
-{"votes":3563,"id":"61230"}]},
+{"votes":55748,"id":"883"},
+{"votes":36490,"id":"61229"},
+{"votes":4416,"id":"61230"}]},
 "2":
 {"votes":[
-{"votes":57186,"id":"882"},
-{"votes":33496,"id":"61228"}]},
+{"votes":57993,"id":"882"},
+{"votes":34260,"id":"61228"}]},
 "5":
 {"votes":[
 {"votes":48802,"id":"59617"},
@@ -42,17 +42,17 @@
 "final":"884"},
 "7":
 {"votes":[
-{"votes":42946,"id":"888"},
-{"votes":24670,"id":"61235"}]},
+{"votes":65760,"id":"888"},
+{"votes":35594,"id":"61235"}]},
 "6":
 {"votes":[
 {"votes":66013,"id":"887"},
 {"votes":48852,"id":"61038"}]},
 "9":
 {"votes":[
-{"votes":57649,"id":"890"},
-{"votes":20304,"id":"61236"},
-{"votes":4300,"id":"61237"}],
+{"votes":63938,"id":"890"},
+{"votes":23782,"id":"61236"},
+{"votes":4968,"id":"61237"}],
 "final":"890"},
 "8":
 {"votes":[
@@ -61,10 +61,10 @@
 "Governor":
 {"":
 {"votes":[
-{"votes":434446,"id":"51516"},
-{"votes":368531,"id":"60668"},
-{"votes":72188,"id":"22674"},
-{"votes":11895,"id":"895"}]}}},
+{"votes":449367,"id":"51516"},
+{"votes":382923,"id":"60668"},
+{"votes":74376,"id":"22674"},
+{"votes":12368,"id":"895"}]}}},
 "abbr":"MA","votesby":"town"},
 "state":"MA","candidates":
 {"883":"Dem|McGovern|Jim McGovern","882":"Dem|Neal|Richard Neal","61231":"GOP|Bielat|Sean Bielat","880":"Dem|Olver|John Olver","887":"Dem|Tierney|John Tierney","61236":"GOP|Harrison|Vernon Harrison","61235":"GOP|Dembrowski|Gerry Dembrowski","61234":"Oth|Clark|Bob Clark","59899":"Oth|Allen|Susan Allen","61239":"Oth|van Nes|Joe van Nes","61238":"Ind|Sheets|Jim Sheets","61237":"Ind|Dunkelbarger|Phil Dunkelbarger","61230":"Ind|Barron|Patrick Barron","51516":"Dem|Patrick|Deval Patrick","61039":"GOP|Golnik|Jon Golnik","61233":"Oth|Brown|Dale Brown","60669":"GOP|Gunn|Bill Gunn","59617":"Dem|Tsongas|Niki Tsongas","884":"Dem|Frank|Barney Frank","22757":"Dem|Keating|Bill Keating","61232":"Oth|Jordan|Donald Jordan","60668":"GOP|Baker|Charlie Baker","889":"Dem|Capuano|Mike Capuano","890":"Dem|Lynch|Stephen Lynch","888":"Dem|Markey|Ed Markey","61228":"GOP|Wesley|Tom Wesley","61229":"GOP|Lamb|Marty Lamb","895":"Grn|Stein|Jill Stein","61227":"Ind|Engel|Michael Engel","22780":"Ind|Lewis|Maryanne Lewis","61038":"GOP|Hudak|Bill Hudak","22674":"Ind|Cahill|Tim Cahill","54436":"GOP|Perry|Jeff Perry"},
