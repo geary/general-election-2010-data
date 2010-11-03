@@ -1,4 +1,4 @@
-{"dttime":"Nov 02, 2010 09:50 PM","totals":
+{"dttime":"Nov 02, 2010 09:55 PM","totals":
 {"name":"Louisiana","fix":
 {"DeSoto":"De Soto","Jeff Davis":"Jefferson Davis","LaSalle":"La Salle"},
 "precincts":
@@ -35,8 +35,8 @@
 "final":"50418"},
 "6":
 {"votes":[
-{"votes":0,"id":"59656"},
-{"votes":0,"id":"60654"}]}},
+{"votes":19883,"id":"59656"},
+{"votes":6459,"id":"60654"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
