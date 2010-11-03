@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 02:16 PM","totals":
+votesReady( {"dttime":"Nov 03,2010 02:22 PM","totals":
 {"name":"Virginia","fix":
 {},
 "precincts":
@@ -68,9 +68,9 @@ votesReady( {"dttime":"Nov 03,2010 02:16 PM","totals":
 "final":"58574"},
 "8":
 {"votes":[
-{"votes":116264,"id":"1453"},
-{"votes":71097,"id":"60331"},
-{"votes":2700,"id":"59830"}],
+{"votes":116269,"id":"1453"},
+{"votes":71100,"id":"60331"},
+{"votes":2702,"id":"59830"}],
 "final":"1453"}}},
 "abbr":"VA"},
 "state":"VA","candidates":
