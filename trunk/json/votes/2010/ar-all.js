@@ -1,20 +1,20 @@
-votesReady( {"dttime":"Nov 03,2010 03:11 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 03:14 AM","totals":
 {"name":"Arkansas","fix":
 {"Saint Francis":"St. Francis"},
 "precincts":
-{"total":2406,"reporting":2119},
+{"total":2406,"reporting":2221},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":86763,"id":"60226"},
-{"votes":72649,"id":"60223"},
-{"votes":7656,"id":"61138"}],
+{"votes":87010,"id":"60226"},
+{"votes":73160,"id":"60223"},
+{"votes":7695,"id":"61138"}],
 "final":"60226"},
 "3":
 {"votes":[
-{"votes":104043,"id":"60238"},
-{"votes":42496,"id":"60233"}],
+{"votes":116949,"id":"60238"},
+{"votes":46930,"id":"60233"}],
 "final":"60238"},
 "2":
 {"votes":[
@@ -32,10 +32,10 @@ votesReady( {"dttime":"Nov 03,2010 03:11 AM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":396516,"id":"1620"},
-{"votes":266282,"id":"7086"},
-{"votes":23073,"id":"60551"},
-{"votes":13129,"id":"61137"}],
+{"votes":425771,"id":"1620"},
+{"votes":274968,"id":"7086"},
+{"votes":24094,"id":"60551"},
+{"votes":13703,"id":"61137"}],
 "final":"1620"}},
 "Issue":
 {"1 - Hunting and Fishing":
@@ -46,9 +46,9 @@ votesReady( {"dttime":"Nov 03,2010 03:11 AM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":455848,"id":"5647"},
-{"votes":231240,"id":"60197"},
-{"votes":13025,"id":"52723"}],
+{"votes":466317,"id":"5647"},
+{"votes":238002,"id":"60197"},
+{"votes":13351,"id":"52723"}],
 "final":"5647"}}},
 "abbr":"AR"},
 "state":"AR","candidates":

@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 03:11 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 03:14 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -54,7 +54,7 @@ votesReady( {"dttime":"Nov 03,2010 03:11 AM","totals":
 {"votes":3214,"id":"60756"}],
 "final":"30767"}}},
 "precincts":
-{"total":492,"reporting":492},
+{"total":492,"reporting":490},
 "abbr":"NV","name":"Nevada"},
 "state":"NV","candidates":
 {"30718":"Dem|Price|Nancy Price","60751":"Lib|Klapproth|Ed Klapproth","30878":"Dem|Titus|Dina Titus","60747":"IAP|Fasano|Tim Fasano","51987":"GOP|Wegner|Kenneth Wegner","60689":"GOP|Heck|Joe Heck","60746":"TEA|Ashjian|Scott Ashjian","59552":"Ind|Reeves|Jeffrey Reeves","60748":"Ind|Haines|Michael Haines","60749":"Ind|Holland|Jesse Holland","56895":"GOP|Angle|Sharron Angle","51349":"Lib|Silvestri|Joseph Silvestri","30423":"GOP|Heller|Dean Heller","3":"|No| No","2":"|Yes| Yes","100013":"NPD|None of these candidates| None of these candidates","30767":"GOP|Sandoval|Brian Sandoval","30396":"IAP|Hansen|Jonathan Hansen","60756":"Ind|Honig|Aaron Honig","60755":"Ind|Disimone|Eugene Disimone","60754":"Grn|Curtis|David Curtis","60753":"IAP|Narter|Scott Narter","60752":"IAP|Best|Russell Best","489":"Dem|Berkley|Shelley Berkley","60750":"Ind|Stand|Wil Stand","59549":"Ind|Michaels|Barry Michaels","60757":"Lib|Lampitt|Arthur Lampitt","59554":"IAP|Fitzgibbons|Floyd Fitzgibbons","30739":"Dem|Reid|Rory Reid","1741":"Dem|Reid|Harry Reid"},

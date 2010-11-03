@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 03:11 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 03:14 AM","totals":
 {"races":
 {"U.S. House":
 {"24":
@@ -154,8 +154,8 @@ votesReady( {"dttime":"Nov 03,2010 03:11 AM","totals":
 "Referendum":
 {"1 - Balanced Budget":
 {"votes":[
-{"votes":3339794,"id":"2"},
-{"votes":1306741,"id":"3"}],
+{"votes":3342657,"id":"2"},
+{"votes":1307924,"id":"3"}],
 "final":"2"}},
 "Governor":
 {"":
@@ -164,7 +164,7 @@ votesReady( {"dttime":"Nov 03,2010 03:11 AM","totals":
 {"votes":2497828,"id":"60518"},
 {"votes":120438,"id":"60520"},
 {"votes":18419,"id":"60523"},
-{"votes":18148,"id":"60519"},
+{"votes":18146,"id":"60519"},
 {"votes":13349,"id":"60556"},
 {"votes":7276,"id":"60555"}]}}},
 "precincts":

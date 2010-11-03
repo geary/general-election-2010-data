@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 03:11 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 03:14 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -52,13 +52,13 @@ votesReady( {"dttime":"Nov 03,2010 03:11 AM","totals":
 "Amendment":
 {"62 - Definition of Person":
 {"votes":[
-{"votes":1044890,"id":"3"},
-{"votes":442511,"id":"2"}],
+{"votes":1047120,"id":"3"},
+{"votes":443505,"id":"2"}],
 "final":"3"},
 "63 - Health Care":
 {"votes":[
-{"votes":765429,"id":"3"},
-{"votes":695699,"id":"2"}]}},
+{"votes":767068,"id":"3"},
+{"votes":697155,"id":"2"}]}},
 "U.S. Senate":
 {"":
 {"votes":[

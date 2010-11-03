@@ -1,25 +1,25 @@
-votesReady( {"dttime":"Nov 03,2010 03:11 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 03:14 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":112898,"id":"478"},
-{"votes":88081,"id":"60610"},
-{"votes":2459,"id":"61132"},
-{"votes":1962,"id":"59846"},
-{"votes":1540,"id":"39371"}],
+{"votes":113184,"id":"478"},
+{"votes":88134,"id":"60610"},
+{"votes":2464,"id":"61132"},
+{"votes":1969,"id":"59846"},
+{"votes":1544,"id":"39371"}],
 "final":"478"},
 "3":
 {"votes":[
-{"votes":118708,"id":"482"},
-{"votes":26445,"id":"61141"},
-{"votes":22363,"id":"58449"},
-{"votes":3356,"id":"59797"}],
+{"votes":124882,"id":"482"},
+{"votes":28590,"id":"61141"},
+{"votes":22640,"id":"58449"},
+{"votes":3543,"id":"59797"}],
 "final":"482"},
 "2":
 {"votes":[
-{"votes":170959,"id":"481"},
-{"votes":57202,"id":"60611"}],
+{"votes":172186,"id":"481"},
+{"votes":57582,"id":"60611"}],
 "final":"481"},
 "5":
 {"votes":[
@@ -36,32 +36,32 @@ votesReady( {"dttime":"Nov 03,2010 03:11 AM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":615066,"id":"1750"},
-{"votes":446300,"id":"60190"},
-{"votes":13730,"id":"38806"},
-{"votes":11236,"id":"61142"},
-{"votes":10051,"id":"61143"}],
+{"votes":622548,"id":"1750"},
+{"votes":449304,"id":"60190"},
+{"votes":13875,"id":"38806"},
+{"votes":11345,"id":"61142"},
+{"votes":10193,"id":"61143"}],
 "final":"1750"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":543108,"id":"60200"},
-{"votes":524751,"id":"39053"},
-{"votes":15236,"id":"61133"},
-{"votes":14194,"id":"61134"}]}},
+{"votes":549394,"id":"60200"},
+{"votes":532830,"id":"39053"},
+{"votes":15430,"id":"61133"},
+{"votes":14390,"id":"61134"}]}},
 "Measure":
 {"75 - Multnomah Casino":
 {"votes":[
-{"votes":718875,"id":"3"},
-{"votes":338119,"id":"2"}],
+{"votes":729073,"id":"3"},
+{"votes":343039,"id":"2"}],
 "final":"3"},
 "74 - Medical Marijuana":
 {"votes":[
-{"votes":615845,"id":"3"},
-{"votes":448394,"id":"2"}],
+{"votes":623211,"id":"3"},
+{"votes":456291,"id":"2"}],
 "final":"3"}}},
 "precincts":
-{"total":1000,"reporting":821},
+{"total":1000,"reporting":834},
 "abbr":"OR","name":"Oregon"},
 "state":"OR","candidates":
 {"60200":"GOP|Dudley|Chris Dudley","51866":"PAG|Lugo|Chris Lugo","38736":"GOP|Bruun|Scott Bruun","60190":"GOP|Huffman|Jim Huffman","61134":"Lib|Wagner|Wes Wagner","3":"|No| No","2":"|Yes| Yes","39371":"Lib|Tabor|Joe Tabor","61132":"CST|LaMunyon|Don LaMunyon","61133":"CST|Kord|Greg Kord","59807":"PAG|Beilstein|Mike Beilstein","1750":"Dem|Wyden|Ron Wyden","59846":"PAG|Henry|Chris Henry","59797":"PAG|Meo|Michael Meo","58449":"GOP|Lopez|Delia Lopez","484":"Dem|DeFazio|Peter DeFazio","482":"Dem|Blumenauer|Earl Blumenauer","481":"GOP|Walden|Greg Walden","38806":"WF|Cronk|Bruce Cronk","60612":"GOP|Robinson|Art Robinson","60610":"GOP|Cornilles|Rob Cornilles","60611":"Dem|Segers|Joyce Segers","61141":"Lib|Lawrence|Jeff Lawrence","57501":"Dem|Schrader|Kurt Schrader","61143":"Prg|Staggenborg|Rick Staggenborg","61142":"Lib|Delphine|Marc Delphine","39053":"Dem|Kitzhaber|John Kitzhaber","478":"Dem|Wu|David Wu"},
