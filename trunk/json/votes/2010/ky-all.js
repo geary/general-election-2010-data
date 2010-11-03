@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 02:10 PM","totals":
+votesReady( {"dttime":"Nov 03,2010 02:16 PM","totals":
 {"name":"Kentucky","fix":
 {"LaRue":"Larue"},
 "precincts":
@@ -40,7 +40,7 @@ votesReady( {"dttime":"Nov 03,2010 02:10 PM","totals":
 {"":
 {"votes":[
 {"votes":754952,"id":"60208"},
-{"votes":599033,"id":"204"}],
+{"votes":599023,"id":"204"}],
 "final":"60208"}}},
 "abbr":"KY"},
 "state":"KY","candidates":
