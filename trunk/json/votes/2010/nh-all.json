@@ -1,8 +1,8 @@
-{"dttime":"Nov 02,2010 09:59 PM","totals":
+{"dttime":"Nov 02,2010 10:01 PM","totals":
 {"name":"New Hampshire","fix":
 {"":"Atkinson and Gilmanton Academy"},
 "precincts":
-{"total":301,"reporting":99},
+{"total":301,"reporting":100},
 "races":
 {"U.S. House":
 {"1":
@@ -20,17 +20,17 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":105170,"id":"61040"},
-{"votes":55309,"id":"50448"},
-{"votes":3152,"id":"61219"},
-{"votes":1692,"id":"1075"}],
+{"votes":111740,"id":"61040"},
+{"votes":57606,"id":"50448"},
+{"votes":3256,"id":"61219"},
+{"votes":1748,"id":"1075"}],
 "final":"61040"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":82530,"id":"7722"},
-{"votes":79301,"id":"59860"},
-{"votes":3376,"id":"1072"}],
+{"votes":86178,"id":"7722"},
+{"votes":84576,"id":"59860"},
+{"votes":3471,"id":"1072"}],
 "final":"7722"}}},
 "abbr":"NH","votesby":"town"},
 "state":"NH","candidates":

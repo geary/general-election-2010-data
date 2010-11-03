@@ -1,24 +1,24 @@
-{"dttime":"Nov 02,2010 09:59 PM","totals":
+{"dttime":"Nov 02,2010 10:01 PM","totals":
 {"name":"Oklahoma","fix":
 {"LeFlore":"Le Flore"},
 "precincts":
-{"total":349,"reporting":21},
+{"total":349,"reporting":45},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":10853,"id":"1394"},
-{"votes":3358,"id":"60943"}],
+{"votes":23567,"id":"1394"},
+{"votes":6247,"id":"60943"}],
 "final":"1394"},
 "3":
 {"votes":[
-{"votes":74251,"id":"1396"},
-{"votes":21249,"id":"59450"}],
+{"votes":74806,"id":"1396"},
+{"votes":21401,"id":"59450"}],
 "final":"1396"},
 "2":
 {"votes":[
-{"votes":68985,"id":"50187"},
-{"votes":52404,"id":"61120"}],
+{"votes":71391,"id":"50187"},
+{"votes":54431,"id":"61120"}],
 "final":"50187"},
 "5":
 {"votes":[
@@ -33,37 +33,37 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":269809,"id":"37351"},
-{"votes":106668,"id":"38273"},
-{"votes":9514,"id":"59449"},
-{"votes":4038,"id":"61099"}],
+{"votes":286138,"id":"37351"},
+{"votes":111176,"id":"38273"},
+{"votes":10025,"id":"59449"},
+{"votes":4194,"id":"61099"}],
 "final":"37351"}},
 "Question":
 {"751 - English Official Language":
 {"votes":[
-{"votes":256850,"id":"2"},
-{"votes":80201,"id":"3"}],
+{"votes":312966,"id":"2"},
+{"votes":100250,"id":"3"}],
 "final":"2"},
 "756 - Health Care":
 {"votes":[
-{"votes":211953,"id":"2"},
-{"votes":113748,"id":"3"}],
+{"votes":229220,"id":"2"},
+{"votes":124073,"id":"3"}],
 "final":"2"},
 "755 - Ban Intl or Islamic Law":
 {"votes":[
-{"votes":228544,"id":"2"},
-{"votes":96752,"id":"3"}],
+{"votes":248618,"id":"2"},
+{"votes":105729,"id":"3"}],
 "final":"2"},
 "746 - Voter ID":
 {"votes":[
-{"votes":247190,"id":"2"},
-{"votes":92029,"id":"3"}],
+{"votes":301751,"id":"2"},
+{"votes":110792,"id":"3"}],
 "final":"2"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":231087,"id":"37501"},
-{"votes":173965,"id":"57325"}],
+{"votes":245622,"id":"37501"},
+{"votes":181031,"id":"57325"}],
 "final":"37501"}}},
 "abbr":"OK"},
 "state":"OK","candidates":
