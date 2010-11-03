@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 01:15 PM","totals":
+votesReady( {"dttime":"Nov 03,2010 01:21 PM","totals":
 {"races":
 {"President":
 {"":
@@ -1386,9 +1386,9 @@ votesReady( {"dttime":"Nov 03,2010 01:15 PM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":545302,"id":"60571"},
-{"votes":540221,"id":"9881"},
-{"votes":17021,"id":"61100"}],
+{"votes":548792,"id":"60571"},
+{"votes":541982,"id":"9881"},
+{"votes":17090,"id":"61100"}],
 "final":"9881"}}},
 "abbr":"CT","votesby":"town"},
 "Montana":
@@ -1820,10 +1820,10 @@ votesReady( {"dttime":"Nov 03,2010 01:15 PM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":1096610,"id":"51516"},
-{"votes":949302,"id":"60668"},
-{"votes":181290,"id":"22674"},
-{"votes":32456,"id":"895"}],
+{"votes":1098383,"id":"51516"},
+{"votes":951759,"id":"60668"},
+{"votes":181854,"id":"22674"},
+{"votes":32536,"id":"895"}],
 "final":"51516"}}},
 "abbr":"MA","votesby":"town"},
 "West Virginia":
@@ -2058,13 +2058,13 @@ votesReady( {"dttime":"Nov 03,2010 01:15 PM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":112171,"id":"45461"},
-{"votes":107238,"id":"45222"},
-{"votes":1818,"id":"60895"},
-{"votes":1710,"id":"1158"},
-{"votes":1241,"id":"60893"},
-{"votes":829,"id":"60894"},
-{"votes":407,"id":"50649"}]}}},
+{"votes":112425,"id":"45461"},
+{"votes":107482,"id":"45222"},
+{"votes":1819,"id":"60895"},
+{"votes":1715,"id":"1158"},
+{"votes":1245,"id":"60893"},
+{"votes":830,"id":"60894"},
+{"votes":411,"id":"50649"}]}}},
 "abbr":"VT","votesby":"town"},
 "Georgia":
 {"races":
