@@ -1,4 +1,4 @@
-{"dttime":"Nov 02, 2010 09:08 PM","totals":
+{"dttime":"Nov 02, 2010 09:10 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -9,9 +9,9 @@
 {"votes":0,"id":"56221"}]},
 "2":
 {"votes":[
-{"votes":0,"id":"967"},
-{"votes":0,"id":"968"},
-{"votes":0,"id":"59621"}]}},
+{"votes":189,"id":"967"},
+{"votes":180,"id":"59621"},
+{"votes":54,"id":"968"}]}},
 "Question":
 {"1 - State Name Change":
 {"votes":[

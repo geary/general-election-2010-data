@@ -1,4 +1,4 @@
-{"dttime":"Nov 02, 2010 09:08 PM","totals":
+{"dttime":"Nov 02, 2010 09:10 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -19,8 +19,8 @@
 "Governor":
 {"":
 {"votes":[
-{"votes":0,"id":"40715"},
-{"votes":0,"id":"60690"}],
+{"votes":7974,"id":"40715"},
+{"votes":4317,"id":"60690"}],
 "final":"40715"}},
 "U.S. Senate":
 {"":

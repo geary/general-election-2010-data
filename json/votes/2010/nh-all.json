@@ -1,4 +1,4 @@
-{"dttime":"Nov 02, 2010 09:08 PM","totals":
+{"dttime":"Nov 02, 2010 09:10 PM","totals":
 {"name":"New Hampshire","fix":
 {"":"Atkinson and Gilmanton Academy"},
 "precincts":
@@ -7,22 +7,22 @@
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":34909,"id":"61212"},
-{"votes":24590,"id":"53539"},
-{"votes":2398,"id":"61220"}]},
+{"votes":35957,"id":"61212"},
+{"votes":25264,"id":"53539"},
+{"votes":2479,"id":"61220"}]},
 "2":
 {"votes":[
-{"votes":11105,"id":"1080"},
-{"votes":9414,"id":"61213"},
+{"votes":11112,"id":"1080"},
+{"votes":9422,"id":"61213"},
 {"votes":470,"id":"61221"},
-{"votes":416,"id":"61222"}]}},
+{"votes":417,"id":"61222"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":53066,"id":"61040"},
-{"votes":27780,"id":"50448"},
-{"votes":1551,"id":"61219"},
-{"votes":894,"id":"1075"}],
+{"votes":55897,"id":"61040"},
+{"votes":28341,"id":"50448"},
+{"votes":1575,"id":"61219"},
+{"votes":913,"id":"1075"}],
 "final":"61040"}},
 "Governor":
 {"":
