@@ -1,6 +1,6 @@
-votesReady( {"dttime":"Nov 03,2010 02:52 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 02:54 AM","totals":
 {"name":"Kansas","precincts":
-{"total":1321,"reporting":1318},
+{"total":1321,"reporting":1321},
 "races":
 {"U.S. House":
 {"1":
