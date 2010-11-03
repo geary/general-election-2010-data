@@ -1,4 +1,4 @@
-{"dttime":"Nov 02, 2010 09:50 PM","totals":
+{"dttime":"Nov 02, 2010 09:55 PM","totals":
 {"name":"Minnesota","fix":
 {"Lac Qui Parle":"Lac qui Parle"},
 "precincts":
@@ -27,7 +27,8 @@
 {"votes":33576,"id":"60716"},
 {"votes":5175,"id":"60715"},
 {"votes":4743,"id":"60743"},
-{"votes":1690,"id":"26037"}]},
+{"votes":1690,"id":"26037"}],
+"final":"55265"},
 "4":
 {"votes":[
 {"votes":32344,"id":"989"},
