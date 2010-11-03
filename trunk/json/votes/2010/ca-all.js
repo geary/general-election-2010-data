@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 03:27 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 03:29 AM","totals":
 {"races":
 {"U.S. House":
 {"30":
@@ -313,23 +313,23 @@ votesReady( {"dttime":"Nov 03,2010 03:27 AM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":2634507,"id":"6622"},
-{"votes":2161072,"id":"60373"},
-{"votes":81431,"id":"60869"},
-{"votes":73327,"id":"8029"},
-{"votes":62028,"id":"8762"},
-{"votes":41346,"id":"60870"}],
+{"votes":2635728,"id":"6622"},
+{"votes":2162807,"id":"60373"},
+{"votes":81537,"id":"60869"},
+{"votes":73388,"id":"8029"},
+{"votes":62067,"id":"8762"},
+{"votes":41372,"id":"60870"}],
 "final":"6622"}},
 "Proposition":
 {"19 - Legalize Marijuana":
 {"votes":[
-{"votes":2706080,"id":"3"},
-{"votes":2235369,"id":"2"}],
+{"votes":2713847,"id":"3"},
+{"votes":2241183,"id":"2"}],
 "final":"3"},
 "25 - Budget Vote":
 {"votes":[
-{"votes":2598422,"id":"2"},
-{"votes":2166093,"id":"3"}]}}},
+{"votes":2601169,"id":"2"},
+{"votes":2168482,"id":"3"}]}}},
 "precincts":
 {"total":565,"reporting":464},
 "abbr":"CA","name":"California"},
