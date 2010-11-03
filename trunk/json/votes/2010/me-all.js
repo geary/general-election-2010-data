@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 12:51 PM","totals":
+votesReady( {"dttime":"Nov 03,2010 12:57 PM","totals":
 {"name":"Maine","fix":
 {},
 "precincts":
@@ -19,7 +19,8 @@ votesReady( {"dttime":"Nov 03,2010 12:51 PM","totals":
 {"1 - Oxford County Casino":
 {"votes":[
 {"votes":269270,"id":"2"},
-{"votes":264135,"id":"3"}]}},
+{"votes":264135,"id":"3"}],
+"final":"2"}},
 "Governor":
 {"":
 {"votes":[

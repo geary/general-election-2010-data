@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 12:51 PM","totals":
+votesReady( {"dttime":"Nov 03,2010 12:57 PM","totals":
 {"name":"Connecticut","precincts":
 {"total":156,"reporting":155},
 "races":
@@ -35,17 +35,17 @@ votesReady( {"dttime":"Nov 03,2010 12:51 PM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":570366,"id":"9548"},
-{"votes":465655,"id":"60572"},
-{"votes":10434,"id":"61101"},
-{"votes":6271,"id":"61081"}],
+{"votes":574851,"id":"9548"},
+{"votes":471330,"id":"60572"},
+{"votes":10542,"id":"61101"},
+{"votes":6322,"id":"61081"}],
 "final":"9548"}},
 "Governor":
 {"":
 {"votes":[
 {"votes":545302,"id":"60571"},
-{"votes":540208,"id":"9881"},
-{"votes":17010,"id":"61100"}],
+{"votes":540221,"id":"9881"},
+{"votes":17021,"id":"61100"}],
 "final":"9881"}}},
 "abbr":"CT","votesby":"town"},
 "state":"CT","candidates":
