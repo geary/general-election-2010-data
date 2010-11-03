@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 01:20 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 01:22 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -33,8 +33,8 @@ votesReady( {"dttime":"Nov 03,2010 01:20 AM","totals":
 "Constitutional Amendment":
 {"A - Secret Ballot":
 {"votes":[
-{"votes":222182,"id":"2"},
-{"votes":149436,"id":"3"}]}},
+{"votes":239593,"id":"2"},
+{"votes":160232,"id":"3"}]}},
 "Governor":
 {"":
 {"votes":[
