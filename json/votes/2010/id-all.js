@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 02,2010 10:49 PM","totals":
+votesReady( {"dttime":"Nov 02,2010 10:52 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -9,23 +9,23 @@ votesReady( {"dttime":"Nov 02,2010 10:49 PM","totals":
 {"votes":0,"id":"60567"}]},
 "2":
 {"votes":[
-{"votes":0,"id":"60568"},
-{"votes":0,"id":"60569"},
-{"votes":0,"id":"504"}]}},
+{"votes":117,"id":"504"},
+{"votes":16,"id":"60569"},
+{"votes":4,"id":"60568"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":85,"id":"81"},
-{"votes":13,"id":"60565"},
-{"votes":3,"id":"60566"}]}},
+{"votes":218,"id":"81"},
+{"votes":19,"id":"60565"},
+{"votes":8,"id":"60566"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":0,"id":"501"},
-{"votes":0,"id":"56769"},
-{"votes":0,"id":"60570"},
-{"votes":0,"id":"60528"},
-{"votes":0,"id":"15109"}]}}},
+{"votes":124,"id":"501"},
+{"votes":11,"id":"60528"},
+{"votes":9,"id":"60570"},
+{"votes":1,"id":"15109"},
+{"votes":0,"id":"56769"}]}}},
 "precincts":
 {"total":472,"reporting":0},
 "abbr":"ID","name":"Idaho"},

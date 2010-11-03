@@ -1,20 +1,20 @@
-{"dttime":"Nov 02,2010 10:49 PM","totals":
+{"dttime":"Nov 02,2010 10:52 PM","totals":
 {"name":"Montana","fix":
 {"Lewis & Clark":"Lewis and Clark"},
 "precincts":
-{"total":793,"reporting":86},
+{"total":793,"reporting":105},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":58110,"id":"1162"},
-{"votes":40698,"id":"60401"},
-{"votes":5437,"id":"540"}]}},
+{"votes":59775,"id":"1162"},
+{"votes":41409,"id":"60401"},
+{"votes":5607,"id":"540"}]}},
 "Initiative":
 {"I - 164 Payday Loans":
 {"votes":[
-{"votes":78372,"id":"2"},
-{"votes":24365,"id":"3"}]}}},
+{"votes":79168,"id":"2"},
+{"votes":24879,"id":"3"}]}}},
 "abbr":"MT"},
 "state":"MT","candidates":
 {"540":"Lib|Fellows|Mike Fellows","2":"|Yes| Yes","60401":"Dem|McDonald|Dennis McDonald","1162":"GOP|Rehberg|Denny Rehberg","3":"|No| No"},
