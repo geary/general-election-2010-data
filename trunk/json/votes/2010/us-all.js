@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 12:45 PM","totals":
+votesReady( {"dttime":"Nov 03,2010 12:51 PM","totals":
 {"races":
 {"President":
 {"":
@@ -32,8 +32,8 @@ votesReady( {"dttime":"Nov 03,2010 12:45 PM","totals":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":115707,"id":"55675"},
-{"votes":84971,"id":"57814"},
+{"votes":115742,"id":"55675"},
+{"votes":84984,"id":"57814"},
 {"votes":2044,"id":"58428"},
 {"votes":1946,"id":"60437"},
 {"votes":1822,"id":"60436"},
@@ -44,9 +44,9 @@ votesReady( {"dttime":"Nov 03,2010 12:45 PM","totals":
 "final":"55675"},
 "3":
 {"votes":[
-{"votes":125055,"id":"57825"},
-{"votes":56401,"id":"57824"},
-{"votes":1522,"id":"50442"}],
+{"votes":126414,"id":"57825"},
+{"votes":56855,"id":"57824"},
+{"votes":1527,"id":"50442"}],
 "final":"57825"},
 "2":
 {"votes":[
@@ -1131,8 +1131,8 @@ votesReady( {"dttime":"Nov 03,2010 12:45 PM","totals":
 "Amendment":
 {"1 - Right to Bear Arms":
 {"votes":[
-{"votes":710158,"id":"2"},
-{"votes":90996,"id":"3"}],
+{"votes":710192,"id":"2"},
+{"votes":91000,"id":"3"}],
 "final":"2"}},
 "U.S. Senate":
 {"2010":
@@ -1145,10 +1145,10 @@ votesReady( {"dttime":"Nov 03,2010 12:45 PM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":522461,"id":"1720"},
-{"votes":264191,"id":"53995"},
-{"votes":21909,"id":"61104"},
-{"votes":15048,"id":"61103"}],
+{"votes":522487,"id":"1720"},
+{"votes":264199,"id":"53995"},
+{"votes":21912,"id":"61104"},
+{"votes":15049,"id":"61103"}],
 "final":"1720"}}},
 "abbr":"KS","votesby":"district"},
 "Utah":
@@ -1330,13 +1330,13 @@ votesReady( {"dttime":"Nov 03,2010 12:45 PM","totals":
 "Measure":
 {"75 - Multnomah Casino":
 {"votes":[
-{"votes":845309,"id":"3"},
-{"votes":394636,"id":"2"}],
+{"votes":857431,"id":"3"},
+{"votes":401064,"id":"2"}],
 "final":"3"},
 "74 - Medical Marijuana":
 {"votes":[
-{"votes":714072,"id":"3"},
-{"votes":534152,"id":"2"}],
+{"votes":723884,"id":"3"},
+{"votes":543458,"id":"2"}],
 "final":"3"}}},
 "precincts":
 {"total":1000,"reporting":955},
@@ -1386,9 +1386,9 @@ votesReady( {"dttime":"Nov 03,2010 12:45 PM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":539200,"id":"60571"},
-{"votes":536043,"id":"9881"},
-{"votes":16932,"id":"61100"}],
+{"votes":545302,"id":"60571"},
+{"votes":540208,"id":"9881"},
+{"votes":17010,"id":"61100"}],
 "final":"9881"}}},
 "abbr":"CT","votesby":"town"},
 "Montana":
@@ -1450,15 +1450,15 @@ votesReady( {"dttime":"Nov 03,2010 12:45 PM","totals":
 "final":"76"},
 "25":
 {"votes":[
-{"votes":86801,"id":"79"},
-{"votes":52465,"id":"58756"}],
+{"votes":89971,"id":"79"},
+{"votes":55020,"id":"58756"}],
 "final":"79"},
 "26":
 {"votes":[
-{"votes":74647,"id":"82"},
-{"votes":49528,"id":"58757"},
-{"votes":8028,"id":"60878"},
-{"votes":4118,"id":"83"}],
+{"votes":82065,"id":"82"},
+{"votes":54754,"id":"58757"},
+{"votes":9001,"id":"60878"},
+{"votes":4678,"id":"83"}],
 "final":"82"},
 "27":
 {"votes":[
@@ -1467,8 +1467,8 @@ votesReady( {"dttime":"Nov 03,2010 12:45 PM","totals":
 "final":"84"},
 "20":
 {"votes":[
-{"votes":30561,"id":"60796"},
-{"votes":29868,"id":"6818"}]},
+{"votes":32531,"id":"60796"},
+{"votes":30708,"id":"6818"}]},
 "21":
 {"votes":[
 {"votes":0,"id":"67"}],
@@ -1481,10 +1481,10 @@ votesReady( {"dttime":"Nov 03,2010 12:45 PM","totals":
 "final":"52471"},
 "49":
 {"votes":[
-{"votes":73076,"id":"146"},
-{"votes":36078,"id":"60863"},
-{"votes":3893,"id":"60864"},
-{"votes":2457,"id":"60865"}],
+{"votes":83599,"id":"146"},
+{"votes":41703,"id":"60863"},
+{"votes":4469,"id":"60864"},
+{"votes":2825,"id":"60865"}],
 "final":"146"},
 "46":
 {"votes":[
@@ -1499,25 +1499,25 @@ votesReady( {"dttime":"Nov 03,2010 12:45 PM","totals":
 "final":"140"},
 "44":
 {"votes":[
-{"votes":58612,"id":"132"},
-{"votes":42017,"id":"58779"}],
+{"votes":75782,"id":"132"},
+{"votes":58753,"id":"58779"}],
 "final":"132"},
 "45":
 {"votes":[
-{"votes":58120,"id":"135"},
-{"votes":46040,"id":"60688"},
-{"votes":7287,"id":"60862"}],
+{"votes":79679,"id":"135"},
+{"votes":64047,"id":"60688"},
+{"votes":9711,"id":"60862"}],
 "final":"135"},
 "42":
 {"votes":[
-{"votes":85174,"id":"126"},
-{"votes":42778,"id":"59949"},
-{"votes":8171,"id":"60861"}],
+{"votes":86850,"id":"126"},
+{"votes":44357,"id":"59949"},
+{"votes":8374,"id":"60861"}],
 "final":"126"},
 "43":
 {"votes":[
-{"votes":29770,"id":"128"},
-{"votes":17527,"id":"51830"}],
+{"votes":40099,"id":"128"},
+{"votes":21698,"id":"51830"}],
 "final":"128"},
 "40":
 {"votes":[
@@ -1526,8 +1526,8 @@ votesReady( {"dttime":"Nov 03,2010 12:45 PM","totals":
 "final":"1215"},
 "41":
 {"votes":[
-{"votes":70609,"id":"123"},
-{"votes":41428,"id":"59946"}],
+{"votes":87860,"id":"123"},
+{"votes":51440,"id":"59946"}],
 "final":"123"},
 "1":
 {"votes":[
@@ -1720,33 +1720,33 @@ votesReady( {"dttime":"Nov 03,2010 12:45 PM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":3694011,"id":"1705"},
-{"votes":2996645,"id":"60339"},
-{"votes":120875,"id":"7691"},
-{"votes":91283,"id":"7042"},
-{"votes":88304,"id":"8004"},
-{"votes":87616,"id":"60825"}],
+{"votes":3757878,"id":"1705"},
+{"votes":3074755,"id":"60339"},
+{"votes":123596,"id":"7691"},
+{"votes":93518,"id":"7042"},
+{"votes":90653,"id":"8004"},
+{"votes":89306,"id":"60825"}],
 "final":"1705"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":3851196,"id":"6622"},
-{"votes":2937941,"id":"60373"},
-{"votes":111205,"id":"60869"},
-{"votes":103561,"id":"8029"},
-{"votes":87150,"id":"8762"},
-{"votes":61800,"id":"60870"}],
+{"votes":3918480,"id":"6622"},
+{"votes":3012512,"id":"60373"},
+{"votes":115097,"id":"60869"},
+{"votes":106258,"id":"8029"},
+{"votes":88801,"id":"8762"},
+{"votes":63494,"id":"60870"}],
 "final":"6622"}},
 "Proposition":
 {"19 - Legalize Marijuana":
 {"votes":[
-{"votes":3789423,"id":"3"},
-{"votes":3261373,"id":"2"}],
+{"votes":3881973,"id":"3"},
+{"votes":3333518,"id":"2"}],
 "final":"3"},
 "25 - Budget Vote":
 {"votes":[
-{"votes":3721252,"id":"2"},
-{"votes":3049769,"id":"3"}],
+{"votes":3798555,"id":"2"},
+{"votes":3130902,"id":"3"}],
 "final":"2"}}},
 "precincts":
 {"total":565,"reporting":521},
@@ -1804,8 +1804,8 @@ votesReady( {"dttime":"Nov 03,2010 12:45 PM","totals":
 "final":"888"},
 "6":
 {"votes":[
-{"votes":140654,"id":"887"},
-{"votes":105414,"id":"61038"}],
+{"votes":142456,"id":"887"},
+{"votes":107739,"id":"61038"}],
 "final":"887"},
 "9":
 {"votes":[
@@ -1820,10 +1820,10 @@ votesReady( {"dttime":"Nov 03,2010 12:45 PM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":1090378,"id":"51516"},
-{"votes":940830,"id":"60668"},
-{"votes":180327,"id":"22674"},
-{"votes":32281,"id":"895"}],
+{"votes":1091726,"id":"51516"},
+{"votes":943472,"id":"60668"},
+{"votes":180515,"id":"22674"},
+{"votes":32321,"id":"895"}],
 "final":"51516"}}},
 "abbr":"MA","votesby":"town"},
 "West Virginia":
