@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 02:50 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 02:52 AM","totals":
 {"name":"Kansas","precincts":
 {"total":1321,"reporting":1318},
 "races":
