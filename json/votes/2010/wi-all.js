@@ -1,11 +1,11 @@
-votesReady( {"dttime":"Nov 02,2010 10:34 PM","totals":
+votesReady( {"dttime":"Nov 02,2010 10:36 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":54722,"id":"1461"},
-{"votes":21556,"id":"60936"},
-{"votes":1494,"id":"59594"}],
+{"votes":62877,"id":"1461"},
+{"votes":24111,"id":"60936"},
+{"votes":1635,"id":"59594"}],
 "final":"1461"},
 "3":
 {"votes":[
@@ -18,9 +18,9 @@ votesReady( {"dttime":"Nov 02,2010 10:34 PM","totals":
 {"votes":52293,"id":"60728"}]},
 "5":
 {"votes":[
-{"votes":35618,"id":"1099"},
-{"votes":11945,"id":"60734"},
-{"votes":2009,"id":"1100"}],
+{"votes":48802,"id":"1099"},
+{"votes":15605,"id":"60734"},
+{"votes":2564,"id":"1100"}],
 "final":"1099"},
 "4":
 {"votes":[
@@ -29,34 +29,34 @@ votesReady( {"dttime":"Nov 02,2010 10:34 PM","totals":
 {"votes":19,"id":"60732"}]},
 "7":
 {"votes":[
-{"votes":33459,"id":"60735"},
-{"votes":28075,"id":"59151"},
-{"votes":2032,"id":"60737"}]},
+{"votes":36134,"id":"60735"},
+{"votes":30465,"id":"59151"},
+{"votes":2164,"id":"60737"}]},
 "6":
 {"votes":[
-{"votes":80504,"id":"1101"},
-{"votes":30652,"id":"60797"}],
+{"votes":81564,"id":"1101"},
+{"votes":30923,"id":"60797"}],
 "final":"1101"},
 "8":
 {"votes":[
-{"votes":66748,"id":"61201"},
-{"votes":56601,"id":"53709"}]}},
+{"votes":68099,"id":"61201"},
+{"votes":57637,"id":"53709"}]}},
 "U.S. Senate":
 {"2010":
 {"votes":[
-{"votes":342349,"id":"60740"},
-{"votes":252844,"id":"1765"},
-{"votes":6997,"id":"60742"}]}},
+{"votes":357807,"id":"60740"},
+{"votes":265436,"id":"1765"},
+{"votes":7256,"id":"60742"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":330493,"id":"48976"},
-{"votes":242813,"id":"48317"},
-{"votes":3263,"id":"60798"},
-{"votes":2743,"id":"60799"},
-{"votes":1819,"id":"61275"}]}}},
+{"votes":354051,"id":"48976"},
+{"votes":253867,"id":"48317"},
+{"votes":3378,"id":"60798"},
+{"votes":2843,"id":"60799"},
+{"votes":1900,"id":"61275"}]}}},
 "precincts":
-{"total":3609,"reporting":980},
+{"total":3609,"reporting":1027},
 "abbr":"WI","name":"Wisconsin"},
 "state":"WI","candidates":
 {"59151":"Dem|Lassa|Julie Lassa","53709":"Dem|Kagen|Steven Kagen","60740":"GOP|Johnson|Ron Johnson","60742":"CST|Taylor|Rob Taylor","48730":"Dem|Moore|Gwen Moore","61200":"GOP|Sebring|Dan Sebring","60936":"Dem|Heckenlively|John Heckenlively","48976":"GOP|Walker|Scott Walker","60728":"GOP|Lee|Chad Lee","1461":"GOP|Ryan|Paul Ryan","1094":"Dem|Kind|Ron Kind","48317":"Dem|Barrett|Tom Barrett","1092":"Dem|Baldwin|Tammy Baldwin","61201":"GOP|Ribble|Reid Ribble","1099":"GOP|Sensenbrenner|Jim Sensenbrenner","60799":"Ind|James|James James","60798":"Ind|Langer|Jim Langer","60797":"Dem|Kallas|Joseph Kallas","60735":"GOP|Duffy|Sean Duffy","60734":"Dem|Kolosso|Todd Kolosso","60737":"Ind|Kauther|Gary Kauther","60730":"Ind|Krsiean|Michael Krsiean","60732":"Ind|Ayyash|Eddie Ayyash","48599":"GOP|Kapanke|Dan Kapanke","61275":"Lib|No Candidate/Virgil| No Candidate/Virgil","59594":"Lib|Kexel|Joseph Kexel","1100":"Ind|Raymond|Robert Raymond","1101":"GOP|Petri|Tom Petri","1765":"Dem|Feingold|Russ Feingold"},
