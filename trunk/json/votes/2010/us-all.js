@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 08:49 AM","totals":
+votesReady( {"dttime":"Nov 03,2010 08:55 AM","totals":
 {"races":
 {"President":
 {"":
@@ -1082,8 +1082,8 @@ votesReady( {"dttime":"Nov 03,2010 08:49 AM","totals":
 "Proposal":
 {"10-2 - Felon Politician Ban":
 {"votes":[
-{"votes":2255553,"id":"2"},
-{"votes":756790,"id":"3"}],
+{"votes":2257251,"id":"2"},
+{"votes":757876,"id":"3"}],
 "final":"2"}},
 "Governor":
 {"":
@@ -1818,10 +1818,10 @@ votesReady( {"dttime":"Nov 03,2010 08:49 AM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":1077853,"id":"51516"},
-{"votes":925551,"id":"60668"},
-{"votes":177734,"id":"22674"},
-{"votes":31921,"id":"895"}],
+{"votes":1078571,"id":"51516"},
+{"votes":926444,"id":"60668"},
+{"votes":177841,"id":"22674"},
+{"votes":31941,"id":"895"}],
 "final":"51516"}}},
 "abbr":"MA","votesby":"town"},
 "West Virginia":
