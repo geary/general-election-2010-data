@@ -1,4 +1,4 @@
-{"dttime":"Nov 02, 2010 09:55 PM","totals":
+{"dttime":"Nov 02,2010 09:57 PM","totals":
 {"name":"Oklahoma","fix":
 {"LeFlore":"Le Flore"},
 "precincts":
@@ -12,20 +12,20 @@
 "final":"1394"},
 "3":
 {"votes":[
-{"votes":65766,"id":"1396"},
-{"votes":18662,"id":"59450"}],
+{"votes":74251,"id":"1396"},
+{"votes":21249,"id":"59450"}],
 "final":"1396"},
 "2":
 {"votes":[
-{"votes":61674,"id":"50187"},
-{"votes":47191,"id":"61120"}],
+{"votes":68985,"id":"50187"},
+{"votes":52404,"id":"61120"}],
 "final":"50187"},
 "5":
 {"votes":[
-{"votes":36687,"id":"61119"},
-{"votes":24494,"id":"60945"},
-{"votes":1370,"id":"37460"},
-{"votes":871,"id":"61056"}]},
+{"votes":38901,"id":"61119"},
+{"votes":25806,"id":"60945"},
+{"votes":1414,"id":"37460"},
+{"votes":923,"id":"61056"}]},
 "4":
 {"votes":[
 {"votes":0,"id":"1398"}],
@@ -33,37 +33,37 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":250010,"id":"37351"},
-{"votes":99114,"id":"38273"},
-{"votes":8843,"id":"59449"},
-{"votes":3778,"id":"61099"}],
+{"votes":269809,"id":"37351"},
+{"votes":106668,"id":"38273"},
+{"votes":9514,"id":"59449"},
+{"votes":4038,"id":"61099"}],
 "final":"37351"}},
 "Question":
 {"751 - English Official Language":
 {"votes":[
-{"votes":246652,"id":"2"},
-{"votes":77387,"id":"3"}],
+{"votes":256850,"id":"2"},
+{"votes":80201,"id":"3"}],
 "final":"2"},
 "756 - Health Care":
 {"votes":[
-{"votes":205972,"id":"2"},
-{"votes":110820,"id":"3"}],
+{"votes":211953,"id":"2"},
+{"votes":113748,"id":"3"}],
 "final":"2"},
 "755 - Ban Intl or Islamic Law":
 {"votes":[
-{"votes":225188,"id":"2"},
-{"votes":95646,"id":"3"}],
+{"votes":228544,"id":"2"},
+{"votes":96752,"id":"3"}],
 "final":"2"},
 "746 - Voter ID":
 {"votes":[
-{"votes":234113,"id":"2"},
-{"votes":86304,"id":"3"}],
+{"votes":247190,"id":"2"},
+{"votes":92029,"id":"3"}],
 "final":"2"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":219040,"id":"37501"},
-{"votes":168713,"id":"57325"}],
+{"votes":231087,"id":"37501"},
+{"votes":173965,"id":"57325"}],
 "final":"37501"}}},
 "abbr":"OK"},
 "state":"OK","candidates":
