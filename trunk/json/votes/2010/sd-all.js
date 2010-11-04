@@ -1,9 +1,9 @@
-votesReady( {"dttime":"Nov 04,2010 03:45 PM","totals":
+votesReady( {"dttime":"Nov 04,2010 04:46 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":153682,"id":"60394"},
+{"votes":153683,"id":"60394"},
 {"votes":146561,"id":"581"},
 {"votes":19130,"id":"60708"}],
 "final":"60394"}},
@@ -22,7 +22,7 @@ votesReady( {"dttime":"Nov 04,2010 03:45 PM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":195023,"id":"40715"},
+{"votes":195024,"id":"40715"},
 {"votes":122010,"id":"60690"}],
 "final":"40715"}},
 "U.S. Senate":
@@ -33,7 +33,7 @@ votesReady( {"dttime":"Nov 04,2010 03:45 PM","totals":
 "Initiative":
 {"13 - Medical Marijuana":
 {"votes":[
-{"votes":199571,"id":"3"},
+{"votes":199572,"id":"3"},
 {"votes":115631,"id":"2"}],
 "final":"3"}}},
 "precincts":
