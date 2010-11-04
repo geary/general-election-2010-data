@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 04,2010 07:37 AM","totals":
+votesReady( {"dttime":"Nov 04,2010 08:38 AM","totals":
 {"races":
 {"President":
 {"":
@@ -2454,7 +2454,7 @@ votesReady( {"dttime":"Nov 04,2010 07:37 AM","totals":
 {"votes":7354,"id":"60555"}],
 "final":"61149"}}},
 "precincts":
-{"total":372,"reporting":368},
+{"total":372,"reporting":372},
 "abbr":"FL","name":"Florida"},
 "Alaska":
 {"races":
@@ -3678,19 +3678,19 @@ votesReady( {"dttime":"Nov 04,2010 07:37 AM","totals":
 "final":"59613"},
 "2":
 {"votes":[
-{"votes":146575,"id":"585"},
-{"votes":119379,"id":"60617"}],
+{"votes":146576,"id":"585"},
+{"votes":119380,"id":"60617"}],
 "final":"585"}},
 "Question":
 {"1 - Oxford County Casino":
 {"votes":[
-{"votes":279217,"id":"2"},
+{"votes":279218,"id":"2"},
 {"votes":272108,"id":"3"}],
 "final":"2"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":215482,"id":"60414"},
+{"votes":215484,"id":"60414"},
 {"votes":205600,"id":"60614"},
 {"votes":107702,"id":"60416"},
 {"votes":28557,"id":"60615"},
