@@ -1,34 +1,34 @@
-votesReady( {"dttime":"Nov 04,2010 06:48 PM","totals":
+votesReady( {"dttime":"Nov 04,2010 07:50 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":95777,"id":"1465"},
-{"votes":74796,"id":"61010"}],
+{"votes":101985,"id":"1465"},
+{"votes":78373,"id":"61010"}],
 "final":"1465"},
 "3":
 {"votes":[
-{"votes":122504,"id":"61094"},
-{"votes":110744,"id":"61011"}],
+{"votes":122518,"id":"61094"},
+{"votes":110757,"id":"61011"}],
 "final":"61094"},
 "2":
 {"votes":[
-{"votes":97731,"id":"1468"},
-{"votes":97224,"id":"46225"}]},
+{"votes":99811,"id":"1468"},
+{"votes":99163,"id":"46225"}]},
 "5":
 {"votes":[
-{"votes":104839,"id":"46291"},
-{"votes":58488,"id":"61098"}],
+{"votes":104863,"id":"46291"},
+{"votes":58491,"id":"61098"}],
 "final":"46291"},
 "4":
 {"votes":[
-{"votes":108874,"id":"1475"},
-{"votes":50752,"id":"61096"}],
+{"votes":110622,"id":"1475"},
+{"votes":51521,"id":"61096"}],
 "final":"1475"},
 "7":
 {"votes":[
-{"votes":120597,"id":"1482"},
-{"votes":27406,"id":"61097"}],
+{"votes":145006,"id":"1482"},
+{"votes":31641,"id":"61097"}],
 "final":"1482"},
 "6":
 {"votes":[
@@ -37,21 +37,21 @@ votesReady( {"dttime":"Nov 04,2010 06:48 PM","totals":
 "final":"1479"},
 "9":
 {"votes":[
-{"votes":86086,"id":"1488"},
-{"votes":74270,"id":"61095"}],
+{"votes":91538,"id":"1488"},
+{"votes":77806,"id":"61095"}],
 "final":"1488"},
 "8":
 {"votes":[
-{"votes":104563,"id":"50215"},
-{"votes":88267,"id":"61012"}],
+{"votes":114095,"id":"50215"},
+{"votes":98921,"id":"61012"}],
 "final":"50215"}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":828996,"id":"1762"},
-{"votes":802030,"id":"46399"}]}}},
+{"votes":879442,"id":"1762"},
+{"votes":827834,"id":"46399"}]}}},
 "precincts":
-{"total":695,"reporting":458},
+{"total":695,"reporting":484},
 "abbr":"WA","name":"Washington"},
 "state":"WA","candidates":
 {"51235":"GOP|Cloud|Doug Cloud","46291":"GOP|Rodgers|Cathy McMorris Rodgers","1488":"Dem|Smith|Adam Smith","1762":"Dem|Murray|Patty Murray","46399":"GOP|Rossi|Dino Rossi","1475":"GOP|Hastings|Doc Hastings","61012":"Dem|DelBene|Suzan DelBene","61011":"Dem|Heck|Denny Heck","61010":"GOP|Watkins|James Watkins","1479":"Dem|Dicks|Norm Dicks","1482":"Dem|McDermott|Jim McDermott","46225":"GOP|Koster|John Koster","61097":"NPD|Jeffers-Schroder|Bob Jeffers-Schroder","1468":"Dem|Larsen|Rick Larsen","61095":"GOP|Muri|Dick Muri","61094":"GOP|Herrera|Jaime Herrera","1465":"Dem|Inslee|Jay Inslee","50215":"GOP|Reichert|Dave Reichert","61098":"Dem|Romeyn|Daryl Romeyn","61096":"Dem|Clough|Jay Clough"},
