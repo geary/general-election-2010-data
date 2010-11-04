@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 04,2010 07:37 AM","totals":
+votesReady( {"dttime":"Nov 04,2010 08:38 AM","totals":
 {"name":"New York","fix":
 {"Brooklyn":"Kings","Staten Island":"Richmond","Saint Lawrence":"St. Lawrence","Manhattan":"New York"},
 "precincts":
