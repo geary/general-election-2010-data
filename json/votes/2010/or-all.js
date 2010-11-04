@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 04,2010 01:43 PM","totals":
+votesReady( {"dttime":"Nov 04,2010 02:44 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -45,10 +45,10 @@ votesReady( {"dttime":"Nov 04,2010 01:43 PM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":667538,"id":"39053"},
-{"votes":654580,"id":"60200"},
-{"votes":18976,"id":"61133"},
-{"votes":17556,"id":"61134"}],
+{"votes":677567,"id":"39053"},
+{"votes":665020,"id":"60200"},
+{"votes":19417,"id":"61133"},
+{"votes":17901,"id":"61134"}],
 "final":"39053"}},
 "Measure":
 {"75 - Multnomah Casino":

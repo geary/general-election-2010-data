@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 04,2010 01:43 PM","totals":
+votesReady( {"dttime":"Nov 04,2010 02:44 PM","totals":
 {"name":"New York","fix":
 {"Brooklyn":"Kings","Staten Island":"Richmond","Saint Lawrence":"St. Lawrence","Manhattan":"New York"},
 "precincts":
@@ -7,8 +7,8 @@ votesReady( {"dttime":"Nov 04,2010 01:43 PM","totals":
 {"U.S. House":
 {"24":
 {"votes":[
-{"votes":96682,"id":"59694"},
-{"votes":86048,"id":"51918"}],
+{"votes":96686,"id":"59694"},
+{"votes":86037,"id":"51918"}],
 "final":"59694"},
 "25":
 {"votes":[
@@ -26,8 +26,8 @@ votesReady( {"dttime":"Nov 04,2010 01:43 PM","totals":
 "final":"32940"},
 "20":
 {"votes":[
-{"votes":123137,"id":"60927"},
-{"votes":98980,"id":"60306"}],
+{"votes":123511,"id":"60927"},
+{"votes":99255,"id":"60306"}],
 "final":"60927"},
 "21":
 {"votes":[
@@ -36,8 +36,8 @@ votesReady( {"dttime":"Nov 04,2010 01:43 PM","totals":
 "final":"57037"},
 "22":
 {"votes":[
-{"votes":90412,"id":"1562"},
-{"votes":82202,"id":"59718"}],
+{"votes":90613,"id":"1562"},
+{"votes":82385,"id":"59718"}],
 "final":"1562"},
 "23":
 {"votes":[
@@ -52,8 +52,8 @@ votesReady( {"dttime":"Nov 04,2010 01:43 PM","totals":
 "final":"1581"},
 "29":
 {"votes":[
-{"votes":100375,"id":"60935"},
-{"votes":77958,"id":"60934"}],
+{"votes":101219,"id":"60935"},
+{"votes":78578,"id":"60934"}],
 "final":"60935"},
 "1":
 {"votes":[
@@ -163,31 +163,31 @@ votesReady( {"dttime":"Nov 04,2010 01:43 PM","totals":
 "U.S. Senate":
 {"Unexpired Term":
 {"votes":[
-{"votes":2488460,"id":"51916"},
-{"votes":1487093,"id":"60919"},
-{"votes":33791,"id":"61256"},
-{"votes":19666,"id":"61255"},
-{"votes":17708,"id":"50530"},
-{"votes":12992,"id":"61257"},
-{"votes":7394,"id":"61145"}],
+{"votes":2489747,"id":"51916"},
+{"votes":1488224,"id":"60919"},
+{"votes":33819,"id":"61256"},
+{"votes":19683,"id":"61255"},
+{"votes":17719,"id":"50530"},
+{"votes":12997,"id":"61257"},
+{"votes":7401,"id":"61145"}],
 "final":"51916"},
 "Full Term":
 {"votes":[
-{"votes":2674913,"id":"1745"},
-{"votes":1349983,"id":"61165"},
-{"votes":39563,"id":"61253"},
-{"votes":25766,"id":"61254"}],
+{"votes":2676292,"id":"1745"},
+{"votes":1351063,"id":"61165"},
+{"votes":39590,"id":"61253"},
+{"votes":25786,"id":"61254"}],
 "final":"1745"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":2566326,"id":"1506"},
-{"votes":1432167,"id":"61208"},
-{"votes":57690,"id":"32916"},
-{"votes":45368,"id":"1926"},
-{"votes":40316,"id":"33338"},
-{"votes":23105,"id":"61252"},
-{"votes":20665,"id":"32276"}],
+{"votes":2567698,"id":"1506"},
+{"votes":1433223,"id":"61208"},
+{"votes":57735,"id":"32916"},
+{"votes":45408,"id":"1926"},
+{"votes":40336,"id":"33338"},
+{"votes":23113,"id":"61252"},
+{"votes":20671,"id":"32276"}],
 "final":"1506"}}},
 "abbr":"NY"},
 "state":"NY","candidates":
