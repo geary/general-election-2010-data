@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 04,2010 11:41 AM","totals":
+votesReady( {"dttime":"Nov 04,2010 12:42 PM","totals":
 {"name":"Kentucky","fix":
 {"LaRue":"Larue"},
 "precincts":
