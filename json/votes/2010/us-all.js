@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 04,2010 02:44 PM","totals":
+votesReady( {"dttime":"Nov 04,2010 03:45 PM","totals":
 {"races":
 {"President":
 {"":
@@ -194,10 +194,10 @@ votesReady( {"dttime":"Nov 04,2010 02:44 PM","totals":
 "final":"989"},
 "7":
 {"votes":[
-{"votes":133039,"id":"1333"},
-{"votes":90652,"id":"60717"},
-{"votes":9308,"id":"60718"},
-{"votes":7900,"id":"26560"}],
+{"votes":133093,"id":"1333"},
+{"votes":90654,"id":"60717"},
+{"votes":9314,"id":"60718"},
+{"votes":7841,"id":"26560"}],
 "final":"1333"},
 "6":
 {"votes":[
@@ -860,50 +860,50 @@ votesReady( {"dttime":"Nov 04,2010 02:44 PM","totals":
 "final":"1129"},
 "8":
 {"votes":[
-{"votes":120175,"id":"52527"},
-{"votes":117826,"id":"61136"},
-{"votes":9524,"id":"61008"}]}},
+{"votes":120772,"id":"52527"},
+{"votes":118416,"id":"61136"},
+{"votes":9587,"id":"61008"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":794902,"id":"1701"},
-{"votes":466607,"id":"61000"},
-{"votes":63259,"id":"56827"},
-{"votes":19193,"id":"61001"}],
+{"votes":795614,"id":"1701"},
+{"votes":467052,"id":"61000"},
+{"votes":63315,"id":"56827"},
+{"votes":19212,"id":"61001"}],
 "final":"1701"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":750616,"id":"4627"},
-{"votes":571382,"id":"4875"},
-{"votes":29551,"id":"1137"},
-{"votes":12109,"id":"61009"}],
+{"votes":751357,"id":"4627"},
+{"votes":571864,"id":"4875"},
+{"votes":29573,"id":"1137"},
+{"votes":12125,"id":"61009"}],
 "final":"4627"}},
 "Proposition":
 {"107 - Preferential Treatment":
 {"votes":[
-{"votes":751650,"id":"2"},
-{"votes":510597,"id":"3"}],
+{"votes":752372,"id":"2"},
+{"votes":511063,"id":"3"}],
 "final":"2"},
 "109 - Hunting and Fishing":
 {"votes":[
-{"votes":724467,"id":"3"},
-{"votes":568638,"id":"2"}],
+{"votes":725062,"id":"3"},
+{"votes":569246,"id":"2"}],
 "final":"3"},
 "106 - Health Care":
 {"votes":[
-{"votes":705955,"id":"2"},
-{"votes":569082,"id":"3"}],
+{"votes":706621,"id":"2"},
+{"votes":569607,"id":"3"}],
 "final":"2"},
 "113 - Secret Ballot":
 {"votes":[
-{"votes":774747,"id":"2"},
-{"votes":501781,"id":"3"}],
+{"votes":775498,"id":"2"},
+{"votes":502205,"id":"3"}],
 "final":"2"},
 "203 - Medical Marijuana":
 {"votes":[
-{"votes":664587,"id":"3"},
-{"votes":657634,"id":"2"}]}}},
+{"votes":665170,"id":"3"},
+{"votes":658281,"id":"2"}]}}},
 "precincts":
 {"total":2239,"reporting":2239},
 "abbr":"AZ","name":"Arizona"},
@@ -1290,8 +1290,8 @@ votesReady( {"dttime":"Nov 04,2010 02:44 PM","totals":
 "3":
 {"votes":[
 {"votes":185630,"id":"482"},
-{"votes":44542,"id":"61141"},
-{"votes":28651,"id":"58449"},
+{"votes":65183,"id":"58449"},
+{"votes":8010,"id":"61141"},
 {"votes":5889,"id":"59797"}],
 "final":"482"},
 "2":
@@ -1557,9 +1557,9 @@ votesReady( {"dttime":"Nov 04,2010 02:44 PM","totals":
 "final":"51416"},
 "4":
 {"votes":[
-{"votes":140184,"id":"52499"},
-{"votes":72170,"id":"51853"},
-{"votes":15958,"id":"60829"}],
+{"votes":140591,"id":"52499"},
+{"votes":72328,"id":"51853"},
+{"votes":16024,"id":"60829"}],
 "final":"52499"},
 "7":
 {"votes":[
@@ -1720,33 +1720,33 @@ votesReady( {"dttime":"Nov 04,2010 02:44 PM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":3861823,"id":"1705"},
-{"votes":3170287,"id":"60339"},
-{"votes":127378,"id":"7691"},
-{"votes":96640,"id":"7042"},
-{"votes":93545,"id":"8004"},
-{"votes":92014,"id":"60825"}],
+{"votes":3862004,"id":"1705"},
+{"votes":3170683,"id":"60339"},
+{"votes":127410,"id":"7691"},
+{"votes":96656,"id":"7042"},
+{"votes":93558,"id":"8004"},
+{"votes":92020,"id":"60825"}],
 "final":"1705"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":4021264,"id":"6622"},
-{"votes":3102646,"id":"60373"},
-{"votes":119496,"id":"60869"},
-{"votes":110076,"id":"8029"},
-{"votes":91385,"id":"8762"},
-{"votes":65795,"id":"60870"}],
+{"votes":4021486,"id":"6622"},
+{"votes":3103025,"id":"60373"},
+{"votes":119519,"id":"60869"},
+{"votes":110083,"id":"8029"},
+{"votes":91398,"id":"8762"},
+{"votes":65805,"id":"60870"}],
 "final":"6622"}},
 "Proposition":
 {"19 - Legalize Marijuana":
 {"votes":[
-{"votes":3994442,"id":"3"},
-{"votes":3424145,"id":"2"}],
+{"votes":3994779,"id":"3"},
+{"votes":3424464,"id":"2"}],
 "final":"3"},
 "25 - Budget Vote":
 {"votes":[
-{"votes":3897709,"id":"2"},
-{"votes":3225947,"id":"3"}],
+{"votes":3897986,"id":"2"},
+{"votes":3226298,"id":"3"}],
 "final":"2"}}},
 "precincts":
 {"total":565,"reporting":565},
@@ -2911,14 +2911,14 @@ votesReady( {"dttime":"Nov 04,2010 02:44 PM","totals":
 "final":"1507"},
 "3":
 {"votes":[
-{"votes":126141,"id":"1514"},
-{"votes":48962,"id":"60921"}],
+{"votes":126142,"id":"1514"},
+{"votes":48963,"id":"60921"}],
 "final":"1514"},
 "2":
 {"votes":[
-{"votes":86601,"id":"1510"},
-{"votes":65030,"id":"60920"},
-{"votes":1201,"id":"61258"}],
+{"votes":88242,"id":"1510"},
+{"votes":66445,"id":"60920"},
+{"votes":1236,"id":"61258"}],
 "final":"1510"},
 "5":
 {"votes":[
@@ -3012,31 +3012,31 @@ votesReady( {"dttime":"Nov 04,2010 02:44 PM","totals":
 "U.S. Senate":
 {"Unexpired Term":
 {"votes":[
-{"votes":2489747,"id":"51916"},
-{"votes":1488224,"id":"60919"},
-{"votes":33819,"id":"61256"},
-{"votes":19683,"id":"61255"},
-{"votes":17719,"id":"50530"},
-{"votes":12997,"id":"61257"},
-{"votes":7401,"id":"61145"}],
+{"votes":2491407,"id":"51916"},
+{"votes":1489565,"id":"60919"},
+{"votes":33834,"id":"61256"},
+{"votes":19694,"id":"61255"},
+{"votes":17749,"id":"50530"},
+{"votes":13002,"id":"61257"},
+{"votes":7408,"id":"61145"}],
 "final":"51916"},
 "Full Term":
 {"votes":[
-{"votes":2676292,"id":"1745"},
-{"votes":1351063,"id":"61165"},
-{"votes":39590,"id":"61253"},
-{"votes":25786,"id":"61254"}],
+{"votes":2678113,"id":"1745"},
+{"votes":1352331,"id":"61165"},
+{"votes":39606,"id":"61253"},
+{"votes":25810,"id":"61254"}],
 "final":"1745"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":2567698,"id":"1506"},
-{"votes":1433223,"id":"61208"},
-{"votes":57735,"id":"32916"},
-{"votes":45408,"id":"1926"},
-{"votes":40336,"id":"33338"},
-{"votes":23113,"id":"61252"},
-{"votes":20671,"id":"32276"}],
+{"votes":2569448,"id":"1506"},
+{"votes":1434419,"id":"61208"},
+{"votes":57762,"id":"32916"},
+{"votes":45459,"id":"1926"},
+{"votes":40363,"id":"33338"},
+{"votes":23129,"id":"61252"},
+{"votes":20679,"id":"32276"}],
 "final":"1506"}}},
 "abbr":"NY"},
 "South Dakota":
@@ -3045,7 +3045,7 @@ votesReady( {"dttime":"Nov 04,2010 02:44 PM","totals":
 {"1":
 {"votes":[
 {"votes":153682,"id":"60394"},
-{"votes":146560,"id":"581"},
+{"votes":146561,"id":"581"},
 {"votes":19130,"id":"60708"}],
 "final":"60394"}},
 "Amendment":
@@ -3684,8 +3684,8 @@ votesReady( {"dttime":"Nov 04,2010 02:44 PM","totals":
 "Question":
 {"1 - Oxford County Casino":
 {"votes":[
-{"votes":280290,"id":"2"},
-{"votes":273670,"id":"3"}],
+{"votes":280424,"id":"2"},
+{"votes":273807,"id":"3"}],
 "final":"2"}},
 "Governor":
 {"":
