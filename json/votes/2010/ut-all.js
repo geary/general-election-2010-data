@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 02:28 PM","totals":
+votesReady( {"dttime":"Nov 04,2010 07:37 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -18,31 +18,31 @@ votesReady( {"dttime":"Nov 03,2010 02:28 PM","totals":
 "final":"59346"},
 "2":
 {"votes":[
-{"votes":116375,"id":"620"},
-{"votes":105441,"id":"58507"},
-{"votes":4116,"id":"60697"},
-{"votes":2142,"id":"60696"},
-{"votes":1535,"id":"44307"}],
+{"votes":116404,"id":"620"},
+{"votes":105514,"id":"58507"},
+{"votes":4122,"id":"60697"},
+{"votes":2143,"id":"60696"},
+{"votes":1536,"id":"44307"}],
 "final":"620"}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":360053,"id":"60693"},
-{"votes":191644,"id":"60694"},
-{"votes":33048,"id":"51684"}],
+{"votes":360130,"id":"60693"},
+{"votes":191657,"id":"60694"},
+{"votes":33062,"id":"51684"}],
 "final":"60693"}},
 "Constitutional Amendment":
 {"A - Secret Ballot":
 {"votes":[
-{"votes":335669,"id":"2"},
-{"votes":223117,"id":"3"}],
+{"votes":335728,"id":"2"},
+{"votes":223151,"id":"3"}],
 "final":"2"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":381152,"id":"44298"},
-{"votes":188817,"id":"60702"},
-{"votes":11828,"id":"61131"},
+{"votes":381244,"id":"44298"},
+{"votes":188832,"id":"60702"},
+{"votes":11831,"id":"61131"},
 {"votes":11714,"id":"44544"}],
 "final":"44298"}}},
 "precincts":

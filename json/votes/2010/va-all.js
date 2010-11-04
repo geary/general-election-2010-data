@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 02:28 PM","totals":
+votesReady( {"dttime":"Nov 04,2010 07:37 AM","totals":
 {"name":"Virginia","fix":
 {},
 "precincts":
@@ -7,14 +7,14 @@ votesReady( {"dttime":"Nov 03,2010 02:28 PM","totals":
 {"U.S. House":
 {"11":
 {"votes":[
-{"votes":111513,"id":"59040"},
+{"votes":111615,"id":"59040"},
 {"votes":110695,"id":"59052"},
 {"votes":1838,"id":"61130"},
-{"votes":1379,"id":"61129"},
+{"votes":1381,"id":"61129"},
 {"votes":959,"id":"61128"}]},
 "10":
 {"votes":[
-{"votes":136703,"id":"719"},
+{"votes":130624,"id":"719"},
 {"votes":72272,"id":"61067"},
 {"votes":4556,"id":"50496"}],
 "final":"719"},
@@ -39,8 +39,8 @@ votesReady( {"dttime":"Nov 03,2010 02:28 PM","totals":
 "final":"60318"},
 "5":
 {"votes":[
-{"votes":119241,"id":"45695"},
-{"votes":110564,"id":"59015"},
+{"votes":119242,"id":"45695"},
+{"votes":110566,"id":"59015"},
 {"votes":4981,"id":"61123"}],
 "final":"45695"},
 "4":
@@ -56,15 +56,15 @@ votesReady( {"dttime":"Nov 03,2010 02:28 PM","totals":
 "final":"715"},
 "6":
 {"votes":[
-{"votes":125303,"id":"714"},
-{"votes":22190,"id":"61125"},
-{"votes":15321,"id":"61124"}],
+{"votes":125722,"id":"714"},
+{"votes":22289,"id":"61125"},
+{"votes":15373,"id":"61124"}],
 "final":"714"},
 "9":
 {"votes":[
-{"votes":95593,"id":"58574"},
-{"votes":86677,"id":"717"},
-{"votes":4402,"id":"61127"}],
+{"votes":95835,"id":"58574"},
+{"votes":86791,"id":"717"},
+{"votes":4416,"id":"61127"}],
 "final":"58574"},
 "8":
 {"votes":[

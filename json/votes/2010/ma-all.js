@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 02:27 PM","totals":
+votesReady( {"dttime":"Nov 04,2010 07:37 AM","totals":
 {"name":"Massachusetts","fix":
 {"Barnstable":"Barnstable Town","Manchester":"Manchester-by-the-Sea"},
 "precincts":
@@ -39,7 +39,7 @@ votesReady( {"dttime":"Nov 03,2010 02:27 PM","totals":
 "final":"59617"},
 "4":
 {"votes":[
-{"votes":125823,"id":"884"},
+{"votes":125825,"id":"884"},
 {"votes":101315,"id":"61231"},
 {"votes":3430,"id":"59899"},
 {"votes":2871,"id":"61232"}],
@@ -67,7 +67,7 @@ votesReady( {"dttime":"Nov 03,2010 02:27 PM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":1108026,"id":"51516"},
+{"votes":1108028,"id":"51516"},
 {"votes":962671,"id":"60668"},
 {"votes":183892,"id":"22674"},
 {"votes":32816,"id":"895"}],
