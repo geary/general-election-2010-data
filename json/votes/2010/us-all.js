@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 04,2010 08:38 AM","totals":
+votesReady( {"dttime":"Nov 04,2010 09:39 AM","totals":
 {"races":
 {"President":
 {"":
@@ -163,7 +163,7 @@ votesReady( {"dttime":"Nov 04,2010 08:38 AM","totals":
 {"1":
 {"votes":[
 {"votes":122390,"id":"51531"},
-{"votes":109260,"id":"55208"},
+{"votes":109261,"id":"55208"},
 {"votes":13243,"id":"60725"},
 {"votes":3054,"id":"60709"}],
 "final":"51531"},
@@ -208,8 +208,8 @@ votesReady( {"dttime":"Nov 04,2010 08:38 AM","totals":
 "final":"55336"},
 "8":
 {"votes":[
-{"votes":133477,"id":"60719"},
-{"votes":129070,"id":"996"},
+{"votes":133478,"id":"60719"},
+{"votes":129071,"id":"996"},
 {"votes":11876,"id":"60726"},
 {"votes":2491,"id":"60720"}],
 "final":"60719"}},
@@ -217,10 +217,10 @@ votesReady( {"dttime":"Nov 04,2010 08:38 AM","totals":
 {"":
 {"votes":[
 {"votes":919238,"id":"1730"},
-{"votes":910382,"id":"60721"},
-{"votes":251504,"id":"60723"},
+{"votes":910383,"id":"60721"},
+{"votes":251505,"id":"60723"},
 {"votes":7514,"id":"26995"},
-{"votes":6187,"id":"60722"},
+{"votes":6188,"id":"60722"},
 {"votes":6178,"id":"980"},
 {"votes":4092,"id":"60724"}]}}},
 "abbr":"MN"},
