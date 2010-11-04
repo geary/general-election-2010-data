@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 04,2010 11:41 AM","totals":
+votesReady( {"dttime":"Nov 04,2010 12:42 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -10,7 +10,7 @@ votesReady( {"dttime":"Nov 04,2010 11:41 AM","totals":
 "Amendment":
 {"K - Secret Ballot":
 {"votes":[
-{"votes":241849,"id":"2"},
+{"votes":241850,"id":"2"},
 {"votes":63775,"id":"3"}],
 "final":"2"}},
 "Referendum":
