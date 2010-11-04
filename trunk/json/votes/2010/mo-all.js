@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 02:27 PM","totals":
+votesReady( {"dttime":"Nov 04,2010 07:37 AM","totals":
 {"name":"Missouri","fix":
 {"LaClede":"Laclede"},
 "precincts":
@@ -67,7 +67,7 @@ votesReady( {"dttime":"Nov 03,2010 02:27 PM","totals":
 {"votes":1051495,"id":"1343"},
 {"votes":785719,"id":"60800"},
 {"votes":58515,"id":"61086"},
-{"votes":41183,"id":"61087"}],
+{"votes":41195,"id":"61087"}],
 "final":"1343"}}},
 "abbr":"MO"},
 "state":"MO","candidates":

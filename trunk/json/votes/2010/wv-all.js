@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 03,2010 02:27 PM","totals":
+votesReady( {"dttime":"Nov 04,2010 07:37 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -8,7 +8,7 @@ votesReady( {"dttime":"Nov 03,2010 02:27 PM","totals":
 "final":"47518"},
 "3":
 {"votes":[
-{"votes":82422,"id":"442"},
+{"votes":79422,"id":"442"},
 {"votes":64669,"id":"47478"}],
 "final":"442"},
 "2":
@@ -20,7 +20,7 @@ votesReady( {"dttime":"Nov 03,2010 02:27 PM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":281661,"id":"47450"},
+{"votes":280771,"id":"47450"},
 {"votes":227960,"id":"51735"},
 {"votes":10048,"id":"51149"},
 {"votes":6366,"id":"61249"}],
