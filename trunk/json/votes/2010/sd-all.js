@@ -1,28 +1,28 @@
-votesReady( {"dttime":"Nov 04,2010 10:40 AM","totals":
+votesReady( {"dttime":"Nov 04,2010 11:41 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":153678,"id":"60394"},
-{"votes":146557,"id":"581"},
+{"votes":153680,"id":"60394"},
+{"votes":146559,"id":"581"},
 {"votes":19130,"id":"60708"}],
 "final":"60394"}},
 "Amendment":
 {"K - Secret Ballot":
 {"votes":[
-{"votes":241846,"id":"2"},
+{"votes":241849,"id":"2"},
 {"votes":63775,"id":"3"}],
 "final":"2"}},
 "Referendum":
 {"12 - Smoking Ban":
 {"votes":[
 {"votes":204063,"id":"2"},
-{"votes":112969,"id":"3"}],
+{"votes":112972,"id":"3"}],
 "final":"2"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":195018,"id":"40715"},
+{"votes":195021,"id":"40715"},
 {"votes":122009,"id":"60690"}],
 "final":"40715"}},
 "U.S. Senate":
@@ -33,8 +33,8 @@ votesReady( {"dttime":"Nov 04,2010 10:40 AM","totals":
 "Initiative":
 {"13 - Medical Marijuana":
 {"votes":[
-{"votes":199569,"id":"3"},
-{"votes":115627,"id":"2"}],
+{"votes":199570,"id":"3"},
+{"votes":115630,"id":"2"}],
 "final":"3"}}},
 "precincts":
 {"total":791,"reporting":791},

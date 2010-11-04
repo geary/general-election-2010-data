@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 04,2010 10:40 AM","totals":
+votesReady( {"dttime":"Nov 04,2010 11:41 AM","totals":
 {"name":"Illinois","fix":
 {"JoDaviess":"Jo Daviess","DeWitt":"De Witt","LaSalle":"La Salle"},
 "precincts":
