@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 04,2010 09:39 AM","totals":
+votesReady( {"dttime":"Nov 04,2010 10:40 AM","totals":
 {"name":"Vermont","precincts":
 {"total":260,"reporting":253},
 "races":

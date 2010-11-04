@@ -1,14 +1,14 @@
-votesReady( {"dttime":"Nov 04,2010 09:39 AM","totals":
+votesReady( {"dttime":"Nov 04,2010 10:40 AM","totals":
 {"name":"Connecticut","precincts":
-{"total":156,"reporting":155},
+{"total":156,"reporting":156},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":132002,"id":"1139"},
-{"votes":79820,"id":"60573"},
-{"votes":2415,"id":"61202"},
-{"votes":933,"id":"61162"}],
+{"votes":133153,"id":"1139"},
+{"votes":80821,"id":"60573"},
+{"votes":2440,"id":"61202"},
+{"votes":938,"id":"61162"}],
 "final":"1139"},
 "3":
 {"votes":[
@@ -35,19 +35,19 @@ votesReady( {"dttime":"Nov 04,2010 09:39 AM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":601955,"id":"9548"},
-{"votes":484528,"id":"60572"},
-{"votes":10888,"id":"61101"},
-{"votes":6552,"id":"61081"}],
+{"votes":603120,"id":"9548"},
+{"votes":485589,"id":"60572"},
+{"votes":10915,"id":"61101"},
+{"votes":6560,"id":"61081"}],
 "final":"9548"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":552106,"id":"60571"},
-{"votes":543682,"id":"9881"},
-{"votes":17153,"id":"61100"}]}}},
+{"votes":559611,"id":"9881"},
+{"votes":555369,"id":"60571"},
+{"votes":17315,"id":"61100"}]}}},
 "abbr":"CT","votesby":"town"},
 "state":"CT","candidates":
-{"1143":"Grn|Pillsbury|Charles Pillsbury","1139":"Dem|Larson|John Larson","1141":"Dem|DeLauro|Rosa DeLauro","61202":"Grn|Krayeske|Ken Krayeske","1231":"Dem|Courtney|Joe Courtney","59878":"Grn|Deshefy|Scott Deshefy","61081":"CTL|Mertens|John Mertens","60576":"GOP|Caligiuri|Sam Caligiuri","61037":"GOP|Labriola|Jerry Labriola","60573":"GOP|Brickley|Ann Brickley","60572":"GOP|McMahon|Linda McMahon","61101":"Ind|Mosler|Warren Mosler","60575":"GOP|Debicella|Dan Debicella","52147":"Dem|Murphy|Chris Murphy","59590":"Dem|Himes|Jim Himes","60571":"GOP|Foley|Tom Foley","9548":"Dem|Blumenthal|Richard Blumenthal","9881":"Dem|Malloy|Dan Malloy","61080":"GOP|Peckinpaugh|Janet Peckinpaugh","61162":"Ind|Hutchinson|Christopher Hutchinson","61100":"Ind|Marsh|Thomas Marsh"},
+{"1143":"Grn|Pillsbury|Charles Pillsbury","1139":"Dem|Larson|John Larson","1141":"Dem|DeLauro|Rosa DeLauro","61202":"Grn|Krayeske|Ken Krayeske","1231":"Dem|Courtney|Joe Courtney","59878":"Grn|Deshefy|Scott Deshefy","60571":"GOP|Foley|Tom Foley","61081":"CTL|Mertens|John Mertens","60576":"GOP|Caligiuri|Sam Caligiuri","61037":"GOP|Labriola|Jerry Labriola","60573":"GOP|Brickley|Ann Brickley","60572":"GOP|McMahon|Linda McMahon","61101":"Ind|Mosler|Warren Mosler","60575":"GOP|Debicella|Dan Debicella","52147":"Dem|Murphy|Chris Murphy","59590":"Dem|Himes|Jim Himes","9881":"Dem|Malloy|Dan Malloy","9548":"Dem|Blumenthal|Richard Blumenthal","61080":"GOP|Peckinpaugh|Janet Peckinpaugh","61162":"Ind|Hutchinson|Christopher Hutchinson","61100":"Ind|Marsh|Thomas Marsh"},
 "total":0,"locals":
 {}})
