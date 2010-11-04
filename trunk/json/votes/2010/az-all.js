@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 04,2010 02:44 PM","totals":
+votesReady( {"dttime":"Nov 04,2010 03:45 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -48,50 +48,50 @@ votesReady( {"dttime":"Nov 04,2010 02:44 PM","totals":
 "final":"1129"},
 "8":
 {"votes":[
-{"votes":120175,"id":"52527"},
-{"votes":117826,"id":"61136"},
-{"votes":9524,"id":"61008"}]}},
+{"votes":120772,"id":"52527"},
+{"votes":118416,"id":"61136"},
+{"votes":9587,"id":"61008"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":794902,"id":"1701"},
-{"votes":466607,"id":"61000"},
-{"votes":63259,"id":"56827"},
-{"votes":19193,"id":"61001"}],
+{"votes":795614,"id":"1701"},
+{"votes":467052,"id":"61000"},
+{"votes":63315,"id":"56827"},
+{"votes":19212,"id":"61001"}],
 "final":"1701"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":750616,"id":"4627"},
-{"votes":571382,"id":"4875"},
-{"votes":29551,"id":"1137"},
-{"votes":12109,"id":"61009"}],
+{"votes":751357,"id":"4627"},
+{"votes":571864,"id":"4875"},
+{"votes":29573,"id":"1137"},
+{"votes":12125,"id":"61009"}],
 "final":"4627"}},
 "Proposition":
 {"107 - Preferential Treatment":
 {"votes":[
-{"votes":751650,"id":"2"},
-{"votes":510597,"id":"3"}],
+{"votes":752372,"id":"2"},
+{"votes":511063,"id":"3"}],
 "final":"2"},
 "109 - Hunting and Fishing":
 {"votes":[
-{"votes":724467,"id":"3"},
-{"votes":568638,"id":"2"}],
+{"votes":725062,"id":"3"},
+{"votes":569246,"id":"2"}],
 "final":"3"},
 "106 - Health Care":
 {"votes":[
-{"votes":705955,"id":"2"},
-{"votes":569082,"id":"3"}],
+{"votes":706621,"id":"2"},
+{"votes":569607,"id":"3"}],
 "final":"2"},
 "113 - Secret Ballot":
 {"votes":[
-{"votes":774747,"id":"2"},
-{"votes":501781,"id":"3"}],
+{"votes":775498,"id":"2"},
+{"votes":502205,"id":"3"}],
 "final":"2"},
 "203 - Medical Marijuana":
 {"votes":[
-{"votes":664587,"id":"3"},
-{"votes":657634,"id":"2"}]}}},
+{"votes":665170,"id":"3"},
+{"votes":658281,"id":"2"}]}}},
 "precincts":
 {"total":2239,"reporting":2239},
 "abbr":"AZ","name":"Arizona"},

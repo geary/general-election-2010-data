@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 04,2010 02:44 PM","totals":
+votesReady( {"dttime":"Nov 04,2010 03:45 PM","totals":
 {"name":"New York","fix":
 {"Brooklyn":"Kings","Staten Island":"Richmond","Saint Lawrence":"St. Lawrence","Manhattan":"New York"},
 "precincts":
@@ -62,14 +62,14 @@ votesReady( {"dttime":"Nov 04,2010 02:44 PM","totals":
 "final":"1507"},
 "3":
 {"votes":[
-{"votes":126141,"id":"1514"},
-{"votes":48962,"id":"60921"}],
+{"votes":126142,"id":"1514"},
+{"votes":48963,"id":"60921"}],
 "final":"1514"},
 "2":
 {"votes":[
-{"votes":86601,"id":"1510"},
-{"votes":65030,"id":"60920"},
-{"votes":1201,"id":"61258"}],
+{"votes":88242,"id":"1510"},
+{"votes":66445,"id":"60920"},
+{"votes":1236,"id":"61258"}],
 "final":"1510"},
 "5":
 {"votes":[
@@ -163,31 +163,31 @@ votesReady( {"dttime":"Nov 04,2010 02:44 PM","totals":
 "U.S. Senate":
 {"Unexpired Term":
 {"votes":[
-{"votes":2489747,"id":"51916"},
-{"votes":1488224,"id":"60919"},
-{"votes":33819,"id":"61256"},
-{"votes":19683,"id":"61255"},
-{"votes":17719,"id":"50530"},
-{"votes":12997,"id":"61257"},
-{"votes":7401,"id":"61145"}],
+{"votes":2491407,"id":"51916"},
+{"votes":1489565,"id":"60919"},
+{"votes":33834,"id":"61256"},
+{"votes":19694,"id":"61255"},
+{"votes":17749,"id":"50530"},
+{"votes":13002,"id":"61257"},
+{"votes":7408,"id":"61145"}],
 "final":"51916"},
 "Full Term":
 {"votes":[
-{"votes":2676292,"id":"1745"},
-{"votes":1351063,"id":"61165"},
-{"votes":39590,"id":"61253"},
-{"votes":25786,"id":"61254"}],
+{"votes":2678113,"id":"1745"},
+{"votes":1352331,"id":"61165"},
+{"votes":39606,"id":"61253"},
+{"votes":25810,"id":"61254"}],
 "final":"1745"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":2567698,"id":"1506"},
-{"votes":1433223,"id":"61208"},
-{"votes":57735,"id":"32916"},
-{"votes":45408,"id":"1926"},
-{"votes":40336,"id":"33338"},
-{"votes":23113,"id":"61252"},
-{"votes":20671,"id":"32276"}],
+{"votes":2569448,"id":"1506"},
+{"votes":1434419,"id":"61208"},
+{"votes":57762,"id":"32916"},
+{"votes":45459,"id":"1926"},
+{"votes":40363,"id":"33338"},
+{"votes":23129,"id":"61252"},
+{"votes":20679,"id":"32276"}],
 "final":"1506"}}},
 "abbr":"NY"},
 "state":"NY","candidates":

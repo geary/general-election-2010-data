@@ -1,10 +1,10 @@
-votesReady( {"dttime":"Nov 04,2010 02:44 PM","totals":
+votesReady( {"dttime":"Nov 04,2010 03:45 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
 {"votes":[
 {"votes":153682,"id":"60394"},
-{"votes":146560,"id":"581"},
+{"votes":146561,"id":"581"},
 {"votes":19130,"id":"60708"}],
 "final":"60394"}},
 "Amendment":
