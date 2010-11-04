@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 04,2010 12:42 PM","totals":
+votesReady( {"dttime":"Nov 04,2010 01:43 PM","totals":
 {"name":"Illinois","fix":
 {"JoDaviess":"Jo Daviess","DeWitt":"De Witt","LaSalle":"La Salle"},
 "precincts":
@@ -129,10 +129,10 @@ votesReady( {"dttime":"Nov 04,2010 12:42 PM","totals":
 "Governor":
 {"":
 {"votes":[
-{"votes":1721810,"id":"17730"},
-{"votes":1702394,"id":"53821"},
+{"votes":1721812,"id":"17730"},
+{"votes":1702399,"id":"53821"},
 {"votes":134219,"id":"60781"},
-{"votes":99624,"id":"18534"},
+{"votes":99625,"id":"18534"},
 {"votes":34293,"id":"60777"}]}}},
 "abbr":"IL"},
 "state":"IL","candidates":
