@@ -1,4 +1,4 @@
-votesReady( {"dttime":"Nov 04,2010 09:52 PM","totals":
+votesReady( {"dttime":"Nov 04,2010 10:53 PM","totals":
 {"races":
 {"President":
 {"":
@@ -3269,18 +3269,18 @@ votesReady( {"dttime":"Nov 04,2010 09:52 PM","totals":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":104156,"id":"1465"},
-{"votes":79962,"id":"61010"}],
+{"votes":111217,"id":"1465"},
+{"votes":85125,"id":"61010"}],
 "final":"1465"},
 "3":
 {"votes":[
-{"votes":134720,"id":"61094"},
-{"votes":121278,"id":"61011"}],
+{"votes":137409,"id":"61094"},
+{"votes":123714,"id":"61011"}],
 "final":"61094"},
 "2":
 {"votes":[
-{"votes":105358,"id":"1468"},
-{"votes":103752,"id":"46225"}]},
+{"votes":110447,"id":"1468"},
+{"votes":108996,"id":"46225"}]},
 "5":
 {"votes":[
 {"votes":117459,"id":"46291"},
@@ -3288,8 +3288,8 @@ votesReady( {"dttime":"Nov 04,2010 09:52 PM","totals":
 "final":"46291"},
 "4":
 {"votes":[
-{"votes":117574,"id":"1475"},
-{"votes":54868,"id":"61096"}],
+{"votes":119577,"id":"1475"},
+{"votes":56036,"id":"61096"}],
 "final":"1475"},
 "7":
 {"votes":[
@@ -3314,11 +3314,11 @@ votesReady( {"dttime":"Nov 04,2010 09:52 PM","totals":
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":925730,"id":"1762"},
-{"votes":879362,"id":"46399"}],
+{"votes":941361,"id":"1762"},
+{"votes":894897,"id":"46399"}],
 "final":"1762"}}},
 "precincts":
-{"total":695,"reporting":494},
+{"total":695,"reporting":528},
 "abbr":"WA","name":"Washington"},
 "North Carolina":
 {"races":
